@@ -1,0 +1,16 @@
+{
+  "name": "question-bank",
+  "version": "1.0.0",
+  "description": "JEE Main question bank — data repository with indexes and hierarchy",
+  "type": "module",
+  "scripts": {
+    "rebuild":  "node scripts/rebuildIndexes.js",
+    "validate": "node scripts/validateQuestions.js",
+    "validate:fix": "node scripts/validateQuestions.js --fix",
+    "import":   "node scripts/importQuestions.js",
+    "add":      "node scripts/addQuestion.js",
+    "update":   "node scripts/updateQuestion.js",
+    "delete":   "node scripts/deleteQuestion.js"
+  },
+  "engines": { "node": ">=18" }
+}

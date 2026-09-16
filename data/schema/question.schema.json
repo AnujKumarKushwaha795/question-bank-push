@@ -1,0 +1,171 @@
+﻿{
+    "$schema":  "http://json-schema.org/draft-07/schema#",
+    "title":  "Question",
+    "description":  "A single exam question object",
+    "type":  "object",
+    "required":  [
+                     "id",
+                     "exam",
+                     "subject",
+                     "chapter",
+                     "topic",
+                     "paperId",
+                     "paperTitle",
+                     "questionType",
+                     "question_text",
+                     "correct_answer",
+                     "year"
+                 ],
+    "properties":  {
+                       "id":  {
+                                  "type":  "string",
+                                  "description":  "Globally unique question ID (slug)"
+                              },
+                       "exam":  {
+                                    "type":  "string",
+                                    "description":  "Exam slug, e.g. jee-main"
+                                },
+                       "subject":  {
+                                       "type":  "string",
+                                       "description":  "Subject slug, e.g. physics"
+                                   },
+                       "chapter":  {
+                                       "type":  "string",
+                                       "description":  "Chapter slug, e.g. units-and-measurements"
+                                   },
+                       "topic":  {
+                                     "type":  "string",
+                                     "description":  "Topic slug, e.g. significant-figures"
+                                 },
+                       "paperId":  {
+                                       "type":  "string",
+                                       "description":  "Paper slug"
+                                   },
+                       "paperTitle":  {
+                                          "type":  "string",
+                                          "description":  "Human-readable paper title"
+                                      },
+                       "questionType":  {
+                                            "type":  "string",
+                                            "enum":  [
+                                                         "single-select",
+                                                         "multiple-select",
+                                                         "integer",
+                                                         "match",
+                                                         "subjective",
+                                                         "true-false"
+                                                     ]
+                                        },
+                       "question_text":  {
+                                             "type":  "string"
+                                         },
+                       "options":  {
+                                       "oneOf":  [
+                                                     {
+                                                         "type":  "object",
+                                                         "additionalProperties":  {
+                                                                                      "type":  "string"
+                                                                                  }
+                                                     },
+                                                     {
+                                                         "type":  "null"
+                                                     }
+                                                 ]
+                                   },
+                       "correct_answer":  {
+                                              "oneOf":  [
+                                                            {
+                                                                "type":  "string"
+                                                            },
+                                                            {
+                                                                "items":  {
+                                                                              "type":  "string"
+                                                                          },
+                                                                "type":  "array"
+                                                            }
+                                                        ]
+                                          },
+                       "difficulty":  {
+                                          "type":  "string",
+                                          "enum":  [
+                                                       "easy",
+                                                       "medium",
+                                                       "hard"
+                                                   ]
+                                      },
+                       "source":  {
+                                      "oneOf":  [
+                                                    {
+                                                        "type":  "string"
+                                                    },
+                                                    {
+                                                        "type":  "null"
+                                                    }
+                                                ]
+                                  },
+                       "tags":  {
+                                    "oneOf":  [
+                                                  {
+                                                      "items":  {
+                                                                    "type":  "string"
+                                                                },
+                                                      "type":  "array"
+                                                  },
+                                                  {
+                                                      "type":  "null"
+                                                  }
+                                              ]
+                                },
+                       "totalMarks":  {
+                                          "type":  "number"
+                                      },
+                       "negativeMarks":  {
+                                             "type":  "number"
+                                         },
+                       "explanations":  {
+                                            "items":  {
+                                                          "properties":  {
+                                                                             "title":  {
+                                                                                           "type":  "string"
+                                                                                       },
+                                                                             "url":  {
+                                                                                         "oneOf":  [
+                                                                                                       {
+                                                                                                           "type":  "string"
+                                                                                                       },
+                                                                                                       {
+                                                                                                           "type":  "null"
+                                                                                                       }
+                                                                                                   ]
+                                                                                     },
+                                                                             "content":  {
+                                                                                             "type":  "string"
+                                                                                         },
+                                                                             "type":  {
+                                                                                          "type":  "string"
+                                                                                      }
+                                                                         },
+                                                          "type":  "object",
+                                                          "required":  [
+                                                                           "type",
+                                                                           "title"
+                                                                       ]
+                                                      },
+                                            "type":  "array"
+                                        },
+                       "createdAt":  {
+                                         "type":  "string",
+                                         "format":  "date-time"
+                                     },
+                       "updatedAt":  {
+                                         "type":  "string",
+                                         "format":  "date-time"
+                                     },
+                       "isQuestionCorrect":  {
+                                                 "type":  "boolean"
+                                             },
+                       "year":  {
+                                    "type":  "integer"
+                                }
+                   }
+}
