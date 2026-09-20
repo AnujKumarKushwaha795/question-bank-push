@@ -1,4 +1,2671 @@
 {
+  "jee-advanced|chemistry|alcohols-phenols-and-ethers|properties-preparation-and-uses-of-alcohols": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "alcohols-phenols-and-ethers",
+    "topic": "properties-preparation-and-uses-of-alcohols",
+    "name": "Properties Preparation And Uses Of Alcohols"
+  },
+  "jee-advanced|chemistry|alcohols-phenols-and-ethers|properties-preparation-and-uses-of-ethers": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "alcohols-phenols-and-ethers",
+    "topic": "properties-preparation-and-uses-of-ethers",
+    "name": "Properties Preparation And Uses Of Ethers"
+  },
+  "jee-advanced|chemistry|alcohols-phenols-and-ethers|properties-preparation-and-uses-of-phenols": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "alcohols-phenols-and-ethers",
+    "topic": "properties-preparation-and-uses-of-phenols",
+    "name": "Properties Preparation And Uses Of Phenols"
+  },
+  "jee-advanced|chemistry|aldehydes-ketones-and-carboxylic-acids|chemical-reactions-for-aldehydes-and-ketones": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "topic": "chemical-reactions-for-aldehydes-and-ketones",
+    "name": "Chemical Reactions For Aldehydes And Ketones"
+  },
+  "jee-advanced|chemistry|aldehydes-ketones-and-carboxylic-acids|method-of-preparation-for-aldehydes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "topic": "method-of-preparation-for-aldehydes",
+    "name": "Method Of Preparation For Aldehydes"
+  },
+  "jee-advanced|chemistry|aldehydes-ketones-and-carboxylic-acids|preparation-methods-for-both-aldehydes-and-ketones": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "topic": "preparation-methods-for-both-aldehydes-and-ketones",
+    "name": "Preparation Methods For Both Aldehydes And Ketones"
+  },
+  "jee-advanced|chemistry|aldehydes-ketones-and-carboxylic-acids|preparation-properties-and-uses-of-carboxylic-acids": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "topic": "preparation-properties-and-uses-of-carboxylic-acids",
+    "name": "Preparation Properties And Uses Of Carboxylic Acids"
+  },
+  "jee-advanced|chemistry|aldehydes-ketones-and-carboxylic-acids|reactions-involving-aldehydes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "topic": "reactions-involving-aldehydes",
+    "name": "Reactions Involving Aldehydes"
+  },
+  "jee-advanced|chemistry|aldehydes-ketones-and-carboxylic-acids|tests-for-aldehyde-and-ketones": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "topic": "tests-for-aldehyde-and-ketones",
+    "name": "Tests For Aldehyde And Ketones"
+  },
+  "jee-advanced|chemistry|basics-of-organic-chemistry|acid-and-base-strength": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "basics-of-organic-chemistry",
+    "topic": "acid-and-base-strength",
+    "name": "Acid And Base Strength"
+  },
+  "jee-advanced|chemistry|basics-of-organic-chemistry|aromaticity": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "basics-of-organic-chemistry",
+    "topic": "aromaticity",
+    "name": "Aromaticity"
+  },
+  "jee-advanced|chemistry|basics-of-organic-chemistry|electron-displacement-effect": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "basics-of-organic-chemistry",
+    "topic": "electron-displacement-effect",
+    "name": "Electron Displacement Effect"
+  },
+  "jee-advanced|chemistry|basics-of-organic-chemistry|isomerism": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "basics-of-organic-chemistry",
+    "topic": "isomerism",
+    "name": "Isomerism"
+  },
+  "jee-advanced|chemistry|basics-of-organic-chemistry|iupac-nomenclature": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "basics-of-organic-chemistry",
+    "topic": "iupac-nomenclature",
+    "name": "Iupac Nomenclature"
+  },
+  "jee-advanced|chemistry|basics-of-organic-chemistry|stability-of-intermediate": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "basics-of-organic-chemistry",
+    "topic": "stability-of-intermediate",
+    "name": "Stability Of Intermediate"
+  },
+  "jee-advanced|chemistry|biomolecules|carbohydrates": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "biomolecules",
+    "topic": "carbohydrates",
+    "name": "Carbohydrates"
+  },
+  "jee-advanced|chemistry|biomolecules|proteins-and-enzymes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "biomolecules",
+    "topic": "proteins-and-enzymes",
+    "name": "Proteins And Enzymes"
+  },
+  "jee-advanced|chemistry|biomolecules|vitamins-and-nucleic-acids": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "biomolecules",
+    "topic": "vitamins-and-nucleic-acids",
+    "name": "Vitamins And Nucleic Acids"
+  },
+  "jee-advanced|chemistry|chemical-bonding-and-molecular-structure|bond-parameters": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "topic": "bond-parameters",
+    "name": "Bond Parameters"
+  },
+  "jee-advanced|chemistry|chemical-bonding-and-molecular-structure|covalent-and-co-ordinate-bond": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "topic": "covalent-and-co-ordinate-bond",
+    "name": "Covalent And Co Ordinate Bond"
+  },
+  "jee-advanced|chemistry|chemical-bonding-and-molecular-structure|dipole-moment": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "topic": "dipole-moment",
+    "name": "Dipole Moment"
+  },
+  "jee-advanced|chemistry|chemical-bonding-and-molecular-structure|hybridization-and-vsepr-theory": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "topic": "hybridization-and-vsepr-theory",
+    "name": "Hybridization And Vsepr Theory"
+  },
+  "jee-advanced|chemistry|chemical-bonding-and-molecular-structure|hydrogen-bonding": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "topic": "hydrogen-bonding",
+    "name": "Hydrogen Bonding"
+  },
+  "jee-advanced|chemistry|chemical-bonding-and-molecular-structure|molecular-orbital-theory": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "topic": "molecular-orbital-theory",
+    "name": "Molecular Orbital Theory"
+  },
+  "jee-advanced|chemistry|chemical-bonding-and-molecular-structure|valence-bond-theory": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "topic": "valence-bond-theory",
+    "name": "Valence Bond Theory"
+  },
+  "jee-advanced|chemistry|chemical-bonding-and-molecular-structure|van-der-walls-forces": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "topic": "van-der-walls-forces",
+    "name": "Van Der Walls Forces"
+  },
+  "jee-advanced|chemistry|chemical-equilibrium|chemical-equilibrium-law-of-mass-action-and-equilibrium-constant": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-equilibrium",
+    "topic": "chemical-equilibrium-law-of-mass-action-and-equilibrium-constant",
+    "name": "Chemical Equilibrium Law Of Mass Action And Equilibrium Constant"
+  },
+  "jee-advanced|chemistry|chemical-equilibrium|le-chateliers-principle-and-factors-affecting-chemical-equilibrium": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-equilibrium",
+    "topic": "le-chateliers-principle-and-factors-affecting-chemical-equilibrium",
+    "name": "Le Chateliers Principle And Factors Affecting Chemical Equilibrium"
+  },
+  "jee-advanced|chemistry|chemical-kinetics-and-nuclear-chemistry|arrhenius-equation": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-kinetics-and-nuclear-chemistry",
+    "topic": "arrhenius-equation",
+    "name": "Arrhenius Equation"
+  },
+  "jee-advanced|chemistry|chemical-kinetics-and-nuclear-chemistry|different-methods-to-determine-order-of-reaction": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-kinetics-and-nuclear-chemistry",
+    "topic": "different-methods-to-determine-order-of-reaction",
+    "name": "Different Methods To Determine Order Of Reaction"
+  },
+  "jee-advanced|chemistry|chemical-kinetics-and-nuclear-chemistry|integrated-rate-law-equations": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-kinetics-and-nuclear-chemistry",
+    "topic": "integrated-rate-law-equations",
+    "name": "Integrated Rate Law Equations"
+  },
+  "jee-advanced|chemistry|chemical-kinetics-and-nuclear-chemistry|nuclear-chemistry": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-kinetics-and-nuclear-chemistry",
+    "topic": "nuclear-chemistry",
+    "name": "Nuclear Chemistry"
+  },
+  "jee-advanced|chemistry|chemical-kinetics-and-nuclear-chemistry|rate-laws-and-rate-constant": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-kinetics-and-nuclear-chemistry",
+    "topic": "rate-laws-and-rate-constant",
+    "name": "Rate Laws And Rate Constant"
+  },
+  "jee-advanced|chemistry|chemical-kinetics-and-nuclear-chemistry|rate-of-reaction": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemical-kinetics-and-nuclear-chemistry",
+    "topic": "rate-of-reaction",
+    "name": "Rate Of Reaction"
+  },
+  "jee-advanced|chemistry|chemistry-in-everyday-life|chemicals-in-foods": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "chemistry-in-everyday-life",
+    "topic": "chemicals-in-foods",
+    "name": "Chemicals In Foods"
+  },
+  "jee-advanced|chemistry|compounds-containing-nitrogen|aliphatic-amines": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "compounds-containing-nitrogen",
+    "topic": "aliphatic-amines",
+    "name": "Aliphatic Amines"
+  },
+  "jee-advanced|chemistry|compounds-containing-nitrogen|aromatic-amines": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "compounds-containing-nitrogen",
+    "topic": "aromatic-amines",
+    "name": "Aromatic Amines"
+  },
+  "jee-advanced|chemistry|compounds-containing-nitrogen|diazonium-salts-and-other-nitrogen-containing-compounds": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "compounds-containing-nitrogen",
+    "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
+    "name": "Diazonium Salts And Other Nitrogen Containing Compounds"
+  },
+  "jee-advanced|chemistry|coordination-compounds|application-of-coordination-compound-and-organometallic-compounds": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "application-of-coordination-compound-and-organometallic-compounds",
+    "name": "Application Of Coordination Compound And Organometallic Compounds"
+  },
+  "jee-advanced|chemistry|coordination-compounds|coordination-number": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "coordination-number",
+    "name": "Coordination Number"
+  },
+  "jee-advanced|chemistry|coordination-compounds|crystal-field-theory-cft": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "crystal-field-theory-cft",
+    "name": "Crystal Field Theory Cft"
+  },
+  "jee-advanced|chemistry|coordination-compounds|hybridization-and-vsepr-theory": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "hybridization-and-vsepr-theory",
+    "name": "Hybridization And Vsepr Theory"
+  },
+  "jee-advanced|chemistry|coordination-compounds|isomerism-in-coordination-compounds": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "isomerism-in-coordination-compounds",
+    "name": "Isomerism In Coordination Compounds"
+  },
+  "jee-advanced|chemistry|coordination-compounds|isomerism-of-coordination-compounds": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "isomerism-of-coordination-compounds",
+    "name": "Isomerism Of Coordination Compounds"
+  },
+  "jee-advanced|chemistry|coordination-compounds|nomenclature-of-coordination-compounds": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "nomenclature-of-coordination-compounds",
+    "name": "Nomenclature Of Coordination Compounds"
+  },
+  "jee-advanced|chemistry|coordination-compounds|synergic-bonding": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "synergic-bonding",
+    "name": "Synergic Bonding"
+  },
+  "jee-advanced|chemistry|coordination-compounds|warners-theory-and-valence-bond-theory": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "coordination-compounds",
+    "topic": "warners-theory-and-valence-bond-theory",
+    "name": "Warners Theory And Valence Bond Theory"
+  },
+  "jee-advanced|chemistry|d-and-f-block-elements|important-compounds-of-transition-elements": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "d-and-f-block-elements",
+    "topic": "important-compounds-of-transition-elements",
+    "name": "Important Compounds Of Transition Elements"
+  },
+  "jee-advanced|chemistry|d-and-f-block-elements|inner-transition-elements-lanthanoids-and-actinoids": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "d-and-f-block-elements",
+    "topic": "inner-transition-elements-lanthanoids-and-actinoids",
+    "name": "Inner Transition Elements Lanthanoids And Actinoids"
+  },
+  "jee-advanced|chemistry|d-and-f-block-elements|properties-of-transition-elements": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "d-and-f-block-elements",
+    "topic": "properties-of-transition-elements",
+    "name": "Properties Of Transition Elements"
+  },
+  "jee-advanced|chemistry|electrochemistry|batteries-fuel-cells-and-corrosion": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "electrochemistry",
+    "topic": "batteries-fuel-cells-and-corrosion",
+    "name": "Batteries Fuel Cells And Corrosion"
+  },
+  "jee-advanced|chemistry|electrochemistry|conductance-and-electrolysis": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "electrochemistry",
+    "topic": "conductance-and-electrolysis",
+    "name": "Conductance And Electrolysis"
+  },
+  "jee-advanced|chemistry|electrochemistry|electrochemical-series-cell-and-their-emf": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "electrochemistry",
+    "topic": "electrochemical-series-cell-and-their-emf",
+    "name": "Electrochemical Series Cell And Their Emf"
+  },
+  "jee-advanced|chemistry|gaseous-state|grahams-law-of-diffusion": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "gaseous-state",
+    "topic": "grahams-law-of-diffusion",
+    "name": "Grahams Law Of Diffusion"
+  },
+  "jee-advanced|chemistry|gaseous-state|ideal-gas-equation": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "gaseous-state",
+    "topic": "ideal-gas-equation",
+    "name": "Ideal Gas Equation"
+  },
+  "jee-advanced|chemistry|gaseous-state|kinetic-theory-of-gases": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "gaseous-state",
+    "topic": "kinetic-theory-of-gases",
+    "name": "Kinetic Theory Of Gases"
+  },
+  "jee-advanced|chemistry|gaseous-state|maxwells-distribution-of-speed": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "gaseous-state",
+    "topic": "maxwells-distribution-of-speed",
+    "name": "Maxwells Distribution Of Speed"
+  },
+  "jee-advanced|chemistry|gaseous-state|real-gas-and-van-der-walls-equation": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "gaseous-state",
+    "topic": "real-gas-and-van-der-walls-equation",
+    "name": "Real Gas And Van Der Walls Equation"
+  },
+  "jee-advanced|chemistry|haloalkanes-and-haloarenes|haloalkanes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "haloalkanes-and-haloarenes",
+    "topic": "haloalkanes",
+    "name": "Haloalkanes"
+  },
+  "jee-advanced|chemistry|haloalkanes-and-haloarenes|haloarenes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "haloalkanes-and-haloarenes",
+    "topic": "haloarenes",
+    "name": "Haloarenes"
+  },
+  "jee-advanced|chemistry|hydrocarbons|aromatic-hydrocarbons": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "hydrocarbons",
+    "topic": "aromatic-hydrocarbons",
+    "name": "Aromatic Hydrocarbons"
+  },
+  "jee-advanced|chemistry|hydrocarbons|properties-and-preparation-of-alkanes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "hydrocarbons",
+    "topic": "properties-and-preparation-of-alkanes",
+    "name": "Properties And Preparation Of Alkanes"
+  },
+  "jee-advanced|chemistry|hydrocarbons|properties-and-preparation-of-alkenes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "hydrocarbons",
+    "topic": "properties-and-preparation-of-alkenes",
+    "name": "Properties And Preparation Of Alkenes"
+  },
+  "jee-advanced|chemistry|hydrocarbons|properties-and-preparation-of-alkynes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "hydrocarbons",
+    "topic": "properties-and-preparation-of-alkynes",
+    "name": "Properties And Preparation Of Alkynes"
+  },
+  "jee-advanced|chemistry|hydrocarbons|reaction-of-alkenes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "hydrocarbons",
+    "topic": "reaction-of-alkenes",
+    "name": "Reaction Of Alkenes"
+  },
+  "jee-advanced|chemistry|hydrocarbons|reaction-of-alkynes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "hydrocarbons",
+    "topic": "reaction-of-alkynes",
+    "name": "Reaction Of Alkynes"
+  },
+  "jee-advanced|chemistry|hydrogen|hard-and-soft-water": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "hydrogen",
+    "topic": "hard-and-soft-water",
+    "name": "Hard And Soft Water"
+  },
+  "jee-advanced|chemistry|hydrogen|hydrogen-peroxide": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "hydrogen",
+    "topic": "hydrogen-peroxide",
+    "name": "Hydrogen Peroxide"
+  },
+  "jee-advanced|chemistry|ionic-equilibrium|ostwalds-dilution-law-and-concept-of-acid-and-base": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "ionic-equilibrium",
+    "topic": "ostwalds-dilution-law-and-concept-of-acid-and-base",
+    "name": "Ostwalds Dilution Law And Concept Of Acid And Base"
+  },
+  "jee-advanced|chemistry|ionic-equilibrium|ph-buffer-and-indicators": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "ionic-equilibrium",
+    "topic": "ph-buffer-and-indicators",
+    "name": "Ph Buffer And Indicators"
+  },
+  "jee-advanced|chemistry|ionic-equilibrium|salt-hydrolysis": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "ionic-equilibrium",
+    "topic": "salt-hydrolysis",
+    "name": "Salt Hydrolysis"
+  },
+  "jee-advanced|chemistry|ionic-equilibrium|solubility-product-and-common-ion-effect": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "ionic-equilibrium",
+    "topic": "solubility-product-and-common-ion-effect",
+    "name": "Solubility Product And Common Ion Effect"
+  },
+  "jee-advanced|chemistry|isolation-of-elements|extractions-of-metals": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "isolation-of-elements",
+    "topic": "extractions-of-metals",
+    "name": "Extractions Of Metals"
+  },
+  "jee-advanced|chemistry|isolation-of-elements|minerals-and-ores": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "isolation-of-elements",
+    "topic": "minerals-and-ores",
+    "name": "Minerals And Ores"
+  },
+  "jee-advanced|chemistry|isolation-of-elements|refining-or-purification-of-metal": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "isolation-of-elements",
+    "topic": "refining-or-purification-of-metal",
+    "name": "Refining Or Purification Of Metal"
+  },
+  "jee-advanced|chemistry|p-block-elements|group-13-elements-boron-family": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "p-block-elements",
+    "topic": "group-13-elements-boron-family",
+    "name": "Group 13 Elements Boron Family"
+  },
+  "jee-advanced|chemistry|p-block-elements|group-14-elements-carbon-family": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "p-block-elements",
+    "topic": "group-14-elements-carbon-family",
+    "name": "Group 14 Elements Carbon Family"
+  },
+  "jee-advanced|chemistry|p-block-elements|group-15-elements-nitrogen-family": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "p-block-elements",
+    "topic": "group-15-elements-nitrogen-family",
+    "name": "Group 15 Elements Nitrogen Family"
+  },
+  "jee-advanced|chemistry|p-block-elements|group-16-elements-oxygen-family": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "p-block-elements",
+    "topic": "group-16-elements-oxygen-family",
+    "name": "Group 16 Elements Oxygen Family"
+  },
+  "jee-advanced|chemistry|p-block-elements|group-17-elements-halogen-family": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "p-block-elements",
+    "topic": "group-17-elements-halogen-family",
+    "name": "Group 17 Elements Halogen Family"
+  },
+  "jee-advanced|chemistry|p-block-elements|group-18-elements-inert-or-noble-gases": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "p-block-elements",
+    "topic": "group-18-elements-inert-or-noble-gases",
+    "name": "Group 18 Elements Inert Or Noble Gases"
+  },
+  "jee-advanced|chemistry|p-block-elements|oxides-of-phosphorous": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "p-block-elements",
+    "topic": "oxides-of-phosphorous",
+    "name": "Oxides Of Phosphorous"
+  },
+  "jee-advanced|chemistry|periodic-table-and-periodicity|ionization-energy": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "periodic-table-and-periodicity",
+    "topic": "ionization-energy",
+    "name": "Ionization Energy"
+  },
+  "jee-advanced|chemistry|periodic-table-and-periodicity|periodic-table-and-its-features": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "periodic-table-and-periodicity",
+    "topic": "periodic-table-and-its-features",
+    "name": "Periodic Table And Its Features"
+  },
+  "jee-advanced|chemistry|polymers|classification-preparations-and-properties-of-polymers": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "polymers",
+    "topic": "classification-preparations-and-properties-of-polymers",
+    "name": "Classification Preparations And Properties Of Polymers"
+  },
+  "jee-advanced|chemistry|polymers|properties-of-polymers": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "polymers",
+    "topic": "properties-of-polymers",
+    "name": "Properties Of Polymers"
+  },
+  "jee-advanced|chemistry|practical-organic-chemistry|chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "practical-organic-chemistry",
+    "topic": "chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds",
+    "name": "Chemistry Involved In The Preparation Of Organic And Inorganic Compounds"
+  },
+  "jee-advanced|chemistry|practical-organic-chemistry|chemistry-involved-in-titrimetric-experiments": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "practical-organic-chemistry",
+    "topic": "chemistry-involved-in-titrimetric-experiments",
+    "name": "Chemistry Involved In Titrimetric Experiments"
+  },
+  "jee-advanced|chemistry|practical-organic-chemistry|detection-of-extra-elements-and-functional-groups": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "practical-organic-chemistry",
+    "topic": "detection-of-extra-elements-and-functional-groups",
+    "name": "Detection Of Extra Elements And Functional Groups"
+  },
+  "jee-advanced|chemistry|redox-reactions|balancing-of-redox-reactions": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "redox-reactions",
+    "topic": "balancing-of-redox-reactions",
+    "name": "Balancing Of Redox Reactions"
+  },
+  "jee-advanced|chemistry|redox-reactions|oxidation-and-reduction-reactions": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "redox-reactions",
+    "topic": "oxidation-and-reduction-reactions",
+    "name": "Oxidation And Reduction Reactions"
+  },
+  "jee-advanced|chemistry|redox-reactions|oxidation-number": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "redox-reactions",
+    "topic": "oxidation-number",
+    "name": "Oxidation Number"
+  },
+  "jee-advanced|chemistry|redox-reactions|redox-titration": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "redox-reactions",
+    "topic": "redox-titration",
+    "name": "Redox Titration"
+  },
+  "jee-advanced|chemistry|redox-reactions|types-of-redox-reactions": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "redox-reactions",
+    "topic": "types-of-redox-reactions",
+    "name": "Types Of Redox Reactions"
+  },
+  "jee-advanced|chemistry|s-block-elements|compounds-of-alkali-metals": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "s-block-elements",
+    "topic": "compounds-of-alkali-metals",
+    "name": "Compounds Of Alkali Metals"
+  },
+  "jee-advanced|chemistry|s-block-elements|oxides-of-sodium": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "s-block-elements",
+    "topic": "oxides-of-sodium",
+    "name": "Oxides Of Sodium"
+  },
+  "jee-advanced|chemistry|salt-analysis|chemical-principles": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "salt-analysis",
+    "topic": "chemical-principles",
+    "name": "Chemical Principles"
+  },
+  "jee-advanced|chemistry|salt-analysis|systematic-analysis-of-anions": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "salt-analysis",
+    "topic": "systematic-analysis-of-anions",
+    "name": "Systematic Analysis Of Anions"
+  },
+  "jee-advanced|chemistry|salt-analysis|systematic-analysis-of-cations": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "salt-analysis",
+    "topic": "systematic-analysis-of-cations",
+    "name": "Systematic Analysis Of Cations"
+  },
+  "jee-advanced|chemistry|solid-state|close-packing-in-crystals": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solid-state",
+    "topic": "close-packing-in-crystals",
+    "name": "Close Packing In Crystals"
+  },
+  "jee-advanced|chemistry|solid-state|crystal-structure-of-solids": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solid-state",
+    "topic": "crystal-structure-of-solids",
+    "name": "Crystal Structure Of Solids"
+  },
+  "jee-advanced|chemistry|solid-state|defects-in-crystal": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solid-state",
+    "topic": "defects-in-crystal",
+    "name": "Defects In Crystal"
+  },
+  "jee-advanced|chemistry|solid-state|imperfections-in-solids": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solid-state",
+    "topic": "imperfections-in-solids",
+    "name": "Imperfections In Solids"
+  },
+  "jee-advanced|chemistry|solid-state|interestitial-voids": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solid-state",
+    "topic": "interestitial-voids",
+    "name": "Interestitial Voids"
+  },
+  "jee-advanced|chemistry|solid-state|structure-of-ionic-compounds": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solid-state",
+    "topic": "structure-of-ionic-compounds",
+    "name": "Structure Of Ionic Compounds"
+  },
+  "jee-advanced|chemistry|solutions|abnormal-colligative-property-and-vant-hoff-factor": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solutions",
+    "topic": "abnormal-colligative-property-and-vant-hoff-factor",
+    "name": "Abnormal Colligative Property And Vant Hoff Factor"
+  },
+  "jee-advanced|chemistry|solutions|depression-in-freezing-point": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solutions",
+    "topic": "depression-in-freezing-point",
+    "name": "Depression In Freezing Point"
+  },
+  "jee-advanced|chemistry|solutions|elevation-in-boiling-point": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solutions",
+    "topic": "elevation-in-boiling-point",
+    "name": "Elevation In Boiling Point"
+  },
+  "jee-advanced|chemistry|solutions|osmotic-pressure": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solutions",
+    "topic": "osmotic-pressure",
+    "name": "Osmotic Pressure"
+  },
+  "jee-advanced|chemistry|solutions|raoults-law": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solutions",
+    "topic": "raoults-law",
+    "name": "Raoults Law"
+  },
+  "jee-advanced|chemistry|solutions|relative-lowering-of-vapour-pressure-and-roults-law": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "solutions",
+    "topic": "relative-lowering-of-vapour-pressure-and-roults-law",
+    "name": "Relative Lowering Of Vapour Pressure And Roults Law"
+  },
+  "jee-advanced|chemistry|some-basic-concepts-of-chemistry|concentration-terms": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "some-basic-concepts-of-chemistry",
+    "topic": "concentration-terms",
+    "name": "Concentration Terms"
+  },
+  "jee-advanced|chemistry|some-basic-concepts-of-chemistry|laws-of-chemical-combination": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "some-basic-concepts-of-chemistry",
+    "topic": "laws-of-chemical-combination",
+    "name": "Laws Of Chemical Combination"
+  },
+  "jee-advanced|chemistry|some-basic-concepts-of-chemistry|mole-concept": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "some-basic-concepts-of-chemistry",
+    "topic": "mole-concept",
+    "name": "Mole Concept"
+  },
+  "jee-advanced|chemistry|some-basic-concepts-of-chemistry|quantitative-measures-in-chemical-equations": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "some-basic-concepts-of-chemistry",
+    "topic": "quantitative-measures-in-chemical-equations",
+    "name": "Quantitative Measures In Chemical Equations"
+  },
+  "jee-advanced|chemistry|some-basic-concepts-of-chemistry|significant-figures": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "some-basic-concepts-of-chemistry",
+    "topic": "significant-figures",
+    "name": "Significant Figures"
+  },
+  "jee-advanced|chemistry|structure-of-atom|bohrs-model-for-hydrogen-atom": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "bohrs-model-for-hydrogen-atom",
+    "name": "Bohrs Model For Hydrogen Atom"
+  },
+  "jee-advanced|chemistry|structure-of-atom|de-broglie-hypothesis": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "de-broglie-hypothesis",
+    "name": "De Broglie Hypothesis"
+  },
+  "jee-advanced|chemistry|structure-of-atom|electronic-configuration-and-nodes": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "electronic-configuration-and-nodes",
+    "name": "Electronic Configuration And Nodes"
+  },
+  "jee-advanced|chemistry|structure-of-atom|heisenberg-uncertainty-principle": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "heisenberg-uncertainty-principle",
+    "name": "Heisenberg Uncertainty Principle"
+  },
+  "jee-advanced|chemistry|structure-of-atom|hydrogen-spectrum": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "hydrogen-spectrum",
+    "name": "Hydrogen Spectrum"
+  },
+  "jee-advanced|chemistry|structure-of-atom|photoelectric-effect": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "photoelectric-effect",
+    "name": "Photoelectric Effect"
+  },
+  "jee-advanced|chemistry|structure-of-atom|quantum-mechanical-model-of-atom": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "quantum-mechanical-model-of-atom",
+    "name": "Quantum Mechanical Model Of Atom"
+  },
+  "jee-advanced|chemistry|structure-of-atom|quantum-numbers-and-orbitals": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "quantum-numbers-and-orbitals",
+    "name": "Quantum Numbers And Orbitals"
+  },
+  "jee-advanced|chemistry|structure-of-atom|thomsons-model-and-rutherfords-model": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "structure-of-atom",
+    "topic": "thomsons-model-and-rutherfords-model",
+    "name": "Thomsons Model And Rutherfords Model"
+  },
+  "jee-advanced|chemistry|surface-chemistry|adsorption": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "surface-chemistry",
+    "topic": "adsorption",
+    "name": "Adsorption"
+  },
+  "jee-advanced|chemistry|surface-chemistry|colloids": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "surface-chemistry",
+    "topic": "colloids",
+    "name": "Colloids"
+  },
+  "jee-advanced|chemistry|thermodynamics|entropy-free-energy-change-and-spontaneity": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "thermodynamics",
+    "topic": "entropy-free-energy-change-and-spontaneity",
+    "name": "Entropy Free Energy Change And Spontaneity"
+  },
+  "jee-advanced|chemistry|thermodynamics|first-law-of-thermodynamics": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "thermodynamics",
+    "topic": "first-law-of-thermodynamics",
+    "name": "First Law Of Thermodynamics"
+  },
+  "jee-advanced|chemistry|thermodynamics|fundamentals-of-thermodynamics": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "thermodynamics",
+    "topic": "fundamentals-of-thermodynamics",
+    "name": "Fundamentals Of Thermodynamics"
+  },
+  "jee-advanced|chemistry|thermodynamics|reactions-related-to-enthalpies-and-hesss-law": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "thermodynamics",
+    "topic": "reactions-related-to-enthalpies-and-hesss-law",
+    "name": "Reactions Related To Enthalpies And Hesss Law"
+  },
+  "jee-advanced|chemistry|thermodynamics|second-law-of-thermodynamics": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "thermodynamics",
+    "topic": "second-law-of-thermodynamics",
+    "name": "Second Law Of Thermodynamics"
+  },
+  "jee-advanced|chemistry|thermodynamics|thomsons-model-and-rutherfords-model": {
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "chapter": "thermodynamics",
+    "topic": "thomsons-model-and-rutherfords-model",
+    "name": "Thomsons Model And Rutherfords Model"
+  },
+  "jee-advanced|mathematics|3d-geometry|direction-cosines-and-direction-ratios-of-a-line": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "3d-geometry",
+    "topic": "direction-cosines-and-direction-ratios-of-a-line",
+    "name": "Direction Cosines And Direction Ratios Of A Line"
+  },
+  "jee-advanced|mathematics|3d-geometry|lines-and-plane": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "3d-geometry",
+    "topic": "lines-and-plane",
+    "name": "Lines And Plane"
+  },
+  "jee-advanced|mathematics|3d-geometry|lines-in-space": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "3d-geometry",
+    "topic": "lines-in-space",
+    "name": "Lines In Space"
+  },
+  "jee-advanced|mathematics|3d-geometry|plane-in-space": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "3d-geometry",
+    "topic": "plane-in-space",
+    "name": "Plane In Space"
+  },
+  "jee-advanced|mathematics|application-of-derivatives|maxima-and-minima": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "application-of-derivatives",
+    "topic": "maxima-and-minima",
+    "name": "Maxima And Minima"
+  },
+  "jee-advanced|mathematics|application-of-derivatives|mean-value-theorem": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "application-of-derivatives",
+    "topic": "mean-value-theorem",
+    "name": "Mean Value Theorem"
+  },
+  "jee-advanced|mathematics|application-of-derivatives|monotonicity": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "application-of-derivatives",
+    "topic": "monotonicity",
+    "name": "Monotonicity"
+  },
+  "jee-advanced|mathematics|application-of-derivatives|rate-of-change-of-quantity": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "application-of-derivatives",
+    "topic": "rate-of-change-of-quantity",
+    "name": "Rate Of Change Of Quantity"
+  },
+  "jee-advanced|mathematics|application-of-derivatives|tangent-and-normal": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "application-of-derivatives",
+    "topic": "tangent-and-normal",
+    "name": "Tangent And Normal"
+  },
+  "jee-advanced|mathematics|application-of-integration|area-bounded-between-the-curves": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "application-of-integration",
+    "topic": "area-bounded-between-the-curves",
+    "name": "Area Bounded Between The Curves"
+  },
+  "jee-advanced|mathematics|application-of-integration|area-under-simple-curves-in-standard-forms": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "application-of-integration",
+    "topic": "area-under-simple-curves-in-standard-forms",
+    "name": "Area Under Simple Curves In Standard Forms"
+  },
+  "jee-advanced|mathematics|circle|basic-theorems-of-a-circle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "basic-theorems-of-a-circle",
+    "name": "Basic Theorems Of A Circle"
+  },
+  "jee-advanced|mathematics|circle|chord-of-contact": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "chord-of-contact",
+    "name": "Chord Of Contact"
+  },
+  "jee-advanced|mathematics|circle|chord-with-a-given-middle-point": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "chord-with-a-given-middle-point",
+    "name": "Chord With A Given Middle Point"
+  },
+  "jee-advanced|mathematics|circle|director-circle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "director-circle",
+    "name": "Director Circle"
+  },
+  "jee-advanced|mathematics|circle|family-of-circle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "family-of-circle",
+    "name": "Family Of Circle"
+  },
+  "jee-advanced|mathematics|circle|intercepts-of-a-circle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "intercepts-of-a-circle",
+    "name": "Intercepts Of A Circle"
+  },
+  "jee-advanced|mathematics|circle|number-of-common-tangents-and-position-of-two-circle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "number-of-common-tangents-and-position-of-two-circle",
+    "name": "Number Of Common Tangents And Position Of Two Circle"
+  },
+  "jee-advanced|mathematics|circle|orthogonality-of-two-circles": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "orthogonality-of-two-circles",
+    "name": "Orthogonality Of Two Circles"
+  },
+  "jee-advanced|mathematics|circle|parametric-form-of-a-circle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "parametric-form-of-a-circle",
+    "name": "Parametric Form Of A Circle"
+  },
+  "jee-advanced|mathematics|circle|position-of-a-point-with-respect-to-circle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "position-of-a-point-with-respect-to-circle",
+    "name": "Position Of A Point With Respect To Circle"
+  },
+  "jee-advanced|mathematics|circle|tangent-and-normal": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "circle",
+    "topic": "tangent-and-normal",
+    "name": "Tangent And Normal"
+  },
+  "jee-advanced|mathematics|complex-numbers|algebra-of-complex-numbers": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "complex-numbers",
+    "topic": "algebra-of-complex-numbers",
+    "name": "Algebra Of Complex Numbers"
+  },
+  "jee-advanced|mathematics|complex-numbers|applications-of-complex-numbers-in-coordinate-geometry": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "complex-numbers",
+    "topic": "applications-of-complex-numbers-in-coordinate-geometry",
+    "name": "Applications Of Complex Numbers In Coordinate Geometry"
+  },
+  "jee-advanced|mathematics|complex-numbers|argument-of-complex-numbers": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "complex-numbers",
+    "topic": "argument-of-complex-numbers",
+    "name": "Argument Of Complex Numbers"
+  },
+  "jee-advanced|mathematics|complex-numbers|conjugate-of-complex-numbers": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "complex-numbers",
+    "topic": "conjugate-of-complex-numbers",
+    "name": "Conjugate Of Complex Numbers"
+  },
+  "jee-advanced|mathematics|complex-numbers|cube-roots-of-unity": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "complex-numbers",
+    "topic": "cube-roots-of-unity",
+    "name": "Cube Roots Of Unity"
+  },
+  "jee-advanced|mathematics|complex-numbers|de-moivres-theorem": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "complex-numbers",
+    "topic": "de-moivres-theorem",
+    "name": "De Moivres Theorem"
+  },
+  "jee-advanced|mathematics|complex-numbers|modulus-of-complex-numbers": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "complex-numbers",
+    "topic": "modulus-of-complex-numbers",
+    "name": "Modulus Of Complex Numbers"
+  },
+  "jee-advanced|mathematics|complex-numbers|nth-roots-of-unity": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "complex-numbers",
+    "topic": "nth-roots-of-unity",
+    "name": "Nth Roots Of Unity"
+  },
+  "jee-advanced|mathematics|definite-integration|definite-integral-as-a-limit-of-sum": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "definite-integration",
+    "topic": "definite-integral-as-a-limit-of-sum",
+    "name": "Definite Integral As A Limit Of Sum"
+  },
+  "jee-advanced|mathematics|definite-integration|newton-lebnitz-rule-of-differentiation": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "definite-integration",
+    "topic": "newton-lebnitz-rule-of-differentiation",
+    "name": "Newton Lebnitz Rule Of Differentiation"
+  },
+  "jee-advanced|mathematics|definite-integration|properties-of-definite-integration": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "definite-integration",
+    "topic": "properties-of-definite-integration",
+    "name": "Properties Of Definite Integration"
+  },
+  "jee-advanced|mathematics|differential-equations|formation-of-differential-equations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "differential-equations",
+    "topic": "formation-of-differential-equations",
+    "name": "Formation Of Differential Equations"
+  },
+  "jee-advanced|mathematics|differential-equations|linear-differential-equations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "differential-equations",
+    "topic": "linear-differential-equations",
+    "name": "Linear Differential Equations"
+  },
+  "jee-advanced|mathematics|differential-equations|solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "differential-equations",
+    "topic": "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous",
+    "name": "Solution Of Differential Equations By Method Of Separation Variables And Homogeneous"
+  },
+  "jee-advanced|mathematics|differentiation|differentiation-of-a-function-with-respect-to-another-function": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "differentiation",
+    "topic": "differentiation-of-a-function-with-respect-to-another-function",
+    "name": "Differentiation Of A Function With Respect To Another Function"
+  },
+  "jee-advanced|mathematics|differentiation|differentiation-of-composite-function": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "differentiation",
+    "topic": "differentiation-of-composite-function",
+    "name": "Differentiation Of Composite Function"
+  },
+  "jee-advanced|mathematics|differentiation|differentiation-of-implicit-function": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "differentiation",
+    "topic": "differentiation-of-implicit-function",
+    "name": "Differentiation Of Implicit Function"
+  },
+  "jee-advanced|mathematics|differentiation|methods-of-differentiation": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "differentiation",
+    "topic": "methods-of-differentiation",
+    "name": "Methods Of Differentiation"
+  },
+  "jee-advanced|mathematics|differentiation|successive-differentiation": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "differentiation",
+    "topic": "successive-differentiation",
+    "name": "Successive Differentiation"
+  },
+  "jee-advanced|mathematics|ellipse|chord-of-ellipse": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "ellipse",
+    "topic": "chord-of-ellipse",
+    "name": "Chord Of Ellipse"
+  },
+  "jee-advanced|mathematics|ellipse|common-tangent": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "ellipse",
+    "topic": "common-tangent",
+    "name": "Common Tangent"
+  },
+  "jee-advanced|mathematics|ellipse|locus": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "ellipse",
+    "topic": "locus",
+    "name": "Locus"
+  },
+  "jee-advanced|mathematics|ellipse|normal-to-ellipse": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "ellipse",
+    "topic": "normal-to-ellipse",
+    "name": "Normal To Ellipse"
+  },
+  "jee-advanced|mathematics|ellipse|position-of-point-and-chord-joining-of-two-points": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "ellipse",
+    "topic": "position-of-point-and-chord-joining-of-two-points",
+    "name": "Position Of Point And Chord Joining Of Two Points"
+  },
+  "jee-advanced|mathematics|ellipse|question-based-on-basic-definition-and-parametric-representation": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "ellipse",
+    "topic": "question-based-on-basic-definition-and-parametric-representation",
+    "name": "Question Based On Basic Definition And Parametric Representation"
+  },
+  "jee-advanced|mathematics|ellipse|tangent-to-ellipse": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "ellipse",
+    "topic": "tangent-to-ellipse",
+    "name": "Tangent To Ellipse"
+  },
+  "jee-advanced|mathematics|functions|classification-of-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "functions",
+    "topic": "classification-of-functions",
+    "name": "Classification Of Functions"
+  },
+  "jee-advanced|mathematics|functions|composite-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "functions",
+    "topic": "composite-functions",
+    "name": "Composite Functions"
+  },
+  "jee-advanced|mathematics|functions|domain": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "functions",
+    "topic": "domain",
+    "name": "Domain"
+  },
+  "jee-advanced|mathematics|functions|even-and-odd-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "functions",
+    "topic": "even-and-odd-functions",
+    "name": "Even And Odd Functions"
+  },
+  "jee-advanced|mathematics|functions|functional-equations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "functions",
+    "topic": "functional-equations",
+    "name": "Functional Equations"
+  },
+  "jee-advanced|mathematics|functions|inverse-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "functions",
+    "topic": "inverse-functions",
+    "name": "Inverse Functions"
+  },
+  "jee-advanced|mathematics|functions|periodic-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "functions",
+    "topic": "periodic-functions",
+    "name": "Periodic Functions"
+  },
+  "jee-advanced|mathematics|functions|range": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "functions",
+    "topic": "range",
+    "name": "Range"
+  },
+  "jee-advanced|mathematics|hyperbola|common-tangent": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "hyperbola",
+    "topic": "common-tangent",
+    "name": "Common Tangent"
+  },
+  "jee-advanced|mathematics|hyperbola|normal-to-hyperbola": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "hyperbola",
+    "topic": "normal-to-hyperbola",
+    "name": "Normal To Hyperbola"
+  },
+  "jee-advanced|mathematics|hyperbola|position-of-point-and-chord-joining-of-two-points": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "hyperbola",
+    "topic": "position-of-point-and-chord-joining-of-two-points",
+    "name": "Position Of Point And Chord Joining Of Two Points"
+  },
+  "jee-advanced|mathematics|hyperbola|question-based-on-basic-definition-and-parametric-representation": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "hyperbola",
+    "topic": "question-based-on-basic-definition-and-parametric-representation",
+    "name": "Question Based On Basic Definition And Parametric Representation"
+  },
+  "jee-advanced|mathematics|hyperbola|tangent-to-hyperbola": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "hyperbola",
+    "topic": "tangent-to-hyperbola",
+    "name": "Tangent To Hyperbola"
+  },
+  "jee-advanced|mathematics|indefinite-integrals|integration-by-substitution": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "indefinite-integrals",
+    "topic": "integration-by-substitution",
+    "name": "Integration By Substitution"
+  },
+  "jee-advanced|mathematics|inverse-trigonometric-functions|principal-value-of-inverse-trigonometric-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "inverse-trigonometric-functions",
+    "topic": "principal-value-of-inverse-trigonometric-functions",
+    "name": "Principal Value Of Inverse Trigonometric Functions"
+  },
+  "jee-advanced|mathematics|inverse-trigonometric-functions|properties-of-inverse-trigonometric-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "inverse-trigonometric-functions",
+    "topic": "properties-of-inverse-trigonometric-functions",
+    "name": "Properties Of Inverse Trigonometric Functions"
+  },
+  "jee-advanced|mathematics|inverse-trigonometric-functions|sum-upto-n-terms-and-infinite-terms-of-inverse-series": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "inverse-trigonometric-functions",
+    "topic": "sum-upto-n-terms-and-infinite-terms-of-inverse-series",
+    "name": "Sum Upto N Terms And Infinite Terms Of Inverse Series"
+  },
+  "jee-advanced|mathematics|limits-continuity-and-differentiability|continuity": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "limits-continuity-and-differentiability",
+    "topic": "continuity",
+    "name": "Continuity"
+  },
+  "jee-advanced|mathematics|limits-continuity-and-differentiability|differentiability": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "limits-continuity-and-differentiability",
+    "topic": "differentiability",
+    "name": "Differentiability"
+  },
+  "jee-advanced|mathematics|limits-continuity-and-differentiability|existance-of-limits": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "limits-continuity-and-differentiability",
+    "topic": "existance-of-limits",
+    "name": "Existance Of Limits"
+  },
+  "jee-advanced|mathematics|limits-continuity-and-differentiability|limits-of-algebric-function": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "limits-continuity-and-differentiability",
+    "topic": "limits-of-algebric-function",
+    "name": "Limits Of Algebric Function"
+  },
+  "jee-advanced|mathematics|limits-continuity-and-differentiability|limits-of-exponential-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "limits-continuity-and-differentiability",
+    "topic": "limits-of-exponential-functions",
+    "name": "Limits Of Exponential Functions"
+  },
+  "jee-advanced|mathematics|limits-continuity-and-differentiability|limits-of-logarithmic-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "limits-continuity-and-differentiability",
+    "topic": "limits-of-logarithmic-functions",
+    "name": "Limits Of Logarithmic Functions"
+  },
+  "jee-advanced|mathematics|limits-continuity-and-differentiability|limits-of-trigonometric-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "limits-continuity-and-differentiability",
+    "topic": "limits-of-trigonometric-functions",
+    "name": "Limits Of Trigonometric Functions"
+  },
+  "jee-advanced|mathematics|mathematical-induction-and-binomial-theorem|multinomial-theorem": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "mathematical-induction-and-binomial-theorem",
+    "topic": "multinomial-theorem",
+    "name": "Multinomial Theorem"
+  },
+  "jee-advanced|mathematics|mathematical-induction-and-binomial-theorem|problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "mathematical-induction-and-binomial-theorem",
+    "topic": "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient",
+    "name": "Problems Based On Binomial Co Efficient And Collection Of Binomial Co Efficient"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|adjoint-of-a-matrix": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "adjoint-of-a-matrix",
+    "name": "Adjoint Of A Matrix"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|expansion-of-determinant": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "expansion-of-determinant",
+    "name": "Expansion Of Determinant"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|inverse-of-a-matrix": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "inverse-of-a-matrix",
+    "name": "Inverse Of A Matrix"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|multiplication-of-matrices": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "multiplication-of-matrices",
+    "name": "Multiplication Of Matrices"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|operations-on-matrices": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "operations-on-matrices",
+    "name": "Operations On Matrices"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|properties-of-determinants": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "properties-of-determinants",
+    "name": "Properties Of Determinants"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
+    "name": "Solutions Of System Of Linear Equations In Two Or Three Variables Using Determinants And Matrices"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|symmetric-and-skew-symmetric-matrices": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "symmetric-and-skew-symmetric-matrices",
+    "name": "Symmetric And Skew Symmetric Matrices"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|trace-of-a-matrix": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "trace-of-a-matrix",
+    "name": "Trace Of A Matrix"
+  },
+  "jee-advanced|mathematics|matrices-and-determinants|transpose-of-a-matrix": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "matrices-and-determinants",
+    "topic": "transpose-of-a-matrix",
+    "name": "Transpose Of A Matrix"
+  },
+  "jee-advanced|mathematics|parabola|chord-of-parabola": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "parabola",
+    "topic": "chord-of-parabola",
+    "name": "Chord Of Parabola"
+  },
+  "jee-advanced|mathematics|parabola|common-tangent": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "parabola",
+    "topic": "common-tangent",
+    "name": "Common Tangent"
+  },
+  "jee-advanced|mathematics|parabola|locus": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "parabola",
+    "topic": "locus",
+    "name": "Locus"
+  },
+  "jee-advanced|mathematics|parabola|normal-to-parabola": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "parabola",
+    "topic": "normal-to-parabola",
+    "name": "Normal To Parabola"
+  },
+  "jee-advanced|mathematics|parabola|pair-of-tangents": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "parabola",
+    "topic": "pair-of-tangents",
+    "name": "Pair Of Tangents"
+  },
+  "jee-advanced|mathematics|parabola|position-of-point-and-chord-joining-of-two-points": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "parabola",
+    "topic": "position-of-point-and-chord-joining-of-two-points",
+    "name": "Position Of Point And Chord Joining Of Two Points"
+  },
+  "jee-advanced|mathematics|parabola|question-based-on-basic-definition-and-parametric-representation": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "parabola",
+    "topic": "question-based-on-basic-definition-and-parametric-representation",
+    "name": "Question Based On Basic Definition And Parametric Representation"
+  },
+  "jee-advanced|mathematics|parabola|tangent-to-parabola": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "parabola",
+    "topic": "tangent-to-parabola",
+    "name": "Tangent To Parabola"
+  },
+  "jee-advanced|mathematics|permutations-and-combinations|application-of-permutations-and-combination-in-geometry": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "permutations-and-combinations",
+    "topic": "application-of-permutations-and-combination-in-geometry",
+    "name": "Application Of Permutations And Combination In Geometry"
+  },
+  "jee-advanced|mathematics|permutations-and-combinations|circular-permutations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "permutations-and-combinations",
+    "topic": "circular-permutations",
+    "name": "Circular Permutations"
+  },
+  "jee-advanced|mathematics|permutations-and-combinations|conditional-combinations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "permutations-and-combinations",
+    "topic": "conditional-combinations",
+    "name": "Conditional Combinations"
+  },
+  "jee-advanced|mathematics|permutations-and-combinations|conditional-permutations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "permutations-and-combinations",
+    "topic": "conditional-permutations",
+    "name": "Conditional Permutations"
+  },
+  "jee-advanced|mathematics|permutations-and-combinations|dearrangement": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "permutations-and-combinations",
+    "topic": "dearrangement",
+    "name": "Dearrangement"
+  },
+  "jee-advanced|mathematics|permutations-and-combinations|divisibility-of-numbers": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "permutations-and-combinations",
+    "topic": "divisibility-of-numbers",
+    "name": "Divisibility Of Numbers"
+  },
+  "jee-advanced|mathematics|permutations-and-combinations|number-of-combinations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "permutations-and-combinations",
+    "topic": "number-of-combinations",
+    "name": "Number Of Combinations"
+  },
+  "jee-advanced|mathematics|permutations-and-combinations|number-of-permutations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "permutations-and-combinations",
+    "topic": "number-of-permutations",
+    "name": "Number Of Permutations"
+  },
+  "jee-advanced|mathematics|probability|bayes-theorem": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "probability",
+    "topic": "bayes-theorem",
+    "name": "Bayes Theorem"
+  },
+  "jee-advanced|mathematics|probability|binomial-distribution": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "probability",
+    "topic": "binomial-distribution",
+    "name": "Binomial Distribution"
+  },
+  "jee-advanced|mathematics|probability|classical-defininition-of-probability": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "probability",
+    "topic": "classical-defininition-of-probability",
+    "name": "Classical Defininition Of Probability"
+  },
+  "jee-advanced|mathematics|probability|conditional-probability-and-multiplication-theorem": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "probability",
+    "topic": "conditional-probability-and-multiplication-theorem",
+    "name": "Conditional Probability And Multiplication Theorem"
+  },
+  "jee-advanced|mathematics|probability|permutation-and-combination-based-problem": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "probability",
+    "topic": "permutation-and-combination-based-problem",
+    "name": "Permutation And Combination Based Problem"
+  },
+  "jee-advanced|mathematics|probability|probability-distribution-of-a-random-variable": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "probability",
+    "topic": "probability-distribution-of-a-random-variable",
+    "name": "Probability Distribution Of A Random Variable"
+  },
+  "jee-advanced|mathematics|probability|total-probability-theorem": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "probability",
+    "topic": "total-probability-theorem",
+    "name": "Total Probability Theorem"
+  },
+  "jee-advanced|mathematics|probability|venn-diagram-and-set-theory": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "probability",
+    "topic": "venn-diagram-and-set-theory",
+    "name": "Venn Diagram And Set Theory"
+  },
+  "jee-advanced|mathematics|properties-of-triangle|area-of-triangle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "properties-of-triangle",
+    "topic": "area-of-triangle",
+    "name": "Area Of Triangle"
+  },
+  "jee-advanced|mathematics|properties-of-triangle|circumcenter-incenter-and-orthocenter": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "properties-of-triangle",
+    "topic": "circumcenter-incenter-and-orthocenter",
+    "name": "Circumcenter Incenter And Orthocenter"
+  },
+  "jee-advanced|mathematics|properties-of-triangle|cosine-rule": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "properties-of-triangle",
+    "topic": "cosine-rule",
+    "name": "Cosine Rule"
+  },
+  "jee-advanced|mathematics|properties-of-triangle|half-angle-formulae": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "properties-of-triangle",
+    "topic": "half-angle-formulae",
+    "name": "Half Angle Formulae"
+  },
+  "jee-advanced|mathematics|properties-of-triangle|projection-rule": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "properties-of-triangle",
+    "topic": "projection-rule",
+    "name": "Projection Rule"
+  },
+  "jee-advanced|mathematics|properties-of-triangle|sine-rule": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "properties-of-triangle",
+    "topic": "sine-rule",
+    "name": "Sine Rule"
+  },
+  "jee-advanced|mathematics|quadratic-equation-and-inequalities|algebraic-equations-of-higher-degree": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "quadratic-equation-and-inequalities",
+    "topic": "algebraic-equations-of-higher-degree",
+    "name": "Algebraic Equations Of Higher Degree"
+  },
+  "jee-advanced|mathematics|quadratic-equation-and-inequalities|common-roots": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "quadratic-equation-and-inequalities",
+    "topic": "common-roots",
+    "name": "Common Roots"
+  },
+  "jee-advanced|mathematics|quadratic-equation-and-inequalities|inequalities": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "quadratic-equation-and-inequalities",
+    "topic": "inequalities",
+    "name": "Inequalities"
+  },
+  "jee-advanced|mathematics|quadratic-equation-and-inequalities|location-of-roots": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "quadratic-equation-and-inequalities",
+    "topic": "location-of-roots",
+    "name": "Location Of Roots"
+  },
+  "jee-advanced|mathematics|quadratic-equation-and-inequalities|modulus-function": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "quadratic-equation-and-inequalities",
+    "topic": "modulus-function",
+    "name": "Modulus Function"
+  },
+  "jee-advanced|mathematics|quadratic-equation-and-inequalities|nature-of-roots": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "quadratic-equation-and-inequalities",
+    "topic": "nature-of-roots",
+    "name": "Nature Of Roots"
+  },
+  "jee-advanced|mathematics|quadratic-equation-and-inequalities|relation-between-roots-and-coefficients": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "quadratic-equation-and-inequalities",
+    "topic": "relation-between-roots-and-coefficients",
+    "name": "Relation Between Roots And Coefficients"
+  },
+  "jee-advanced|mathematics|sequences-and-series|am-gm-and-hm": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "sequences-and-series",
+    "topic": "am-gm-and-hm",
+    "name": "Am Gm And Hm"
+  },
+  "jee-advanced|mathematics|sequences-and-series|arithmetic-progression": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "sequences-and-series",
+    "topic": "arithmetic-progression",
+    "name": "Arithmetic Progression"
+  },
+  "jee-advanced|mathematics|sequences-and-series|geometric-progression": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "sequences-and-series",
+    "topic": "geometric-progression",
+    "name": "Geometric Progression"
+  },
+  "jee-advanced|mathematics|sequences-and-series|harmonic-progression": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "sequences-and-series",
+    "topic": "harmonic-progression",
+    "name": "Harmonic Progression"
+  },
+  "jee-advanced|mathematics|sequences-and-series|sum-upto-n-terms-and-infinite-terms-of-inverse-series": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "sequences-and-series",
+    "topic": "sum-upto-n-terms-and-infinite-terms-of-inverse-series",
+    "name": "Sum Upto N Terms And Infinite Terms Of Inverse Series"
+  },
+  "jee-advanced|mathematics|sequences-and-series|summation-of-series": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "sequences-and-series",
+    "topic": "summation-of-series",
+    "name": "Summation Of Series"
+  },
+  "jee-advanced|mathematics|statistics|calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "statistics",
+    "topic": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
+    "name": "Calculation Of Standard Deviation Variance And Mean Deviation Of Grouped And Ungrouped Data"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|angle-between-two-lines": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "angle-between-two-lines",
+    "name": "Angle Between Two Lines"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|angle-bisector": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "angle-bisector",
+    "name": "Angle Bisector"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|area-of-triangle-and-condition-of-collinearity": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "area-of-triangle-and-condition-of-collinearity",
+    "name": "Area Of Triangle And Condition Of Collinearity"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|centers-of-triangle": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "centers-of-triangle",
+    "name": "Centers Of Triangle"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|condition-of-concurrency": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "condition-of-concurrency",
+    "name": "Condition Of Concurrency"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|distance-of-a-point-from-a-line": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "distance-of-a-point-from-a-line",
+    "name": "Distance Of A Point From A Line"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|locus": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "locus",
+    "name": "Locus"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|pair-of-straight-lines": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "pair-of-straight-lines",
+    "name": "Pair Of Straight Lines"
+  },
+  "jee-advanced|mathematics|straight-lines-and-pair-of-straight-lines|various-forms-of-straight-line": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "straight-lines-and-pair-of-straight-lines",
+    "topic": "various-forms-of-straight-line",
+    "name": "Various Forms Of Straight Line"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|addition-and-subtraction-formula": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "addition-and-subtraction-formula",
+    "name": "Addition And Subtraction Formula"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|circumcenter-incenter-and-orthocenter": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "circumcenter-incenter-and-orthocenter",
+    "name": "Circumcenter Incenter And Orthocenter"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|cosine-rule": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "cosine-rule",
+    "name": "Cosine Rule"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|general-solution-and-principal-solution-of-the-equation": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "general-solution-and-principal-solution-of-the-equation",
+    "name": "General Solution And Principal Solution Of The Equation"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|multiple-and-sub-multiple-angle-formula": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "multiple-and-sub-multiple-angle-formula",
+    "name": "Multiple And Sub Multiple Angle Formula"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|range-of-trigonometric-functions": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "range-of-trigonometric-functions",
+    "name": "Range Of Trigonometric Functions"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|solving-trigonometric-equations": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "solving-trigonometric-equations",
+    "name": "Solving Trigonometric Equations"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|summation-series-problems": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "summation-series-problems",
+    "name": "Summation Series Problems"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|trigonometric-ratio-of-standard-angles": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "trigonometric-ratio-of-standard-angles",
+    "name": "Trigonometric Ratio Of Standard Angles"
+  },
+  "jee-advanced|mathematics|trigonometric-functions-and-equations|trigonometric-series": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "trigonometric-functions-and-equations",
+    "topic": "trigonometric-series",
+    "name": "Trigonometric Series"
+  },
+  "jee-advanced|mathematics|vector-algebra|algebra-and-modulus-of-vectors": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "vector-algebra",
+    "topic": "algebra-and-modulus-of-vectors",
+    "name": "Algebra And Modulus Of Vectors"
+  },
+  "jee-advanced|mathematics|vector-algebra|scalar-and-vector-triple-product": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "vector-algebra",
+    "topic": "scalar-and-vector-triple-product",
+    "name": "Scalar And Vector Triple Product"
+  },
+  "jee-advanced|mathematics|vector-algebra|scalar-or-dot-product-of-two-vectors-and-its-applications": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "vector-algebra",
+    "topic": "scalar-or-dot-product-of-two-vectors-and-its-applications",
+    "name": "Scalar Or Dot Product Of Two Vectors And Its Applications"
+  },
+  "jee-advanced|mathematics|vector-algebra|vector-or-cross-product-of-two-vectors-and-its-applications": {
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "chapter": "vector-algebra",
+    "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
+    "name": "Vector Or Cross Product Of Two Vectors And Its Applications"
+  },
+  "jee-advanced|physics|alternating-current|ac-circuits-and-power-in-ac-circuits": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "alternating-current",
+    "topic": "ac-circuits-and-power-in-ac-circuits",
+    "name": "Ac Circuits And Power In Ac Circuits"
+  },
+  "jee-advanced|physics|alternating-current|ac-generator-and-transformer": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "alternating-current",
+    "topic": "ac-generator-and-transformer",
+    "name": "Ac Generator And Transformer"
+  },
+  "jee-advanced|physics|atoms-and-nuclei|bohrs-model-and-hydrogen-spectrum": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "atoms-and-nuclei",
+    "topic": "bohrs-model-and-hydrogen-spectrum",
+    "name": "Bohrs Model And Hydrogen Spectrum"
+  },
+  "jee-advanced|physics|atoms-and-nuclei|nuclear-fission-and-fusion-and-binding-energy": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "atoms-and-nuclei",
+    "topic": "nuclear-fission-and-fusion-and-binding-energy",
+    "name": "Nuclear Fission And Fusion And Binding Energy"
+  },
+  "jee-advanced|physics|atoms-and-nuclei|nucleus-and-radioactivity": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "atoms-and-nuclei",
+    "topic": "nucleus-and-radioactivity",
+    "name": "Nucleus And Radioactivity"
+  },
+  "jee-advanced|physics|capacitor|capacitance": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "capacitor",
+    "topic": "capacitance",
+    "name": "Capacitance"
+  },
+  "jee-advanced|physics|capacitor|capacitor-in-circuit": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "capacitor",
+    "topic": "capacitor-in-circuit",
+    "name": "Capacitor In Circuit"
+  },
+  "jee-advanced|physics|capacitor|capacitors-with-dielectric": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "capacitor",
+    "topic": "capacitors-with-dielectric",
+    "name": "Capacitors With Dielectric"
+  },
+  "jee-advanced|physics|capacitor|combination-of-capacitors": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "capacitor",
+    "topic": "combination-of-capacitors",
+    "name": "Combination Of Capacitors"
+  },
+  "jee-advanced|physics|capacitor|electric-energy-stored-by-capacitor": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "capacitor",
+    "topic": "electric-energy-stored-by-capacitor",
+    "name": "Electric Energy Stored By Capacitor"
+  },
+  "jee-advanced|physics|capacitor|growth-and-decay-of-current": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "capacitor",
+    "topic": "growth-and-decay-of-current",
+    "name": "Growth And Decay Of Current"
+  },
+  "jee-advanced|physics|capacitor|rc-circuit": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "capacitor",
+    "topic": "rc-circuit",
+    "name": "Rc Circuit"
+  },
+  "jee-advanced|physics|current-electricity|combination-of-resistances": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "combination-of-resistances",
+    "name": "Combination Of Resistances"
+  },
+  "jee-advanced|physics|current-electricity|electric-cell-or-battery": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "electric-cell-or-battery",
+    "name": "Electric Cell Or Battery"
+  },
+  "jee-advanced|physics|current-electricity|electric-current-current-density-and-drift-velocity": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "electric-current-current-density-and-drift-velocity",
+    "name": "Electric Current Current Density And Drift Velocity"
+  },
+  "jee-advanced|physics|current-electricity|electric-power-and-heating-effect-of-current": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "electric-power-and-heating-effect-of-current",
+    "name": "Electric Power And Heating Effect Of Current"
+  },
+  "jee-advanced|physics|current-electricity|galvanometer-voltmeter-and-ammeter": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "galvanometer-voltmeter-and-ammeter",
+    "name": "Galvanometer Voltmeter And Ammeter"
+  },
+  "jee-advanced|physics|current-electricity|kirchhoffs-circuit-laws": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "kirchhoffs-circuit-laws",
+    "name": "Kirchhoffs Circuit Laws"
+  },
+  "jee-advanced|physics|current-electricity|meter-bridge": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "meter-bridge",
+    "name": "Meter Bridge"
+  },
+  "jee-advanced|physics|current-electricity|ohms-law": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "ohms-law",
+    "name": "Ohms Law"
+  },
+  "jee-advanced|physics|current-electricity|potentiometer": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "potentiometer",
+    "name": "Potentiometer"
+  },
+  "jee-advanced|physics|current-electricity|resistance-and-resistivity": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "resistance-and-resistivity",
+    "name": "Resistance And Resistivity"
+  },
+  "jee-advanced|physics|current-electricity|wheatstone-bridge": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "current-electricity",
+    "topic": "wheatstone-bridge",
+    "name": "Wheatstone Bridge"
+  },
+  "jee-advanced|physics|dual-nature-of-radiation|davisson-and-germer-experiment": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "dual-nature-of-radiation",
+    "topic": "davisson-and-germer-experiment",
+    "name": "Davisson And Germer Experiment"
+  },
+  "jee-advanced|physics|dual-nature-of-radiation|matter-waves-davisson-and-germer-experiment": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "dual-nature-of-radiation",
+    "topic": "matter-waves-davisson-and-germer-experiment",
+    "name": "Matter Waves Davisson And Germer Experiment"
+  },
+  "jee-advanced|physics|dual-nature-of-radiation|particle-nature-of-light-the-photon": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "dual-nature-of-radiation",
+    "topic": "particle-nature-of-light-the-photon",
+    "name": "Particle Nature Of Light The Photon"
+  },
+  "jee-advanced|physics|dual-nature-of-radiation|photoelectric-effect": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "dual-nature-of-radiation",
+    "topic": "photoelectric-effect",
+    "name": "Photoelectric Effect"
+  },
+  "jee-advanced|physics|electromagnetic-induction|inductance-self-and-mutual": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electromagnetic-induction",
+    "topic": "inductance-self-and-mutual",
+    "name": "Inductance Self And Mutual"
+  },
+  "jee-advanced|physics|electromagnetic-induction|magnetic-flux-faradays-and-lenzs-laws": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electromagnetic-induction",
+    "topic": "magnetic-flux-faradays-and-lenzs-laws",
+    "name": "Magnetic Flux Faradays And Lenzs Laws"
+  },
+  "jee-advanced|physics|electromagnetic-induction|motional-emf-and-eddy-current": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electromagnetic-induction",
+    "topic": "motional-emf-and-eddy-current",
+    "name": "Motional Emf And Eddy Current"
+  },
+  "jee-advanced|physics|electromagnetic-waves|displacement-current-and-properties-of-em-waves": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electromagnetic-waves",
+    "topic": "displacement-current-and-properties-of-em-waves",
+    "name": "Displacement Current And Properties Of Em Waves"
+  },
+  "jee-advanced|physics|electrostatics|electric-charges-and-coulombs-law": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electrostatics",
+    "topic": "electric-charges-and-coulombs-law",
+    "name": "Electric Charges And Coulombs Law"
+  },
+  "jee-advanced|physics|electrostatics|electric-dipole": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electrostatics",
+    "topic": "electric-dipole",
+    "name": "Electric Dipole"
+  },
+  "jee-advanced|physics|electrostatics|electric-field-and-electric-field-intensity": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electrostatics",
+    "topic": "electric-field-and-electric-field-intensity",
+    "name": "Electric Field And Electric Field Intensity"
+  },
+  "jee-advanced|physics|electrostatics|electric-flux-and-gauss-law": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electrostatics",
+    "topic": "electric-flux-and-gauss-law",
+    "name": "Electric Flux And Gauss Law"
+  },
+  "jee-advanced|physics|electrostatics|electric-potential-energy-and-electric-potential": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "electrostatics",
+    "topic": "electric-potential-energy-and-electric-potential",
+    "name": "Electric Potential Energy And Electric Potential"
+  },
+  "jee-advanced|physics|geometrical-optics|lenses": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "geometrical-optics",
+    "topic": "lenses",
+    "name": "Lenses"
+  },
+  "jee-advanced|physics|geometrical-optics|reflection-of-light": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "geometrical-optics",
+    "topic": "reflection-of-light",
+    "name": "Reflection Of Light"
+  },
+  "jee-advanced|physics|geometrical-optics|refraction-tir-and-prism": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "geometrical-optics",
+    "topic": "refraction-tir-and-prism",
+    "name": "Refraction Tir And Prism"
+  },
+  "jee-advanced|physics|gravitation|acceleration-due-to-gravity-and-its-variation": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "gravitation",
+    "topic": "acceleration-due-to-gravity-and-its-variation",
+    "name": "Acceleration Due To Gravity And Its Variation"
+  },
+  "jee-advanced|physics|gravitation|escape-speed-and-motion-of-satellites": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "gravitation",
+    "topic": "escape-speed-and-motion-of-satellites",
+    "name": "Escape Speed And Motion Of Satellites"
+  },
+  "jee-advanced|physics|gravitation|gravitational-potential-and-gravitational-potential-energy": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "gravitation",
+    "topic": "gravitational-potential-and-gravitational-potential-energy",
+    "name": "Gravitational Potential And Gravitational Potential Energy"
+  },
+  "jee-advanced|physics|gravitation|keplers-law-and-universal-law-of-gravitation": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "gravitation",
+    "topic": "keplers-law-and-universal-law-of-gravitation",
+    "name": "Keplers Law And Universal Law Of Gravitation"
+  },
+  "jee-advanced|physics|heat-and-thermodynamics|degree-of-freedom-and-law-of-equipartition-of-energy": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "heat-and-thermodynamics",
+    "topic": "degree-of-freedom-and-law-of-equipartition-of-energy",
+    "name": "Degree Of Freedom And Law Of Equipartition Of Energy"
+  },
+  "jee-advanced|physics|heat-and-thermodynamics|heat-engine-second-law-of-thermodynamics-and-carnot-engine": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "heat-and-thermodynamics",
+    "topic": "heat-engine-second-law-of-thermodynamics-and-carnot-engine",
+    "name": "Heat Engine Second Law Of Thermodynamics And Carnot Engine"
+  },
+  "jee-advanced|physics|heat-and-thermodynamics|heat-transfer": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "heat-and-thermodynamics",
+    "topic": "heat-transfer",
+    "name": "Heat Transfer"
+  },
+  "jee-advanced|physics|heat-and-thermodynamics|kinetic-theory-of-gases-and-gas-laws": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "heat-and-thermodynamics",
+    "topic": "kinetic-theory-of-gases-and-gas-laws",
+    "name": "Kinetic Theory Of Gases And Gas Laws"
+  },
+  "jee-advanced|physics|heat-and-thermodynamics|specific-heat-capacity-calorimetry-and-change-of-state": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "heat-and-thermodynamics",
+    "topic": "specific-heat-capacity-calorimetry-and-change-of-state",
+    "name": "Specific Heat Capacity Calorimetry And Change Of State"
+  },
+  "jee-advanced|physics|heat-and-thermodynamics|thermodynamics-process": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "heat-and-thermodynamics",
+    "topic": "thermodynamics-process",
+    "name": "Thermodynamics Process"
+  },
+  "jee-advanced|physics|heat-and-thermodynamics|thermometry-and-thermal-expansion": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "heat-and-thermodynamics",
+    "topic": "thermometry-and-thermal-expansion",
+    "name": "Thermometry And Thermal Expansion"
+  },
+  "jee-advanced|physics|heat-and-thermodynamics|zeroth-and-first-law-of-thermodynamics": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "heat-and-thermodynamics",
+    "topic": "zeroth-and-first-law-of-thermodynamics",
+    "name": "Zeroth And First Law Of Thermodynamics"
+  },
+  "jee-advanced|physics|impulse-and-momentum|center-of-mass-of-continuous-mass-distribution": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "impulse-and-momentum",
+    "topic": "center-of-mass-of-continuous-mass-distribution",
+    "name": "Center Of Mass Of Continuous Mass Distribution"
+  },
+  "jee-advanced|physics|impulse-and-momentum|collision": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "impulse-and-momentum",
+    "topic": "collision",
+    "name": "Collision"
+  },
+  "jee-advanced|physics|impulse-and-momentum|impulse-momentum-theorem": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "impulse-and-momentum",
+    "topic": "impulse-momentum-theorem",
+    "name": "Impulse Momentum Theorem"
+  },
+  "jee-advanced|physics|impulse-and-momentum|motion-of-center-of-mass": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "impulse-and-momentum",
+    "topic": "motion-of-center-of-mass",
+    "name": "Motion Of Center Of Mass"
+  },
+  "jee-advanced|physics|laws-of-motion|equilibrium-of-a-particle": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "laws-of-motion",
+    "topic": "equilibrium-of-a-particle",
+    "name": "Equilibrium Of A Particle"
+  },
+  "jee-advanced|physics|laws-of-motion|friction-force": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "laws-of-motion",
+    "topic": "friction-force",
+    "name": "Friction Force"
+  },
+  "jee-advanced|physics|laws-of-motion|motion-on-an-inclined-plane": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "laws-of-motion",
+    "topic": "motion-on-an-inclined-plane",
+    "name": "Motion On An Inclined Plane"
+  },
+  "jee-advanced|physics|laws-of-motion|newtons-laws-of-motion": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "laws-of-motion",
+    "topic": "newtons-laws-of-motion",
+    "name": "Newtons Laws Of Motion"
+  },
+  "jee-advanced|physics|laws-of-motion|spring-force": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "laws-of-motion",
+    "topic": "spring-force",
+    "name": "Spring Force"
+  },
+  "jee-advanced|physics|magnetism|amperes-circuital-law": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "magnetism",
+    "topic": "amperes-circuital-law",
+    "name": "Amperes Circuital Law"
+  },
+  "jee-advanced|physics|magnetism|bar-magnet-or-magnetic-dipole": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "magnetism",
+    "topic": "bar-magnet-or-magnetic-dipole",
+    "name": "Bar Magnet Or Magnetic Dipole"
+  },
+  "jee-advanced|physics|magnetism|biot-savarts-law-and-magnetic-field-due-to-current-carrying-wire": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "magnetism",
+    "topic": "biot-savarts-law-and-magnetic-field-due-to-current-carrying-wire",
+    "name": "Biot Savarts Law And Magnetic Field Due To Current Carrying Wire"
+  },
+  "jee-advanced|physics|magnetism|force-and-torque-on-current-carrying-conductor": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "magnetism",
+    "topic": "force-and-torque-on-current-carrying-conductor",
+    "name": "Force And Torque On Current Carrying Conductor"
+  },
+  "jee-advanced|physics|magnetism|magnetic-moment": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "magnetism",
+    "topic": "magnetic-moment",
+    "name": "Magnetic Moment"
+  },
+  "jee-advanced|physics|magnetism|magnetic-properties-of-matter": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "magnetism",
+    "topic": "magnetic-properties-of-matter",
+    "name": "Magnetic Properties Of Matter"
+  },
+  "jee-advanced|physics|magnetism|motion-of-charged-particle-inside-magnetic-field": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "magnetism",
+    "topic": "motion-of-charged-particle-inside-magnetic-field",
+    "name": "Motion Of Charged Particle Inside Magnetic Field"
+  },
+  "jee-advanced|physics|magnetism|moving-coil-galvanometer": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "magnetism",
+    "topic": "moving-coil-galvanometer",
+    "name": "Moving Coil Galvanometer"
+  },
+  "jee-advanced|physics|motion|graph-based-problem": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "motion",
+    "topic": "graph-based-problem",
+    "name": "Graph Based Problem"
+  },
+  "jee-advanced|physics|motion|projectile-motion": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "motion",
+    "topic": "projectile-motion",
+    "name": "Projectile Motion"
+  },
+  "jee-advanced|physics|motion|relative-motion-in-one-dimension": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "motion",
+    "topic": "relative-motion-in-one-dimension",
+    "name": "Relative Motion In One Dimension"
+  },
+  "jee-advanced|physics|motion|relative-motion-in-two-dimension": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "motion",
+    "topic": "relative-motion-in-two-dimension",
+    "name": "Relative Motion In Two Dimension"
+  },
+  "jee-advanced|physics|motion|variable-acceleration": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "motion",
+    "topic": "variable-acceleration",
+    "name": "Variable Acceleration"
+  },
+  "jee-advanced|physics|properties-of-matter|fluid-flow-bernoullis-principle-and-viscosity": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "properties-of-matter",
+    "topic": "fluid-flow-bernoullis-principle-and-viscosity",
+    "name": "Fluid Flow Bernoullis Principle And Viscosity"
+  },
+  "jee-advanced|physics|properties-of-matter|mechanical-properties-of-solids": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "properties-of-matter",
+    "topic": "mechanical-properties-of-solids",
+    "name": "Mechanical Properties Of Solids"
+  },
+  "jee-advanced|physics|properties-of-matter|newtons-law-of-cooling": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "properties-of-matter",
+    "topic": "newtons-law-of-cooling",
+    "name": "Newtons Law Of Cooling"
+  },
+  "jee-advanced|physics|properties-of-matter|pressure-density-pascals-law-and-archimedes-principle": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "properties-of-matter",
+    "topic": "pressure-density-pascals-law-and-archimedes-principle",
+    "name": "Pressure Density Pascals Law And Archimedes Principle"
+  },
+  "jee-advanced|physics|properties-of-matter|stress-strain-curve-thermal-stress-and-elastic-pe": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "properties-of-matter",
+    "topic": "stress-strain-curve-thermal-stress-and-elastic-pe",
+    "name": "Stress Strain Curve Thermal Stress And Elastic Pe"
+  },
+  "jee-advanced|physics|properties-of-matter|surface-tension-excess-pressure-and-capillarity": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "properties-of-matter",
+    "topic": "surface-tension-excess-pressure-and-capillarity",
+    "name": "Surface Tension Excess Pressure And Capillarity"
+  },
+  "jee-advanced|physics|rotational-motion|angular-momentum": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "rotational-motion",
+    "topic": "angular-momentum",
+    "name": "Angular Momentum"
+  },
+  "jee-advanced|physics|rotational-motion|combined-translational-and-rotational-motion": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "rotational-motion",
+    "topic": "combined-translational-and-rotational-motion",
+    "name": "Combined Translational And Rotational Motion"
+  },
+  "jee-advanced|physics|rotational-motion|moment-of-inertia": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "rotational-motion",
+    "topic": "moment-of-inertia",
+    "name": "Moment Of Inertia"
+  },
+  "jee-advanced|physics|rotational-motion|torque": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "rotational-motion",
+    "topic": "torque",
+    "name": "Torque"
+  },
+  "jee-advanced|physics|simple-harmonic-motion|forced-damped-oscillations-and-resonance": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "simple-harmonic-motion",
+    "topic": "forced-damped-oscillations-and-resonance",
+    "name": "Forced Damped Oscillations And Resonance"
+  },
+  "jee-advanced|physics|simple-harmonic-motion|simple-harmonic-motion": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "simple-harmonic-motion",
+    "topic": "simple-harmonic-motion",
+    "name": "Simple Harmonic Motion"
+  },
+  "jee-advanced|physics|simple-harmonic-motion|some-systems-of-executing-shm": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "simple-harmonic-motion",
+    "topic": "some-systems-of-executing-shm",
+    "name": "Some Systems Of Executing Shm"
+  },
+  "jee-advanced|physics|units-and-measurements|dimensions-of-physical-quantities": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "units-and-measurements",
+    "topic": "dimensions-of-physical-quantities",
+    "name": "Dimensions Of Physical Quantities"
+  },
+  "jee-advanced|physics|units-and-measurements|errors-in-measurement": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "units-and-measurements",
+    "topic": "errors-in-measurement",
+    "name": "Errors In Measurement"
+  },
+  "jee-advanced|physics|units-and-measurements|screw-gauge": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "units-and-measurements",
+    "topic": "screw-gauge",
+    "name": "Screw Gauge"
+  },
+  "jee-advanced|physics|units-and-measurements|unit-of-physical-quantities": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "units-and-measurements",
+    "topic": "unit-of-physical-quantities",
+    "name": "Unit Of Physical Quantities"
+  },
+  "jee-advanced|physics|units-and-measurements|vernier-calipers": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "units-and-measurements",
+    "topic": "vernier-calipers",
+    "name": "Vernier Calipers"
+  },
+  "jee-advanced|physics|wave-optics|diffraction-and-doppler-effect-of-light": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "wave-optics",
+    "topic": "diffraction-and-doppler-effect-of-light",
+    "name": "Diffraction And Doppler Effect Of Light"
+  },
+  "jee-advanced|physics|wave-optics|huygens-principle-and-interference-of-light": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "wave-optics",
+    "topic": "huygens-principle-and-interference-of-light",
+    "name": "Huygens Principle And Interference Of Light"
+  },
+  "jee-advanced|physics|wave-optics|polarisation": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "wave-optics",
+    "topic": "polarisation",
+    "name": "Polarisation"
+  },
+  "jee-advanced|physics|work-power-and-energy|energy": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "work-power-and-energy",
+    "topic": "energy",
+    "name": "Energy"
+  },
+  "jee-advanced|physics|work-power-and-energy|power": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "work-power-and-energy",
+    "topic": "power",
+    "name": "Power"
+  },
+  "jee-advanced|physics|work-power-and-energy|work": {
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "chapter": "work-power-and-energy",
+    "topic": "work",
+    "name": "Work"
+  },
   "jee-main|chemistry|alcohols-phenols-and-ethers|properties-preparation-and-uses-of-alcohols": {
     "exam": "jee-main",
     "subject": "chemistry",
@@ -1195,6 +3862,13 @@
     "chapter": "application-of-derivatives",
     "topic": "monotonicity",
     "name": "Monotonicity"
+  },
+  "jee-main|mathematics|application-of-derivatives|nature-of-roots": {
+    "exam": "jee-main",
+    "subject": "mathematics",
+    "chapter": "application-of-derivatives",
+    "topic": "nature-of-roots",
+    "name": "Nature Of Roots"
   },
   "jee-main|mathematics|application-of-derivatives|rate-of-change-of-quantity": {
     "exam": "jee-main",

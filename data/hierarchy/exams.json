@@ -1,4 +1,13 @@
 {
+  "jee-advanced": {
+    "id": "jee-advanced",
+    "name": "JEE Advanced",
+    "subjects": [
+      "chemistry",
+      "mathematics",
+      "physics"
+    ]
+  },
   "jee-main": {
     "id": "jee-main",
     "name": "JEE Main",

@@ -1,4 +1,324 @@
 {
+  "iit-jee-2007-paper-1-offline": {
+    "paperId": "iit-jee-2007-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2007,
+    "title": "IIT-JEE 2007 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2007/iit-jee-2007-paper-1-offline.json",
+    "questionCount": 66
+  },
+  "iit-jee-2007-paper-2-offline": {
+    "paperId": "iit-jee-2007-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2007,
+    "title": "IIT-JEE 2007 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2007/iit-jee-2007-paper-2-offline.json",
+    "questionCount": 66
+  },
+  "iit-jee-2008-paper-1-offline": {
+    "paperId": "iit-jee-2008-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2008,
+    "title": "IIT-JEE 2008 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2008/iit-jee-2008-paper-1-offline.json",
+    "questionCount": 69
+  },
+  "iit-jee-2008-paper-2-offline": {
+    "paperId": "iit-jee-2008-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2008,
+    "title": "IIT-JEE 2008 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2008/iit-jee-2008-paper-2-offline.json",
+    "questionCount": 66
+  },
+  "iit-jee-2009-paper-1-offline": {
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2009,
+    "title": "IIT-JEE 2009 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2009/iit-jee-2009-paper-1-offline.json",
+    "questionCount": 60
+  },
+  "iit-jee-2009-paper-2-offline": {
+    "paperId": "iit-jee-2009-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2009,
+    "title": "IIT-JEE 2009 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2009/iit-jee-2009-paper-2-offline.json",
+    "questionCount": 57
+  },
+  "iit-jee-2010-paper-1-offline": {
+    "paperId": "iit-jee-2010-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2010,
+    "title": "IIT-JEE 2010 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2010/iit-jee-2010-paper-1-offline.json",
+    "questionCount": 84
+  },
+  "iit-jee-2010-paper-2-offline": {
+    "paperId": "iit-jee-2010-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2010,
+    "title": "IIT-JEE 2010 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2010/iit-jee-2010-paper-2-offline.json",
+    "questionCount": 57
+  },
+  "iit-jee-2011-paper-1-offline": {
+    "paperId": "iit-jee-2011-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2011,
+    "title": "IIT-JEE 2011 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2011/iit-jee-2011-paper-1-offline.json",
+    "questionCount": 69
+  },
+  "iit-jee-2011-paper-2-offline": {
+    "paperId": "iit-jee-2011-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2011,
+    "title": "IIT-JEE 2011 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2011/iit-jee-2011-paper-2-offline.json",
+    "questionCount": 60
+  },
+  "iit-jee-2012-paper-1-offline": {
+    "paperId": "iit-jee-2012-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2012,
+    "title": "IIT-JEE 2012 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2012/iit-jee-2012-paper-1-offline.json",
+    "questionCount": 60
+  },
+  "iit-jee-2012-paper-2-offline": {
+    "paperId": "iit-jee-2012-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2012,
+    "title": "IIT-JEE 2012 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2012/iit-jee-2012-paper-2-offline.json",
+    "questionCount": 60
+  },
+  "jee-advanced-2013-paper-1-offline": {
+    "paperId": "jee-advanced-2013-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2013,
+    "title": "JEE Advanced 2013 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2013/jee-advanced-2013-paper-1-offline.json",
+    "questionCount": 60
+  },
+  "jee-advanced-2013-paper-2-offline": {
+    "paperId": "jee-advanced-2013-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2013,
+    "title": "JEE Advanced 2013 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2013/jee-advanced-2013-paper-2-offline.json",
+    "questionCount": 60
+  },
+  "jee-advanced-2014-paper-1-offline": {
+    "paperId": "jee-advanced-2014-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2014,
+    "title": "JEE Advanced 2014 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2014/jee-advanced-2014-paper-1-offline.json",
+    "questionCount": 60
+  },
+  "jee-advanced-2014-paper-2-offline": {
+    "paperId": "jee-advanced-2014-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2014,
+    "title": "JEE Advanced 2014 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2014/jee-advanced-2014-paper-2-offline.json",
+    "questionCount": 60
+  },
+  "jee-advanced-2015-paper-1-offline": {
+    "paperId": "jee-advanced-2015-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2015,
+    "title": "JEE Advanced 2015 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2015/jee-advanced-2015-paper-1-offline.json",
+    "questionCount": 60
+  },
+  "jee-advanced-2015-paper-2-offline": {
+    "paperId": "jee-advanced-2015-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2015,
+    "title": "JEE Advanced 2015 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2015/jee-advanced-2015-paper-2-offline.json",
+    "questionCount": 60
+  },
+  "jee-advanced-2016-paper-1-offline": {
+    "paperId": "jee-advanced-2016-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2016,
+    "title": "JEE Advanced 2016 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2016/jee-advanced-2016-paper-1-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2016-paper-2-offline": {
+    "paperId": "jee-advanced-2016-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2016,
+    "title": "JEE Advanced 2016 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2016/jee-advanced-2016-paper-2-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2017-paper-1-offline": {
+    "paperId": "jee-advanced-2017-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2017,
+    "title": "JEE Advanced 2017 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2017/jee-advanced-2017-paper-1-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2017-paper-2-offline": {
+    "paperId": "jee-advanced-2017-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2017,
+    "title": "JEE Advanced 2017 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2017/jee-advanced-2017-paper-2-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2018-paper-1-offline": {
+    "paperId": "jee-advanced-2018-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2018,
+    "title": "JEE Advanced 2018 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2018/jee-advanced-2018-paper-1-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2019-paper-1-offline": {
+    "paperId": "jee-advanced-2019-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2019,
+    "title": "JEE Advanced 2019 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2019/jee-advanced-2019-paper-1-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2019-paper-2-offline": {
+    "paperId": "jee-advanced-2019-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2019,
+    "title": "JEE Advanced 2019 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2019/jee-advanced-2019-paper-2-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2020-paper-1-offline": {
+    "paperId": "jee-advanced-2020-paper-1-offline",
+    "exam": "jee-advanced",
+    "year": 2020,
+    "title": "JEE Advanced 2020 Paper 1 Offline",
+    "file": "data/questions/jee-advanced/2020/jee-advanced-2020-paper-1-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2020-paper-2-offline": {
+    "paperId": "jee-advanced-2020-paper-2-offline",
+    "exam": "jee-advanced",
+    "year": 2020,
+    "title": "JEE Advanced 2020 Paper 2 Offline",
+    "file": "data/questions/jee-advanced/2020/jee-advanced-2020-paper-2-offline.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2021-paper-1-online": {
+    "paperId": "jee-advanced-2021-paper-1-online",
+    "exam": "jee-advanced",
+    "year": 2021,
+    "title": "JEE Advanced 2021 Paper 1 Online",
+    "file": "data/questions/jee-advanced/2021/jee-advanced-2021-paper-1-online.json",
+    "questionCount": 57
+  },
+  "jee-advanced-2021-paper-2-online": {
+    "paperId": "jee-advanced-2021-paper-2-online",
+    "exam": "jee-advanced",
+    "year": 2021,
+    "title": "JEE Advanced 2021 Paper 2 Online",
+    "file": "data/questions/jee-advanced/2021/jee-advanced-2021-paper-2-online.json",
+    "questionCount": 57
+  },
+  "jee-advanced-2022-paper-1-online": {
+    "paperId": "jee-advanced-2022-paper-1-online",
+    "exam": "jee-advanced",
+    "year": 2022,
+    "title": "JEE Advanced 2022 Paper 1 Online",
+    "file": "data/questions/jee-advanced/2022/jee-advanced-2022-paper-1-online.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2022-paper-2-online": {
+    "paperId": "jee-advanced-2022-paper-2-online",
+    "exam": "jee-advanced",
+    "year": 2022,
+    "title": "JEE Advanced 2022 Paper 2 Online",
+    "file": "data/questions/jee-advanced/2022/jee-advanced-2022-paper-2-online.json",
+    "questionCount": 54
+  },
+  "jee-advanced-2023-paper-1-online": {
+    "paperId": "jee-advanced-2023-paper-1-online",
+    "exam": "jee-advanced",
+    "year": 2023,
+    "title": "JEE Advanced 2023 Paper 1 Online",
+    "file": "data/questions/jee-advanced/2023/jee-advanced-2023-paper-1-online.json",
+    "questionCount": 51
+  },
+  "jee-advanced-2023-paper-2-online": {
+    "paperId": "jee-advanced-2023-paper-2-online",
+    "exam": "jee-advanced",
+    "year": 2023,
+    "title": "JEE Advanced 2023 Paper 2 Online",
+    "file": "data/questions/jee-advanced/2023/jee-advanced-2023-paper-2-online.json",
+    "questionCount": 51
+  },
+  "jee-advanced-2024-paper-1-online": {
+    "paperId": "jee-advanced-2024-paper-1-online",
+    "exam": "jee-advanced",
+    "year": 2024,
+    "title": "JEE Advanced 2024 Paper 1 Online",
+    "file": "data/questions/jee-advanced/2024/jee-advanced-2024-paper-1-online.json",
+    "questionCount": 51
+  },
+  "jee-advanced-2024-paper-2-online": {
+    "paperId": "jee-advanced-2024-paper-2-online",
+    "exam": "jee-advanced",
+    "year": 2024,
+    "title": "JEE Advanced 2024 Paper 2 Online",
+    "file": "data/questions/jee-advanced/2024/jee-advanced-2024-paper-2-online.json",
+    "questionCount": 51
+  },
+  "jee-advanced-2025-paper-1-online": {
+    "paperId": "jee-advanced-2025-paper-1-online",
+    "exam": "jee-advanced",
+    "year": 2025,
+    "title": "JEE Advanced 2025 Paper 1 Online",
+    "file": "data/questions/jee-advanced/2025/jee-advanced-2025-paper-1-online.json",
+    "questionCount": 48
+  },
+  "jee-advanced-2025-paper-2-online": {
+    "paperId": "jee-advanced-2025-paper-2-online",
+    "exam": "jee-advanced",
+    "year": 2025,
+    "title": "JEE Advanced 2025 Paper 2 Online",
+    "file": "data/questions/jee-advanced/2025/jee-advanced-2025-paper-2-online.json",
+    "questionCount": 48
+  },
+  "jee-advanced-2026-paper-1-online": {
+    "paperId": "jee-advanced-2026-paper-1-online",
+    "exam": "jee-advanced",
+    "year": 2026,
+    "title": "JEE Advanced 2026 Paper 1 Online",
+    "file": "data/questions/jee-advanced/2026/jee-advanced-2026-paper-1-online.json",
+    "questionCount": 48
+  },
+  "jee-advanced-2026-paper-2-online": {
+    "paperId": "jee-advanced-2026-paper-2-online",
+    "exam": "jee-advanced",
+    "year": 2026,
+    "title": "JEE Advanced 2026 Paper 2 Online",
+    "file": "data/questions/jee-advanced/2026/jee-advanced-2026-paper-2-online.json",
+    "questionCount": 54
+  },
+  "jee-main-2013-offline": {
+    "paperId": "jee-main-2013-offline",
+    "exam": "jee-main",
+    "year": 2013,
+    "title": "JEE Main 2013 (Offline)",
+    "file": "data/questions/jee-main/2013/jee-main-2013-offline.json",
+    "questionCount": 90
+  },
   "jee-main-2014-offline": {
     "paperId": "jee-main-2014-offline",
     "exam": "jee-main",
