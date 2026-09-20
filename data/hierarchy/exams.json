@@ -1,11 +1,11 @@
-﻿{
-    "jee-main":  {
-                     "id":  "jee-main",
-                     "name":  "JEE Main",
-                     "subjects":  [
-                                      "chemistry",
-                                      "mathematics",
-                                      "physics"
-                                  ]
-                 }
+{
+  "jee-main": {
+    "id": "jee-main",
+    "name": "JEE Main",
+    "subjects": [
+      "chemistry",
+      "mathematics",
+      "physics"
+    ]
+  }
 }

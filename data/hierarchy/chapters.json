@@ -1,1047 +1,1046 @@
-﻿{
-    "jee-main":  {
-                     "chemistry":  {
-                                       "alcohols-phenols-and-ethers":  {
-                                                                           "id":  "alcohols-phenols-and-ethers",
-                                                                           "name":  "Alcohols Phenols And Ethers",
-                                                                           "topics":  [
-                                                                                          "properties-preparation-and-uses-of-alcohols",
-                                                                                          "properties-preparation-and-uses-of-ethers",
-                                                                                          "properties-preparation-and-uses-of-phenols"
-                                                                                      ]
-                                                                       },
-                                       "aldehydes-ketones-and-carboxylic-acids":  {
-                                                                                      "id":  "aldehydes-ketones-and-carboxylic-acids",
-                                                                                      "name":  "Aldehydes Ketones And Carboxylic Acids",
-                                                                                      "topics":  [
-                                                                                                     "chemical-reactions-for-aldehydes-and-ketones",
-                                                                                                     "method-of-preparation-for-aldehydes",
-                                                                                                     "preparation-methods-for-both-aldehydes-and-ketones",
-                                                                                                     "preparation-properties-and-uses-of-carboxylic-acids",
-                                                                                                     "reactions-involving-aldehydes",
-                                                                                                     "tests-for-aldehyde-and-ketones"
-                                                                                                 ]
-                                                                                  },
-                                       "basics-of-organic-chemistry":  {
-                                                                           "id":  "basics-of-organic-chemistry",
-                                                                           "name":  "Basics Of Organic Chemistry",
-                                                                           "topics":  [
-                                                                                          "acid-and-base-strength",
-                                                                                          "aromaticity",
-                                                                                          "electron-displacement-effect",
-                                                                                          "isomerism",
-                                                                                          "iupac-nomenclature",
-                                                                                          "purification-of-organic-compounds",
-                                                                                          "stability-of-intermediate"
-                                                                                      ]
-                                                                       },
-                                       "biomolecules":  {
-                                                            "id":  "biomolecules",
-                                                            "name":  "Biomolecules",
-                                                            "topics":  [
-                                                                           "carbohydrates",
-                                                                           "proteins-and-enzymes",
-                                                                           "vitamins-and-nucleic-acids"
-                                                                       ]
-                                                        },
-                                       "chemical-bonding-and-molecular-structure":  {
-                                                                                        "id":  "chemical-bonding-and-molecular-structure",
-                                                                                        "name":  "Chemical Bonding And Molecular Structure",
-                                                                                        "topics":  [
-                                                                                                       "bond-parameters",
-                                                                                                       "covalent-and-co-ordinate-bond",
-                                                                                                       "dipole-moment",
-                                                                                                       "hybridization-and-vsepr-theory",
-                                                                                                       "hydrogen-bonding",
-                                                                                                       "hydrolysis",
-                                                                                                       "ionic-bond",
-                                                                                                       "lewis-theory",
-                                                                                                       "molecular-orbital-theory",
-                                                                                                       "resonance",
-                                                                                                       "valence-bond-theory",
-                                                                                                       "van-der-walls-forces"
-                                                                                                   ]
-                                                                                    },
-                                       "chemical-equilibrium":  {
-                                                                    "id":  "chemical-equilibrium",
-                                                                    "name":  "Chemical Equilibrium",
-                                                                    "topics":  [
-                                                                                   "chemical-equilibrium-law-of-mass-action-and-equilibrium-constant",
-                                                                                   "le-chateliers-principle-and-factors-affecting-chemical-equilibrium"
-                                                                               ]
-                                                                },
-                                       "chemical-kinetics-and-nuclear-chemistry":  {
-                                                                                       "id":  "chemical-kinetics-and-nuclear-chemistry",
-                                                                                       "name":  "Chemical Kinetics And Nuclear Chemistry",
-                                                                                       "topics":  [
-                                                                                                      "arrhenius-equation",
-                                                                                                      "different-methods-to-determine-order-of-reaction",
-                                                                                                      "integrated-rate-law-equations",
-                                                                                                      "nuclear-chemistry",
-                                                                                                      "rate-laws-and-rate-constant",
-                                                                                                      "rate-of-reaction"
-                                                                                                  ]
-                                                                                   },
-                                       "chemistry-in-everyday-life":  {
-                                                                          "id":  "chemistry-in-everyday-life",
-                                                                          "name":  "Chemistry In Everyday Life",
-                                                                          "topics":  [
-                                                                                         "chemicals-in-foods",
-                                                                                         "chemicals-in-medicines",
-                                                                                         "cleansing-agents"
-                                                                                     ]
-                                                                      },
-                                       "compounds-containing-nitrogen":  {
-                                                                             "id":  "compounds-containing-nitrogen",
-                                                                             "name":  "Compounds Containing Nitrogen",
-                                                                             "topics":  [
-                                                                                            "aliphatic-amines",
-                                                                                            "aromatic-amines",
-                                                                                            "diazonium-salts-and-other-nitrogen-containing-compounds"
-                                                                                        ]
-                                                                         },
-                                       "coordination-compounds":  {
-                                                                      "id":  "coordination-compounds",
-                                                                      "name":  "Coordination Compounds",
-                                                                      "topics":  [
-                                                                                     "application-of-coordination-compound-and-organometallic-compounds",
-                                                                                     "coordination-number",
-                                                                                     "crystal-field-theory-cft",
-                                                                                     "isomerism-of-coordination-compounds",
-                                                                                     "isomerisom-of-coordination-compounds",
-                                                                                     "nomenclature-of-coordination-compounds",
-                                                                                     "synergic-bonding",
-                                                                                     "warners-theory-and-valence-bond-theory"
-                                                                                 ]
-                                                                  },
-                                       "d-and-f-block-elements":  {
-                                                                      "id":  "d-and-f-block-elements",
-                                                                      "name":  "D And F Block Elements",
-                                                                      "topics":  [
-                                                                                     "important-compounds-of-transition-elements",
-                                                                                     "inner-transition-elements-lanthanoids-and-actinoids",
-                                                                                     "properties-of-transition-elements"
-                                                                                 ]
-                                                                  },
-                                       "electrochemistry":  {
-                                                                "id":  "electrochemistry",
-                                                                "name":  "Electrochemistry",
-                                                                "topics":  [
-                                                                               "batteries-fuel-cells-and-corrosion",
-                                                                               "conductance-and-electrolysis",
-                                                                               "electrochemical-series-cell-and-their-emf"
-                                                                           ]
-                                                            },
-                                       "environmental-chemistry":  {
-                                                                       "id":  "environmental-chemistry",
-                                                                       "name":  "Environmental Chemistry",
-                                                                       "topics":  [
-                                                                                      "air-pollution",
-                                                                                      "environmental-pollution",
-                                                                                      "soil-pollution",
-                                                                                      "water-pollution"
-                                                                                  ]
-                                                                   },
-                                       "gaseous-state":  {
-                                                             "id":  "gaseous-state",
-                                                             "name":  "Gaseous State",
-                                                             "topics":  [
-                                                                            "critical-phenomenon-and-liquefaction",
-                                                                            "daltons-law-of-partial-pressure",
-                                                                            "gas-laws",
-                                                                            "ideal-gas-equation",
-                                                                            "kinetic-theory-of-gases",
-                                                                            "maxwells-distribution-of-speed",
-                                                                            "real-gas-and-van-der-walls-equation"
-                                                                        ]
-                                                         },
-                                       "haloalkanes-and-haloarenes":  {
-                                                                          "id":  "haloalkanes-and-haloarenes",
-                                                                          "name":  "Haloalkanes And Haloarenes",
-                                                                          "topics":  [
-                                                                                         "haloalkanes",
-                                                                                         "haloarenes",
-                                                                                         "some-important-polyhalogens-compounds"
-                                                                                     ]
-                                                                      },
-                                       "hydrocarbons":  {
-                                                            "id":  "hydrocarbons",
-                                                            "name":  "Hydrocarbons",
-                                                            "topics":  [
-                                                                           "aromatic-hydrocarbons",
-                                                                           "properties-and-preparation-of-alkanes",
-                                                                           "properties-and-preparation-of-alkenes",
-                                                                           "properties-and-preparation-of-alkynes",
-                                                                           "reaction-of-alkanes",
-                                                                           "reaction-of-alkenes",
-                                                                           "reaction-of-alkynes"
-                                                                       ]
-                                                        },
-                                       "hydrogen":  {
-                                                        "id":  "hydrogen",
-                                                        "name":  "Hydrogen",
-                                                        "topics":  [
-                                                                       "hard-and-soft-water",
-                                                                       "hydrides",
-                                                                       "hydrogen-peroxide",
-                                                                       "preparation-and-properties-of-hydrogen",
-                                                                       "water-and-heavy-water"
-                                                                   ]
-                                                    },
-                                       "ionic-equilibrium":  {
-                                                                 "id":  "ionic-equilibrium",
-                                                                 "name":  "Ionic Equilibrium",
-                                                                 "topics":  [
-                                                                                "ostwalds-dilution-law-and-concept-of-acid-and-base",
-                                                                                "ph-buffer-and-indicators",
-                                                                                "salt-hydrolysis",
-                                                                                "solubility-product-and-common-ion-effect"
-                                                                            ]
-                                                             },
-                                       "isolation-of-elements":  {
-                                                                     "id":  "isolation-of-elements",
-                                                                     "name":  "Isolation Of Elements",
-                                                                     "topics":  [
-                                                                                    "concentration-of-ore",
-                                                                                    "ellingham-diagram",
-                                                                                    "extractions-of-metals",
-                                                                                    "minerals-and-ores",
-                                                                                    "refining-or-purification-of-metal"
-                                                                                ]
-                                                                 },
-                                       "p-block-elements":  {
-                                                                "id":  "p-block-elements",
-                                                                "name":  "P Block Elements",
-                                                                "topics":  [
-                                                                               "group-13-elements-boron-family",
-                                                                               "group-14-elements-carbon-family",
-                                                                               "group-15-elements-nitrogen-family",
-                                                                               "group-16-elements-oxygen-family",
-                                                                               "group-17-elements-halogen-family",
-                                                                               "group-18-elements-inert-or-noble-gases"
-                                                                           ]
-                                                            },
-                                       "periodic-table-and-periodicity":  {
-                                                                              "id":  "periodic-table-and-periodicity",
-                                                                              "name":  "Periodic Table And Periodicity",
-                                                                              "topics":  [
-                                                                                             "atomic-and-ionic-radius",
-                                                                                             "effective-nuclear-charge",
-                                                                                             "electronegativity",
-                                                                                             "electron-gain-enthalpy",
-                                                                                             "ionization-energy",
-                                                                                             "nature-of-oxide",
-                                                                                             "periodic-table-and-its-features"
-                                                                                         ]
-                                                                          },
-                                       "polymers":  {
-                                                        "id":  "polymers",
-                                                        "name":  "Polymers",
-                                                        "topics":  [
-                                                                       "classification-preparations-and-properties-of-polymers",
-                                                                       "uses-of-polymers"
-                                                                   ]
-                                                    },
-                                       "practical-organic-chemistry":  {
-                                                                           "id":  "practical-organic-chemistry",
-                                                                           "name":  "Practical Organic Chemistry",
-                                                                           "topics":  [
-                                                                                          "chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds",
-                                                                                          "chemistry-involved-in-titrimetric-experiments",
-                                                                                          "detection-of-extra-elements-and-functional-groups",
-                                                                                          "experiments-involving-physical-chemistry",
-                                                                                          "qualitative-salt-analysis"
-                                                                                      ]
-                                                                       },
-                                       "redox-reactions":  {
-                                                               "id":  "redox-reactions",
-                                                               "name":  "Redox Reactions",
-                                                               "topics":  [
-                                                                              "balancing-of-redox-reactions",
-                                                                              "equivalence",
-                                                                              "oxidation-and-reduction-reactions",
-                                                                              "oxidation-number",
-                                                                              "redox-titration",
-                                                                              "types-of-redox-reactions"
-                                                                          ]
-                                                           },
-                                       "salt-analysis":  {
-                                                             "id":  "salt-analysis",
-                                                             "name":  "Salt Analysis",
-                                                             "topics":  [
-                                                                            "chemical-principles",
-                                                                            "flame-and-charcoal-tests",
-                                                                            "introduction-to-qualitative-analysis",
-                                                                            "preliminary-tests",
-                                                                            "systematic-analysis-of-anions",
-                                                                            "systematic-analysis-of-cations"
-                                                                        ]
-                                                         },
-                                       "s-block-elements":  {
-                                                                "id":  "s-block-elements",
-                                                                "name":  "S Block Elements",
-                                                                "topics":  [
-                                                                               "compounds-of-alkali-metals",
-                                                                               "compounds-of-alkaline-earth-metals",
-                                                                               "physiochemical-trends-in-alkali-metals",
-                                                                               "physiochemical-trends-in-alkaline-earth-metals"
-                                                                           ]
-                                                            },
-                                       "solid-state":  {
-                                                           "id":  "solid-state",
-                                                           "name":  "Solid State",
-                                                           "topics":  [
-                                                                          "close-packing-in-crystals",
-                                                                          "crystal-structure-of-solids",
-                                                                          "defects-in-crystal",
-                                                                          "interestitial-voids",
-                                                                          "structure-of-ionic-compounds",
-                                                                          "type-of-solids-and-their-properties"
-                                                                      ]
-                                                       },
-                                       "solutions":  {
-                                                         "id":  "solutions",
-                                                         "name":  "Solutions",
-                                                         "topics":  [
-                                                                        "abnormal-colligative-property-and-vant-hoff-factor",
-                                                                        "depression-in-freezing-point",
-                                                                        "elevation-in-boiling-point",
-                                                                        "henrys-law",
-                                                                        "osmotic-pressure",
-                                                                        "relative-lowering-of-vapour-pressure-and-roults-law"
-                                                                    ]
-                                                     },
-                                       "some-basic-concepts-of-chemistry":  {
-                                                                                "id":  "some-basic-concepts-of-chemistry",
-                                                                                "name":  "Some Basic Concepts Of Chemistry",
-                                                                                "topics":  [
-                                                                                               "concentration-terms",
-                                                                                               "laws-of-chemical-combination",
-                                                                                               "mole-concept",
-                                                                                               "quantitative-measures-in-chemical-equations",
-                                                                                               "significant-figures"
-                                                                                           ]
-                                                                            },
-                                       "structure-of-atom":  {
-                                                                 "id":  "structure-of-atom",
-                                                                 "name":  "Structure Of Atom",
-                                                                 "topics":  [
-                                                                                "bohrs-model-for-hydrogen-atom",
-                                                                                "de-broglie-hypothesis",
-                                                                                "electronic-configuration-and-nodes",
-                                                                                "heisenberg-uncertainty-principle",
-                                                                                "hydrogen-spectrum",
-                                                                                "photoelectric-effect",
-                                                                                "quantum-mechanical-model-of-atom",
-                                                                                "quantum-numbers-and-orbitals",
-                                                                                "thomsons-model-and-rutherfords-model"
-                                                                            ]
-                                                             },
-                                       "surface-chemistry":  {
-                                                                 "id":  "surface-chemistry",
-                                                                 "name":  "Surface Chemistry",
-                                                                 "topics":  [
-                                                                                "adsorption",
-                                                                                "catalysis",
-                                                                                "colloids"
-                                                                            ]
-                                                             },
-                                       "thermodynamics":  {
-                                                              "id":  "thermodynamics",
-                                                              "name":  "Thermodynamics",
-                                                              "topics":  [
-                                                                             "entropy-free-energy-change-and-spontaneity",
-                                                                             "first-law-of-thermodynamics",
-                                                                             "fundamentals-of-thermodynamics",
-                                                                             "reactions-related-to-enthalpies-and-hesss-law",
-                                                                             "second-law-of-thermodynamics"
-                                                                         ]
-                                                          }
-                                   },
-                     "mathematics":  {
-                                         "3d-geometry":  {
-                                                             "id":  "3d-geometry",
-                                                             "name":  "3d Geometry",
-                                                             "topics":  [
-                                                                            "direction-cosines-and-direction-ratios-of-a-line",
-                                                                            "lines-and-plane",
-                                                                            "lines-in-space",
-                                                                            "plane-in-space"
-                                                                        ]
-                                                         },
-                                         "application-of-derivatives":  {
-                                                                            "id":  "application-of-derivatives",
-                                                                            "name":  "Application Of Derivatives",
-                                                                            "topics":  [
-                                                                                           "maxima-and-minima",
-                                                                                           "mean-value-theorem",
-                                                                                           "monotonicity",
-                                                                                           "nature-of-roots",
-                                                                                           "rate-of-change-of-quantity",
-                                                                                           "tangent-and-normal"
-                                                                                       ]
-                                                                        },
-                                         "area-under-the-curves":  {
-                                                                       "id":  "area-under-the-curves",
-                                                                       "name":  "Area Under The Curves",
-                                                                       "topics":  [
-                                                                                      "area-bounded-between-the-curves",
-                                                                                      "area-under-simple-curves-in-standard-forms"
-                                                                                  ]
-                                                                   },
-                                         "binomial-theorem":  {
-                                                                  "id":  "binomial-theorem",
-                                                                  "name":  "Binomial Theorem",
-                                                                  "topics":  [
-                                                                                 "binomial-theorem-for-any-index",
-                                                                                 "divisibility-concept-and-remainder-concept",
-                                                                                 "general-term",
-                                                                                 "integral-and-fractional-part-of-a-number",
-                                                                                 "middle-term",
-                                                                                 "multinomial-theorem",
-                                                                                 "negative-and-fractional-index",
-                                                                                 "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient"
-                                                                             ]
-                                                              },
-                                         "circle":  {
-                                                        "id":  "circle",
-                                                        "name":  "Circle",
-                                                        "topics":  [
-                                                                       "basic-theorems-of-a-circle",
-                                                                       "chord-of-contact",
-                                                                       "chord-with-a-given-middle-point",
-                                                                       "director-circle",
-                                                                       "family-of-circle",
-                                                                       "intercepts-of-a-circle",
-                                                                       "number-of-common-tangents-and-position-of-two-circle",
-                                                                       "orthogonality-of-two-circles",
-                                                                       "pair-of-tangents",
-                                                                       "parametric-form-of-a-circle",
-                                                                       "position-of-a-point-with-respect-to-circle",
-                                                                       "radical-axis",
-                                                                       "tangent-and-normal"
-                                                                   ]
-                                                    },
-                                         "complex-numbers":  {
-                                                                 "id":  "complex-numbers",
-                                                                 "name":  "Complex Numbers",
-                                                                 "topics":  [
-                                                                                "algebra-of-complex-numbers",
-                                                                                "applications-of-complex-numbers-in-coordinate-geometry",
-                                                                                "argument-of-complex-numbers",
-                                                                                "conjugate-of-complex-numbers",
-                                                                                "cube-roots-of-unity",
-                                                                                "de-moivres-theorem",
-                                                                                "modulus-of-complex-numbers",
-                                                                                "nth-roots-of-unity",
-                                                                                "square-root-of-a-complex-number"
-                                                                            ]
-                                                             },
-                                         "definite-integration":  {
-                                                                      "id":  "definite-integration",
-                                                                      "name":  "Definite Integration",
-                                                                      "topics":  [
-                                                                                     "definite-integral-as-a-limit-of-sum",
-                                                                                     "limits-of-algebric-function",
-                                                                                     "newton-lebnitz-rule-of-differentiation",
-                                                                                     "properties-of-definite-integration"
-                                                                                 ]
-                                                                  },
-                                         "differential-equations":  {
-                                                                        "id":  "differential-equations",
-                                                                        "name":  "Differential Equations",
-                                                                        "topics":  [
-                                                                                       "formation-of-differential-equations",
-                                                                                       "linear-differential-equations",
-                                                                                       "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous"
-                                                                                   ]
-                                                                    },
-                                         "differentiation":  {
-                                                                 "id":  "differentiation",
-                                                                 "name":  "Differentiation",
-                                                                 "topics":  [
-                                                                                "differentiation-of-a-function-with-respect-to-another-function",
-                                                                                "differentiation-of-composite-function",
-                                                                                "differentiation-of-implicit-function",
-                                                                                "differentiation-of-inverse-trigonometric-function",
-                                                                                "differentiation-of-logarithmic-function",
-                                                                                "differentiation-of-parametric-function",
-                                                                                "methods-of-differentiation",
-                                                                                "successive-differentiation"
-                                                                            ]
-                                                             },
-                                         "ellipse":  {
-                                                         "id":  "ellipse",
-                                                         "name":  "Ellipse",
-                                                         "topics":  [
-                                                                        "chord-of-ellipse",
-                                                                        "common-tangent",
-                                                                        "locus",
-                                                                        "normal-to-ellipse",
-                                                                        "position-of-point-and-chord-joining-of-two-points",
-                                                                        "question-based-on-basic-definition-and-parametric-representation",
-                                                                        "tangent-to-ellipse"
-                                                                    ]
-                                                     },
-                                         "functions":  {
-                                                           "id":  "functions",
-                                                           "name":  "Functions",
-                                                           "topics":  [
-                                                                          "classification-of-functions",
-                                                                          "composite-functions",
-                                                                          "domain",
-                                                                          "even-and-odd-functions",
-                                                                          "functional-equations",
-                                                                          "inverse-functions",
-                                                                          "periodic-functions",
-                                                                          "range"
-                                                                      ]
-                                                       },
-                                         "height-and-distance":  {
-                                                                     "id":  "height-and-distance",
-                                                                     "name":  "Height And Distance",
-                                                                     "topics":  [
-                                                                                    "height-and-distance"
-                                                                                ]
-                                                                 },
-                                         "hyperbola":  {
-                                                           "id":  "hyperbola",
-                                                           "name":  "Hyperbola",
-                                                           "topics":  [
-                                                                          "common-tangent",
-                                                                          "locus",
-                                                                          "normal-to-hyperbola",
-                                                                          "position-of-point-and-chord-joining-of-two-points",
-                                                                          "question-based-on-basic-definition-and-parametric-representation",
-                                                                          "rectangular-hyperbola",
-                                                                          "tangent-to-hyperbola"
-                                                                      ]
-                                                       },
-                                         "indefinite-integrals":  {
-                                                                      "id":  "indefinite-integrals",
-                                                                      "name":  "Indefinite Integrals",
-                                                                      "topics":  [
-                                                                                     "integration-by-partial-fraction",
-                                                                                     "integration-by-parts",
-                                                                                     "integration-by-substitution",
-                                                                                     "standard-integral"
-                                                                                 ]
-                                                                  },
-                                         "inverse-trigonometric-functions":  {
-                                                                                 "id":  "inverse-trigonometric-functions",
-                                                                                 "name":  "Inverse Trigonometric Functions",
-                                                                                 "topics":  [
-                                                                                                "domain-and-range-of-inverse-trigonometric-functions",
-                                                                                                "principal-value-of-inverse-trigonometric-functions",
-                                                                                                "properties-of-inverse-trigonometric-functions",
-                                                                                                "sum-upto-n-terms-and-infinite-terms-of-inverse-series"
-                                                                                            ]
-                                                                             },
-                                         "limits-continuity-and-differentiability":  {
-                                                                                         "id":  "limits-continuity-and-differentiability",
-                                                                                         "name":  "Limits Continuity And Differentiability",
-                                                                                         "topics":  [
-                                                                                                        "continuity",
-                                                                                                        "differentiability",
-                                                                                                        "existance-of-limits",
-                                                                                                        "limits-of-algebric-function",
-                                                                                                        "limits-of-exponential-functions",
-                                                                                                        "limits-of-logarithmic-functions",
-                                                                                                        "limits-of-trigonometric-functions"
-                                                                                                    ]
-                                                                                     },
-                                         "logarithm":  {
-                                                           "id":  "logarithm",
-                                                           "name":  "Logarithm",
-                                                           "topics":  [
-                                                                          "logarithmic-equations",
-                                                                          "logarithmic-properties",
-                                                                          "logarithm-inequalities"
-                                                                      ]
-                                                       },
-                                         "mathematical-reasoning":  {
-                                                                        "id":  "mathematical-reasoning",
-                                                                        "name":  "Mathematical Reasoning",
-                                                                        "topics":  [
-                                                                                       "logical-connectives",
-                                                                                       "logical-statement"
-                                                                                   ]
-                                                                    },
-                                         "matrices-and-determinants":  {
-                                                                           "id":  "matrices-and-determinants",
-                                                                           "name":  "Matrices And Determinants",
-                                                                           "topics":  [
-                                                                                          "adjoint-of-a-matrix",
-                                                                                          "basic-of-matrix",
-                                                                                          "expansion-of-determinant",
-                                                                                          "inverse-of-a-matrix",
-                                                                                          "multiplication-of-matrices",
-                                                                                          "operations-on-matrices",
-                                                                                          "properties-of-determinants",
-                                                                                          "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
-                                                                                          "symmetric-and-skew-symmetric-matrices",
-                                                                                          "trace-of-a-matrix",
-                                                                                          "transpose-of-a-matrix"
-                                                                                      ]
-                                                                       },
-                                         "parabola":  {
-                                                          "id":  "parabola",
-                                                          "name":  "Parabola",
-                                                          "topics":  [
-                                                                         "chord-of-contact",
-                                                                         "chord-of-parabola",
-                                                                         "common-tangent",
-                                                                         "locus",
-                                                                         "normal-to-parabola",
-                                                                         "pair-of-tangents",
-                                                                         "position-of-point-and-chord-joining-of-two-points",
-                                                                         "question-based-on-basic-definition-and-parametric-representation",
-                                                                         "tangent-to-parabola"
-                                                                     ]
-                                                      },
-                                         "permutations-and-combinations":  {
-                                                                               "id":  "permutations-and-combinations",
-                                                                               "name":  "Permutations And Combinations",
-                                                                               "topics":  [
-                                                                                              "application-of-permutations-and-combination-in-geometry",
-                                                                                              "circular-permutations",
-                                                                                              "conditional-combinations",
-                                                                                              "conditional-permutations",
-                                                                                              "dearrangement",
-                                                                                              "divisibility-of-numbers",
-                                                                                              "factorial",
-                                                                                              "number-of-combinations",
-                                                                                              "number-of-permutations",
-                                                                                              "sum-of-numbers"
-                                                                                          ]
-                                                                           },
-                                         "probability":  {
-                                                             "id":  "probability",
-                                                             "name":  "Probability",
-                                                             "topics":  [
-                                                                            "bayes-theorem",
-                                                                            "binomial-distribution",
-                                                                            "classical-defininition-of-probability",
-                                                                            "conditional-probability-and-multiplication-theorem",
-                                                                            "permutation-and-combination-based-problem",
-                                                                            "probability-distribution-of-a-random-variable",
-                                                                            "total-probability-theorem",
-                                                                            "venn-diagram-and-set-theory"
-                                                                        ]
-                                                         },
-                                         "properties-of-triangle":  {
-                                                                        "id":  "properties-of-triangle",
-                                                                        "name":  "Properties Of Triangle",
-                                                                        "topics":  [
-                                                                                       "area-of-triangle",
-                                                                                       "circumcenter-incenter-and-orthocenter",
-                                                                                       "cosine-rule",
-                                                                                       "half-angle-formulae",
-                                                                                       "mediun-and-angle-bisector",
-                                                                                       "sine-rule"
-                                                                                   ]
-                                                                    },
-                                         "quadratic-equation-and-inequalities":  {
-                                                                                     "id":  "quadratic-equation-and-inequalities",
-                                                                                     "name":  "Quadratic Equation And Inequalities",
-                                                                                     "topics":  [
-                                                                                                    "algebraic-equations-of-higher-degree",
-                                                                                                    "common-roots",
-                                                                                                    "graph-and-sign-of-quadratic-expression",
-                                                                                                    "greatest-integer-and-fractional-part-functions",
-                                                                                                    "inequalities",
-                                                                                                    "location-of-roots",
-                                                                                                    "modulus-function",
-                                                                                                    "nature-of-roots",
-                                                                                                    "range-of-quadratic-expression",
-                                                                                                    "relation-between-roots-and-coefficients"
-                                                                                                ]
-                                                                                 },
-                                         "sequences-and-series":  {
-                                                                      "id":  "sequences-and-series",
-                                                                      "name":  "Sequences And Series",
-                                                                      "topics":  [
-                                                                                     "am-gm-and-hm",
-                                                                                     "arithmetico-geometric-progression",
-                                                                                     "arithmetic-progression",
-                                                                                     "geometric-progression",
-                                                                                     "harmonic-progression",
-                                                                                     "summation-of-series"
-                                                                                 ]
-                                                                  },
-                                         "sets-and-relations":  {
-                                                                    "id":  "sets-and-relations",
-                                                                    "name":  "Sets And Relations",
-                                                                    "topics":  [
-                                                                                   "number-of-sets-and-relations",
-                                                                                   "symmetric-transitive-and-reflexive-properties",
-                                                                                   "venn-diagram"
-                                                                               ]
-                                                                },
-                                         "statistics":  {
-                                                            "id":  "statistics",
-                                                            "name":  "Statistics",
-                                                            "topics":  [
-                                                                           "calculation-of-mean-median-and-mode-of-grouped-and-ungrouped-data",
-                                                                           "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
-                                                                           "probability-distribution-of-a-random-variable"
-                                                                       ]
-                                                        },
-                                         "straight-lines-and-pair-of-straight-lines":  {
-                                                                                           "id":  "straight-lines-and-pair-of-straight-lines",
-                                                                                           "name":  "Straight Lines And Pair Of Straight Lines",
-                                                                                           "topics":  [
-                                                                                                          "angle-between-two-lines",
-                                                                                                          "angle-bisector",
-                                                                                                          "area-of-triangle-and-condition-of-collinearity",
-                                                                                                          "centers-of-triangle",
-                                                                                                          "condition-of-concurrency",
-                                                                                                          "distance-formula",
-                                                                                                          "distance-of-a-point-from-a-line",
-                                                                                                          "family-of-straight-line",
-                                                                                                          "locus",
-                                                                                                          "pair-of-straight-lines",
-                                                                                                          "position-of-a-point-with-respect-to-a-line",
-                                                                                                          "section-formula",
-                                                                                                          "various-forms-of-straight-line"
-                                                                                                      ]
-                                                                                       },
-                                         "trigonometric-functions-and-equations":  {
-                                                                                       "id":  "trigonometric-functions-and-equations",
-                                                                                       "name":  "Trigonometric Functions And Equations",
-                                                                                       "topics":  [
-                                                                                                      "general-solution-and-principal-solution-of-the-equation",
-                                                                                                      "solving-trigonometric-equations"
-                                                                                                  ]
-                                                                                   },
-                                         "trigonometric-ratio-and-identites":  {
-                                                                                   "id":  "trigonometric-ratio-and-identites",
-                                                                                   "name":  "Trigonometric Ratio And Identites",
-                                                                                   "topics":  [
-                                                                                                  "addition-and-subtraction-formula",
-                                                                                                  "basic-definition-of-trigonometric-function",
-                                                                                                  "fundamental-identities",
-                                                                                                  "multiple-and-sub-multiple-angle-formula",
-                                                                                                  "range-of-trigonometric-functions",
-                                                                                                  "reduction-formula",
-                                                                                                  "summation-series-problems",
-                                                                                                  "transformation-formula",
-                                                                                                  "trigonometric-ratio-of-standard-angles",
-                                                                                                  "trigonometric-series"
-                                                                                              ]
-                                                                               },
-                                         "vector-algebra":  {
-                                                                "id":  "vector-algebra",
-                                                                "name":  "Vector Algebra",
-                                                                "topics":  [
-                                                                               "algebra-and-modulus-of-vectors",
-                                                                               "scalar-and-vector-triple-product",
-                                                                               "scalar-or-dot-product-of-two-vectors-and-its-applications",
-                                                                               "vector-or-cross-product-of-two-vectors-and-its-applications"
-                                                                           ]
-                                                            }
-                                     },
-                     "physics":  {
-                                     "alternating-current":  {
-                                                                 "id":  "alternating-current",
-                                                                 "name":  "Alternating Current",
-                                                                 "topics":  [
-                                                                                "ac-circuits-and-power-in-ac-circuits",
-                                                                                "ac-generator-and-transformer",
-                                                                                "growth-and-decay-of-current",
-                                                                                "quality-factor"
-                                                                            ]
-                                                             },
-                                     "atoms-and-nuclei":  {
-                                                              "id":  "atoms-and-nuclei",
-                                                              "name":  "Atoms And Nuclei",
-                                                              "topics":  [
-                                                                             "alpha-particle-scattering-and-rutherford-model-of-atom",
-                                                                             "bohrs-model-and-hydrogen-spectrum",
-                                                                             "nuclear-fission-and-fusion-and-binding-energy",
-                                                                             "nucleus-and-radioactivity"
-                                                                         ]
-                                                          },
-                                     "capacitor":  {
-                                                       "id":  "capacitor",
-                                                       "name":  "Capacitor",
-                                                       "topics":  [
-                                                                      "capacitance",
-                                                                      "capacitor-in-circuit",
-                                                                      "capacitors-with-dielectric",
-                                                                      "combination-of-capacitors",
-                                                                      "electric-energy-stored-by-capacitor",
-                                                                      "parallel-plate-capacitor",
-                                                                      "rc-circuit"
-                                                                  ]
-                                                   },
-                                     "center-of-mass":  {
-                                                            "id":  "center-of-mass",
-                                                            "name":  "Center Of Mass",
-                                                            "topics":  [
-                                                                           "cavity-problems",
-                                                                           "center-of-mass-of-continuous-mass-distribution",
-                                                                           "center-of-mass-of-discrete-particles",
-                                                                           "collision",
-                                                                           "impulse-momentum-theorem",
-                                                                           "motion-of-center-of-mass",
-                                                                           "spring-mass-system"
-                                                                       ]
-                                                        },
-                                     "circular-motion":  {
-                                                             "id":  "circular-motion",
-                                                             "name":  "Circular Motion",
-                                                             "topics":  [
-                                                                            "non-uniform-circular-motion",
-                                                                            "uniform-circular-motion"
-                                                                        ]
-                                                         },
-                                     "communication-systems":  {
-                                                                   "id":  "communication-systems",
-                                                                   "name":  "Communication Systems",
-                                                                   "topics":  [
-                                                                                  "elements-of-communication-system-and-propagation-of-em-wave",
-                                                                                  "modulation-and-demodulation"
-                                                                              ]
-                                                               },
-                                     "current-electricity":  {
-                                                                 "id":  "current-electricity",
-                                                                 "name":  "Current Electricity",
-                                                                 "topics":  [
-                                                                                "color-coding-of-resistance",
-                                                                                "combination-of-resistances",
-                                                                                "electric-cell-or-battery",
-                                                                                "electric-current-current-density-and-drift-velocity",
-                                                                                "electric-power-and-heating-effect-of-current",
-                                                                                "galvanometer-voltmeter-and-ammeter",
-                                                                                "kirchhoffs-circuit-laws",
-                                                                                "meter-bridge",
-                                                                                "ohms-law",
-                                                                                "potentiometer",
-                                                                                "resistance-and-resistivity",
-                                                                                "wheatstone-bridge"
-                                                                            ]
-                                                             },
-                                     "dual-nature-of-radiation":  {
-                                                                      "id":  "dual-nature-of-radiation",
-                                                                      "name":  "Dual Nature Of Radiation",
-                                                                      "topics":  [
-                                                                                     "davisson-and-germer-experiment",
-                                                                                     "matter-waves-davisson-and-germer-experiment",
-                                                                                     "particle-nature-of-light-the-photon",
-                                                                                     "photoelectric-effect"
-                                                                                 ]
-                                                                  },
-                                     "electromagnetic-induction":  {
-                                                                       "id":  "electromagnetic-induction",
-                                                                       "name":  "Electromagnetic Induction",
-                                                                       "topics":  [
-                                                                                      "inductance-self-and-mutual",
-                                                                                      "magnetic-flux-faradays-and-lenzs-laws",
-                                                                                      "motional-emf-and-eddy-current"
-                                                                                  ]
-                                                                   },
-                                     "electromagnetic-waves":  {
-                                                                   "id":  "electromagnetic-waves",
-                                                                   "name":  "Electromagnetic Waves",
-                                                                   "topics":  [
-                                                                                  "displacement-current-and-properties-of-em-waves",
-                                                                                  "em-spectrum"
-                                                                              ]
-                                                               },
-                                     "electronic-devices":  {
-                                                                "id":  "electronic-devices",
-                                                                "name":  "Electronic Devices",
-                                                                "topics":  [
-                                                                               "digital-circuits",
-                                                                               "semiconductor-and-p-n-junction-diode",
-                                                                               "transistors"
-                                                                           ]
-                                                            },
-                                     "electrostatics":  {
-                                                            "id":  "electrostatics",
-                                                            "name":  "Electrostatics",
-                                                            "topics":  [
-                                                                           "electric-charges-and-coulombs-law",
-                                                                           "electric-dipole",
-                                                                           "electric-field-and-electric-field-intensity",
-                                                                           "electric-flux-and-gauss-law",
-                                                                           "electric-potential-energy-and-electric-potential"
-                                                                       ]
-                                                        },
-                                     "geometrical-optics":  {
-                                                                "id":  "geometrical-optics",
-                                                                "name":  "Geometrical Optics",
-                                                                "topics":  [
-                                                                               "lenses",
-                                                                               "optical-instruments",
-                                                                               "reflection-of-light",
-                                                                               "refraction-tir-and-prism"
-                                                                           ]
-                                                            },
-                                     "gravitation":  {
-                                                         "id":  "gravitation",
-                                                         "name":  "Gravitation",
-                                                         "topics":  [
-                                                                        "acceleration-due-to-gravity-and-its-variation",
-                                                                        "escape-speed-and-motion-of-satellites",
-                                                                        "gravitational-potential-and-gravitational-potential-energy",
-                                                                        "keplers-law-and-universal-law-of-gravitation"
-                                                                    ]
-                                                     },
-                                     "heat-and-thermodynamics":  {
-                                                                     "id":  "heat-and-thermodynamics",
-                                                                     "name":  "Heat And Thermodynamics",
-                                                                     "topics":  [
-                                                                                    "degree-of-freedom-and-law-of-equipartition-of-energy",
-                                                                                    "heat-engine-second-law-of-thermodynamics-and-carnot-engine",
-                                                                                    "heat-transfer",
-                                                                                    "kinetic-theory-of-gases-and-gas-laws",
-                                                                                    "specific-heat-capacity-calorimetry-and-change-of-state",
-                                                                                    "thermodynamics-process",
-                                                                                    "thermometry-and-thermal-expansion",
-                                                                                    "zeroth-and-first-law-of-thermodynamics"
-                                                                                ]
-                                                                 },
-                                     "laws-of-motion":  {
-                                                            "id":  "laws-of-motion",
-                                                            "name":  "Laws Of Motion",
-                                                            "topics":  [
-                                                                           "equilibrium-of-a-particle",
-                                                                           "friction-force",
-                                                                           "motion-of-connected-bodies",
-                                                                           "motion-on-an-inclined-plane",
-                                                                           "newtons-laws-of-motion",
-                                                                           "spring-force"
-                                                                       ]
-                                                        },
-                                     "magnetic-properties-of-matter":  {
-                                                                           "id":  "magnetic-properties-of-matter",
-                                                                           "name":  "Magnetic Properties Of Matter",
-                                                                           "topics":  [
-                                                                                          "bar-magnet-or-magnetic-dipole",
-                                                                                          "earth-magnetism",
-                                                                                          "magnetic-properties-of-matter"
-                                                                                      ]
-                                                                       },
-                                     "magnetics":  {
-                                                       "id":  "magnetics",
-                                                       "name":  "Magnetics",
-                                                       "topics":  [
-                                                                      "amperes-circuital-law",
-                                                                      "biot-savarts-law-and-magnetic-field-due-to-current-carrying-wire",
-                                                                      "force-and-torque-on-current-carrying-conductor",
-                                                                      "magnetic-field-of-moving-charge",
-                                                                      "magnetic-moment",
-                                                                      "motion-of-charged-particle-inside-magnetic-field",
-                                                                      "moving-coil-galvanometer"
-                                                                  ]
-                                                   },
-                                     "motion-in-a-plane":  {
-                                                               "id":  "motion-in-a-plane",
-                                                               "name":  "Motion In A Plane",
-                                                               "topics":  [
-                                                                              "projectile-motion",
-                                                                              "rain-man-problems",
-                                                                              "relative-motion-in-two-dimension",
-                                                                              "river-boat-problems"
-                                                                          ]
-                                                           },
-                                     "motion-in-a-straight-line":  {
-                                                                       "id":  "motion-in-a-straight-line",
-                                                                       "name":  "Motion In A Straight Line",
-                                                                       "topics":  [
-                                                                                      "average-acceleration-and-instantaneous-acceleration",
-                                                                                      "average-speed-and-instantaneous-speed",
-                                                                                      "average-velocity-and-instantaneous-velocity",
-                                                                                      "constant-acceleration-motion",
-                                                                                      "graph-based-problem",
-                                                                                      "motion-under-gravity",
-                                                                                      "relative-motion-in-one-dimension",
-                                                                                      "variable-acceleration-motion"
-                                                                                  ]
-                                                                   },
-                                     "properties-of-matter":  {
-                                                                  "id":  "properties-of-matter",
-                                                                  "name":  "Properties Of Matter",
-                                                                  "topics":  [
-                                                                                 "fluid-flow-bernoullis-principle-and-viscosity",
-                                                                                 "mechanical-properties-of-solids",
-                                                                                 "newtons-law-of-cooling",
-                                                                                 "pressure-density-pascals-law-and-archimedes-principle",
-                                                                                 "stress-strain-curve-thermal-stress-and-elastic-pe",
-                                                                                 "surface-tension-excess-pressure-and-capillarity"
-                                                                             ]
-                                                              },
-                                     "rotational-motion":  {
-                                                               "id":  "rotational-motion",
-                                                               "name":  "Rotational Motion",
-                                                               "topics":  [
-                                                                              "angular-momentum",
-                                                                              "angular-momentum-conservation",
-                                                                              "combined-translational-and-rotational-motion",
-                                                                              "moment-of-inertia",
-                                                                              "rotational-motion-about-fixed-axis-of-rigid-body",
-                                                                              "torque"
-                                                                          ]
-                                                           },
-                                     "simple-harmonic-motion":  {
-                                                                    "id":  "simple-harmonic-motion",
-                                                                    "name":  "Simple Harmonic Motion",
-                                                                    "topics":  [
-                                                                                   "forced-damped-oscillations-and-resonance",
-                                                                                   "simple-harmonic-motion",
-                                                                                   "some-systems-of-executing-shm"
-                                                                               ]
-                                                                },
-                                     "units-and-measurements":  {
-                                                                    "id":  "units-and-measurements",
-                                                                    "name":  "Units And Measurements",
-                                                                    "topics":  [
-                                                                                   "dimensions-of-physical-quantities",
-                                                                                   "errors-in-measurement",
-                                                                                   "screw-gauge",
-                                                                                   "unit-of-physical-quantities",
-                                                                                   "vernier-calipers"
-                                                                               ]
-                                                                },
-                                     "vector-algebra":  {
-                                                            "id":  "vector-algebra",
-                                                            "name":  "Vector Algebra",
-                                                            "topics":  [
-                                                                           "dot-product-and-cross-product",
-                                                                           "vector-arithmetic",
-                                                                           "vector-projections"
-                                                                       ]
-                                                        },
-                                     "wave-optics":  {
-                                                         "id":  "wave-optics",
-                                                         "name":  "Wave Optics",
-                                                         "topics":  [
-                                                                        "diffraction-and-doppler-effect-of-light",
-                                                                        "huygens-principle-and-interference-of-light",
-                                                                        "optical-instruments",
-                                                                        "polarisation"
-                                                                    ]
-                                                     },
-                                     "waves":  {
-                                                   "id":  "waves",
-                                                   "name":  "Waves",
-                                                   "topics":  [
-                                                                  "basic-of-waves-and-progressive-waves",
-                                                                  "doppler-effect",
-                                                                  "superposition-and-reflection-of-waves"
-                                                              ]
-                                               },
-                                     "work-power-and-energy":  {
-                                                                   "id":  "work-power-and-energy",
-                                                                   "name":  "Work Power And Energy",
-                                                                   "topics":  [
-                                                                                  "energy",
-                                                                                  "power",
-                                                                                  "work"
-                                                                              ]
-                                                               }
-                                 }
-                 }
+{
+  "jee-main": {
+    "chemistry": {
+      "alcohols-phenols-and-ethers": {
+        "id": "alcohols-phenols-and-ethers",
+        "name": "Alcohols Phenols And Ethers",
+        "topics": [
+          "properties-preparation-and-uses-of-alcohols",
+          "properties-preparation-and-uses-of-ethers",
+          "properties-preparation-and-uses-of-phenols"
+        ]
+      },
+      "aldehydes-ketones-and-carboxylic-acids": {
+        "id": "aldehydes-ketones-and-carboxylic-acids",
+        "name": "Aldehydes Ketones And Carboxylic Acids",
+        "topics": [
+          "chemical-reactions-for-aldehydes-and-ketones",
+          "method-of-preparation-for-aldehydes",
+          "preparation-methods-for-both-aldehydes-and-ketones",
+          "preparation-properties-and-uses-of-carboxylic-acids",
+          "reactions-involving-aldehydes",
+          "tests-for-aldehyde-and-ketones"
+        ]
+      },
+      "basics-of-organic-chemistry": {
+        "id": "basics-of-organic-chemistry",
+        "name": "Basics Of Organic Chemistry",
+        "topics": [
+          "acid-and-base-strength",
+          "aromaticity",
+          "electron-displacement-effect",
+          "isomerism",
+          "iupac-nomenclature",
+          "purification-of-organic-compounds",
+          "stability-of-intermediate"
+        ]
+      },
+      "biomolecules": {
+        "id": "biomolecules",
+        "name": "Biomolecules",
+        "topics": [
+          "carbohydrates",
+          "proteins-and-enzymes",
+          "vitamins-and-nucleic-acids"
+        ]
+      },
+      "chemical-bonding-and-molecular-structure": {
+        "id": "chemical-bonding-and-molecular-structure",
+        "name": "Chemical Bonding And Molecular Structure",
+        "topics": [
+          "bond-parameters",
+          "covalent-and-co-ordinate-bond",
+          "dipole-moment",
+          "hybridization-and-vsepr-theory",
+          "hydrogen-bonding",
+          "hydrolysis",
+          "ionic-bond",
+          "lewis-theory",
+          "molecular-orbital-theory",
+          "resonance",
+          "valence-bond-theory",
+          "van-der-walls-forces"
+        ]
+      },
+      "chemical-equilibrium": {
+        "id": "chemical-equilibrium",
+        "name": "Chemical Equilibrium",
+        "topics": [
+          "chemical-equilibrium-law-of-mass-action-and-equilibrium-constant",
+          "le-chateliers-principle-and-factors-affecting-chemical-equilibrium"
+        ]
+      },
+      "chemical-kinetics-and-nuclear-chemistry": {
+        "id": "chemical-kinetics-and-nuclear-chemistry",
+        "name": "Chemical Kinetics And Nuclear Chemistry",
+        "topics": [
+          "arrhenius-equation",
+          "different-methods-to-determine-order-of-reaction",
+          "integrated-rate-law-equations",
+          "nuclear-chemistry",
+          "rate-laws-and-rate-constant",
+          "rate-of-reaction"
+        ]
+      },
+      "chemistry-in-everyday-life": {
+        "id": "chemistry-in-everyday-life",
+        "name": "Chemistry In Everyday Life",
+        "topics": [
+          "chemicals-in-foods",
+          "chemicals-in-medicines",
+          "cleansing-agents"
+        ]
+      },
+      "compounds-containing-nitrogen": {
+        "id": "compounds-containing-nitrogen",
+        "name": "Compounds Containing Nitrogen",
+        "topics": [
+          "aliphatic-amines",
+          "aromatic-amines",
+          "diazonium-salts-and-other-nitrogen-containing-compounds"
+        ]
+      },
+      "coordination-compounds": {
+        "id": "coordination-compounds",
+        "name": "Coordination Compounds",
+        "topics": [
+          "application-of-coordination-compound-and-organometallic-compounds",
+          "coordination-number",
+          "crystal-field-theory-cft",
+          "isomerism-of-coordination-compounds",
+          "isomerisom-of-coordination-compounds",
+          "nomenclature-of-coordination-compounds",
+          "synergic-bonding",
+          "warners-theory-and-valence-bond-theory"
+        ]
+      },
+      "d-and-f-block-elements": {
+        "id": "d-and-f-block-elements",
+        "name": "D And F Block Elements",
+        "topics": [
+          "important-compounds-of-transition-elements",
+          "inner-transition-elements-lanthanoids-and-actinoids",
+          "properties-of-transition-elements"
+        ]
+      },
+      "electrochemistry": {
+        "id": "electrochemistry",
+        "name": "Electrochemistry",
+        "topics": [
+          "batteries-fuel-cells-and-corrosion",
+          "conductance-and-electrolysis",
+          "electrochemical-series-cell-and-their-emf"
+        ]
+      },
+      "environmental-chemistry": {
+        "id": "environmental-chemistry",
+        "name": "Environmental Chemistry",
+        "topics": [
+          "air-pollution",
+          "environmental-pollution",
+          "soil-pollution",
+          "water-pollution"
+        ]
+      },
+      "gaseous-state": {
+        "id": "gaseous-state",
+        "name": "Gaseous State",
+        "topics": [
+          "critical-phenomenon-and-liquefaction",
+          "daltons-law-of-partial-pressure",
+          "gas-laws",
+          "ideal-gas-equation",
+          "kinetic-theory-of-gases",
+          "maxwells-distribution-of-speed",
+          "real-gas-and-van-der-walls-equation"
+        ]
+      },
+      "haloalkanes-and-haloarenes": {
+        "id": "haloalkanes-and-haloarenes",
+        "name": "Haloalkanes And Haloarenes",
+        "topics": [
+          "haloalkanes",
+          "haloarenes",
+          "some-important-polyhalogens-compounds"
+        ]
+      },
+      "hydrocarbons": {
+        "id": "hydrocarbons",
+        "name": "Hydrocarbons",
+        "topics": [
+          "aromatic-hydrocarbons",
+          "properties-and-preparation-of-alkanes",
+          "properties-and-preparation-of-alkenes",
+          "properties-and-preparation-of-alkynes",
+          "reaction-of-alkanes",
+          "reaction-of-alkenes",
+          "reaction-of-alkynes"
+        ]
+      },
+      "hydrogen": {
+        "id": "hydrogen",
+        "name": "Hydrogen",
+        "topics": [
+          "hard-and-soft-water",
+          "hydrides",
+          "hydrogen-peroxide",
+          "preparation-and-properties-of-hydrogen",
+          "water-and-heavy-water"
+        ]
+      },
+      "ionic-equilibrium": {
+        "id": "ionic-equilibrium",
+        "name": "Ionic Equilibrium",
+        "topics": [
+          "ostwalds-dilution-law-and-concept-of-acid-and-base",
+          "ph-buffer-and-indicators",
+          "salt-hydrolysis",
+          "solubility-product-and-common-ion-effect"
+        ]
+      },
+      "isolation-of-elements": {
+        "id": "isolation-of-elements",
+        "name": "Isolation Of Elements",
+        "topics": [
+          "concentration-of-ore",
+          "ellingham-diagram",
+          "extractions-of-metals",
+          "minerals-and-ores",
+          "refining-or-purification-of-metal"
+        ]
+      },
+      "p-block-elements": {
+        "id": "p-block-elements",
+        "name": "P Block Elements",
+        "topics": [
+          "group-13-elements-boron-family",
+          "group-14-elements-carbon-family",
+          "group-15-elements-nitrogen-family",
+          "group-16-elements-oxygen-family",
+          "group-17-elements-halogen-family",
+          "group-18-elements-inert-or-noble-gases"
+        ]
+      },
+      "periodic-table-and-periodicity": {
+        "id": "periodic-table-and-periodicity",
+        "name": "Periodic Table And Periodicity",
+        "topics": [
+          "atomic-and-ionic-radius",
+          "effective-nuclear-charge",
+          "electron-gain-enthalpy",
+          "electronegativity",
+          "ionization-energy",
+          "nature-of-oxide",
+          "periodic-table-and-its-features"
+        ]
+      },
+      "polymers": {
+        "id": "polymers",
+        "name": "Polymers",
+        "topics": [
+          "classification-preparations-and-properties-of-polymers",
+          "uses-of-polymers"
+        ]
+      },
+      "practical-organic-chemistry": {
+        "id": "practical-organic-chemistry",
+        "name": "Practical Organic Chemistry",
+        "topics": [
+          "chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds",
+          "chemistry-involved-in-titrimetric-experiments",
+          "detection-of-extra-elements-and-functional-groups",
+          "experiments-involving-physical-chemistry",
+          "qualitative-salt-analysis"
+        ]
+      },
+      "redox-reactions": {
+        "id": "redox-reactions",
+        "name": "Redox Reactions",
+        "topics": [
+          "balancing-of-redox-reactions",
+          "equivalence",
+          "oxidation-and-reduction-reactions",
+          "oxidation-number",
+          "redox-titration",
+          "types-of-redox-reactions"
+        ]
+      },
+      "s-block-elements": {
+        "id": "s-block-elements",
+        "name": "S Block Elements",
+        "topics": [
+          "compounds-of-alkali-metals",
+          "compounds-of-alkaline-earth-metals",
+          "physiochemical-trends-in-alkali-metals",
+          "physiochemical-trends-in-alkaline-earth-metals"
+        ]
+      },
+      "salt-analysis": {
+        "id": "salt-analysis",
+        "name": "Salt Analysis",
+        "topics": [
+          "chemical-principles",
+          "flame-and-charcoal-tests",
+          "introduction-to-qualitative-analysis",
+          "preliminary-tests",
+          "systematic-analysis-of-anions",
+          "systematic-analysis-of-cations"
+        ]
+      },
+      "solid-state": {
+        "id": "solid-state",
+        "name": "Solid State",
+        "topics": [
+          "close-packing-in-crystals",
+          "crystal-structure-of-solids",
+          "defects-in-crystal",
+          "interestitial-voids",
+          "structure-of-ionic-compounds",
+          "type-of-solids-and-their-properties"
+        ]
+      },
+      "solutions": {
+        "id": "solutions",
+        "name": "Solutions",
+        "topics": [
+          "abnormal-colligative-property-and-vant-hoff-factor",
+          "depression-in-freezing-point",
+          "elevation-in-boiling-point",
+          "henrys-law",
+          "osmotic-pressure",
+          "relative-lowering-of-vapour-pressure-and-roults-law"
+        ]
+      },
+      "some-basic-concepts-of-chemistry": {
+        "id": "some-basic-concepts-of-chemistry",
+        "name": "Some Basic Concepts Of Chemistry",
+        "topics": [
+          "concentration-terms",
+          "laws-of-chemical-combination",
+          "mole-concept",
+          "quantitative-measures-in-chemical-equations",
+          "significant-figures"
+        ]
+      },
+      "structure-of-atom": {
+        "id": "structure-of-atom",
+        "name": "Structure Of Atom",
+        "topics": [
+          "bohrs-model-for-hydrogen-atom",
+          "de-broglie-hypothesis",
+          "electronic-configuration-and-nodes",
+          "heisenberg-uncertainty-principle",
+          "hydrogen-spectrum",
+          "photoelectric-effect",
+          "quantum-mechanical-model-of-atom",
+          "quantum-numbers-and-orbitals",
+          "thomsons-model-and-rutherfords-model"
+        ]
+      },
+      "surface-chemistry": {
+        "id": "surface-chemistry",
+        "name": "Surface Chemistry",
+        "topics": [
+          "adsorption",
+          "catalysis",
+          "colloids"
+        ]
+      },
+      "thermodynamics": {
+        "id": "thermodynamics",
+        "name": "Thermodynamics",
+        "topics": [
+          "entropy-free-energy-change-and-spontaneity",
+          "first-law-of-thermodynamics",
+          "fundamentals-of-thermodynamics",
+          "reactions-related-to-enthalpies-and-hesss-law",
+          "second-law-of-thermodynamics"
+        ]
+      }
+    },
+    "mathematics": {
+      "3d-geometry": {
+        "id": "3d-geometry",
+        "name": "3d Geometry",
+        "topics": [
+          "direction-cosines-and-direction-ratios-of-a-line",
+          "lines-and-plane",
+          "lines-in-space",
+          "plane-in-space"
+        ]
+      },
+      "application-of-derivatives": {
+        "id": "application-of-derivatives",
+        "name": "Application Of Derivatives",
+        "topics": [
+          "maxima-and-minima",
+          "mean-value-theorem",
+          "monotonicity",
+          "rate-of-change-of-quantity",
+          "tangent-and-normal"
+        ]
+      },
+      "area-under-the-curves": {
+        "id": "area-under-the-curves",
+        "name": "Area Under The Curves",
+        "topics": [
+          "area-bounded-between-the-curves",
+          "area-under-simple-curves-in-standard-forms"
+        ]
+      },
+      "binomial-theorem": {
+        "id": "binomial-theorem",
+        "name": "Binomial Theorem",
+        "topics": [
+          "binomial-theorem-for-any-index",
+          "divisibility-concept-and-remainder-concept",
+          "general-term",
+          "integral-and-fractional-part-of-a-number",
+          "middle-term",
+          "multinomial-theorem",
+          "negative-and-fractional-index",
+          "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient"
+        ]
+      },
+      "circle": {
+        "id": "circle",
+        "name": "Circle",
+        "topics": [
+          "basic-theorems-of-a-circle",
+          "chord-of-contact",
+          "chord-with-a-given-middle-point",
+          "director-circle",
+          "family-of-circle",
+          "intercepts-of-a-circle",
+          "number-of-common-tangents-and-position-of-two-circle",
+          "orthogonality-of-two-circles",
+          "pair-of-tangents",
+          "parametric-form-of-a-circle",
+          "position-of-a-point-with-respect-to-circle",
+          "radical-axis",
+          "tangent-and-normal"
+        ]
+      },
+      "complex-numbers": {
+        "id": "complex-numbers",
+        "name": "Complex Numbers",
+        "topics": [
+          "algebra-of-complex-numbers",
+          "applications-of-complex-numbers-in-coordinate-geometry",
+          "argument-of-complex-numbers",
+          "conjugate-of-complex-numbers",
+          "cube-roots-of-unity",
+          "de-moivres-theorem",
+          "modulus-of-complex-numbers",
+          "nth-roots-of-unity",
+          "square-root-of-a-complex-number"
+        ]
+      },
+      "definite-integration": {
+        "id": "definite-integration",
+        "name": "Definite Integration",
+        "topics": [
+          "definite-integral-as-a-limit-of-sum",
+          "limits-of-algebric-function",
+          "newton-lebnitz-rule-of-differentiation",
+          "properties-of-definite-integration"
+        ]
+      },
+      "differential-equations": {
+        "id": "differential-equations",
+        "name": "Differential Equations",
+        "topics": [
+          "formation-of-differential-equations",
+          "linear-differential-equations",
+          "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous"
+        ]
+      },
+      "differentiation": {
+        "id": "differentiation",
+        "name": "Differentiation",
+        "topics": [
+          "differentiation-of-a-function-with-respect-to-another-function",
+          "differentiation-of-composite-function",
+          "differentiation-of-implicit-function",
+          "differentiation-of-inverse-trigonometric-function",
+          "differentiation-of-logarithmic-function",
+          "differentiation-of-parametric-function",
+          "methods-of-differentiation",
+          "successive-differentiation"
+        ]
+      },
+      "ellipse": {
+        "id": "ellipse",
+        "name": "Ellipse",
+        "topics": [
+          "chord-of-ellipse",
+          "common-tangent",
+          "locus",
+          "normal-to-ellipse",
+          "position-of-point-and-chord-joining-of-two-points",
+          "question-based-on-basic-definition-and-parametric-representation",
+          "tangent-to-ellipse"
+        ]
+      },
+      "functions": {
+        "id": "functions",
+        "name": "Functions",
+        "topics": [
+          "classification-of-functions",
+          "composite-functions",
+          "domain",
+          "even-and-odd-functions",
+          "functional-equations",
+          "inverse-functions",
+          "periodic-functions",
+          "range"
+        ]
+      },
+      "height-and-distance": {
+        "id": "height-and-distance",
+        "name": "Height And Distance",
+        "topics": [
+          "height-and-distance"
+        ]
+      },
+      "hyperbola": {
+        "id": "hyperbola",
+        "name": "Hyperbola",
+        "topics": [
+          "common-tangent",
+          "locus",
+          "normal-to-hyperbola",
+          "position-of-point-and-chord-joining-of-two-points",
+          "question-based-on-basic-definition-and-parametric-representation",
+          "rectangular-hyperbola",
+          "tangent-to-hyperbola"
+        ]
+      },
+      "indefinite-integrals": {
+        "id": "indefinite-integrals",
+        "name": "Indefinite Integrals",
+        "topics": [
+          "integration-by-partial-fraction",
+          "integration-by-parts",
+          "integration-by-substitution",
+          "standard-integral"
+        ]
+      },
+      "inverse-trigonometric-functions": {
+        "id": "inverse-trigonometric-functions",
+        "name": "Inverse Trigonometric Functions",
+        "topics": [
+          "domain-and-range-of-inverse-trigonometric-functions",
+          "principal-value-of-inverse-trigonometric-functions",
+          "properties-of-inverse-trigonometric-functions",
+          "sum-upto-n-terms-and-infinite-terms-of-inverse-series"
+        ]
+      },
+      "limits-continuity-and-differentiability": {
+        "id": "limits-continuity-and-differentiability",
+        "name": "Limits Continuity And Differentiability",
+        "topics": [
+          "continuity",
+          "differentiability",
+          "existance-of-limits",
+          "limits-of-algebric-function",
+          "limits-of-exponential-functions",
+          "limits-of-logarithmic-functions",
+          "limits-of-trigonometric-functions"
+        ]
+      },
+      "logarithm": {
+        "id": "logarithm",
+        "name": "Logarithm",
+        "topics": [
+          "logarithm-inequalities",
+          "logarithmic-equations",
+          "logarithmic-properties"
+        ]
+      },
+      "mathematical-reasoning": {
+        "id": "mathematical-reasoning",
+        "name": "Mathematical Reasoning",
+        "topics": [
+          "logical-connectives",
+          "logical-statement"
+        ]
+      },
+      "matrices-and-determinants": {
+        "id": "matrices-and-determinants",
+        "name": "Matrices And Determinants",
+        "topics": [
+          "adjoint-of-a-matrix",
+          "basic-of-matrix",
+          "expansion-of-determinant",
+          "inverse-of-a-matrix",
+          "multiplication-of-matrices",
+          "operations-on-matrices",
+          "properties-of-determinants",
+          "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
+          "symmetric-and-skew-symmetric-matrices",
+          "trace-of-a-matrix",
+          "transpose-of-a-matrix"
+        ]
+      },
+      "parabola": {
+        "id": "parabola",
+        "name": "Parabola",
+        "topics": [
+          "chord-of-contact",
+          "chord-of-parabola",
+          "common-tangent",
+          "locus",
+          "normal-to-parabola",
+          "pair-of-tangents",
+          "position-of-point-and-chord-joining-of-two-points",
+          "question-based-on-basic-definition-and-parametric-representation",
+          "tangent-to-parabola"
+        ]
+      },
+      "permutations-and-combinations": {
+        "id": "permutations-and-combinations",
+        "name": "Permutations And Combinations",
+        "topics": [
+          "application-of-permutations-and-combination-in-geometry",
+          "circular-permutations",
+          "conditional-combinations",
+          "conditional-permutations",
+          "dearrangement",
+          "divisibility-of-numbers",
+          "factorial",
+          "number-of-combinations",
+          "number-of-permutations",
+          "sum-of-numbers"
+        ]
+      },
+      "probability": {
+        "id": "probability",
+        "name": "Probability",
+        "topics": [
+          "bayes-theorem",
+          "binomial-distribution",
+          "classical-defininition-of-probability",
+          "conditional-probability-and-multiplication-theorem",
+          "permutation-and-combination-based-problem",
+          "probability-distribution-of-a-random-variable",
+          "total-probability-theorem",
+          "venn-diagram-and-set-theory"
+        ]
+      },
+      "properties-of-triangle": {
+        "id": "properties-of-triangle",
+        "name": "Properties Of Triangle",
+        "topics": [
+          "area-of-triangle",
+          "circumcenter-incenter-and-orthocenter",
+          "cosine-rule",
+          "half-angle-formulae",
+          "mediun-and-angle-bisector",
+          "sine-rule"
+        ]
+      },
+      "quadratic-equation-and-inequalities": {
+        "id": "quadratic-equation-and-inequalities",
+        "name": "Quadratic Equation And Inequalities",
+        "topics": [
+          "algebraic-equations-of-higher-degree",
+          "common-roots",
+          "graph-and-sign-of-quadratic-expression",
+          "greatest-integer-and-fractional-part-functions",
+          "inequalities",
+          "location-of-roots",
+          "modulus-function",
+          "nature-of-roots",
+          "range-of-quadratic-expression",
+          "relation-between-roots-and-coefficients"
+        ]
+      },
+      "sequences-and-series": {
+        "id": "sequences-and-series",
+        "name": "Sequences And Series",
+        "topics": [
+          "am-gm-and-hm",
+          "arithmetic-progression",
+          "arithmetico-geometric-progression",
+          "geometric-progression",
+          "harmonic-progression",
+          "summation-of-series"
+        ]
+      },
+      "sets-and-relations": {
+        "id": "sets-and-relations",
+        "name": "Sets And Relations",
+        "topics": [
+          "number-of-sets-and-relations",
+          "symmetric-transitive-and-reflexive-properties",
+          "venn-diagram"
+        ]
+      },
+      "statistics": {
+        "id": "statistics",
+        "name": "Statistics",
+        "topics": [
+          "calculation-of-mean-median-and-mode-of-grouped-and-ungrouped-data",
+          "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
+          "probability-distribution-of-a-random-variable"
+        ]
+      },
+      "straight-lines-and-pair-of-straight-lines": {
+        "id": "straight-lines-and-pair-of-straight-lines",
+        "name": "Straight Lines And Pair Of Straight Lines",
+        "topics": [
+          "angle-between-two-lines",
+          "angle-bisector",
+          "area-of-triangle-and-condition-of-collinearity",
+          "centers-of-triangle",
+          "condition-of-concurrency",
+          "distance-formula",
+          "distance-of-a-point-from-a-line",
+          "family-of-straight-line",
+          "locus",
+          "pair-of-straight-lines",
+          "position-of-a-point-with-respect-to-a-line",
+          "section-formula",
+          "various-forms-of-straight-line"
+        ]
+      },
+      "trigonometric-functions-and-equations": {
+        "id": "trigonometric-functions-and-equations",
+        "name": "Trigonometric Functions And Equations",
+        "topics": [
+          "general-solution-and-principal-solution-of-the-equation",
+          "solving-trigonometric-equations"
+        ]
+      },
+      "trigonometric-ratio-and-identites": {
+        "id": "trigonometric-ratio-and-identites",
+        "name": "Trigonometric Ratio And Identites",
+        "topics": [
+          "addition-and-subtraction-formula",
+          "basic-definition-of-trigonometric-function",
+          "fundamental-identities",
+          "multiple-and-sub-multiple-angle-formula",
+          "range-of-trigonometric-functions",
+          "reduction-formula",
+          "summation-series-problems",
+          "transformation-formula",
+          "trigonometric-ratio-of-standard-angles",
+          "trigonometric-series"
+        ]
+      },
+      "vector-algebra": {
+        "id": "vector-algebra",
+        "name": "Vector Algebra",
+        "topics": [
+          "algebra-and-modulus-of-vectors",
+          "scalar-and-vector-triple-product",
+          "scalar-or-dot-product-of-two-vectors-and-its-applications",
+          "vector-or-cross-product-of-two-vectors-and-its-applications"
+        ]
+      }
+    },
+    "physics": {
+      "alternating-current": {
+        "id": "alternating-current",
+        "name": "Alternating Current",
+        "topics": [
+          "ac-circuits-and-power-in-ac-circuits",
+          "ac-generator-and-transformer",
+          "growth-and-decay-of-current",
+          "quality-factor"
+        ]
+      },
+      "atoms-and-nuclei": {
+        "id": "atoms-and-nuclei",
+        "name": "Atoms And Nuclei",
+        "topics": [
+          "alpha-particle-scattering-and-rutherford-model-of-atom",
+          "bohrs-model-and-hydrogen-spectrum",
+          "nuclear-fission-and-fusion-and-binding-energy",
+          "nucleus-and-radioactivity"
+        ]
+      },
+      "capacitor": {
+        "id": "capacitor",
+        "name": "Capacitor",
+        "topics": [
+          "capacitance",
+          "capacitor-in-circuit",
+          "capacitors-with-dielectric",
+          "combination-of-capacitors",
+          "electric-energy-stored-by-capacitor",
+          "parallel-plate-capacitor",
+          "rc-circuit"
+        ]
+      },
+      "center-of-mass": {
+        "id": "center-of-mass",
+        "name": "Center Of Mass",
+        "topics": [
+          "cavity-problems",
+          "center-of-mass-of-continuous-mass-distribution",
+          "center-of-mass-of-discrete-particles",
+          "collision",
+          "impulse-momentum-theorem",
+          "motion-of-center-of-mass",
+          "spring-mass-system"
+        ]
+      },
+      "circular-motion": {
+        "id": "circular-motion",
+        "name": "Circular Motion",
+        "topics": [
+          "non-uniform-circular-motion",
+          "uniform-circular-motion"
+        ]
+      },
+      "communication-systems": {
+        "id": "communication-systems",
+        "name": "Communication Systems",
+        "topics": [
+          "elements-of-communication-system-and-propagation-of-em-wave",
+          "modulation-and-demodulation"
+        ]
+      },
+      "current-electricity": {
+        "id": "current-electricity",
+        "name": "Current Electricity",
+        "topics": [
+          "color-coding-of-resistance",
+          "combination-of-resistances",
+          "electric-cell-or-battery",
+          "electric-current-current-density-and-drift-velocity",
+          "electric-power-and-heating-effect-of-current",
+          "galvanometer-voltmeter-and-ammeter",
+          "kirchhoffs-circuit-laws",
+          "meter-bridge",
+          "ohms-law",
+          "potentiometer",
+          "resistance-and-resistivity",
+          "wheatstone-bridge"
+        ]
+      },
+      "dual-nature-of-radiation": {
+        "id": "dual-nature-of-radiation",
+        "name": "Dual Nature Of Radiation",
+        "topics": [
+          "davisson-and-germer-experiment",
+          "matter-waves-davisson-and-germer-experiment",
+          "particle-nature-of-light-the-photon",
+          "photoelectric-effect"
+        ]
+      },
+      "electromagnetic-induction": {
+        "id": "electromagnetic-induction",
+        "name": "Electromagnetic Induction",
+        "topics": [
+          "inductance-self-and-mutual",
+          "magnetic-flux-faradays-and-lenzs-laws",
+          "motional-emf-and-eddy-current"
+        ]
+      },
+      "electromagnetic-waves": {
+        "id": "electromagnetic-waves",
+        "name": "Electromagnetic Waves",
+        "topics": [
+          "displacement-current-and-properties-of-em-waves",
+          "em-spectrum"
+        ]
+      },
+      "electronic-devices": {
+        "id": "electronic-devices",
+        "name": "Electronic Devices",
+        "topics": [
+          "digital-circuits",
+          "semiconductor-and-p-n-junction-diode",
+          "transistors"
+        ]
+      },
+      "electrostatics": {
+        "id": "electrostatics",
+        "name": "Electrostatics",
+        "topics": [
+          "electric-charges-and-coulombs-law",
+          "electric-dipole",
+          "electric-field-and-electric-field-intensity",
+          "electric-flux-and-gauss-law",
+          "electric-potential-energy-and-electric-potential"
+        ]
+      },
+      "geometrical-optics": {
+        "id": "geometrical-optics",
+        "name": "Geometrical Optics",
+        "topics": [
+          "lenses",
+          "optical-instruments",
+          "reflection-of-light",
+          "refraction-tir-and-prism"
+        ]
+      },
+      "gravitation": {
+        "id": "gravitation",
+        "name": "Gravitation",
+        "topics": [
+          "acceleration-due-to-gravity-and-its-variation",
+          "escape-speed-and-motion-of-satellites",
+          "gravitational-potential-and-gravitational-potential-energy",
+          "keplers-law-and-universal-law-of-gravitation"
+        ]
+      },
+      "heat-and-thermodynamics": {
+        "id": "heat-and-thermodynamics",
+        "name": "Heat And Thermodynamics",
+        "topics": [
+          "degree-of-freedom-and-law-of-equipartition-of-energy",
+          "heat-engine-second-law-of-thermodynamics-and-carnot-engine",
+          "heat-transfer",
+          "kinetic-theory-of-gases-and-gas-laws",
+          "specific-heat-capacity-calorimetry-and-change-of-state",
+          "thermodynamics-process",
+          "thermometry-and-thermal-expansion",
+          "zeroth-and-first-law-of-thermodynamics"
+        ]
+      },
+      "laws-of-motion": {
+        "id": "laws-of-motion",
+        "name": "Laws Of Motion",
+        "topics": [
+          "equilibrium-of-a-particle",
+          "friction-force",
+          "motion-of-connected-bodies",
+          "motion-on-an-inclined-plane",
+          "newtons-laws-of-motion",
+          "spring-force"
+        ]
+      },
+      "magnetic-properties-of-matter": {
+        "id": "magnetic-properties-of-matter",
+        "name": "Magnetic Properties Of Matter",
+        "topics": [
+          "bar-magnet-or-magnetic-dipole",
+          "earth-magnetism",
+          "magnetic-properties-of-matter"
+        ]
+      },
+      "magnetics": {
+        "id": "magnetics",
+        "name": "Magnetics",
+        "topics": [
+          "amperes-circuital-law",
+          "biot-savarts-law-and-magnetic-field-due-to-current-carrying-wire",
+          "force-and-torque-on-current-carrying-conductor",
+          "magnetic-field-of-moving-charge",
+          "magnetic-moment",
+          "motion-of-charged-particle-inside-magnetic-field",
+          "moving-coil-galvanometer"
+        ]
+      },
+      "motion-in-a-plane": {
+        "id": "motion-in-a-plane",
+        "name": "Motion In A Plane",
+        "topics": [
+          "projectile-motion",
+          "rain-man-problems",
+          "relative-motion-in-two-dimension",
+          "river-boat-problems"
+        ]
+      },
+      "motion-in-a-straight-line": {
+        "id": "motion-in-a-straight-line",
+        "name": "Motion In A Straight Line",
+        "topics": [
+          "average-acceleration-and-instantaneous-acceleration",
+          "average-speed-and-instantaneous-speed",
+          "average-velocity-and-instantaneous-velocity",
+          "constant-acceleration-motion",
+          "graph-based-problem",
+          "motion-under-gravity",
+          "relative-motion-in-one-dimension",
+          "variable-acceleration-motion"
+        ]
+      },
+      "properties-of-matter": {
+        "id": "properties-of-matter",
+        "name": "Properties Of Matter",
+        "topics": [
+          "fluid-flow-bernoullis-principle-and-viscosity",
+          "mechanical-properties-of-solids",
+          "newtons-law-of-cooling",
+          "pressure-density-pascals-law-and-archimedes-principle",
+          "stress-strain-curve-thermal-stress-and-elastic-pe",
+          "surface-tension-excess-pressure-and-capillarity"
+        ]
+      },
+      "rotational-motion": {
+        "id": "rotational-motion",
+        "name": "Rotational Motion",
+        "topics": [
+          "angular-momentum",
+          "angular-momentum-conservation",
+          "combined-translational-and-rotational-motion",
+          "moment-of-inertia",
+          "rotational-motion-about-fixed-axis-of-rigid-body",
+          "torque"
+        ]
+      },
+      "simple-harmonic-motion": {
+        "id": "simple-harmonic-motion",
+        "name": "Simple Harmonic Motion",
+        "topics": [
+          "forced-damped-oscillations-and-resonance",
+          "simple-harmonic-motion",
+          "some-systems-of-executing-shm"
+        ]
+      },
+      "units-and-measurements": {
+        "id": "units-and-measurements",
+        "name": "Units And Measurements",
+        "topics": [
+          "dimensions-of-physical-quantities",
+          "errors-in-measurement",
+          "screw-gauge",
+          "unit-of-physical-quantities",
+          "vernier-calipers"
+        ]
+      },
+      "vector-algebra": {
+        "id": "vector-algebra",
+        "name": "Vector Algebra",
+        "topics": [
+          "dot-product-and-cross-product",
+          "vector-arithmetic",
+          "vector-projections"
+        ]
+      },
+      "wave-optics": {
+        "id": "wave-optics",
+        "name": "Wave Optics",
+        "topics": [
+          "diffraction-and-doppler-effect-of-light",
+          "huygens-principle-and-interference-of-light",
+          "optical-instruments",
+          "polarisation"
+        ]
+      },
+      "waves": {
+        "id": "waves",
+        "name": "Waves",
+        "topics": [
+          "basic-of-waves-and-progressive-waves",
+          "doppler-effect",
+          "superposition-and-reflection-of-waves"
+        ]
+      },
+      "work-power-and-energy": {
+        "id": "work-power-and-energy",
+        "name": "Work Power And Energy",
+        "topics": [
+          "energy",
+          "power",
+          "work"
+        ]
+      }
+    }
+  }
 }
