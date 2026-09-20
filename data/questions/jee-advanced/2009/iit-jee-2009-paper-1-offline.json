@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "1lfneu6vi",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "real-gas-and-van-der-walls-equation",
+    "chapter": "gaseous-state",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The term that correct for the attractive forces present in a real gas in the van der Waals equation is</p></div>",
+    "options": {
+      "A": "<p>$$nb$$</p>",
+      "B": "<p>$$\\frac{an^{2}}{V^{2}}$$</p>",
+      "C": "<p>$$-\\frac{an^{2}}{V^{2}}$$</p>",
+      "D": "<p>$$-nb$$</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The van der Waals equation is a modified version of the ideal gas law which accounts for the non-ideal behavior of real gases. This adjustment is done through two correction terms, each addressing a specific factor where real gases deviate from ideal behavior:</p>\n\n<ul>\n\n<li>Intermolecular attraction</li>\n\n<li>Volume occupied by the gas particles themselves</li>\n\n</ul>\n\n<p>The van der Waals equation is given by:</p>\n\n<p>$$\\left(P + \\frac{{a n^2}}{{V^2}}\\right) \\left(V - nb\\right) = nRT$$</p>\n\n<p>Let's break down the components:</p>\n\n<ol>\n\n<li>$$\\left(P + \\frac{{a n^2}}{{V^2}}\\right)$$: This term adds a correction to the pressure (P) of the gas. The parameter $$a$$ provides a correction for the intermolecular forces. As these forces are attractive, they effectively reduce the pressure exerted by the gas. Thus, $$\\frac{{a n^2}}{{V^2}}$$ is added to the actual pressure to account for this decrease due to attraction.</li>\n\n<li>$$\\left(V - nb\\right)$$: The corrected volume term where $$b$$ accounts for the volume occupied by the gas particles themselves, which is otherwise not considered in the ideal gas law. The subtraction by $$nb$$ (where $$n$$ is the number of moles of the gas and $$b$$ is a constant related to the volume occupied by one mole of gas particles) corrects for the volume unavailable to the gas particles for movement.</li>\n\n</ol>\n\n<p>From the options provided:</p>\n\n<ul>\n\n<li>Option A ($$nb$$) and Option D ($$-nb$$) relate to the volume correction for the space that the gas molecules occupy.</li>\n\n<li>Option B ($$\\frac{{a n^2}}{{V^2}}$$) and Option C ($$- \\frac{{a n^2}}{{V^2}}$$) relate to the intermolecular forces.</li>\n\n</ul>\n\n<p>The enhancement factor $$\\frac{{a n^2}}{{V^2}}$$ is added to the pressure to counteract the lowering effect of the attractions on the measured pressure, thus the term correcting for the attractive forces and increasing the effective pressure would be positively stated, not negatively. Therefore:</p>\n\n<p>Option B ($$\\frac{{a n^2}}{{V^2}}$$) is the correct answer, as it accounts for the attractive forces in the modification of the ideal gas law in the van der Waals equation.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfngdvkk",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "iupac-nomenclature",
+    "chapter": "basics-of-organic-chemistry",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The IUPAC name of the following compound is -<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_585.png\" src=\"https://cracku.in/media/uploads/Screenshot_585.png\"/></div>",
+    "options": {
+      "A": "<p>4-Bromo-3-cyanophenol</p>",
+      "B": "<p>2-Bromo-5-hydroxybenzonitrile</p>",
+      "C": "<p>2-Cyano-4- hydroxybromobenzene</p>",
+      "D": "<p>6-Bromo-3-hydroxybenzonitrile</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The priority order of the substituents on the ring is</p>\n<p>$$-$$CN &gt; $$-$$Br &gt; $$-$$OH</p>\n<p>Cyanide group is given the highest priority.\n<br><br>Hence, it is written as suffix benzonitrile and\nother functional groups behave as substituents.\nThe numbering of substituents is done in such\na way that sum of the locants is least.\n<br><br>The names of substituents are written in\nalphabetical order.</p>\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfxhmnir/c2dde872-125b-4e19-8519-ccbbe7da0012/ab3cfe30-d047-11ed-adb8-f5dc1908b5dc/file-1lfxhmnis.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfxhmnir/c2dde872-125b-4e19-8519-ccbbe7da0012/ab3cfe30-d047-11ed-adb8-f5dc1908b5dc/file-1lfxhmnis.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Basics of Organic Chemistry Question 13 English Explanation\">"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "pIaiLMUY08LrhZGX",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "mole-concept",
+    "chapter": "some-basic-concepts-of-chemistry",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Given that the abundances of isotopes $$^{54}Fe,^{56}Fe$$ and $$^{57}Fe$$ are 5%,90% and 5% respectively, the atomic mass of Fe is -</p></div>",
+    "options": {
+      "A": "<p>55.85</p>",
+      "B": "<p>55.95</p>",
+      "C": "<p>55.75</p>",
+      "D": "<p>56.05</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 1,
+    "negativeMarks": 0.25,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>To calculate the atomic mass of an element based on its isotopic abundances, we use a weighted average. The atomic mass reported on the periodic table is a reflection of the weighted averages of all the naturally occuring isotopes of that element. The formula to calculate the average atomic mass $ M $ of an element when given the abundance and atomic mass of each isotope is:</p>\n\n\n\n<p>$M = \\sum (f_i \\times m_i)$</p>\n\n\n\n<p>where:</p>\n\n<ul>\n<li>$ f_i $ is the fractional percent abundance (as a decimal) of the $ i $-th isotope.</li><br>\n<li>$ m_i $ is the mass number of the $ i $-th isotope.</li>\n</ul>\n<p>For iron (Fe), we have three isotopes $ ^{54}Fe, ^{56}Fe, ^{57}Fe $ with abundances 5%, 90%, and 5%, respectively. To convert these percentages into decimals, we divide each by 100.</p>\n\n<p>Let's calculate the weighted average:</p>\n\n\n\n<p>$M = (0.05 \\times 54) + (0.90 \\times 56) + (0.05 \\times 57)$</p>\n\n\n\n<p>Multiplying each fractional abundance by its respective mass we get:</p>\n\n\n\n<p>$M = (0.05 \\times 54) + (0.90 \\times 56) + (0.05 \\times 57)$</p>\n\n\n\n\n\n<p>$M = (2.7) + (50.4) + (2.85)$</p>\n\n\n<p>$M = 55.95$</p>\n\n\n\n<p>Therefore, the calculated atomic mass of Fe is 55.95, which corresponds to Option B.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfng98su",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "properties-of-polymers",
+    "chapter": "polymers",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Among cellulose, poly(vinyl chloride), nylon and natural rubber, the polymer in which the intermolecular force of attraction is weakest is -</p></div>",
+    "options": {
+      "A": "<p>Nylon</p>",
+      "B": "<p>Poly(vinyl chloride)</p>",
+      "C": "<p>Cellulose</p>",
+      "D": "<p>Natural Rubber</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Natural rubber is an elastomer in which the chains are held together by weak van der Waals forces of attraction. Cellulose and nylon are fibres and PVC is a thermoplastic. Both these classes of polymers have stronger forces of attraction in the order</p>\n<p>Fibre > Thermoplastic > Elastomer.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnf5yvo",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "raoults-law",
+    "chapter": "solutions",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The Henry's law constant for the solubility of $$N_{2}$$ gas in water at 298 K is $$1.0\\times10^{5}$$ atm. The mole fraction of $$N_{2}$$ in air is 0.8. The number of moles of $$N_{2}$$ from air dissolved in 10 moles of water at 298 K and 5 atm pressure is -</p></div>",
+    "options": {
+      "A": "<p>$$4.0\\times10^{-4}$$</p>",
+      "B": "<p>$$4.0\\times10^{-5}$$</p>",
+      "C": "<p>$$5.0\\times10^{-4}$$</p>",
+      "D": "<p>$$4.0\\times10^{-6}$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>According to Henry's law, we have</p>\n<p>$${p_{{N_2}}} = {K_H}{x_{{N_2}}}$$</p>\n<p>$$0.8 \\times 5 = 1 \\times {10^5} \\times {x_{{N_2}}}$$</p>\n<p>$${x_{{N_2}}} = 4 \\times {10^{ - 5}}$$</p>\n<p>Thus one mole of solution contains $$4 \\times {10^{ - 5}}$$ moles of N$$_2$$ and $$1 - 4 \\times {10^{ - 5}} \\approx 1$$ mole of water. Therefore, N$$_2$$ from air dissolved in 10 moles of water is $$10 \\times 4 \\times {10^{ - 5}}$$ moles $$ = 4 \\times {10^{ - 4}}$$.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnfekfz",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "acid-and-base-strength",
+    "chapter": "basics-of-organic-chemistry",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The correct acidity order of the following is -<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_586.png\" src=\"https://cracku.in/media/uploads/Screenshot_586_X05rBAL.png\"/></div>",
+    "options": {
+      "A": "<p>$$(III)&gt;(IV)&gt;(II)&gt;(I)$$</p>",
+      "B": "<p>$$(IV)&gt;(III)&gt;(I)&gt;(II)$$</p>",
+      "C": "<p>$$(III)&gt;(II)&gt;(I)&gt;(IV)$$</p>",
+      "D": "<p>$$(II)&gt;(III)&gt;(IV)&gt;(I)$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>We know that, carboxylic acids are more acidic than phenols. Further, presence of electron withdrawing groups on the ring increases the acidic nature and electron releasing group decreases the acidic strength. So, structure III, due to the presence of carboxylic acid is the strongest acid $$(p{K_a} = 4.17)$$.<br/><br/> In structure IV, the +I effect of alkyl group reduces the acidic strength $$(p{K_a} = 4.37)$$ of the carboxylic acid. Structure III, due to the presence of electron withdrawing substituent (Cl), is more acidic than phenol $$(p{K_a} = 9.38)$$. Phenol (structure I) is the weakest acid amongst all $$(p{K} = 9.98)$$.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnezo2h",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "colloids",
+    "chapter": "surface-chemistry",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Among the electrolytes $$Na_{2}SO_{4},\\ CaCl_{2},\\ Al_{2}(SO_{4})_{3}$$ and $$NH_{4}Cl$$, the most effective coagulating agent for $$Sb_{2}S_{3}sol$$ is</p></div>",
+    "options": {
+      "A": "<p>$$Na_{2}SO_{4}$$</p>",
+      "B": "<p>$$CaCl_{2}$$</p>",
+      "C": "<p>$$Al_2(SO_4)_3$$</p>",
+      "D": "<p>$$NH_4Cl$$</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>As Sb$$_2$$S$$_3$$ is a negative sol, so, Al$$_2$$(SO$$_4$$)$$_3$$ will be the most effective coagulant due to higher charge density on Al$$^{3+}$$ in accordance with Hardy-Schulze rule.</p>\n<p>Order of effectiveness of cations: Al$$^{3+}$$ > Ca$$^{2+}$$ > Na$$^{+}$$ > NH$$^{+}_{4}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnf8q01",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "oxides-of-phosphorous",
+    "chapter": "p-block-elements",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The reaction of $$P_{4}$$ with X leads selectively to $$P_{4}O_{6}$$. The X is</p></div>",
+    "options": {
+      "A": "<p>Dry $$O_{2}$$</p>",
+      "B": "<p>A mixture of $$O_{2}$$ and $$N_{2}$$</p>",
+      "C": "<p>Moist $$O_{2}$$</p>",
+      "D": "<p>$$O_{2}$$ in the presence of aqueous $$NaOH$$</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Phosphorus reacts with limited supply of oxygen to form the given product.</p>\n<p>P$$_4$$ + 3O$$_2$$ $$\\to$$ P$$_4$$O$$_6$$</p>\n<p>N$$_2$$ is used to retard the further oxidation.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "8OoaTMsuUIraUWHU",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "oxides-of-sodium",
+    "chapter": "s-block-elements",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>The compound(s) formed upon combustion of sodium metal in excess air is(are)</p></div>",
+    "options": {
+      "A": "<p>$$Na_{2}O_{2}$$</p>",
+      "B": "<p>$$Na_{2}O$$</p>",
+      "C": "<p>$$NaO_{2}$$</p>",
+      "D": "<p>$$NaOH$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The compound(s) formed upon the combustion\nof sodium metal in the excess air is sodium\nperoxide (Na<sub>2</sub>O<sub>2</sub>) and sodium\noxide (Na<sub>2</sub>O).</p>\n<p>$$\n\\begin{aligned}\n& 4 \\mathrm{Na}+\\mathrm{O}_2 \\rightarrow 2 \\mathrm{Na}_2 \\mathrm{O} \\\\\\\\\n& 2 \\mathrm{Na}+\\mathrm{O}_2 \\rightarrow \\mathrm{Na}_2 \\mathrm{O}_2\n\\end{aligned}\n$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfngieoz",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "imperfections-in-solids",
+    "chapter": "solid-state",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>The correct statement(s) regarding defects in solids is(are) -</p></div>",
+    "options": {
+      "A": "<p>Frenkel defect is usually favoured by a very small difference in the size of cation and anion</p>",
+      "B": "<p>Frenkel defect is a dislocation defect</p>",
+      "C": "<p>Trapping of an electron in the lattice leads to the formation of F-center</p>",
+      "D": "<p>Schottky defects have no effect on the physical properties of solids</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Frenkel defect occurs in compounds in which the anions are much larger in size than cations. It is a dislocation effect. The presence of Schottky defects lowers the density of the crystal, it hence affects the physical properties of the crystal. In the metal excess defects, the electrons trapped in anion vacancies are known as F-centres.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfngochn",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "isomerism-in-coordination-compounds",
+    "chapter": "coordination-compounds",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>The compound(s) that exhibit(s) geometrical isomerism is(are)</p></div>",
+    "options": {
+      "A": "<p>$$[Pt(en)Cl_{2}]$$</p>",
+      "B": "<p>$$[Pt(en)_{2}]Cl_{2}$$</p>",
+      "C": "<p>$$[Pt(en)_{2}Cl_{2}]Cl_{2}$$</p>",
+      "D": "<p>$$[Pt(NH_{3})_{2}Cl_{2}]$$</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Among the given compounds, the compounds of the type [MA$$_2$$X$$_2$$] and [M(AA)$$_2$$X$$_2$$] will exhibit geometrical isomerism.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmrpq0/2566d738-cff7-4633-acc2-00d6200f7885/11bbd780-cd0f-11ed-8124-cf50c8498624/file-1lfrmrpq1.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmrpq0/2566d738-cff7-4633-acc2-00d6200f7885/11bbd780-cd0f-11ed-8124-cf50c8498624/file-1lfrmrpq1.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Coordination Compounds Question 28 English Explanation 1\"><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrms182/9ef7441b-b798-4243-a979-3080182bb228/1a9e5120-cd0f-11ed-8124-cf50c8498624/file-1lfrms183.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrms182/9ef7441b-b798-4243-a979-3080182bb228/1a9e5120-cd0f-11ed-8124-cf50c8498624/file-1lfrms183.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Coordination Compounds Question 28 English Explanation 2\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfngxcaz",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "isomerism",
+    "chapter": "basics-of-organic-chemistry",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>The correct statement(s) about the compound $$H_{3}C(HO)HC-CH=CH-CH(OH)CH_{3}(X)$$ is (are)</p></div>",
+    "options": {
+      "A": "<p>The total number of stereoisomers possible for X is 6</p>",
+      "B": "<p>The total number of diastereomers possible for X is 3</p>",
+      "C": "<p>If the stereochemistry about the double bond in X is trans, the number of enantiomers possible for X is 4</p>",
+      "D": "<p>If the stereochemistry about the double bond in X is cis, the number of enantiomers possible for X is 2</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The possible stereoisomers of the given compounds are as follows:</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmurzf/a7285511-fa94-4cfd-a35e-683bd2b12c01/66e87fb0-cd0f-11ed-8124-cf50c8498624/file-1lfrmurzg.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmurzf/a7285511-fa94-4cfd-a35e-683bd2b12c01/66e87fb0-cd0f-11ed-8124-cf50c8498624/file-1lfrmurzg.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Basics of Organic Chemistry Question 12 English Explanation 1\"><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmv3hn/6fc69ff8-2740-4177-b29b-72f73365dbe8/6fcbe3b0-cd0f-11ed-8124-cf50c8498624/file-1lfrmv3ho.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmv3hn/6fc69ff8-2740-4177-b29b-72f73365dbe8/6fcbe3b0-cd0f-11ed-8124-cf50c8498624/file-1lfrmv3ho.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Basics of Organic Chemistry Question 12 English Explanation 2\"><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmveo9/4b4ad819-bd1e-4cc9-b49d-08705df6f01b/786f7f90-cd0f-11ed-8124-cf50c8498624/file-1lfrmveoa.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmveo9/4b4ad819-bd1e-4cc9-b49d-08705df6f01b/786f7f90-cd0f-11ed-8124-cf50c8498624/file-1lfrmveoa.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Basics of Organic Chemistry Question 12 English Explanation 3\"><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmvp8u/6d6a28f7-3185-4099-ae8a-438977cf4ffa/809a1ae0-cd0f-11ed-8124-cf50c8498624/file-1lfrmvp8v.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmvp8u/6d6a28f7-3185-4099-ae8a-438977cf4ffa/809a1ae0-cd0f-11ed-8124-cf50c8498624/file-1lfrmvp8v.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Basics of Organic Chemistry Question 12 English Explanation 4\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnh892k",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "systematic-analysis-of-anions",
+    "chapter": "salt-analysis",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The compound X is</p></div>",
+    "options": {
+      "A": "<p>$$NaNO_{3}$$</p>",
+      "B": "<p>$$NaCl$$</p>",
+      "C": "<p>$$Na_{2}So_{4}$$</p>",
+      "D": "<p>$$Na_{2}$$</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The compound <b>X</b> is H$$_2$$S:</p>\n<p>$$\\mathrm{\\mathop {N{a_2}S}\\limits_{(X)}  + 2{H^ + } \\to {H_2}S + 2N{a^ + }}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Salt Analysis Question 10 English Explanation 1\"></p>\n<p>Thus, the compound <b>Y</b> is FeCl$$_3$$.</p>\n<p>Compound <b>Y</b> on reaction with potassium hyxacyanoferrate(II) forms intense blue precipitate which dissolves on addition of reagent</p>\n<p>$$\\mathrm{4FeC{l_3} + 3{K_4}\\left[ {Fe(II){{(CN)}_6}} \\right] \\to \\mathop {F{e_4}{{[Fe{{(CN)}_6}]}_3}}\\limits_{Intense\\,blue\\,ppt.}  + 12KCl}$$</p>\n<p>Compound <b>Y</b> on reaction with potassium hexacyanoferrate (III) forms brown colouration due to</p>\n<p>$$\\mathrm{Fe[Fe(CN)_6]}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Salt Analysis Question 10 English Explanation 2\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnh9jr7",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "systematic-analysis-of-cations",
+    "chapter": "salt-analysis",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The compound Y is -</p></div>",
+    "options": {
+      "A": "<p>$$MgCl_{2}$$</p>",
+      "B": "<p>$$FeCl_{2}$$</p>",
+      "C": "<p>$$FeCl_{3}$$</p>",
+      "D": "<p>$$ZnCl_{2}$$</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The compound <b>X</b> is H$$_2$$S:</p>\n<p>$$\\mathrm{\\mathop {N{a_2}S}\\limits_{(X)}  + 2{H^ + } \\to {H_2}S + 2N{a^ + }}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Salt Analysis Question 8 English Explanation 1\"></p>\n<p>Thus, the compound <b>Y</b> is FeCl$$_3$$.</p>\n<p>Compound <b>Y</b> on reaction with potassium hyxacyanoferrate(II) forms intense blue precipitate which dissolves on addition of reagent</p>\n<p>$$\\mathrm{4FeC{l_3} + 3{K_4}\\left[ {Fe(II){{(CN)}_6}} \\right] \\to \\mathop {F{e_4}{{[Fe{{(CN)}_6}]}_3}}\\limits_{Intense\\,blue\\,ppt.}  + 12KCl}$$</p>\n<p>Compound <b>Y</b> on reaction with potassium hexacyanoferrate (III) forms brown colouration due to</p>\n<p>$$\\mathrm{Fe[Fe(CN)_6]}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Salt Analysis Question 8 English Explanation 2\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnhftdv",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "systematic-analysis-of-cations",
+    "chapter": "salt-analysis",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The compound Z is -</p></div>",
+    "options": {
+      "A": "<p>$$Mg_{2}[Fe(CN)_{6}]$$</p>",
+      "B": "<p>$$Fe[Fe(CN)_{6}]$$</p>",
+      "C": "<p>$$Fe_{4}[Fe(CN)_{6}]_{3}$$</p>",
+      "D": "<p>$$K_{2}Zn_{3}[Fe(CN)_{6}]_{2}$$</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The compound <b>X</b> is H$$_2$$S:</p>\n<p>$$\\mathrm{\\mathop {N{a_2}S}\\limits_{(X)}  + 2{H^ + } \\to {H_2}S + 2N{a^ + }}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmykpg/613c0862-dbf6-4cfd-9751-3b21c73340e1/d0860140-cd0f-11ed-8124-cf50c8498624/file-1lfrmykph.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Salt Analysis Question 9 English Explanation 1\"></p>\n<p>Thus, the compound <b>Y</b> is FeCl$$_3$$.</p>\n<p>Compound <b>Y</b> on reaction with potassium hyxacyanoferrate(II) forms intense blue precipitate which dissolves on addition of reagent</p>\n<p>$$\\mathrm{4FeC{l_3} + 3{K_4}\\left[ {Fe(II){{(CN)}_6}} \\right] \\to \\mathop {F{e_4}{{[Fe{{(CN)}_6}]}_3}}\\limits_{Intense\\,blue\\,ppt.}  + 12KCl}$$</p>\n<p>Compound <b>Y</b> on reaction with potassium hexacyanoferrate (III) forms brown colouration due to</p>\n<p>$$\\mathrm{Fe[Fe(CN)_6]}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrn09qx/a2aeb4d3-d055-4010-9fb4-a79e884eb02b/ffad1490-cd0f-11ed-8124-cf50c8498624/file-1lfrn09qy.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Salt Analysis Question 9 English Explanation 2\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnhir7d",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "chemical-reactions-for-aldehydes-and-ketones",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The structure of the carbonyl compound P is -</p></div>",
+    "options": {
+      "A": "<img class=\"img-responsive\" data-image=\"Screenshot_588.png\" src=\"https://cracku.in/media/uploads/Screenshot_588.png\"/>",
+      "B": "<img class=\"img-responsive\" data-image=\"Screenshot_589.png\" src=\"https://cracku.in/media/uploads/Screenshot_589.png\"/>",
+      "C": "<img class=\"img-responsive\" data-image=\"Screenshot_590.png\" src=\"https://cracku.in/media/uploads/Screenshot_590.png\"/>",
+      "D": "<img class=\"img-responsive\" data-image=\"Screenshot_591.png\" src=\"https://cracku.in/media/uploads/Screenshot_591.png\"/>"
+    },
+    "correct_answer": "B",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The structure of carbonyl compound P is</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrn64pt/c100582c-5727-4d04-b49a-bc941a8c86e7/a2ade6b0-cd10-11ed-8124-cf50c8498624/file-1lfrn64rf.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrn64pt/c100582c-5727-4d04-b49a-bc941a8c86e7/a2ade6b0-cd10-11ed-8124-cf50c8498624/file-1lfrn64rf.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 100vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 31 English Explanation\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnhjzlh",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "chemical-reactions-for-aldehydes-and-ketones",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The structures of the products Q and R, respectively, are -</p></div>",
+    "options": {
+      "A": "<img class=\"img-responsive\" data-image=\"Screenshot_592.png\" src=\"https://cracku.in/media/uploads/Screenshot_592.png\"/>",
+      "B": "<img class=\"img-responsive\" data-image=\"Screenshot_593.png\" src=\"https://cracku.in/media/uploads/Screenshot_593.png\"/>",
+      "C": "<img class=\"img-responsive\" data-image=\"Screenshot_594.png\" src=\"https://cracku.in/media/uploads/Screenshot_594.png\"/>",
+      "D": "<img class=\"img-responsive\" data-image=\"Screenshot_595.png\" src=\"https://cracku.in/media/uploads/Screenshot_595.png\"/>"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The structures for compounds Q and R are</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrnacp2/3d915482-7f55-4200-a9c9-5e8e6e0101b8/180b8660-cd11-11ed-8124-cf50c8498624/file-1lfrnacp3.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrnacp2/3d915482-7f55-4200-a9c9-5e8e6e0101b8/180b8660-cd11-11ed-8124-cf50c8498624/file-1lfrnacp3.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 70vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 32 English Explanation\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnhlemj",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "chemical-reactions-for-aldehydes-and-ketones",
+    "chapter": "aldehydes-ketones-and-carboxylic-acids",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The structure of the product S is -</p></div>",
+    "options": {
+      "A": "<img class=\"img-responsive\" data-image=\"Screenshot_596.png\" src=\"https://cracku.in/media/uploads/Screenshot_596.png\"/>",
+      "B": "<img class=\"img-responsive\" data-image=\"Screenshot_597.png\" src=\"https://cracku.in/media/uploads/Screenshot_597.png\"/>",
+      "C": "<img class=\"img-responsive\" data-image=\"Screenshot_598.png\" src=\"https://cracku.in/media/uploads/Screenshot_598.png\"/>",
+      "D": "<img class=\"img-responsive\" data-image=\"Screenshot_599.png\" src=\"https://cracku.in/media/uploads/Screenshot_599.png\"/>"
+    },
+    "correct_answer": "B",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The structure of compound S is</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrnemuw/529c5231-d859-4ac1-a65f-954c4e970cb6/8f21ab80-cd11-11ed-8124-cf50c8498624/file-1lfrnemux.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrnemuw/529c5231-d859-4ac1-a65f-954c4e970cb6/8f21ab80-cd11-11ed-8124-cf50c8498624/file-1lfrnemux.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 30 English Explanation\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfni1bt1",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "molecular-orbital-theory",
+    "chapter": "chemical-bonding-and-molecular-structure",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Match each of the diatomic molecules in Column I with its property/properties in Column II<br/></p>\n<img class=\"img-responsive\" data-image=\"Screenshot_600.png\" src=\"https://cracku.in/media/uploads/Screenshot_600.png\"/></div>",
+    "options": {
+      "A": "$$\\mathrm{(A)\\to(P),(Q),(R),(T);(B)\\to(S),(T);(C)\\to(P),(Q);(D)\\to(P),(Q),(S)}$$",
+      "B": "$$\\mathrm{(A)\\to(P),(S),(R),(T);(B)\\to(S),(T);(C)\\to(P),(Q);(D)\\to(P),(T),(S)}$$",
+      "C": "$$\\mathrm{(A)\\to(Q),(R),(T);(B)\\to(P),(T);(C)\\to(P),(Q);(D)\\to(T),(Q),(S)}$$",
+      "D": "$$\\mathrm{(A)\\to(P),(R),(T);(B)\\to(Q),(T);(C)\\to(S),(Q);(D)\\to(P),(Q),(S)}$$"
+    },
+    "correct_answer": "(A)-p q r t (B)-q r s t (C)-p r (D)-p q r s",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 0,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>(A) $${B_2} \\to \\sigma 1{s^2}\\,\\sigma  * 1{s^2}\\,\\sigma 2{s^2}\\,\\sigma  * 2{s^2}\\pi 2p_x^1 = \\pi 2p_y^1$$</p>\n<p>It is paramagnetic due to two unpaired electrons. The bond order is</p>\n<p>$${{{N_b} - {N_a}} \\over 2} = {{6 - 4} \\over 2} = 1$$</p>\n<p>The gain of electron increases bond order, so reduction is possible.</p>\n<p>(B) $${N_2} \\to \\sigma 1{s^2}\\,\\sigma  * 1{s^2}\\,\\sigma 2{s^2}\\,\\sigma  * 2{s^2}\\pi 2p_x^2 = \\pi 2p_y^2\\sigma 2p_z^2$$</p>\n<p>There are no unpaired electrons. Bond order is</p>\n<p>$${{{N_b} - {N_a}} \\over 2} = {{10 - 4} \\over 2} = {6 \\over 2} = 3$$</p>\n<p>Mixing of 2s and 2p orbitals is possible because of similar energies.</p>\n<p>(C) $$O_2^ -  \\to \\sigma 1{s^2}\\,\\sigma  * 1{s^2}\\,\\sigma 2{s^2}\\,\\sigma  * 2{s^2}\\sigma 2p_z^2\\pi 2p_x^2 = \\pi 2p_y^2\\,\\pi  * 2p_x^2\\,\\pi  * 2p_y^1$$</p>\n<p>The molecule is paramagnetic due to presence of unpaired electron. Bond order is less than 2.</p>\n<p>$${{{N_b} - {N_a}} \\over 2} = {{10 - 7} \\over 2} = {3 \\over 2}$$</p>\n<p>Loss of electron increases the bond order so oxidation is possible.</p>\n<p>(D) $$O_2^{} \\to \\sigma 1{s^2}\\,\\sigma  * 1{s^2}\\,\\sigma 2{s^2}\\,\\sigma  * 2{s^2}\\sigma 2p_z^2\\pi 2p_x^2 = \\pi 2p_y^2\\,\\pi  * 2p_x^1\\,\\pi  * 2p_y^1$$</p>\n<p>The molecule is paramagnetic due to presence of unpaired electrons. Bond order is</p>\n<p>$${{{N_b} - {N_a}} \\over 2} = {{10 - 6} \\over 2} = {4 \\over 2} = 2$$</p>\n<p>Loss of electron causes increase in bond order, so it undergoes oxidation.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnifqwp",
+    "exam": "jee-advanced",
+    "subject": "chemistry",
+    "topic": "aliphatic-amines",
+    "chapter": "compounds-containing-nitrogen",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Match each of the compounds in Column I with its characteristic reaction(s) in Column II.<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_601.png\" src=\"https://cracku.in/media/uploads/Screenshot_601_Cd4kFGG.png\"/></div>",
+    "options": {
+      "A": "$$\\mathrm{(A)\\to(P),(Q),(S),(T);(B)\\to(Q),(T);(C)\\to(P);(D)\\to(S)}$$",
+      "B": "$$\\mathrm{(A)\\to(Q), (R), (S),(T);(B)\\to(S),(T);(C)\\to(P);(D)\\to(R)}$$",
+      "C": "$$\\mathrm{(A)\\to(P),(R),(S),(T);(B)\\to(S),(T);(C)\\to(P);(D)\\to(R), (T)}$$",
+      "D": "$$\\mathrm{(A)\\to(P),(Q),(S),(T);(B)\\to(S),(T);(C)\\to(P);(D)\\to(R)}$$"
+    },
+    "correct_answer": "(A)- q s t (B)- s t (C)-p (D)- r",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>(A) <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrnk86j/86978c93-f312-49b4-a5d3-9006e62f19ef/2aa623b0-cd12-11ed-8124-cf50c8498624/file-1lfrnk86k.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrnk86j/86978c93-f312-49b4-a5d3-9006e62f19ef/2aa623b0-cd12-11ed-8124-cf50c8498624/file-1lfrnk86k.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Compounds Containing Nitrogen Question 19 English Explanation 1\"></p>\n<p>(B) Reaction with DIBAL-H and alkaline hydrolysis:</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrnl1t6/938e73a9-d225-4d31-a71f-bddcb6bf8d17/41895ca0-cd12-11ed-8124-cf50c8498624/file-1lfrnl1t7.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrnl1t6/938e73a9-d225-4d31-a71f-bddcb6bf8d17/41895ca0-cd12-11ed-8124-cf50c8498624/file-1lfrnl1t7.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Chemistry - Compounds Containing Nitrogen Question 19 English Explanation 2\"></p>\n<p>(C) Reduction with Pd-C/H$$_2$$:</p>\n<p>$$C{H_3} - CH = CH - C{H_2}OH\\buildrel {Pd - C/C{H_2}} \\over\n \\longrightarrow C{H_3} - C{H_2} - C{H_2} - C{H_2}OH$$</p>\n<p>(D) Foul smell on treatment with $$CHC{l_3} + KOH$$:</p>\n<p>$$RN{H_2}\\buildrel {CHC{l_3} + KOH} \\over\n \\longrightarrow \\mathop {RNC}\\limits_{Foul\\,smell}  + KCl + {H_2}O$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "TU5pzon3yK85HjqI",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "chord-of-contact",
+    "chapter": "circle",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Tangents drawn from the point P(1, 8) to the circle $$x^{2}+y^{2}-6x-4y-11=0$$ touch the circle at the points A and B. The equation of the circumcircle of the triangle PAB is</p></div>",
+    "options": {
+      "A": "<p>$$x^{2}+y^{2}+4x-6y+19=0$$</p>",
+      "B": "<p>$$x^{2}+y^{2}-4x-10y+19=0$$</p>",
+      "C": "<p>$$x^{2}+y^{2}-2x+6y-29=0$$</p>",
+      "D": "<p>$$x^{2}+y^{2}-6x-4y+19=0$$</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>From the given data, the centre of the circle is C(3, 2).</p>\n<p>Since, CA and CB are perpendicular to PA and PB, CP is the diameter of the circumcircle of triangle PAB. Its equation is</p>\n<p>$$(x - 3)(x - 1) + (y - 2)(y - 8) = 0$$</p>\n<p>or $${x^2} + {y^2} - 4x - 10y + 19 = 0$$.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "i8CdIhXNdutjJXjY",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "number-of-combinations",
+    "chapter": "permutations-and-combinations",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The number of seven digit integers, with sum of the digits equal to 10 and formed by using the digits 1, 2 and 3 only, is</p></div>",
+    "options": {
+      "A": "<p>55</p>",
+      "B": "<p>66</p>",
+      "C": "<p>77</p>",
+      "D": "<p>88</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The two possible cases are as follows:</p>\n<p>Case 1 : There are five 1's; one 2; one 3. Therefore, the number of numbers is 7!/5! = 42.</p>\n<p>Case 2 : There are four 1's; three 2's. Therefore, the number of numbers is 7!/4! 3! = 35. Hence, the total number of numbers is 42 + 35 = 77</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "FK5aLak0B2De2nnA",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "lines-and-plane",
+    "chapter": "3d-geometry",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Let P(3, 2, 6) be a point in space and Q be a point on the line $$\\overrightarrow{r}=(\\hat{i}-\\hat{j}+2\\hat{k})+\\mu(-3\\hat{i}+\\hat{j}+5\\hat{k})$$ Then the value of $$\\mu$$ for which the vector $$\\overrightarrow{PQ}$$ is parallel to the plane $$x-4y+3z=1$$ is</p></div>",
+    "options": {
+      "A": "<p>$$\\frac{1}{4}$$</p>",
+      "B": "<p>$$-\\frac{1}{4}$$</p>",
+      "C": "<p>$$\\frac{1}{8}$$</p>",
+      "D": "<p>$$-\\frac{1}{8}$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>We see that any point on the line is given as</p>\n<p>$$Q \\equiv \\{ (1 - 3\\mu ),(\\mu  - 1),(5\\mu  + 2)\\} $$</p>\n<p>$$\\overrightarrow {PQ}  \\equiv \\{  - 3\\mu  - 2,\\mu  - 3,5\\mu  - 4\\} $$</p>\n<p>Now, we have</p>\n<p>$$1( - 3\\mu  - 2) - 4(\\mu  - 3) + 3(5\\mu  - 4) = 0$$</p>\n<p>$$ \\Rightarrow  - 3\\mu  - 2 - 4\\mu  + 12 + 15\\mu  - 12 = 0$$</p>\n<p>That is, $$8\\mu  = 2 \\Rightarrow \\mu  = {1 \\over 4}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "qSkaMLsEnQhOq3wx",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "de-moivres-theorem",
+    "chapter": "complex-numbers",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Let $$Z=\\cos\\theta+i\\ \\sin\\theta$$. Then the value of $$\\sum_{m=1}^{15}Im(z^{2m-1})$$ at $$\\theta=2^{0}$$ is</p></div>",
+    "options": {
+      "A": "<p>$$\\frac{1}{\\sin2^{0}}$$</p>",
+      "B": "<p>$$\\frac{1}{3\\sin2^{0}}$$</p>",
+      "C": "<p>$$\\frac{1}{2\\sin2^{0}}$$</p>",
+      "D": "<p>$$\\frac{1}{4\\sin2^{0}}$$</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>We have</p>\n<p>$$X = \\sin \\theta  + \\sin 3\\theta \\, + \\,...\\, + \\,\\sin 29\\theta $$</p>\n<p>$$2(\\sin \\theta )X = 1 - \\cos 2\\theta  + \\cos 2\\theta  - \\cos 4\\theta \\, + \\,...\\, + \\,\\cos 28\\theta  - \\cos 30\\theta $$</p>\n<p>$$X = {{1 - \\cos 30\\theta } \\over {2\\sin \\theta }} = {1 \\over {4\\sin 2^\\circ }}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "ZOQkVDoZgLs7zRLn",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "conjugate-of-complex-numbers",
+    "chapter": "complex-numbers",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Let $$z=x+iy$$ be a complex number where x and y are integers. Then the area of the rectangle whose vertices are the roots of the equation $$Z\\overline{z}^{3}+\\overline{z}Z^{3}=350$$ is</p></div>",
+    "options": {
+      "A": "<p>48</p>",
+      "B": "<p>32</p>",
+      "C": "<p>40</p>",
+      "D": "<p>80</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>We have</p>\n<p>$$\\overline z {z^3} + z{\\overline z ^3} = 350$$</p>\n<p>Substituting $$z = x + iy$$, we get</p>\n<p>$$({x^2} + {y^2})({x^2} - {y^2}) = 175$$</p>\n<p>$$({x^2} + {y^2})({x^2} - {y^2}) = 5 \\times 5 \\times 7$$</p>\n<p>$${x^2} + {y^2} = 25$$</p>\n<p>$${x^2} - {y^2} = 7$$</p>\n<p>whose solutions are $$x =  \\pm 4$$ and $$y =  \\pm 3;x,y \\in I$$.</p>\n<p>Therefore, that is, area is found as $$8 \\times 6 = 48$$ sq. unit.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "FNyZy7E8Lr2f0dMr",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
+    "chapter": "vector-algebra",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>If $$\\overrightarrow{a},\\overrightarrow{b},\\overrightarrow{c}$$ and $$\\overrightarrow{d}$$ are unit vectors such that  $$(\\overrightarrow{a}\\times\\overrightarrow{b}).(\\overrightarrow{c}\\times\\overrightarrow{d})=1$$ and $$\\overrightarrow{a}.\\overrightarrow{c}=\\frac{1}{2}$$ then</p></div>",
+    "options": {
+      "A": "<p>$$\\overrightarrow{a},\\overrightarrow{b},\\overrightarrow{c}$$ are non-coplanar</p>",
+      "B": "<p>$$\\overrightarrow{a},\\overrightarrow{c},\\overrightarrow{d}$$ are non-coplanar</p>",
+      "C": "<p>$$\\overrightarrow{b},\\overrightarrow{d}$$ are non- parallel</p>",
+      "D": "<p>$$\\overrightarrow{a},\\overrightarrow{d}$$ are parallel and $$\\overrightarrow{b},\\overrightarrow{c}$$</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The given equation, $$(\\overrightarrow a  \\times \\overrightarrow b )\\,.\\,(\\overrightarrow c  \\times \\overrightarrow d ) = 1$$, is possible only when $$|\\overrightarrow a  \\times \\overrightarrow b | = |\\overrightarrow c  \\times \\overrightarrow d | = 1$$ and $$(\\overrightarrow a  \\times \\overrightarrow b )||(\\overrightarrow c  \\times \\overrightarrow d )$$.</p>\n<p>Since $$\\overrightarrow a \\,.\\,\\overrightarrow c  = 1/2$$ and $$\\overrightarrow b ||\\overrightarrow d $$, we get $$|\\overrightarrow c  \\times \\overrightarrow d | \\ne 1$$; hence, we conclude that the vectors $$\\overrightarrow b $$ and $$\\overrightarrow d $$ are non-parallel.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "OTavMqIHTkew2HkE",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "area-under-simple-curves-in-standard-forms",
+    "chapter": "application-of-integration",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Let f be a non-negative function defined on the interval $$[0,1]$$. If<br>$$\\int_{0}^{x}\\sqrt{1 - (f'(t))^2} dt = \\int_{0}^{x} f(t)dt, 0 \\leq x \\leq 1$$, and f(0) = 0, then</br></p></div>",
+    "options": {
+      "A": "<p>$$f\\left(\\frac{1}{2}\\right) &lt; \\frac{1}{2}$$ and $$f\\left(\\frac{1}{3}\\right) &gt; \\frac{1}{3}$$</p>",
+      "B": "<p>$$f\\left(\\frac{1}{2}\\right) &gt; \\frac{1}{2}$$ and $$f\\left(\\frac{1}{3}\\right) &gt; \\frac{1}{3}$$</p>",
+      "C": "<p>$$f\\left(\\frac{1}{2}\\right) &lt; \\frac{1}{2}$$ and $$f\\left(\\frac{1}{3}\\right) &lt; \\frac{1}{3}$$</p>",
+      "D": "<p>$$f\\left(\\frac{1}{2}\\right) &gt; \\frac{1}{2}$$ and $$f\\left(\\frac{1}{3}\\right) &lt; \\frac{1}{3}$$</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>We have, $$f' =  \\pm \\sqrt {1 - {f^2}} $$</p>\n<p>$$ \\Rightarrow f(x) = \\sin x$$ or $$f(x) =  - \\sin x$$ (not possible)</p>\n<p>$$ \\Rightarrow f(x) = \\sin x$$</p>\n<p>Also, $$x > \\sin x\\forall x > 0$$.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1QUrJBfisyzUzBEz",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "position-of-point-and-chord-joining-of-two-points",
+    "chapter": "ellipse",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The line passing through the extremity A of the major axis and extremity B of the minor axis of the ellipse $$x^2 + 9y^2 = 9$$ meets its auxiliary circle at the point M. Then the area of the triangle with vertices at A, M and the origin O is</p></div>",
+    "options": {
+      "A": "<p>$$\\frac{31}{10}$$</p>",
+      "B": "<p>$$\\frac{29}{10}$$</p>",
+      "C": "<p>$$\\frac{21}{10}$$</p>",
+      "D": "<p>$$\\frac{27}{10}$$</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Equation of line AM is $$x + 3y - 3 = 0$$.</p>\n<p>Perpendicular distance of line from origin is $$3/\\sqrt {10} $$.</p>\n<p>Length of AM is</p>\n<p>$$2\\sqrt {9 - {9 \\over {10}}}  = 2 \\times {9 \\over {\\sqrt {10} }}$$</p>\n<p>The required area of the rectangle is</p>\n<p>$${1 \\over 2} \\times 2 \\times {9 \\over {\\sqrt {10} }} \\times {3 \\over {\\sqrt {10} }} = {{27} \\over {10}}$$ sq. unit</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "0wbq7OhsDQd5iPTO",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "locus",
+    "chapter": "ellipse",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>In a triangle ABC with fixed base BC, the vertex A moves such that<br>$$\\cos B + \\cos C = 4 \\sin^2 \\frac{A}{2}$$<br>If a, b and c denote the lengths of the sides of the triangle opposite to the angles A, B and C, respectively, then</br></br></p></div>",
+    "options": {
+      "A": "<p>$$b + c = 4a$$</p>",
+      "B": "<p>$$b + c = 2a$$</p>",
+      "C": "<p>locus of point A is an ellipse</p>",
+      "D": "<p>locus of point A is a pair of straight lines</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>From this given data, we can write as</p>\n<p>$$2\\cos \\left( {{{B + C} \\over 2}} \\right)\\cos \\left( {{{B - C} \\over 2}} \\right) = 4{\\sin ^2}{A \\over 2}$$</p>\n<p>$$\\cos \\left( {{{B - C} \\over 2}} \\right) = 2\\sin (A/2)$$</p>\n<p>$$ \\Rightarrow {{\\cos \\left( {{{B - C} \\over 2}} \\right)} \\over {\\sin A/2}} = 2$$</p>\n<p>$$ \\Rightarrow {{\\sin B + \\sin C} \\over {\\sin A}} = 2$$</p>\n<p>$$ \\Rightarrow b + c = 2a$$</p>\n<p>where a is a constant. Therefore, the locus of point A is an ellipse.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "BUO0opENnzFVfpni",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "area-bounded-between-the-curves",
+    "chapter": "application-of-integration",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>Area of the region bounded by the curve $$y = e^x$$ and line x = 0 and y = e is</p></div>",
+    "options": {
+      "A": "<p>$$e - 1$$</p>",
+      "B": "<p>$$\\int_{1}^{e} \\ln(e+1-y)dy$$</p>",
+      "C": "<p>$$e - \\int_{0}^{1} e^xdx$$</p>",
+      "D": "<p>$$\\int_{1}^{e} \\ln y dy$$</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The required area is obtained as follows:</p>\n<p>$$\\int\\limits_1^e {\\ln y\\,dy = (y\\ln y - y)_1^e = (e - e) - \\{  - 1\\}  = 1} $$.</p>\n<p>Also,</p>\n<p>$$\\int\\limits_1^e {\\ln y\\,dy = \\int\\limits_1^e {\\ln (e + 1 - y)dy} } $$</p>\n<p>Further, the area bounded by the region is</p>\n<p>$$ = e \\times 1 - \\int\\limits_0^e {{e^x}dx} $$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrnn1l0/3f11ff08-fbe1-4d05-addd-731d43e6279a/78fac840-cd12-11ed-8124-cf50c8498624/file-1lfrnn1l1.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrnn1l0/3f11ff08-fbe1-4d05-addd-731d43e6279a/78fac840-cd12-11ed-8124-cf50c8498624/file-1lfrnn1l1.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Mathematics - Application of Integration Question 51 English Explanation\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnnq5jr",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "limits-of-algebric-function",
+    "chapter": "limits-continuity-and-differentiability",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>Let<br>$$L = \\lim_{x \\rightarrow 0}\\frac{a - \\sqrt{a^2 - x^2} - \\frac{x^4}{4}}{x^4}, a&gt;0$$. If L is finite, then</br></p></div>",
+    "options": {
+      "A": "<p>a = 2</p>",
+      "B": "<p>a = 1</p>",
+      "C": "<p>$$L = \\frac{1}{64}$$</p>",
+      "D": "<p>$$L = \\frac{1}{32}$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The given limit is</p>\n<p>$$L = \\mathop {\\lim }\\limits_{x \\to 0} {{a - \\sqrt {{a^2} - {x^2}}  - {{{x^2}} \\over 4}} \\over {{x^4}}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{x \\to 0} {1 \\over {{x^2}(a + \\sqrt {{a^2} - {x^2}} )}} - {1 \\over {4{x^2}}}$$</p>\n<p>$$ = \\mathop {\\lim }\\limits_{x \\to 0} {{(4 - a) - \\sqrt {{a^2} - {x^2}} } \\over {4{x^2}(a + \\sqrt {{a^2} - {x^2}} )}}$$</p>\n<p>The numerator $$\\to$$ 0 if $$a = 2$$; therefore, $$L = {1 \\over {64}}$$.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "tBWvKHH1fzXvmItc",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "solving-trigonometric-equations",
+    "chapter": "trigonometric-functions-and-equations",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>If $$\\frac{\\sin^4x}{2}+\\frac{\\cos^4x}{3} = \\frac{1}{5}$$ then</p></div>",
+    "options": {
+      "A": "<p>$$\\tan^2 x = \\frac{2}{3}$$</p>",
+      "B": "<p>$$\\frac{\\sin^8 x}{8}+\\frac{\\cos^8 x}{27} = \\frac{1}{125}$$</p>",
+      "C": "<p>$$\\tan^2 x = \\frac{1}{3}$$</p>",
+      "D": "<p>$$\\frac{\\sin^8 x}{8}+\\frac{\\cos^8 x}{27} = \\frac{2}{125}$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>It is given that</p>\n<p>$${{{{\\sin }^4}x} \\over 2} + {{{{\\cos }^4}x} \\over 3} = {1 \\over 5}$$</p>\n<p>$$3{\\sin ^4}x + 2{(1 - {\\sin ^2}x)^2} = {6 \\over 5}$$</p>\n<p>$$ \\Rightarrow 25{\\sin ^4}x - 20{\\sin ^2}x + 4 = 0$$</p>\n<p>$$ \\Rightarrow {\\sin ^2}x = {2 \\over 5}$$ and $${\\cos ^2}x = {3 \\over 5}$$</p>\n<p>Hence, $${\\tan ^2}x = {2 \\over 3}$$</p>\n<p>Therefore, $${{{{\\sin }^8}x} \\over 8} + {{{{\\cos }^8}x} \\over {27}} = {1 \\over {125}}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnobty1",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "symmetric-and-skew-symmetric-matrices",
+    "chapter": "matrices-and-determinants",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The number of matrices in A is</p></div>",
+    "options": {
+      "A": "<p>12</p>",
+      "B": "<p>6</p>",
+      "C": "<p>9</p>",
+      "D": "<p>3</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "Here,\n<br/><br/>Matrix [A]<sub>3 Ã 3</sub> is symmetric\n<br/><br/>Here, 5 be the number of 1âs and 4 be the 0âs\nentry in matrix A\n<br/><br/>Let x be the number of 1âs on main diagonal.\n<br/><br/>Since A is symmetric so, y be the number of 1âs\nbelow the main diagonal\n<br/><br/>So , x + 2y = 5\n<br/><br/> x = 1 and y = 2\n<br/><br/>or x = 3 and y = 1\n<br/><br/><b>Case I :</b> x = 1 and y = 2\n<br/><br/>Here, Main diagonal entries in 0, 0 and 1. Hence,\nwe can choose main diagonal in 3 ways, and element above the diagonal is 1, 1, 0 . Hence, we\ncan choose it element above the main diagonal\nin 3 ways , element of below diagonal depends\non above the main diagonal.\n<br/><br/>Hence, total way = 3 Ã 3 = 9\n<br/><br/><b>Case II :</b> x = 3 and y = 1\n<br/><br/>Here, Main diagonal entries in 1, 1 and 1.\n<br/>Hence, we can choose main diagonal 1 ways\nand element above the diagonal is 1, 0, 0.\nHence, we can choose it element above the\nmain diagonal in 3 ways, element of below\ndiagonal depends on above the main diagonal.\n<br/><br/>Hence, total ways = 3 Ã 4 = 12\n<br/><br/>So, Total matrices = 9 + 3 = 12"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnok4jo",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
+    "chapter": "matrices-and-determinants",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The number of matrices A in A for which the system of linear equations<br>$$A\\begin{bmatrix}x\\\\y\\\\z \\end{bmatrix} = \\begin{bmatrix}1\\\\0\\\\0 \\end{bmatrix}$$<br>has a unique solution, is</br></br></p></div>",
+    "options": {
+      "A": "<p>less than 4</p>",
+      "B": "<p>at least 4 but less than 7</p>",
+      "C": "<p>at least 7 but less than 10</p>",
+      "D": "<p>at least 10</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>We have</p>\n<p>$$\\left[ {\\matrix{\n   0 & a & b  \\cr \n   a & 0 & c  \\cr \n   b & c & 1  \\cr \n\n } } \\right]$$</p>\n<p>We can see that either $$b = 0$$ or $$c = 0 \\Rightarrow |A| \\ne 0$$; therefore two matrices.</p>\n<p>$$\\left[ {\\matrix{\n   0 & a & b  \\cr \n   a & 1 & c  \\cr \n   b & c & 0  \\cr \n\n } } \\right]$$</p>\n<p>Now, either $$a = 0$$ or $$c = 0 \\Rightarrow |A| \\ne 0$$; therefore, two matrices</p>\n<p>$$\\left[ {\\matrix{\n   1 & a & b  \\cr \n   a & 0 & c  \\cr \n   b & c & 0  \\cr \n\n } } \\right]$$</p>\n<p>Now, either $$a = 0$$ or $$b = 0 \\Rightarrow |A| \\ne 0$$; therefore two matrices.</p>\n<p>$$\\left[ {\\matrix{\n   1 & a & b  \\cr \n   a & 1 & c  \\cr \n   b & c & 1  \\cr \n\n } } \\right]$$</p>\n<p>When $$a = b = 0 \\Rightarrow |A| = 0$$</p>\n<p>When $$a = c = 0 \\Rightarrow |A| = 0$$</p>\n<p>When $$b = c = 0 \\Rightarrow |A| = 0$$</p>\n<p>Therefore, there are only six matrices.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfnowkrm",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
+    "chapter": "matrices-and-determinants",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The number of matrices A in A for which the system of linear equations<br>$$A\\begin{bmatrix}x\\\\y\\\\z \\end{bmatrix} = \\begin{bmatrix}1\\\\0\\\\0 \\end{bmatrix}$$<br>is inconsistent, is</br></br></p></div>",
+    "options": {
+      "A": "<p>0</p>",
+      "B": "<p>More than 2</p>",
+      "C": "<p>2</p>",
+      "D": "<p>1</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The six matrices A for which $$|A| = 0$$ are as follows:</p>\n<p>$$\\left[ {\\matrix{\n   0 & 0 & 1  \\cr \n   0 & 0 & 1  \\cr \n   1 & 1 & 1  \\cr \n\n } } \\right] \\Rightarrow $$ inconsistent.</p>\n<p>$$\\left[ {\\matrix{\n   0 & 1 & 0  \\cr \n   1 & 1 & 1  \\cr \n   0 & 1 & 0  \\cr \n\n } } \\right] \\Rightarrow $$ inconsistent.</p>\n<p>$$\\left[ {\\matrix{\n   1 & 1 & 1  \\cr \n   1 & 0 & 0  \\cr \n   1 & 0 & 0  \\cr \n\n } } \\right] \\Rightarrow $$ infinite solutions.</p>\n<p>$$\\left[ {\\matrix{\n   1 & 1 & 0  \\cr \n   1 & 1 & 0  \\cr \n   0 & 0 & 1  \\cr \n\n } } \\right] \\Rightarrow $$ inconsistent.</p>\n<p>$$\\left[ {\\matrix{\n   1 & 0 & 1  \\cr \n   0 & 1 & 0  \\cr \n   1 & 0 & 1  \\cr \n\n } } \\right] \\Rightarrow $$ inconsistent.</p>\n<p>$$\\left[ {\\matrix{\n   1 & 0 & 0  \\cr \n   0 & 1 & 1  \\cr \n   0 & 1 & 1  \\cr \n\n } } \\right] \\Rightarrow $$ infinite solutions.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "D9mm7FKcmY3f5qBo",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "probability-distribution-of-a-random-variable",
+    "chapter": "probability",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The probability that X = 3 equals</p></div>",
+    "options": {
+      "A": "<p>$$\\frac{25}{216}$$</p>",
+      "B": "<p>$$\\frac{25}{36}$$</p>",
+      "C": "<p>$$\\frac{5}{36}$$</p>",
+      "D": "<p>$$\\frac{125}{216}$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The required probability is $$P(X = 3)$$</p>\n<p>$$\\left( {{5 \\over 6}} \\right)\\left( {{5 \\over 6}} \\right){1 \\over 6} = {{25} \\over {216}}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "dYbRtuZzT709nwkF",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "probability-distribution-of-a-random-variable",
+    "chapter": "probability",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The probability that $$X \\geq 3$$ equals</p></div>",
+    "options": {
+      "A": "<p>$$\\frac{125}{216}$$</p>",
+      "B": "<p>$$\\frac{25}{36}$$</p>",
+      "C": "<p>$$\\frac{5}{36}$$</p>",
+      "D": "<p>$$\\frac{25}{216}$$</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The probability $$P(X \\ge 3)$$ is nothing but the probability of $$P(X \\le 2)$$:</p>\n<p>$${1 \\over 6} + {5 \\over 6} \\times {1 \\over 6} = {{11} \\over {36}}$$</p>\n<p>The required probability is</p>\n<p>$$1 - {{11} \\over {36}} = {{25} \\over {36}}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "v2Izfa55dhu9wphL",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "conditional-probability-and-multiplication-theorem",
+    "chapter": "probability",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The conditional probability that $$X \\geq 6$$ given $$X &gt; 3$$ equals</p></div>",
+    "options": {
+      "A": "<p>$$\\frac{125}{216}$$</p>",
+      "B": "<p>$$\\frac{25}{216}$$</p>",
+      "C": "<p>$$\\frac{5}{36}$$</p>",
+      "D": "<p>$$\\frac{25}{36}$$</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>$$X \\ge 6$$: The probability for</p>\n<p>$${{{5^5}} \\over {{6^6}}} + {{{5^6}} \\over {{6^7}}}\\, + \\,...\\, + \\,\\infty  = {{{5^5}} \\over {{6^6}}}\\left( {{1 \\over {1 - 5/6}}} \\right) = {\\left( {{5 \\over 6}} \\right)^5}$$</p>\n<p>For $$X>3$$, we have</p>\n<p>$${{{5^3}} \\over {{6^4}}} + {{{5^4}} \\over {{6^5}}}\\, + {{{5^5}} \\over {{6^6}}}\\, + ...\\, + \\,\\infty  = {\\left( {{5 \\over 6}} \\right)^3}$$<?p>\n<p>Hence, the conditional probability is</p>\n<p>$${{{{(5/6)}^6}} \\over {{{(5/6)}^3}}} = {{25} \\over {36}}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "uv1ib8L3dJo5Df1Y",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous",
+    "chapter": "differential-equations",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Match the statements/ expressions in Column I with the open intervals in Column- II<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_602.png\" src=\"https://cracku.in/media/uploads/Screenshot_602_Iy4upLR.png\"/></div>",
+    "options": {
+      "A": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(S)",
+      "B": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (R); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(R)",
+      "C": "(A)$$\\to$$(P), (Q), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(S), (Q), (R), (T); (D)$$\\to$$(S)",
+      "D": "(A)$$\\to$$(P), (T), (S); (B)$$\\to$$(P), (T), (S); (C)$$\\to$$(P), (Q), (R), (T); (D)$$\\to$$(S)"
+    },
+    "correct_answer": "(A)- p q s (B)- p t (C)-p q r t  (D)- s",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 0,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>(A) We have $${(x - 3)^2}{{dy} \\over {dx}} + y = 0$$</p>\n<p>$$\\int {{{dx} \\over {{{(x - 3)}^2}}} =  - \\int {{{dy} \\over y}} } $$</p>\n<p>$$ \\Rightarrow {1 \\over {x - 3}} = \\ln |y| + c$$</p>\n<p>So the domain is $$R \\to \\{ 3\\} $$.</p>\n<p>(B) On substituting $$x = t + 3$$, we get</p>\n<p>$$\\int\\limits_{ - 2}^2 {(t + 2)(t + 1)t(t - 1)(t - 2)dt = \\int\\limits_{ - 2}^2 {t({t^2} - 1)({t^2} - 4)dt = 0} } $$ (being odd function)</p>\n<p>(C) $$f(x) = {5 \\over 4} - {\\left( {\\sin x - {1 \\over 2}} \\right)^2}$$</p>\n<p>The maximum value occurs when $$\\sin x = 1/2$$.</p>\n<p>(D) $$f'(x) > 0$$ if $$\\cos x > \\sin x$$.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "xYeuYa0biMf4HTPc",
+    "exam": "jee-advanced",
+    "subject": "mathematics",
+    "topic": "locus",
+    "chapter": "ellipse",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Match the conics in Column I with the statements/ expressions in Column- II</p><img class=\"img-responsive\" data-image=\"Screenshot_603.png\" src=\"https://cracku.in/media/uploads/Screenshot_603.png\"/></div>",
+    "options": {
+      "A": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(R); (D)$$\\to$$(R), (S)",
+      "B": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(R); (D)$$\\to$$(Q), (S)",
+      "C": "(A)$$\\to$$(P); (B)$$\\to$$(S), (T); (C)$$\\to$$(S); (D)$$\\to$$(R), (S)",
+      "D": "(A)$$\\to$$(P); (B)$$\\to$$(P), (T); (C)$$\\to$$(R); (D)$$\\to$$(Q), (S)"
+    },
+    "correct_answer": "(A)- p (B)- s t (C)- r (D)- q s",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 0,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>(P) We have $${1 \\over {{k^2}}} = 4\\left( {1 + {{{h^2}} \\over {{k^2}}}} \\right) \\Rightarrow 1 = 4({k^2} + {h^2})$$</p>\n<p>Hence, $${h^2} + {k^2} = {\\left( {{1 \\over 2}} \\right)^2}$$ , which is a circle.</p>\n<p>(Q) If $$|z - {z_1}| - |z - {z_2}| = k$$, where $$k < |{z_1} - {z_2}|$$, the locus is a hyperbola.</p>\n<p>(R) Let $$t = \\tan \\alpha $$. Hence,</p>\n<p>$$x = \\sqrt 3 \\cos 2\\alpha $$ and $$y = \\sin 2\\alpha $$</p>\n<p>or $$\\cos 2\\alpha  = {x \\over {\\sqrt 3 }}$$ and $$\\sin 2\\alpha  = y$$</p>\n<p>$${{{x^2}} \\over 3} + {y^2} = {\\sin ^2}2\\alpha  + {\\cos ^2}2\\alpha  = 1$$, which is an ellipse.</p>\n<p>(S) If eccentricity is $$[1,\\infty]$$, then the conic can be a parabola (if $$e=1$$) and a hyperbola if $$e\\in(1,\\infty)$$.</p>\n<p>(T) Let $$z = x + iy;x,y \\in R$$. Hence,</p>\n<p>$${(x + 1)^2} - {y^2} = {x^2} + {y^2} + 1$$</p>\n<p>$$ \\Rightarrow {y^2} = x;$$ which is a parabola</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "scE9Ln3g5dWz26sQ",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "motion-on-an-inclined-plane",
+    "chapter": "laws-of-motion",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>A block of base 10 cm $$\\times$$ 10 cm and height 15 cm is kept on an inclined plane. The coefficient of friction between them is $$\\sqrt{3}$$. The inclination $$\\theta$$ of this inclined plane from the horizontal plane is gradually increased from $$0^\\circ$$. Then</p></div>",
+    "options": {
+      "A": "<p>at $$\\theta = 30^\\circ$$, the block will start sliding down the plane</p>",
+      "B": "<p>the block will remain at rest on the plane up to certain $$\\theta$$ and then it will topple</p>",
+      "C": "<p>at $$\\theta = 60^\\circ$$, the block will start sliding down the plane and continue to do so at higher angles</p>",
+      "D": "<p>at $$\\theta = 60^\\circ$$, the block will start sliding down the plane and on further increasing $$\\theta$$, it will topple at certain $$\\theta$$</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The block slides on the incline when</p>\n<p>$$mg\\sin \\theta  \\ge \\mu mg\\cos \\theta $$</p>\n<p>$$ \\Rightarrow \\tan \\theta  \\ge \\mu $$</p>\n<p>$$ \\Rightarrow \\tan \\theta  \\ge \\sqrt 3  = 1.732$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrltdzi/7597b09b-2836-4325-b778-63b6350eee0b/572832e0-cd0b-11ed-8124-cf50c8498624/file-1lfrltdzj.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrltdzi/7597b09b-2836-4325-b778-63b6350eee0b/572832e0-cd0b-11ed-8124-cf50c8498624/file-1lfrltdzj.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Physics - Laws of Motion Question 29 English Explanation\"></p>\n<p>For the block to topple, we have</p>\n<p>$$f\\left( {{{15} \\over 2}} \\right) \\ge N(5)$$ (about centre of mass)</p>\n<p>$$ \\Rightarrow \\mu N\\left( {{{15} \\over 2}} \\right) \\ge N(5)$$</p>\n<p>$$ \\Rightarrow \\mu  \\ge {2 \\over 3} = 0.67$$</p>\n<p>or $$\\tan \\theta  \\ge 0.67$$</p>\n<p>That is, the block neither slides nor topples till $$\\theta  \\le {\\tan ^{ - 1}}(0.67)$$ (i.e. it remains at rest) and on exceeding this, it topples first before sliding.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfme940e",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "simple-harmonic-motion",
+    "chapter": "simple-harmonic-motion",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The x-t graph of a particle undergoing simple harmonic is shown below. The acceleration of the particle at $$t = \\frac{4}{3}s$$ is-<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_604.png\" src=\"https://cracku.in/media/uploads/Screenshot_604.png\"/></div>",
+    "options": {
+      "A": "<p>$$\\frac{\\sqrt{3}}{32}\\pi^2  cm/s^2$$</p>",
+      "B": "<p>$$\\frac{-\\pi^2}{32}  cm/s^2$$</p>",
+      "C": "<p>$$\\frac{\\pi^2}{32}\\pi^2  cm/s^2$$</p>",
+      "D": "<p>$$-\\frac{\\sqrt{3}}{32}\\pi^2  cm/s^2$$</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": null,
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The equation of single harmonic motion is $$x = A\\sin \\left( {{{2\\pi } \\over T}t} \\right)$$, where A is amplitude and T is the time period of the motion.</p>\n<p>From the given figure, $$A = 1$$ and $$T = 8$$. Thus,</p>\n<p>$$x = \\sin \\left( {{\\pi  \\over 4}t} \\right)$$</p>\n<p>The acceleration is</p>\n<p>$$a = {{{d^2}x} \\over {d{t^2}}} = {{ - {\\pi ^2}} \\over {16}}\\sin \\left( {{\\pi  \\over 4}t} \\right)$$</p>\n<p>At time $$t = {4 \\over 3}s$$, the acceleration is</p>\n<p>$$a = {{ - {\\pi ^2}} \\over {16}}\\sin \\left( {{\\pi  \\over 4} \\times {4 \\over 3}} \\right) =  - {{\\sqrt 3 } \\over {32}}{\\pi ^2}$$ cm/s$$^2$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfme0v94",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "electric-flux-and-gauss-law",
+    "chapter": "electrostatics",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Three concentric metallic spherical shells of radii R, 2R, 3R are given charges $$Q_1, Q_2, Q_3$$ respectively. It is found that the surface charge densities on the outer surfaces of the shells are equal. Then, the ratio of the charges given to the shells, $$Q_1 : Q_2 : Q_3$$ is-</p></div>",
+    "options": {
+      "A": "<p>$$1 : 2 : 3$$</p>",
+      "B": "<p>$$1 : 3 : 5$$</p>",
+      "C": "<p>$$1 : 4 : 9$$</p>",
+      "D": "<p>$$1 : 8 : 18$$</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Surface charge density is</p>\n<p>$$\\rho  = {Q \\over {4\\pi {R^2}}}$$</p>\n<p>where R is the radius of the sphere. For cancelling the field inside the cavity due to the shell of radius R, the shell with radius 2R induces a charge $$-$$Q in its inner surface and hence the total charge on the outer surface is $$Q_1+Q_2$$. Similarly, the charge on the outermost shell is</p>\n<p>$${Q_1} + {Q_2} + {Q_3}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrlwlf6/9a2405a8-8335-4bd0-a4ff-ed0b87b84753/b053f520-cd0b-11ed-8124-cf50c8498624/file-1lfrlwlf7.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrlwlf6/9a2405a8-8335-4bd0-a4ff-ed0b87b84753/b053f520-cd0b-11ed-8124-cf50c8498624/file-1lfrlwlf7.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Physics - Electrostatics Question 27 English Explanation\"></p>\n<p>It is given that the surface charge densities $$\\rho_1,\\rho_2$$ and $$\\rho_3$$ are equal, that is,</p>\n<p>$${{{Q_1}} \\over {4\\pi {R^2}}} = {{{Q_1} + {Q_2}} \\over {4\\pi {{(2R)}^2}}} = {{{Q_1} + {Q_2} + {Q_3}} \\over {4\\pi {{(3R)}^2}}}$$</p>\n<p>$$ \\Rightarrow {Q_1} = {{{Q_1} + {Q_2}} \\over 4} = {{{Q_1} + {Q_2} + {Q_3}} \\over 9}$$</p>\n<p>That is,</p>\n<p>$${Q_1} = {{{Q_1}} \\over 4} + {{{Q_2}} \\over 4}$$</p>\n<p>$$ \\Rightarrow {Q_2} = 3{Q_1}$$</p>\n<p>Therefore,</p>\n<p>$${Q_3} = 5{Q_1}$$</p>\n<p>Hence, the ratio of the charges given to the shells $${Q_1}:{Q_2}:{Q_3}$$ is 1 : 3 : 5.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmds9eb",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "electric-flux-and-gauss-law",
+    "chapter": "electrostatics",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>A disk of radius $$\\frac{a}{4}$$ having a uniformly distributed charge 6C is placed in the x-y plane with its centre at $$\\left(\\frac{-a}{2}, 0, 0\\right)$$. A rod of length 'a' carrying a uniformly distributed charge 8C is placed on the x-axis from $$x = \\frac{a}{4}$$ to $$x = \\frac{5a}{4}\t$$. Two point charges -7C and 3C are placed at $$\\left(\\frac{a}{4}, \\frac{-a}{4}, 0 \\right)$$ and $$\\left(\\frac{-3a}{4}, \\frac{3a}{4}, 0 \\right)$$ respectively. Consider a cubical surface formed by six surfaces $$x = \\pm \\frac{a}{2}, y = \\pm \\frac{a}{2}, z = \\pm \\frac{a}{2}$$. The electric flux this cubical surface is-<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_605.png\" src=\"https://cracku.in/media/uploads/Screenshot_605.png\"/></div>",
+    "options": {
+      "A": "<p>$$\\frac{-2C}{\\varepsilon_0}$$</p>",
+      "B": "<p>$$\\frac{2C}{\\varepsilon_0}$$</p>",
+      "C": "<p>$$\\frac{10C}{\\varepsilon_0}$$</p>",
+      "D": "<p>$$\\frac{12C}{\\varepsilon_0}$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>According to Gauss's law, we have</p>\n<p>$$\\mathrm{Flux=\\frac{Charge~enclosed}{\\varepsilon_0}}$$</p>\n<p>The enclosed charges are half of the charges in the disc, point charge at $$(a/4,-a/4,0)$$, and charge in the rod from point $$a/4$$ to $$a/2$$, that is, 8 C/4. Therefore,</p>\n<p>Flux $$ = {{3C - 7C + (8C/4)} \\over {{\\varepsilon _0}}} =  - {{2C} \\over {{\\varepsilon _0}}}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmd47zo",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "center-of-mass-of-continuous-mass-distribution",
+    "chapter": "impulse-and-momentum",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Look at the drawing given in the figure which has been drawn with ink of uniform linethickness. The mass of ink used to draw each of the two inner circles, and each of the two lines segments is m. The mass of the ink used to draw the outer circle is 6m. The coordinates of the centres of the different parts are : outer circle (0, 0), left inner circle (-a, a), right inner circle (a, a), vertical line (0, 0) and horizontal line (0, -a). The y-coordinate of the centre of mass of the ink in this drawing is-<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_606.png\" src=\"https://cracku.in/media/uploads/Screenshot_606.png\"/></div>",
+    "options": {
+      "A": "<p>$$\\frac{a}{10}$$</p>",
+      "B": "<p>$$\\frac{a}{8}$$</p>",
+      "C": "<p>$$\\frac{a}{12}$$</p>",
+      "D": "<p>$$\\frac{a}{3}$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The coordinates of centre of mass is defined as</p>\n<p>$${R_{CM}} = {{\\sum\\nolimits_i {{m_i}{r_i}} } \\over {\\sum\\nolimits_i {{m_i}} }}$$</p>\n<p>Thus,</p>\n<p>$${Y_{CM}} = {{(6m \\times 0) + (m \\times a) + (m \\times a) + (m \\times 0) + (m \\times  - a)} \\over {6m + m + m + m + m}} = {a \\over {10}}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmdaz89",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "magnetic-flux-faradays-and-lenzs-laws",
+    "chapter": "electromagnetic-induction",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The figure shows certain wire segments joined together to form a coplanar loop. The loop is placed in a perpendicular magnetic field in the direction going into the plane of the figure. The magnitude of the field increases with time. I1 and I2 are the currents in the segments ab and cd. Then<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_607.png\" src=\"https://cracku.in/media/uploads/Screenshot_607.png\"/></div>",
+    "options": {
+      "A": "<p>$$I_1 &gt; I_2$$</p>",
+      "B": "<p>$$I_1 &lt; I_2$$</p>",
+      "C": "<p>$$I_1$$ is in the direction ba and $$I_2$$ is in the direction cd</p>",
+      "D": "<p>$$I_1$$ is in the direction ab and $$I_2$$ is in the direction dc</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Since $$\\phi_B$$ increases in the downward direction, according to Lenz's law, the induced current flows in such a manner to create an upward going flux, that is, a flux in anticlockwise direction. Since the outer loop has a bigger enclosed area than inner loop, the induced current flow is as follows:</p>\n<p>$$\\bullet$$ Induced current, $$I_2$$: Flows from d to c</p>\n<p>$$\\bullet$$ Induced current, $$I_1$$: Flows from a to b</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmeetas",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "refraction-tir-and-prism",
+    "chapter": "geometrical-optics",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>A ball is dropped from a height of 20 m above the surface of water in a lake. The refractive index of water is $$\\frac{4}{3}$$. A fish inside the lake, in the line of fall of the ball, is looking at the ball. At an instant, when the ball is 12.8 m above the water surface, the fish sees the speed of ball as-</p></div>",
+    "options": {
+      "A": "<p>9 m/s</p>",
+      "B": "<p>12 m/s</p>",
+      "C": "<p>16 m/s</p>",
+      "D": "<p>21.33 m/s</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The velocity of the ball when it has fallen through 7.2 m is</p>\n<p>$$V = \\sqrt {2g(7.2)}  = 12$$ m/s</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrlug6j/d1eed0b6-38c1-413f-8489-777c52574906/74a973b0-cd0b-11ed-8124-cf50c8498624/file-1lfrlug6k.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrlug6j/d1eed0b6-38c1-413f-8489-777c52574906/74a973b0-cd0b-11ed-8124-cf50c8498624/file-1lfrlug6k.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Physics - Geometrical Optics Question 27 English Explanation\"></p>\n<p>For a general height $$h$$ above the water surface, we have</p>\n<p>$${{h'} \\over h} = {4 \\over 3} \\Rightarrow h' = {4 \\over 3}h$$</p>\n<p>Therefore, $$V' = {4 \\over 3}V = {4 \\over 3} \\times 12 = 16$$ m/s</p>\n<p>where $$V'$$ is the velocity of ball with respect to the fish.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmdjdy0",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "collision",
+    "chapter": "impulse-and-momentum",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Two small particles of equal masses start moving in opposite directions from a point A in a horizontal circular orbit. Their tangential velocities are v and 2v, respectively, as shown in the figure. Between collisions, the particles move with constant speeds. After making how many collisions, other than that at A, these two particles will again reach the point A ?<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_608.png\" src=\"https://cracku.in/media/uploads/Screenshot_608.png\"/></div>",
+    "options": {
+      "A": "<p>4</p>",
+      "B": "<p>3</p>",
+      "C": "<p>2</p>",
+      "D": "<p>1</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The faster particle covers twice the distance covered by the slower one and they meet each other whenever the slower one covers an angular displacement of $$2\\pi/3$$. since the masses are same at each collision, they interchange the velocity. The number of meeting points is $$\\frac{2\\pi}{2\\pi/3}=3$$ points; hence, they meet at two points other than A.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrlmtcg/666380ba-a42a-455a-a2a4-d43a7c97e544/a05ba100-cd0a-11ed-8124-cf50c8498624/file-1lfrlmtch.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrlmtcg/666380ba-a42a-455a-a2a4-d43a7c97e544/a05ba100-cd0a-11ed-8124-cf50c8498624/file-1lfrlmtch.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Physics - Impulse &amp; Momentum Question 8 English Explanation\"></p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmfkt21",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "electric-power-and-heating-effect-of-current",
+    "chapter": "current-electricity",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>For the circuit shown in the figure<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_609.png\" src=\"https://cracku.in/media/uploads/Screenshot_609.png\"/></div>",
+    "options": {
+      "A": "<p>the current I through the battery is 7.5 mA</p>",
+      "B": "<p>the potential difference across $$R_L$$ is 18 V</p>",
+      "C": "<p>ratio of powers dissipated in $$R_1$$ and $$R_2$$ is 3</p>",
+      "D": "<p>if $$R_1$$ and $$R_2$$ are interchanged, magnitude of the power dissipated in $$R_1$$, will decrease by a factor of 9.</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>The current in the net circuit is</p>\n<p>$$I = {V \\over {{R_{effective}}}}$$</p>\n<p>$$ = {V \\over {{R_1} + [({R_2}{R_L})/({R_1} + {R_L})]}}$$</p>\n<p>$$ = {{24} \\over {2 \\times {{10}^{ - 3}} + [(6 \\times 1.5 \\times {{10}^{ - 6}})/(7.5 \\times {{10}^{ - 3}})]}} = 7.5$$ mA</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrlr44o/2d585c49-d833-4714-80a0-fb5a521d80b6/17ecc280-cd0b-11ed-8124-cf50c8498624/file-1lfrlr44p.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrlr44o/2d585c49-d833-4714-80a0-fb5a521d80b6/17ecc280-cd0b-11ed-8124-cf50c8498624/file-1lfrlr44p.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Physics - Current Electricity Question 9 English Explanation\"></p>\n<p>The potential across $$R_L$$ is</p>\n<p>$${V_L} = I \\times {{{R_2}{R_L}} \\over {{R_2} + {R_L}}}$$</p>\n<p>$$ = 7.5 \\times {10^{ - 3}} \\times 1.2 \\times {10^3} = 9$$ V</p>\n<p>Therefore,</p>\n<p>$$I = {9 \\over {{R_L}}} = 6$$ mA</p>\n<p>The ratio of power dissipated in $$R_1$$ and $$R_2$$ is</p>\n<p>$${{I{R_1}} \\over {(I - i){R_2}}} = {{{{(7.5 \\times {{10}^{ - 3}})}^2} \\times 2 \\times {{10}^3}} \\over {{{(1.5 \\times {{10}^{ - 3}})}^2}6 \\times {{10}^3}}} = 0.75$$ J</p>\n<p>The power dissipated in $$R_L$$ is</p>\n<p>$${{V_L^2} \\over {{R_L}}} = {{{9^2}} \\over {1.5 \\times {{10}^3}}} = 54$$ mJ</p>\n<p>If $$R_1$$ and $$R_2$$ are interchanged, then</p>\n<p>$$I' = {V \\over {{R_{effective}}}}$$</p>\n<p>$$ = {V \\over {{R_2} + [({R_1}{R_L})/({R_L} + {R_1})]}}$$</p>\n<p>$$ = {{24} \\over {6 \\times {{10}^{ - 3}} + [(2 \\times 1.5 \\times {{10}^{ - 6}})/3.5 \\times {{10}^{ - 3}}]}} = 3.5$$ mA</p>\n<p>Hence, the voltage drop across the load is</p>\n<p>$$V{'_L} = I \\times {{{R_1}{R_L}} \\over {{R_1} + {R_L}}} = 1$$ V</p>\n<p>Therefore, $$i' = 2$$ mA. The magnitude of the power dissipated is the ratio between $${i^2}$$ and $${(i')^2}$$:</p>\n<p>$${{{P_1}} \\over {{P_2}}} = {{{i^2}} \\over {{{(i')}^2}}} = {{{6^2}} \\over {{2^2}}} = 9$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmh97d6",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "angular-momentum",
+    "chapter": "rotational-motion",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>If the resultant of all the external forces acting on a system of particles is zero, then from an inertial frame, one can surely say that</p></div>",
+    "options": {
+      "A": "<p>linear momentum of the system does not change in time</p>",
+      "B": "<p>kinetic energy of the system does not change in time</p>",
+      "C": "<p>angular momentum of the system does not change in time</p>",
+      "D": "<p>potential energy of the system does not change in time</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": "easy",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>According to Newton's second law, we have</p>\n<p>$$\\sum {{{\\overrightarrow f }_{ext}} = {{d\\overrightarrow p } \\over {dt}}} $$</p>\n<p>If $$\\sum {{{\\overrightarrow f }_{ext}} = 0} $$, we find that the linear momentum $$\\overrightarrow p $$ as constant.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmh4tgw",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "reflection-of-light",
+    "chapter": "geometrical-optics",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>A student performed the experiment of determination of focal length of a concave mirror by u-v method using an optical bench of length 1.5 meter. The focal length of the mirror used is 24 cm. The maximum error in the location of the image can be 0.2 cm. The 5 sets of (u, v) values recorded by the student (in cm) are : (42, 56), (48, 48), (60, 40), (66, 33), (78, 39). The data set(s) that cannot come from experiment and is(are) incorrectly recorded, is (are)</p></div>",
+    "options": {
+      "A": "<p>(42, 56)</p>",
+      "B": "<p>(48, 48)</p>",
+      "C": "<p>(66, 33)</p>",
+      "D": "<p>(78, 39)</p>"
+    },
+    "correct_answer": "C",
+    "difficulty": "medium",
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Using mirror formula for the concave mirror, we have</p>\n<p>$${1 \\over v} + {1 \\over u} = {1 \\over f}$$</p>\n<p>Option (A) : When the value is (42, 56), we have</p>\n<p>$${1 \\over { - 56}} + {1 \\over { - 42}} = {{ - 98} \\over {56 \\times 42}} \\Rightarrow f = {{ - 56 \\times 42} \\over {98}} =  - 24$$ cm</p>\n<p>Option (B) : When the value is (48, 48), we have</p>\n<p>$${1 \\over { - 48}} + {1 \\over { - 48}} = {{ - 1} \\over {24}} \\Rightarrow f =  - 24$$ cm</p>\n<p>Option (C) : When the value is (66, 33), we have</p>\n<p>$${1 \\over { - 33}} + {1 \\over { - 66}} = {{ - 1} \\over {22}} \\Rightarrow f =  - 22$$ cm</p>\n<p>Option (D) : When the value is (78, 39), we have</p>\n<p>$${1 \\over { - 39}} + {1 \\over { - 78}} = {{ - 1} \\over {26}} \\Rightarrow f =  - 26$$ cm</p>\n<p>Since options (A) and (B) give $$f =  - 24$$ cm, which is the same as that given in the problem, we conclude that the options (C) and (D) as the correct options.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmgvp4b",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "degree-of-freedom-and-law-of-equipartition-of-energy",
+    "chapter": "heat-and-thermodynamics",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "mcqm",
+    "question_text": "<div><p>$$C_v$$ and $$C_p$$ denote the molar specific heat capacities of a gas at constant volume and constant pressure, respectively. Then</p></div>",
+    "options": {
+      "A": "<p>$$C_p - C_v$$ is larger for a diatomic ideal gas than for a monoatomic ideal gas</p>",
+      "B": "<p>$$C_p + C_v$$ is larger for a diatomic ideal gas than for a monoatomic ideal gas</p>",
+      "C": "<p>$$C_p / C_v$$ is larger for a diatomic ideal gas than for a monoatomic ideal gas</p>",
+      "D": "<p>$$C_p . C_v$$ is larger for a diatomic ideal gas than for a monoatomic ideal gas</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": null,
+    "source": null,
+    "tags": null,
+    "totalMarks": 4,
+    "negativeMarks": 2,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>We know that $${C_P} - {C_V} = R$$ is same for all gases. For a diatomic gas, we have</p>\n<p>$${C_V} = {{5R} \\over 2}$$</p>\n<p>Therefore, $${C_P} = {C_V} + R = {{7R} \\over 2}$$</p>\n<p>For a monoatomic gas, we have</p>\n<p>$${C_V} = {{3R} \\over 2}$$</p>\n<p>$${C_P} = {{5R} \\over 2}$$</p>\n<p>Therefore,</p>\n<p>$${C_P} + {C_V} = 6R$$ (diatomic)</p>\n<p>$${C_P} + {C_V} = 4R$$ (monoatomic)</p>\n<p>$${{{C_P}} \\over {{C_V}}} = {7 \\over 5} = 1.4$$ (diatomic)</p>\n<p>$${{{C_P}} \\over {{C_V}}} = {5 \\over 3} = 1.67$$ (monoatomic)</p>\n<p>$${C_P}\\,.\\,{C_V} = {{35{R^2}} \\over 4}$$ (diatomic)</p>\n<p>$${C_P}\\,.\\,{C_V} = {{15{R^2}} \\over 4}$$ (monoatomic)</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmi8mxi",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "nuclear-fission-and-fusion-and-binding-energy",
+    "chapter": "atoms-and-nuclei",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>In the core of nuclear fusion reactor, the gas becomes plasma because of -</p></div>",
+    "options": {
+      "A": "<p>Strong nuclear force acting between the deuterons</p>",
+      "B": "<p>Coulomb force acting between the deuterons</p>",
+      "C": "<p>Coulomb force acting between deuteron-electron pairs</p>",
+      "D": "<p>the high temperature maintained inside the reactor core</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": null,
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>In a nuclear fusion reactor, the gas becomes plasma primarily because of the high temperature maintained inside the reactor core. At such high temperatures, typically in the range of millions of degrees Kelvin, the thermal energy is sufficient to ionize the atoms, meaning electrons are stripped from the nuclei, resulting in a collection of positively charged deuteron nuclei and negatively charged electrons. This ionized state of matter is known as plasma.</p>\n\n<p>The strong nuclear force and Coulomb force (between deuterons and between deuteron-electron pairs) play roles in the fusion process and the behavior of particles. However, the ionization into plasma is primarily due to the extremely high temperatures.</p>\n\n<p>Therefore, the correct option is:</p>\n<p>Option D: the high temperature maintained inside the reactor core.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmikqlj",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "nuclear-fission-and-fusion-and-binding-energy",
+    "chapter": "atoms-and-nuclei",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Assume that two deuteron nuclei in the core of fusion reactor at temperature T are moving towards each other, each with kinetic energy 1.5 kT, when the separation between them is large enough to neglect Coulomb potential energy. Also neglect any interaction from other particles in the core. The minimum temperature T required for them to reach a separation of $$4 \\times 10^{-15}$$ m is in the range-</p></div>",
+    "options": {
+      "A": "<p>$$1.0 \\times 10^9  K &lt; T &lt; 2.0 \\times 10^9  K$$</p>",
+      "B": "<p>$$2.0 \\times 10^9  K &lt; T &lt; 3.0 \\times 10^9  K$$</p>",
+      "C": "<p>$$3.0 \\times 10^9  K &lt; T &lt; 4.0 \\times 10^9  K$$</p>",
+      "D": "<p>$$4.0 \\times 10^9  K &lt; T &lt; 5.0 \\times 10^9  K$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": null,
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>To determine the minimum temperature required for two deuteron nuclei to reach a separation of $$4 \\times 10^{-15}$$ m, we need to equate the initial kinetic energy of the deuterons with the potential energy at the specified separation distance.</p>\n\n<p>The initial kinetic energy of each deuteron is given as :</p>\n\n<p>$$ KE = 1.5 \\, k \\, T $$</p>\n\n<p>Since there are two deuterons, the total kinetic energy is :</p>\n\n<p>$$ KE_{\\text{total}} = 2 \\times 1.5 \\, k \\, T = 3 \\, k \\, T $$</p>\n\n<p>The Coulomb potential energy (PE) between two deuterons at a separation distance $$r = 4 \\times 10^{-15}$$ m is given by :</p>\n\n<p>$$ PE = \\frac{e^2}{4 \\pi \\epsilon_0 r} $$</p>\n\n<p>Using the given value:</p>\n\n<p>$$ \\frac{e^2}{4 \\pi \\epsilon_0} = 1.44 \\times 10^9 \\, \\text{eV} \\cdot \\text{m} $$</p>\n\n<p>So, the potential energy becomes :</p>\n\n<p>$$ PE = \\frac{1.44 \\times 10^9 \\, \\text{eV} \\cdot \\text{m}}{4 \\times 10^{-15} \\, \\text{m}} $$</p>\n\n<p>Simplifying :</p>\n\n<p>$$ PE = \\frac{1.44 \\times 10^9}{4 \\times 10^{-15}} \\, \\text{eV} $$</p>\n\n<p>$$ PE = 0.36 \\times 10^{24} \\, \\text{eV} $$</p>\n\n<p>Now, we equate the total kinetic energy to the potential energy to find the temperature $ T $ :</p>\n\n<p>$$ 3 \\, k \\, T = 0.36 \\times 10^{24} \\, \\text{eV} $$</p>\n\n<p>Solving for $ T $ :</p>\n\n<p>$$ T = \\frac{0.36 \\times 10^{24}}{3 \\times 8.6 \\times 10^{-5}} \\, \\text{K} $$</p>\n\n<p>$$ T = \\frac{0.36 \\times 10^{24}}{2.58 \\times 10^{-4}} \\, \\text{K} $$</p>\n\n<p>$$ T = 1.395 \\times 10^{9} \\, \\text{K} $$</p>\n\n<p>This temperature is in the range :</p>\n\n<p>Option A: $$1.0 \\times {10^9}K < T < 2.0 < {10^9}K$$</p>\n\n<p>So, the correct answer is :</p>\n\n<p><b>Option A :</b> $$1.0 \\times {10^9}K < T < 2.0 < {10^9}K$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmiypiw",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "nuclear-fission-and-fusion-and-binding-energy",
+    "chapter": "atoms-and-nuclei",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Results of calculations for four different designs of a fusion reactor using D-D reaction are given below. Which of these is most promising based on Lawson criterion ?</p></div>",
+    "options": {
+      "A": "<p>deuteron density = $$2.0 \\times 10^{12}  cm^{-3}$$, confinement time = $$5.0 \\times 10^{-3}$$ s</p>",
+      "B": "<p>deuteron density = $$8.0 \\times 10^{14}  cm^{-3}$$, confinement time = $$9.0 \\times 10^{-1}$$ s</p>",
+      "C": "<p>deuteron density = $$4.0 \\times 10^{23}  cm^{-3}$$, confinement time = $$1.0 \\times 10^{-11}$$ s</p>",
+      "D": "<p>deuteron density = $$1.0 \\times 10^{24}  cm^{-3}$$, confinement time = $$4.0 \\times 10^{-12}$$ s</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": null,
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>To determine the most promising design based on the Lawson criterion, we need to calculate the Lawson number ($$nt_0$$) for each design and check if it exceeds $$5 \\times 10^{14}$$ s/cm$$^3$$. We will do this for each of the given options:</p>\n\n<p><b>Option A:</b></p>\n\n<p>Deuteron density, $$n = 2.0 \\times 10^{12}~\\mathrm{cm^{-3}}$$</p>\n\n<p>Confinement time, $$t_0 = 5.0 \\times 10^{-3}~\\mathrm{s}$$</p>\n\n<p>Lawson number, $$nt_0 = n \\cdot t_0 = (2.0 \\times 10^{12}) \\cdot (5.0 \\times 10^{-3}) = 1.0 \\times 10^{10}~\\mathrm{s/cm^3}$$</p>\n\n<p><b>Option B:</b></p>\n\n<p>Deuteron density, $$n = 8.0 \\times 10^{14}~\\mathrm{cm^{-3}}$$</p>\n\n<p>Confinement time, $$t_0 = 9.0 \\times 10^{-1}~\\mathrm{s}$$</p>\n\n<p>Lawson number, $$nt_0 = n \\cdot t_0 = (8.0 \\times 10^{14}) \\cdot (9.0 \\times 10^{-1}) = 7.2 \\times 10^{14}~\\mathrm{s/cm^3}$$</p>\n\n<p><b>Option C:</b></p>\n\n<p>Deuteron density, $$n = 4.0 \\times 10^{23}~\\mathrm{cm^{-3}}$$</p>\n\n<p>Confinement time, $$t_0 = 1.0 \\times 10^{-11}~\\mathrm{s}$$</p>\n\n<p>Lawson number, $$nt_0 = n \\cdot t_0 = (4.0 \\times 10^{23}) \\cdot (1.0 \\times 10^{-11}) = 4.0 \\times 10^{12}~\\mathrm{s/cm^3}$$</p>\n\n<p><b>Option D:</b></p>\n\n<p>Deuteron density, $$n = 1.0 \\times 10^{24}~\\mathrm{cm^{-3}}$$</p>\n\n<p>Confinement time, $$t_0 = 4.0 \\times 10^{-12}~\\mathrm{s}$$</p>\n\n<p>Lawson number, $$nt_0 = n \\cdot t_0 = (1.0 \\times 10^{24}) \\cdot (4.0 \\times 10^{-12}) = 4.0 \\times 10^{12}~\\mathrm{s/cm^3}$$</p>\n\n<p>Based on the calculations, the Lawson numbers for each option are:</p>\n\n<ul>\n\n<li>Option A: $$1.0 \\times 10^{10}~\\mathrm{s/cm^3}$$</li>\n\n<li>Option B: $$7.2 \\times 10^{14}~\\mathrm{s/cm^3}$$</li>\n\n<li>Option C: $$4.0 \\times 10^{12}~\\mathrm{s/cm^3}$$</li>\n\n<li>Option D: $$4.0 \\times 10^{12}~\\mathrm{s/cm^3}$$</li>\n\n</ul>\n\n<p>The most promising design based on the Lawson criterion, which requires the Lawson number to be greater than $$5 \\times 10^{14}~\\mathrm{s/cm^3}$$, is <b>Option B</b> because its Lawson number exceeds the threshold.</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmhksfe",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "matter-waves-davisson-and-germer-experiment",
+    "chapter": "dual-nature-of-radiation",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The allowed energy for the particle for a particular value of n is proportional to -</p></div>",
+    "options": {
+      "A": "<p>$$a^{-2}$$</p>",
+      "B": "<p>$$a^{\\frac{-3}{2}}$$</p>",
+      "C": "<p>$$a^{-1}$$</p>",
+      "D": "<p>$$a^{2}$$</p>"
+    },
+    "correct_answer": "A",
+    "difficulty": null,
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>We have,</p>\n<p>$$a = n\\left( {{\\lambda  \\over 2}} \\right) \\Rightarrow \\lambda  = {{2a} \\over n}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrmdbi3/b772a62d-e133-49ee-985d-13aee8facf00/816bfbc0-cd0d-11ed-8124-cf50c8498624/file-1lfrmdbi4.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrmdbi3/b772a62d-e133-49ee-985d-13aee8facf00/816bfbc0-cd0d-11ed-8124-cf50c8498624/file-1lfrmdbi4.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"IIT-JEE 2009 Paper 1 Offline Physics - Dual Nature of Radiation Question 6 English Explanation\"></p>\n<p>From de Broglie relation, we have</p>\n<p>$$\\lambda  = {h \\over {mv}} = {h \\over p}$$</p>\n<p>Therefore, $${{2a} \\over n} = {h \\over p} \\Rightarrow p = {{nh} \\over {2a}}$$</p>\n<p>Now, $$E = {{{p^2}} \\over {2m}} = {{{n^2}{h^2}} \\over {8m{a^2}}} \\Rightarrow E \\propto {a^{ - 2}}$$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmhomj5",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "matter-waves-davisson-and-germer-experiment",
+    "chapter": "dual-nature-of-radiation",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>If the mass of the particle is $$m = 1.0 \\times 10^{-30}$$ kg and a = 6.6 nm, the energy of the particle in its ground state is closest to -</p></div>",
+    "options": {
+      "A": "<p>0.8 meV</p>",
+      "B": "<p>8 meV</p>",
+      "C": "<p>80 meV</p>",
+      "D": "<p>800 meV</p>"
+    },
+    "correct_answer": "B",
+    "difficulty": null,
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>For ground state, $$n = 1$$. Therefore,</p>\n<p>$${E_1} = {{{h^2}} \\over {8m{a^2}}} = \\left[ {{{{{(6.6 \\times {{10}^{ - 34}})}^2}} \\over {8 \\times {{10}^{ - 30}} \\times {{(6.6 \\times {{10}^{ - 9}})}^2}}}} \\right]$$ J</p>\n<p>Therefore, $${{{E_1}} \\over e} = \\left( {{{{E_1}} \\over {1.6 \\times {{10}^{ - 19}}}}} \\right)$$ meV = 8 meV</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmhsm4v",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "bohrs-model-and-hydrogen-spectrum",
+    "chapter": "atoms-and-nuclei",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>The speed of the particle, that can take discrete values, is proportional to -</p></div>",
+    "options": {
+      "A": "<p>$$n^{\\frac{-3}{2}}$$</p>",
+      "B": "<p>$$n^{-1}$$</p>",
+      "C": "<p>$$n^{\\frac{1}{2}}$$</p>",
+      "D": "<p>n</p>"
+    },
+    "correct_answer": "D",
+    "difficulty": null,
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 1,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>To find the relationship between the speed of the particle and the quantum number $$n$$, we need to follow a few steps using the given information and fundamental quantum mechanical principles.</p>\n\n<p>Firstly, for a particle moving in a one-dimensional box of length $$a$$, the allowed wavelengths $$\\lambda$$ of standing waves can be given by:</p>\n\n<p>$$ \\lambda = \\frac{2a}{n} $$</p>\n\n<p>for $ n = 1, 2, 3, \\ldots $.</p>\n\n<p>The de Broglie relation links the wavelength $$\\lambda$$ of a particle to its momentum $$p$$:</p>\n\n<p>$$ \\lambda = \\frac{h}{p} $$</p>\n\n<p>From this, we can express the momentum $$p$$ in terms of the quantum number $$n$$:</p>\n\n<p>$$ \\frac{h}{p} = \\frac{2a}{n} $$</p>\n\n<p>Solving for $$p$$, we get:</p>\n\n<p>$$ p = \\frac{nh}{2a} $$</p>\n\n<p>The kinetic energy $$E$$ of the particle is related to its momentum $$p$$ by the equation:</p>\n\n<p>$$ E = \\frac{p^2}{2m} $$</p>\n\n<p>Substituting $$ p = \\frac{nh}{2a} $$ into the energy expression, we get:</p>\n\n<p>$$ E = \\frac{(nh/2a)^2}{2m} = \\frac{n^2 h^2}{8ma^2} $$</p>\n\n<p>The kinetic energy can also be written in terms of the speed $$v$$ of the particle:</p>\n\n<p>$$ E = \\frac{1}{2} m v^2 $$</p>\n\n<p>Equating the two expressions for energy, we have:</p>\n\n<p>$$ \\frac{1}{2} m v^2 = \\frac{n^2 h^2}{8ma^2} $$</p>\n\n<p>Solving for the speed $$v$$, we get:</p>\n\n<p>$$ v^2 = \\frac{n^2 h^2}{4m^2 a^2} $$</p>\n\n<p>Therefore, the speed $$v$$ of the particle is:</p>\n\n<p>$$ v = \\frac{nh}{2ma} $$</p>\n\n<p>From the above expression, we see that the speed $$v$$ of the particle is directly proportional to $$n$$:</p>\n\n<p>$$ v \\propto n $$</p>\n\n<p>Therefore, the speed of the particle is proportional to:</p>\n\n<p><strong>Option D</strong>: $$ n $$</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmkk9yk",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "electric-field-and-electric-field-intensity",
+    "chapter": "electrostatics",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Six point charges, each of the same magnitude q, are arranged in different manners as shown in Column II. In each case, a point M and a line PQ passing through M are shown. Let E be the electric field and V be the electric potential at M (potential at infinity is zero) due to the given charge distribution when it is at rest. Now, the whole system is set into rotation with a constant angular velocity about the line PQ. Let B be the magnetic field at M and $$\\mu$$ be the magnetic moment of the system in this condition. Assume each rotating charge to be equivalent to a steady current.<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_610.png\" src=\"https://cracku.in/media/uploads/Screenshot_610.png\"/></div>",
+    "options": {
+      "A": "$$\\mathrm{(A)\\to(R),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(T);(D)\\to(T),(S)}$$",
+      "B": "$$\\mathrm{(A)\\to(P),(R),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(S);(D)\\to(R),(S)}$$",
+      "C": "$$\\mathrm{(A)\\to(P),(R),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(T);(D)\\to(R),(S)}$$",
+      "D": "$$\\mathrm{(A)\\to(P),(Q),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(T);(D)\\to(R),(S)}$$"
+    },
+    "correct_answer": "(A)- p r s (B)- r s (C)- p q t (D)- r s",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 0,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p>Case (P) : $$E=0,V=0, B=0,\\mu=0$$.</p>\n<p>Case (Q) : $$E\\ne0,V=0, B=0,\\mu=0$$.</p>\n<p>Case (R) : $$E=0,V\\ne0, B\\ne0,\\mu\\ne0$$.</p>\n<p>Case (S) : $$E=0,V\\ne0, B\\ne0,\\mu\\ne0$$.</p>\n<p>Case (T) : $$E\\ne0,V=0, B=0,\\mu=0$$.</p>\nHence, $$\\mathrm{(A)\\to(P),(R),(S);(B)\\to(R),(S);(C)\\to(P),(Q),(T);(D)\\to(R),(S)}$$\n"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  },
+  {
+    "id": "1lfmk8cjb",
+    "exam": "jee-advanced",
+    "subject": "physics",
+    "topic": "gravitational-potential-and-gravitational-potential-energy",
+    "chapter": "gravitation",
+    "paperId": "iit-jee-2009-paper-1-offline",
+    "paperTitle": "IIT-JEE 2009 Paper 1 Offline",
+    "questionType": "single-select",
+    "question_text": "<div><p>Column II shows five systems in which two object are labelled as X and Y. Also in each case a point P is shown. Column I gives some statements about X and/or Y. Match these statements to the appropriate system(s) from Column II.<br/></p><img class=\"img-responsive\" data-image=\"Screenshot_447.png\" src=\"https://cracku.in/media/uploads/Screenshot_447_zqTDH8W.png\">\n<img class=\"img-responsive\" data-image=\"Screenshot_448.png\" src=\"https://cracku.in/media/uploads/Screenshot_448_YYGmtwI.png\"/></img></div>",
+    "options": {
+      "A": "$$\\mathrm{(A)\\to (T),(S);(B)\\to (Q),(T);(C)\\to(P),(R),(T);(D)\\to(Q)}$$",
+      "B": "$$\\mathrm{(A)\\to (T),(P);(B)\\to (Q),(S),(T);(C)\\to(P),(R),(T);(D)\\to(Q)}$$",
+      "C": "$$\\mathrm{(A)\\to (T),(Q);(B)\\to (Q),(S),(T);(C)\\to(P),(R),(T);(D)\\to(S)}$$",
+      "D": "$$\\mathrm{(A)\\to (P);(B)\\to (S),(T);(C)\\to(P),(R),(T);(D)\\to(T)}$$"
+    },
+    "correct_answer": "a-p-t b-q-s-t c-p-r-t d-q",
+    "difficulty": "hard",
+    "source": null,
+    "tags": null,
+    "totalMarks": 3,
+    "negativeMarks": 0,
+    "explanations": [
+      {
+        "type": "image",
+        "title": "method1",
+        "url": null
+      },
+      {
+        "type": "text",
+        "title": "method2",
+        "content": null
+      },
+      {
+        "type": "text",
+        "title": "method3",
+        "content": "<p><b>Case (P)</b> : Since $$v$$ = Constant, we have</p>\n<p>$$Mg\\sin \\theta  = \\mu Mg\\cos \\theta  = f \\Rightarrow \\mu  = \\tan \\theta $$</p>\n<p>Now, $$N = Mg\\cos \\theta $$. Therefore,</p>\n<p>$$R = \\sqrt {{N^2} + {f^2}}  = Mg\\sqrt {{{\\cos }^2}\\theta  + {{\\sin }^2}\\theta } $$</p>\n<p><b>Case (T)</b> : We have $$Mg = {F_v} + {F_b}$$, where $${F_v}$$ is the viscous force and $${F_b}$$ is the buoyant force.</p>\n<p><b>Case (S)</b> : We have $$Mg - {F_b} = Ma$$.</p>\n<p><b>Case (R)</b> : We have $$Mg = T$$. Therefore,</p>\n<p>$$T + {M_0}g = {F_y}$$ (by the clamp)</p>\n<p>$$T = {F_X}$$ (by the clamp)</p>\n<p>Therefore, the force exerted by the clamp X on pulley Y is</p>\n<p>$$F = \\sqrt {F_X^2 + F_Y^2}  = g\\sqrt {{M^2} + {{(M + {m_0})}^2}} $$</p>\n<p><b>Case (Q)</b> : We have</p>\n<p>$$Mg = {F_m}$$ (for Z)</p>\n<p>where $${F_m}$$ is the magnetic repulsion. Also,</p>\n<p>$$Mg + {F_m} = N$$ (for Y)</p>\n<p>Therefore, $$N = 2Mg$$.</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfrm977l/e5125130-4634-4e1d-b27b-43cd072f58ff/0ede9310-cd0d-11ed-8124-cf50c8498624/file-1lfrm977m.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfrm977l/e5125130-4634-4e1d-b27b-43cd072f58ff/0ede9310-cd0d-11ed-8124-cf50c8498624/file-1lfrm977m.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"IIT-JEE 2009 Paper 1 Offline Physics - Gravitation Question 10 English Explanation\"></p>\n<p><b>Note :</b></p>\n<p><b>Option (A)</b> : For option (T), if $${F_b}$$ is ignored, then $$Mg = {F_v}$$; otherwise, no case matches for option (A).</p>\n<p>Hence, (A) $$\\to$$ (T), (P).</p>\n<p><b>Option (B)</b> : In option (Q), it is mentioned that the lift is moving up continuously; therefore, the gravitational potential energy of X goes on increasing. In option (B), as Y comes down, X goes up (displaced). The same is applicable for option (T).</p>\n<p>Hence, (B) $$\\to$$ (Q), (S), (T).</p>\n<p><b>Option (C)</b> : For option (P), since Y moves down with a constant $$v$$, the gravitational potential energy of the system X + Y goes on decreasing, similar is the case in Options (R) and (T).</p>\n<p>Hence, (C) $$\\to$$ (P), (R), (T).</p>\n<p><b>Option (D)</b> : For option (S), the mass moves down with acceleration. Therefore, the kinetic energy goes on increasing. Since the line of action of Mg of Y phases through point P, as mentioned in option (Q), its torque about P is zero.</p>\n<p>Hence, (D) $$\\to$$ (Q).</p>"
+      }
+    ],
+    "createdAt": "2026-09-20T11:04:45.000Z",
+    "updatedAt": "2026-09-20T11:04:45.000Z",
+    "isQuestionCorrect": true,
+    "year": 2009
+  }
+]
