@@ -1,12 +1,12 @@
 [
   {
-    "id": "mnsik7i8",
+    "id": "0kiRY2PDyD",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "classification-of-functions",
     "chapter": "functions",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$f: \\mathbb{R} \\to \\mathbb{R}$$ be defined as $$f(x) = \\dfrac{2x^2 - 3x + 2}{3x^2 + x + 3}$$. Then $$f$$ is :</p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7j4",
+    "id": "0kiRXg4ZtZ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "geometric-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the quadratic equation $$(n^2 - 2n + 2)x^2 - 3x + (n^2 - 2n + 2)^2 = 0, n \\in \\mathbb{R}$$. Let $$\\alpha$$ be the minimum value of the product of its roots and $$\\beta$$ be the maximum value of the sum of its roots. Then the sum of the first six terms of the G.P., whose first term is $$\\alpha$$ and the common ratio is $$\\dfrac{\\alpha}{\\beta}$$, is :</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7k3",
+    "id": "0kiRXosIRV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "algebra-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$S = \\{z \\in \\mathbb{C} : z^2 + \\sqrt{6}\\,iz - 3 = 0\\}$$. Then $$\\displaystyle\\sum_{z \\in S} z^8$$ is equal to :</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7ky",
+    "id": "0kiRXmq7rV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The sum of all possible values of $$\\theta \\in [0, 2\\pi]$$, for which the system of equations :\n<br>$$x\\cos 3\\theta - 8y - 12z = 0$$\n<br/>$$x\\cos 2\\theta + 3y + 3z = 0$$\n<br/>$$x + y + 3z = 0$$\n<br/>has a non-trivial solution, is equal to :</br></p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7m4",
+    "id": "0kiRXmqQ4X",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "multiplication-of-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A = \\begin{bmatrix} 1 &amp; 0 &amp; 0 \\\\ 3 &amp; 1 &amp; 0 \\\\ 9 &amp; 3 &amp; 1 \\end{bmatrix}$$ and $$B = [b_{ij}], 1 \\le i, j \\le 3$$. If $$B = A^{99} - I$$, then the value of $$\\dfrac{b_{31} - b_{21}}{b_{32}}$$ is :</p></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7n2",
+    "id": "0kiRXg4XIH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-of-series",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The sum $$1 + \\dfrac{1}{2}(1^2 + 2^2) + \\dfrac{1}{3}(1^2 + 2^2 + 3^2) + \\ldots$$ upto 10 terms is equal to :</p></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7og",
+    "id": "0kiRXpY0I5",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "conditional-combinations",
     "chapter": "permutations-and-combinations",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A building has ground floor and 10 more floors. Nine persons enter a lift at the ground floor. The lift goes up to the 10th floor. The number of ways, in which any 4 persons exit at a floor and the remaining 5 persons exit at a different floor, if the lift does not stop at the first and the second floors, is equal to :</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7pe",
+    "id": "0kiRXkoI5p",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
     "chapter": "statistics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the mean and the variance of seven observations 2, 4, $$\\alpha$$, 8, $$\\beta$$, 12, 14, $$\\alpha &lt; \\beta$$, be 8 and 16 respectively. Then the quadratic equation whose roots are $$3\\alpha + 2$$ and $$2\\beta + 1$$ is :</p></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7q9",
+    "id": "0kiRXzhLXd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "permutation-and-combination-based-problem",
     "chapter": "probability",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A bag contains 6 blue and 6 green balls. Pairs of balls are drawn without replacement until the bag is empty. The probability that each drawn pair consists of one blue and one green ball is :</p></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7r5",
+    "id": "0kiRXTtWgD",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "intercepts-of-a-circle",
     "chapter": "circle",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let C be a circle having centre in the first quadrant and touching the $$x$$-axis at a distance of 3 units from the origin. If the circle C has an intercept of length $$6\\sqrt{3}$$ on $$y$$-axis, then the length of the chord of the circle C on the line $$x - y = 3$$ is :</p></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7s0",
+    "id": "0kiRYgKnvF",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "question-based-on-basic-definition-and-parametric-representation",
-    "chapter": "hyperbola",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "conic-sections-hyperbola",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The eccentricity of an ellipse E with centre at the origin O is $$\\dfrac{\\sqrt{3}}{2}$$ and its directrices are $$x = \\pm \\dfrac{4\\sqrt{6}}{3}$$. Let $$H: \\dfrac{x^2}{a^2} - \\dfrac{y^2}{b^2} = 1$$ be a hyperbola whose eccentricity is equal to the length of semi-major axis of E, and whose length of latus rectum is equal to the length of minor axis of E. Then the distance between the foci of H is :</p></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7t4",
+    "id": "0kiRYYtVVR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "chord-of-ellipse",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$x = 9$$ be a directrix of an ellipse E, whose centre is at the origin and eccentricity is $$\\dfrac{1}{3}$$. Let $$P(\\alpha, 0)$$, $$\\alpha &gt; 0$$, be a focus of E and AB be a chord passing through P. Then the locus of the mid point of AB is :</p></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7tx",
+    "id": "0kiRYWBNT7",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-inverse-trigonometric-functions",
-    "chapter": "inverse-trigonometric-functions",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "inverse-trigonometric-functions-itf",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\sin(\\tan^{-1}(x\\sqrt{2})) = \\cot(\\sin^{-1}\\sqrt{1 - x^2})$$, $$x \\in (0, 1)$$, then the value of $$x$$ is :</p></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7us",
+    "id": "0kiRYcH0a1",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The shortest distance between the lines $$\\dfrac{x - 4}{1} = \\dfrac{y - 3}{2} = \\dfrac{z - 2}{-3}$$ and $$\\dfrac{x + 2}{2} = \\dfrac{y - 6}{4} = \\dfrac{z - 5}{-5}$$ is :</p></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7vm",
+    "id": "0kiRXnW5Jp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$\\vec{a} = 2\\hat{i} + 3\\hat{j} + 3\\hat{k}$$ and $$\\vec{b} = 6\\hat{i} + 3\\hat{j} + 3\\hat{k}$$. Then the square of the area of the triangle with adjacent sides determined by the vectors $$(2\\vec{a} + 3\\vec{b})$$ and $$(\\vec{a} - \\vec{b})$$ is :</p></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7wf",
+    "id": "0kiRYVVkp7",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "location-of-roots",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$\\displaystyle\\lim_{x \\to 2} \\dfrac{(\\tan(x - 2))(rx^2 + (p - 2)x - 2p)}{(x - 2)^2} = 5$$ for some $$r, p \\in \\mathbb{R}$$. If the set of all possible values of q, such that the roots of the equation $$rx^2 - px + q = 0$$ lie in $$(0, 2)$$, be the interval $$(\\alpha, \\beta]$$, then $$4(\\alpha + \\beta)$$ equals :</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7xd",
+    "id": "0kiRYaFG0v",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "newton-lebnitz-rule-of-differentiation",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A = \\begin{bmatrix} 1 &amp; 3 &amp; -1 \\\\ 2 &amp; 1 &amp; \\alpha \\\\ 0 &amp; 1 &amp; -1 \\end{bmatrix}$$ be a singular matrix. Let $$f(x) = \\displaystyle\\int_0^x (t^2 + 2t + 3)\\,dt$$, $$x \\in [1, \\alpha]$$. If M and m are respectively the maximum and the minimum values of $$f$$ in $$[1, \\alpha]$$, then $$3(M - m)$$ is equal to :</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7yl",
+    "id": "0kiRYbb8KH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "linear-differential-equations",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$f: \\mathbb{R} \\to \\mathbb{R}$$ be such that $$f(xy) = f(x)f(y)$$, for all $$x, y \\in \\mathbb{R}$$ and $$f(0) \\ne 0$$. Let $$g: [1, \\infty) \\to \\mathbb{R}$$ be a differentiable function such that $$x^2 g(x) = \\int_1^x (t^2 f(t) - tg(t))\\,dt.$$ Then $$g(2)$$ is equal to :</p></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik7zj",
+    "id": "0kiRYav5fN",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-bounded-between-the-curves",
-    "chapter": "area-under-the-curves",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "application-of-integrals-area-under-curves",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The area of the region $$\\{(x, y) : x^2 - 8x \\le y \\le -x\\}$$ is :</p></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik81a",
+    "id": "0kiRYaF8D3",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The value of the integral $$\\displaystyle\\int_{-1}^{1} \\left(\\dfrac{x^3 + |x| + 1}{x^2 + 2|x| + 1}\\right) dx$$ is equal to :</p></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik81y",
+    "id": "0kiRYfet4D",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "symmetric-transitive-and-reflexive-properties",
-    "chapter": "sets-and-relations",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "sets-relations-and-functions",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$R = \\{(x, y) \\in \\mathbb{N} \\times \\mathbb{N} : \\log_e(x + y) \\le 2\\}$$. Then the minimum number of elements, required to be added in R to make it a transitive relation, is __________.</p></div>",
     "options": {},
@@ -919,13 +919,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik82i",
+    "id": "0kiRXrZsf3",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "general-term",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>If $$(1 - x^3)^{10} = \\displaystyle\\sum_{r=0}^{10} a_r x^r (1 - x)^{30 - 2r}$$, then $$\\dfrac{9a_9}{a_{10}}$$ is equal to __________.</p></div>",
     "options": {},
@@ -958,13 +958,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik82x",
+    "id": "0kiRXTtU4v",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "basic-theorems-of-a-circle",
     "chapter": "circle",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let the line $$x - y = 4$$ intersect the circle $$C: (x - 4)^2 + (y + 3)^2 = 9$$ at the points Q and R. If $$P(\\alpha, \\beta)$$ is a point on C such that $$PQ = PR$$, then $$(6\\alpha + 8\\beta)^2$$ is equal to __________.</p></div>",
     "options": {},
@@ -997,13 +997,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik83f",
+    "id": "0kiRYcH0a2",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let the image of the point $$P(0, -5, 0)$$ in the line $$\\dfrac{x - 1}{2} = \\dfrac{y}{1} = \\dfrac{z + 1}{-2}$$ be the point R and the image of the point $$Q\\left(0, \\dfrac{-1}{2}, 0\\right)$$ in the line $$\\dfrac{x - 1}{-1} = \\dfrac{y + 9}{4} = \\dfrac{z + 1}{1}$$ be the point S. Then the square of the area of the parallelogram PQRS is __________.</p></div>",
     "options": {},
@@ -1036,13 +1036,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik83x",
+    "id": "0kiRYZZIYb",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "continuity",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$f(x) = \\begin{cases} x^3 + 8, &amp; x &lt; 0 \\\\ x^2 - 4, &amp; x \\ge 0 \\end{cases}$$ and $$g(x) = \\begin{cases} (x - 8)^{1/3}, &amp; x &lt; 0 \\\\ (x + 4)^{1/2}, &amp; x \\ge 0 \\end{cases}$$.\nThen the number of points, where the function $$g \\circ f$$ is discontinuous, is __________.</p></div>",
     "options": {},
@@ -1075,13 +1075,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik84m",
+    "id": "0kG2yuubFR",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "errors-in-measurement",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The percentage error in the calculated volume of a sphere, if there is 2% error in its diameter measurement, is __________.</p></div>",
     "options": {
@@ -1119,13 +1119,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik85s",
+    "id": "0kG2yuudqj",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "dimensions-of-physical-quantities",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List - I with List - II. </p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_QafCNiB.png\">\n<p><br> Choose the correct answer from the options given below :</br></p></img></div>",
     "options": {
@@ -1163,13 +1163,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik86h",
+    "id": "0kG2zqRHU1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "combined-translational-and-rotational-motion",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A solid sphere (A) of mass $$5m$$ and a spherical shell (B) of mass $$m$$, both having same radius, are placed on a rough surface. When a force of same magnitude is applied tangentially at the highest points of A and B, they start rolling without slipping with an acceleration of $$a_A$$ and $$a_B$$, respectively. The ratio of $$a_A$$ and $$a_B$$ is __________.</p></div>",
     "options": {
@@ -1207,13 +1207,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik87k",
+    "id": "0kG30A3vKD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "work",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A body of mass 1 kg moves along a straight line with a velocity $$v = 2x^2$$. The work done by the body during displacement from $$x = 0$$ to 5 m is __________ J.</p></div>",
     "options": {
@@ -1251,13 +1251,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik88c",
+    "id": "0kG2zr778T",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "thermodynamics-process",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A cylinder with adiabatic walls is closed at both ends and is divided into two compartments by a frictionless adiabatic piston. Ideal gas is filled in both (left and right) the compartments at same P, V, T. Heating is started from left side until pressure changes to $$27 P/8$$. If initial volume of each compartment was 9 litres then the final volume in right-hand side compartment is __________ litres. (for this ideal gas $$C_P/C_V = 1.5$$)</p></div>",
     "options": {
@@ -1295,13 +1295,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik89i",
+    "id": "0kG2yzeJRh",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "displacement-current-and-properties-of-em-waves",
     "chapter": "electromagnetic-waves",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>For an electromagnetic wave propagating through vacuum, $$\\vec{k}$$, $$\\vec{E}$$ and $$\\omega$$ represent propagation vector, electric field and angular frequency, respectively. The magnetic field associated with this wave is represented by :</p></div>",
     "options": {
@@ -1339,13 +1339,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8a8",
+    "id": "0kG2zplMcz",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motion-of-center-of-mass",
-    "chapter": "center-of-mass",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "system-of-particles-center-of-mass",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two identical bodies A and B of equal masses have initial velocities $$\\vec{v_1} = 4\\hat{i}$$ m/s and $$\\vec{v_2} = 4\\hat{j}$$ m/s respectively. The body A has acceleration $$\\vec{a_1} = 6\\hat{i} + 6\\hat{j}$$ m/s$$^2$$ while the acceleration of the other body B is zero. The centre of mass of the two bodies moves in __________ path.</p></div>",
     "options": {
@@ -1383,13 +1383,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8ay",
+    "id": "0kG2zp5PAf",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "mechanical-properties-of-solids",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Figure represents the extension ($$\\Delta l$$) of a wire of length 1 meter, suspended from the ceiling of the room at one end with a load W connected to the other end. If the cross-sectional area of the wire is $$10^{-5}$$ m$$^2$$ then the Young's modulus of the wire is __________ N/m$$^2$$.</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_0ssM45P.png\"/></div>",
     "options": {
@@ -1427,13 +1427,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8bu",
+    "id": "0kG2zp5HMn",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "fluid-flow-bernoullis-principle-and-viscosity",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A cylindrical vessel of 40 cm radius is completely filled with water and its capacity is 528 dm$$^3$$ (dm : decimeter). The vessel is placed on a solid block of exactly same height as vessel. If a small hole is made at 70 cm below the top of water level, then horizontal range of water falling on the ground in the beginning is __________ cm.</p></div>",
     "options": {
@@ -1471,13 +1471,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8d8",
+    "id": "0kG2zr7MkD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "degree-of-freedom-and-law-of-equipartition-of-energy",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If 2 mole of an ideal monoatomic gas at temperature $$T$$, is mixed with 6 mole of another ideal monoatomic gas at temperature $$2T$$ then the temperature of mixture is :</p></div>",
     "options": {
@@ -1515,13 +1515,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8e2",
+    "id": "0kG2zsSzRp",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "some-systems-of-executing-shm",
-    "chapter": "simple-harmonic-motion",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "oscillations-simple-harmonic-motion",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A spring stretches by 2 mm when it is loaded with a mass of 200 g. From equilibrium position the mass is further pulled down by 2 mm and released. The frequency associated with the system and maximum energy in the spring are __________ Hz and __________ J, respectively. (Take $$g = 10$$ m/s$$^2$$)</p></div>",
     "options": {
@@ -1559,13 +1559,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8ew",
+    "id": "0kG2zrn4an",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-potential-energy-and-electric-potential",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The electric potential as a function of $$x, y$$ is given by $$V = 5(x^2 - y^2)$$ V. The electric field at a point $$(2, 3)$$ m is __________ V/m.</p></div>",
     "options": {
@@ -1603,13 +1603,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8fn",
+    "id": "0kG30Ak0aP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "biot-savarts-law-and-magnetic-field-due-to-current-carrying-wire",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A current of 30 A each flows in opposite directions in two conducting wires, placed parallel to each other at a distance of 8 cm. The magnetic field at the mid point between the two wires is __________ $$\\mu$$T. ($$\\dfrac{\\mu_0}{4\\pi} = 10^{-7}$$ N/A$$^2$$)</p></div>",
     "options": {
@@ -1647,13 +1647,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8ge",
+    "id": "0kG2zOgnLd",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "magnetic-flux-faradays-and-lenzs-laws",
     "chapter": "electromagnetic-induction",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A square loop of side 2 cm is placed in a time varying magnetic field with magnitude as $$B = 0.4 \\sin(300t)$$ Tesla. The normal to the plane of loop makes an angle of $$60°$$ with the field. The maximum induced emf produced in the loop is __________ mV.</p></div>",
     "options": {
@@ -1691,13 +1691,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8hc",
+    "id": "0kG2ztp7Mv",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-energy-stored-by-capacitor",
-    "chapter": "capacitor",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "electrostatic-potential-and-capacitance",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A sphere of capacitance 100 pF is charged to a potential of 100 V. Another identical uncharged metal sphere is brought in contact with the charged sphere, then the change in the total energy stored on these spheres, when they touch is $$\\alpha \\times 10^{-7}$$ J. The value of $$\\alpha$$ is __________. (combined capacitance of spheres is 200 pF)</p></div>",
     "options": {
@@ -1735,13 +1735,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8i4",
+    "id": "0kG2ywwYoz",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "nuclear-fission-and-fusion-and-binding-energy",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The energy released if hydrogen atoms are combined to form $$^{4}_{2}$$He is __________ MeV.\n(Take binding energies per nucleon of $$^{2}_{1}$$H and $$^{4}_{2}$$He as 1.1 MeV and 7.2 MeV, respectively)</p></div>",
     "options": {
@@ -1779,13 +1779,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8je",
+    "id": "0kG2zvApH7",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "refraction-tir-and-prism",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Angle of minimum deviation is equal to the half of the angle of prism in an equilateral prism. The refractive index of the prism is __________.</p></div>",
     "options": {
@@ -1823,13 +1823,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8kf",
+    "id": "0kG2zwWkBl",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "digital-circuits",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Refer to the logic circuit given below. For two inputs $$(A = 1, B = 1)$$ and $$(A = 0, B = 1)$$, output (Y) will be __________.</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_EAeiZat.png\"/></div>",
     "options": {
@@ -1867,13 +1867,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8ln",
+    "id": "0kG30A40Wn",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "energy",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The velocity at which 6 kg mass (shown in figure) strikes the ground when it is released from a height of 6 m above the ground is __________ m/s. Assume pulley is massless and string is light and inextensible. (Take $$g = 10$$ m/s$$^2$$)</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_dZKIIng.png\"/></div>",
     "options": {
@@ -1911,13 +1911,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8ml",
+    "id": "0kG2yuEdn7",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "huygens-principle-and-interference-of-light",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In a Young double slit experiment, the wavelength of incident light is 6000 Å. The separation between slits $$S_1$$ and $$S_2$$ is 5 cm and the distance between slits plane and screen is 50 cm, as shown in the figure below. If the resultant intensity at P is equal to the intensity due to individual slits, the path difference between interfering waves is __________ Å.</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_oYLtps8.png\"/></div>",
     "options": {
@@ -1955,13 +1955,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8n0",
+    "id": "0kG2zPMsbp",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "friction-force",
     "chapter": "laws-of-motion",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A block takes $$t$$ time to slide down a plane inclined at 45° to the horizontal. If the surface is made smooth (frictionless), the block takes time $$\\dfrac{t}{2}$$ to slide down the plane. The coefficient of friction between the block and the inclined plane is $$\\left(\\dfrac{\\alpha}{100}\\right)$$. The value of $$\\alpha$$ is __________.</p></div>",
     "options": {},
@@ -1994,13 +1994,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8nk",
+    "id": "0kG2zvquXJ",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "matter-waves-davisson-and-germer-experiment",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The de Broglie wavelength for an electron accelerated through the potential difference of $$V_1$$ volt is $$\\lambda_1$$. When the potential difference is changed to $$V_2$$ volt, the associated de Broglie wavelength is increased by 50%. If $$(V_1 / V_2) = (9 / \\alpha)$$, then the value of $$\\alpha$$ is __________.</p></div>",
     "options": {},
@@ -2033,13 +2033,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8o1",
+    "id": "0kG30Ak3Bh",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "moving-coil-galvanometer",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A moving coil of galvanometer when shunted with 2 $$\\Omega$$ resistance gives a full scale deflection for a current of 500 mA. When a resistance of 470 $$\\Omega$$ is connected in series it gives a full scale deflection for 10 V potential applied on it. The value of resistance of galvanometer coil is __________ $$\\Omega$$.</p></div>",
     "options": {},
@@ -2072,13 +2072,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8oh",
+    "id": "0kG2yqBDrV",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-cell-or-battery",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Two cells of emfs 1 V and 2 V and internal resistance 2 $$\\Omega$$ and 1 $$\\Omega$$, respectively connected in parallel, gave a current of 1 A through an external resistance. If the polarity of one cell is reversed, then value of current through the external resistance will be $$\\dfrac{\\alpha}{5}$$ A. The value of $$\\alpha$$ is __________.</p></div>",
     "options": {},
@@ -2111,13 +2111,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8p9",
+    "id": "0kG2zvAzgH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "reflection-of-light",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A concave mirror of focal length 10 cm forms an image which is double the size of object when the object is placed at two different positions. The distance between the two positions of the object is __________ cm.</p></div>",
     "options": {},
@@ -2150,13 +2150,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8q5",
+    "id": "0lAq60q77p",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "mole-concept",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following contain the same number of atoms?\n<br>(Given : Molar mass in g mol$$^{-1}$$ of H, He, O and S are 1, 4, 16 and 32 respectively)\n<br>A. 2 g of O$$_2$$ gas\n<br>B. 4 g of SO$$_2$$ gas\n<br>C. 1400 mL of O$$_2$$ at STP\n<br>D. 0.05 L of He at STP\n<br>E. 0.0625 mol of H$$_2$$ gas\n<br>Choose the correct answer from the options given below :</br></br></br></br></br></br></br></p></div>",
     "options": {
@@ -2194,13 +2194,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8r9",
+    "id": "0lAq5yoEkr",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "bohrs-model-for-hydrogen-atom",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The Bohr radius of a hydrogen like species is 70.53 pm. The species and the stationary state (n) are respectively\n(Given : Hydrogen atom Bohr radius is 52.9 pm)</p></div>",
     "options": {
@@ -2238,13 +2238,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8s3",
+    "id": "0lAq6vgxhx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "lewis-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements :\n<br>Statement I : The number of compounds among SO$$_2$$, SO$$_3$$, SF$$_4$$, SF$$_6$$ and H$$_2$$S in which sulphur does not obey the Octet rule is 3.\n<br>Statement II : Among [H$$_2$$O, ClF$$_3$$, SF$$_4$$], [NH$$_3$$, BrF$$_5$$, SF$$_4$$], [BrF$$_5$$, ClF$$_3$$, XeF$$_4$$] and [XeF$$_4$$, ClF$$_3$$, H$$_2$$O], the number of sets in which all the molecules have one lone pair of electrons on the central atom is 1.\n<br>In the light of the above statements, choose the correct answer from the options given below :</br></br></br></p></div>",
     "options": {
@@ -2282,13 +2282,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8sz",
+    "id": "0lAq6wMaLx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "first-law-of-thermodynamics",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List - I with List - II.\n<br>Given $$V_1$$ and $$V_2$$ are initial and final volumes respectively. <br/></br></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_eFcUzG8.png\">\n<p>Choose the correct answer from the options given below :</p></img></div>",
     "options": {
@@ -2326,13 +2326,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8u6",
+    "id": "0lAq68xa0P",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "osmotic-pressure",
     "chapter": "solutions",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements :</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_xW4SlRJ.png\">\n<p><br>Statement I : H$$_2$$O molecules move from the chamber 1 to chamber 2.</br></p>\n<p>Statement II : The osmotic pressure of a solution prepared by dissolving 50 mg of potassium sulphate (molar mass = 174 g/mol) in 2 L of water (at 27 °C) is 0.0107 bar. (Given: R = 0.083 dm$$^3$$ bar K$$^{-1}$$ mol$$^{-1}$$ and assume complete dissociation of electrolyte)</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p></img></div>",
     "options": {
@@ -2370,13 +2370,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8v0",
+    "id": "0lAq6uKsO9",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ostwalds-dilution-law-and-concept-of-acid-and-base",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given is a concentrated solution of a weak electrolyte $$A_xB_y$$ of concentration 'c' and dissociation constant 'K'. The degree of dissociation is given by :</p></div>",
     "options": {
@@ -2414,13 +2414,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8wd",
+    "id": "0lAq67bf5l",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "electrochemical-series-cell-and-their-emf",
     "chapter": "electrochemistry",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>For a general redox reaction</p>\n<p>Anode: $$\\text{Red}_1 \\to \\text{Ox}_1^{n_1+} + n_1 e^-$$</p>\n<p>Cathode: $$\\text{Ox}_2 + n_2 e^- \\to \\text{Red}_2^{n_2-}$$</p>\n<p>Which of the following statement is **incorrect** ?</p></div>",
     "options": {
@@ -2458,13 +2458,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8xf",
+    "id": "0lAq6v0nFB",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "periodic-table-and-its-features",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In a period, the first ionisation enthalpy of the element at extreme left and the negative electron gain enthalpy of the extreme right element, except noble gases, are respectively.</p></div>",
     "options": {
@@ -2502,13 +2502,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8ye",
+    "id": "0lAq6vgkhV",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hybridization-and-vsepr-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements :\n<br>Statement I : $$F_2O &lt; H_2O &lt; Cl_2O$$ is the correct trend in terms of bond angle. <br>Statement II : SiF$$_4$$, SnF$$_4$$ and PbF$$_4$$ are ionic in nature.\nIn the light of the above statements, choose the correct answer from the options given below :</br></br></p></div>",
     "options": {
@@ -2546,13 +2546,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik8zf",
+    "id": "0lAq66vkEj",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct order of first ($$\\Delta_i H_1$$) and second ($$\\Delta_i H_2$$) ionisation enthalpy values of Cr and Mn are :\n<br>A. $$\\Delta_i H_1$$ : Cr &gt; Mn\n<br>B. $$\\Delta_i H_2$$ : Cr &gt; Mn\n<br>C. $$\\Delta_i H_1$$ : Mn &gt; Cr\n<br>D. $$\\Delta_i H_2$$ : Mn &gt; Cr\n<br>Choose the correct answer from the options given below :</br></br></br></br></br></p></div>",
     "options": {
@@ -2590,13 +2590,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik908",
+    "id": "0lAq65ZrvN",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "warners-theory-and-valence-bond-theory",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following sequences of hybridisation, geometry and magnetic nature are correct for the given coordination compounds?\n<br>A. $$[NiCl_4]^{2-}$$ -- sp$$^3$$, tetrahedral, paramagnetic\n<br>B. $$[Ni(NH_3)_6]^{2+}$$ -- sp$$^3$$d$$^2$$, octahedral, paramagnetic\n<br>C. $$[Ni(CO)_4]$$ -- sp$$^3$$, tetrahedral, paramagnetic\n<br>D. $$[Ni(CN)_4]^{2-}$$ -- dsp$$^2$$, square planar, diamagnetic\n<br>Choose the correct answer from the options given below :</br></br></br></br></br></p></div>",
     "options": {
@@ -2634,13 +2634,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik917",
+    "id": "0lAq7BFqoD",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds",
-    "chapter": "practical-organic-chemistry",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "purification-and-characterisation-of-organic-compounds",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements : <br>Statement I : A mixture of C$$_{12}$$H$$_{22}$$O$$_{11}$$ (sugar) and NaCl can be separated by dissolving sugar in alcohol, due to differential solubility.\n<br>Statement II : Rose essence from rose petals is separated by steam distillation due to its high volatility and insolubility in H$$_2$$O.\n<br>In the light of the above statements, choose the correct answer from the options given below :</br></br></br></p></div>",
     "options": {
@@ -2678,13 +2678,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik922",
+    "id": "0lAq6x2q1J",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "electron-displacement-effect",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Shown below is the structure of methyl acetate with three different $$\\alpha$$, $$\\beta$$ and $$\\gamma$$ carbon-oxygen bonds. </p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_99GZYJs.png\">\n<p>The correct order of bond lengths of these bonds is :</p></img></div>",
     "options": {
@@ -2722,13 +2722,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik935",
+    "id": "0lAq62C4dl",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-reactions-for-aldehydes-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>'x' is the product which is obtained by the hydrolysis of prop-1-yne in the presence of mercuric sulphate under dilute acidic medium at 333 K. 'y' is the product which is obtained by the reaction of ethane nitrile with methyl magnesium bromide in dry ether followed by hydrolysis. IUPAC name of product obtained from 'x' and 'y' in the presence of barium hydroxide followed by heating is :</p></div>",
     "options": {
@@ -2766,13 +2766,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik94k",
+    "id": "0lAq62C7F3",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "tests-for-aldehyde-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>An optically active alkyl bromide C$$_4$$H$$_9$$Br, reacts with ethanolic KOH to form major compound [A] which reacts with bromine to give compound [B]. Compound [B] reacts with ethanolic KOH and sodamide to give compound [C]. One molecule of water adds to compound [C] on warming with mercuric sulphate and dilute sulphuric acid at 333 K to form compound [D]. The functional group in compound D will be confirmed by :</p></div>",
     "options": {
@@ -2810,13 +2810,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik95h",
+    "id": "0lAq6VIJHd",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-preparation-and-uses-of-ethers",
     "chapter": "alcohols-phenols-and-ethers",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the following reaction.</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_us23w44.png\">\n<p>Statement I : In the above reaction, product formed will be a mixture of benzyl alcohol and iodobenzene.</p>\n<p>Statement II : In the above reaction, the $$-O-CH_2-$$ bond is cleaved to give the product.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p></img></div>",
     "options": {
@@ -2854,13 +2854,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik96c",
+    "id": "0lAq6xiVGb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the following organic reaction sequence. Choose the final product (X) from the following (consider the major product in all intermediate reactions)</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_uP6PJqo.png\"/></div>",
     "options": {
@@ -2898,13 +2898,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik977",
+    "id": "0lAq6xiXrt",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aliphatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The number of compounds from the following which can undergo reaction with Br$$_2$$/KOH (alcoholic) to give respective products and these respective products can also be obtained separately by Gabriel phthalimide reaction is :</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_1E3mpDY.png\"/></div>",
     "options": {
@@ -2942,13 +2942,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik987",
+    "id": "0lAq6VIGgL",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-preparation-and-uses-of-phenols",
     "chapter": "alcohols-phenols-and-ethers",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the following reactions. Total number of electrons in the $$\\pi$$ bonds and lone pair of electrons in the product (X) is : </p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_TODw47V.png\"/></div>",
     "options": {
@@ -2986,13 +2986,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik98y",
+    "id": "0lAq6PCdZR",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-15-elements-nitrogen-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Treatment of a gas 'X' with a freshly prepared ferrous sulphate solution gives a compound 'Y' as a brown ring. The compounds X and Y are.</p></div>",
     "options": {
@@ -3030,13 +3030,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik99d",
+    "id": "0lAq65ZrvO",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "warners-theory-and-valence-bond-theory",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>An excess of AgNO$$_3$$ is added to 100 mL of a 0.05 M solution of tetraaquadichloridochromium (III) chloride. The number of moles of AgCl precipitated will be __________ $$\\times 10^{-3}$$. (Nearest integer)</p></div>",
     "options": {},
@@ -3069,13 +3069,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik99v",
+    "id": "0lAq6PslQv",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "reaction-of-alkanes",
     "chapter": "hydrocarbons",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>An alkane (Y) requires 8 moles of oxygen for complete combustion and on chlorination with Cl$$_2$$/h$$\\nu$$, (Y) gives only one monochlorinated product (Z). The total number of primary carbon atoms in (Y) is __________.</p></div>",
     "options": {},
@@ -3108,13 +3108,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik9aa",
+    "id": "0lAq6Yg3xx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "redox-titration",
     "chapter": "redox-reactions",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>500 mL of 0.2 M MnO$$_4^-$$ solution in basic medium when mixed with 500 mL of 1.5 M KI solution, oxidises iodide ions to liberate molecular iodine. This liberated iodine is then titrated with a standard $$x$$ M thiosulphate solution in presence of starch till the end point. If 300 mL of thiosulphate was consumed, then the value of $$x$$ is __________.</p></div>",
     "options": {},
@@ -3147,13 +3147,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik9ap",
+    "id": "0lAq78XqZl",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-equilibrium-law-of-mass-action-and-equilibrium-constant",
-    "chapter": "chemical-equilibrium",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "equilibrium-chemical",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>In a closed flask at 600 K, one mole of $$X_2Y_4(g)$$ attains equilibrium as given below :\n$$$X_2Y_4(g) \\rightleftharpoons 2XY_2(g)$$$\nAt equilibrium, 75% $$X_2Y_4(g)$$ was dissociated and the total pressure is 1 atm. The magnitude of $$\\Delta_r G^{\\ominus}$$ (in kJ mol$$^{-1}$$) at this temperature is __________. (Nearest Integer)\n(Given : R = 8.3 J mol$$^{-1}$$ K$$^{-1}$$; ln 10 = 2.3, log 2 = 0.3, log 3 = 0.48, log 5 = 0.69, log 7 = 0.84)</p></div>",
     "options": {},
@@ -3186,13 +3186,13 @@
     "year": 2026
   },
   {
-    "id": "mnsik9b9",
+    "id": "0lAq6yOSiv",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "arrhenius-equation",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2026-online-6th-april-evening-shift",
-    "paperTitle": "JEE Main 2026 (Online) 6th April Evening Shift",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2026-06-apr-evening",
+    "paperTitle": "JEE Main 2026 - 06 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Decomposition of a hydrocarbon follows the equation $$k = (5.5 \\times 10^{11} s^{-1}) e^{\\frac{-28000K}{T}}$$. The activation energy of reaction is __________ kJ mol$$^{-1}$$. (Nearest Integer)\nGiven : R = 8.3 J K$$^{-1}$$ mol$$^{-1}$$</p></div>",
     "options": {},

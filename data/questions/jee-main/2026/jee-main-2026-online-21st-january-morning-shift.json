@@ -1,12 +1,12 @@
 [
   {
-    "id": "ml89h7jh",
+    "id": "0kiP4rSqTR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "geometric-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A=\\begin{pmatrix} 0 &amp; 1 &amp; 0 \\\\ 0 &amp; 0 &amp; 1 \\\\ 6 &amp; -11 &amp; 6\\end{pmatrix}$$. What is the trace of $$A^5$$?</p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h4so",
+    "id": "0kiP5iFbVJ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "fundamental-identities",
-    "chapter": "trigonometric-ratio-and-identites",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "trigonometric-ratios-identities-and-formulas",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>What is the value of $$9^7-\\binom{9}{1}8^7+\\binom{9}{2}7^7-\\binom{9}{3}6^7+\\binom{9}{4}5^7-\\binom{9}{5}4^7+\\binom{9}{6}3^7-\\binom{9}{7}2^7+\\binom{9}{8}1^7$$?</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h847",
+    "id": "0kiP5mzOu9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "linear-differential-equations",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$y=y(x)$$ satisfy $$\\frac{1}{y}\\frac{dy}{dx}-\\frac{2e^x\\cos x}{y}=1$$ and $$y(0)=0$$. Then $$y\\left(\\frac{\\pi}{2}\\right)=$$</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h676",
+    "id": "0kiP50wGrx",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "conditional-combinations",
     "chapter": "permutations-and-combinations",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>$$\\overline{r\\ }=\\left(3,4,1\\right)+t\\left(0,2,-1\\right)$$ and $$P=\\left(-4,7,6\\right)$$ determine a plane $$\\pi$$. What is the perpendicular distance from the point $$Q(1,1,1)$$ to $$\\pi$$?</p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7kt",
+    "id": "0kG0W6IrpJ",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "errors-in-measurement",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The $$n^{th}$$ terms of two sequences are $$a_n=\\frac{3n+1}{2^{n-1}}$$ and $$b_n=\\frac{3n-2}{2^n}$$ $$\\forall n\\in\\mathbb{N}$$. $$A_n$$ and $$B_n$$ are the sums of the first $$n$$ terms, respectively, of these sequences. What is the value of $$A_6-B_6$$?</p></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h76u",
+    "id": "0kG0X0TaXx",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "stress-strain-curve-thermal-stress-and-elastic-pe",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>How many $$5$$-digit odd natural numbers having distinct digits and whose one of the digits is $$0$$, exist?</p></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h66d",
+    "id": "0kiP4yuLth",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The vectors $$5\\hat{i}+\\hat{j}+\\hat{k}, \\hat{i}+5\\hat{j}+\\hat{k}$$ and $$\\hat{i}+\\hat{j}+5\\hat{k}$$ are the three face diagonals of three faces having a common vertex in a parallelopiped. What is the volume of the parallelopiped?</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h74g",
+    "id": "0kiP5hZoS9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "domain-and-range-of-inverse-trigonometric-functions",
-    "chapter": "inverse-trigonometric-functions",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "inverse-trigonometric-functions-itf",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The value of $$\\sin^{-1}\\cot\\left[\\sin^{-1}\\left\\{\\frac{1}{2}\\left(1-\\sqrt{\\frac{5}{6}}\\right)\\right\\}+\\cos^{-1}\\sqrt{\\frac{2}{3}}+\\sec^{-1}\\sqrt{\\frac{8}{3}}\\right]$$ is:</p></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5mg",
+    "id": "0kiP5B5c7V",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "permutation-and-combination-based-problem",
     "chapter": "probability",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>There are two bags $$B_1$$ and $$B_2$$. $$B_1$$ has two white and three black balls. $$B_2$$ has four white and two black balls. A ball is first drawn from $$B_1$$. Its colour is noted and it is put back into $$B_1$$. If the colour is white, then a ball is picked from $$B_2$$, else a ball is picked from $$B_1$$. What is the probability that the second ball is white?</p></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7xc",
+    "id": "0kiP5jbm1h",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "chord-of-parabola",
-    "chapter": "parabola",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The focus of a parabola is at $$S(2,1)$$ and the lines $$y=x$$ and $$x+y=0$$ touch the parabola. What is the equation of the parabola?</p></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h67y",
+    "id": "0kiP5rj4V7",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "question-based-on-basic-definition-and-parametric-representation",
-    "chapter": "hyperbola",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "conic-sections-hyperbola",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$E:\\frac{x^2}{36}+\\frac{y^2}{16}=1$$ and $$C$$ be its auxiliary circle. $$AB$$ is a chord of $$E$$. $$A', B'$$ are corresponding points of $$A, B$$ respectively on $$C$$. If $$\\angle A'OB'=\\frac{\\pi}{3}$$ and the slope of $$AB$$ is $$\\frac{1}{\\sqrt{3}}$$, then what is the value of $$AB^2$$?</p></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7wg",
+    "id": "0kiP52y9Ev",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "general-term",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$f:\\left(0,\\frac{7}{5}\\right)\\longrightarrow$$ $$\\mathbb{R}$$ and $$g:\\left(0,\\frac{7}{5}\\right)\\longrightarrow$$ $$\\mathbb{R}$$ be functions defined by $$f(x)=2[x^2]$$ and $$g(x)=(2|x-1|+3|x-2|)f(x)$$ (where $$[x]$$ is the greatest integer less than or equal to $$x$$). Let </p>\n<p>$$a=$$ number of points of discontinuity of $$f$$,</p>\n<p>$$b=$$ number of points of non-differentiability of $$f$$,</p>\n<p>$$c=$$ number of points of discontinuity of $$g$$, and</p>\n<p>$$d=$$ number of points of non-differentiability of $$g$$.</p>\n<p>What is the value of $$a+b+c+d$$?</p></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h4rb",
+    "id": "0kiP50GJPd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "cube-roots-of-unity",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>$$\\int_0^1\\left(x^4-9\\right)e^xdx=$$</p></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5xq",
+    "id": "0kiP4yuOUz",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "scalar-or-dot-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The set $$\\{z\\in\\mathbb{C}:(2+6i)z+(9-i)\\overline{z}+10=0\\}$$ on the Argand plane represents:</p></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h73n",
+    "id": "0kiP5gtwCP",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "modulus-function",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>For $$a\\in\\mathbb{R}$$, the solution set of $$x^2-3(a+1)x+a^2+a-1\\le0$$ is an interval of length $$4$$. What is the sum of the squares of the different values of $$a$$?</p></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h75e",
+    "id": "0kiP4yuLti",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>If $$2x+y&gt;0$$, $$2y&gt;x$$, and $$y&lt;3$$, what is the range of all possible values of $$x+y$$?</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h515",
+    "id": "0kiP5ldOmv",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$I\\left(m,n\\right)=\\int_0^m\\tan^nx\\ dx$$. What is the value of $$2I\\left(\\frac{\\ \\pi\\ }{4},2\\right)+3I\\left(\\frac{\\ \\pi\\ }{4},3\\right)+2I\\left(\\frac{\\ \\pi\\ }{4},4\\right)+3I\\left(\\frac{\\ \\pi\\ }{4},5\\right)$$?</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6rg",
+    "id": "0kiP5ivrAf",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "distance-of-a-point-from-a-line",
-    "chapter": "straight-lines-and-pair-of-straight-lines",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "straight-lines",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$L_1:\\frac{x-1}{3}=\\frac{y-2}{1}=\\frac{z-1}{2}$$ and $$L_2:\\frac{x-2}{1}=\\frac{y-3}{4}=\\frac{z}{1}$$ be two lines in space. $$M$$ and $$N$$ are points on $$L_1$$ and $$L_2$$ respectively such that $$MN$$ is the shortest distance between $$L_1$$ and $$L_2$$. What is the sum of the coordinates of $$M$$?</p></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7hq",
+    "id": "0lAne6P3p3",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "periodic-table-and-its-features",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>$$\\Sigma\\ _{n=1}^{15}\\left(\\frac{1}{n\\left(n+1\\right)}-\\frac{1}{\\left(n+2\\right)\\left(n+3\\right)}\\right)=$$</p></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h56h",
+    "id": "0kiP5mJMFF",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-bounded-between-the-curves",
-    "chapter": "area-under-the-curves",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "application-of-integrals-area-under-curves",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>What is the area bounded by $$y=x^3-7x^2+14x-8$$ and the x-axis in the interval $$[0,2]$$?</p></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h762",
+    "id": "0kiP5ldOmw",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>$$6\\int_{0}^{\\pi} |(\\sin3x+\\sin2x+\\sin x)|dx$$ is equal to _________.</p></div>",
     "options": {},
@@ -919,13 +919,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5yp",
+    "id": "0kiP4rSns9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-of-series",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let $$a_{1}=1$$ and for $$n\\geq1,a_{n+1}=\\frac{1}{2}a_{n}+\\frac{n^{2}-2n-1}{n^{2}(n+1)^2}$$. Then $$\\left|\\sum_{ n=1}^{ \\infty}\\left( a_n - \\frac{2}{n^2}\\right)\\right|$$ is equal to ______.</p></div>",
     "options": {},
@@ -958,13 +958,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h68i",
+    "id": "0kiP50wGry",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "conditional-combinations",
     "chapter": "permutations-and-combinations",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let S= {(m, n) :m, n $$\\epsilon$$ {1, 2, 3, .... , 50}}. lf the number of elements (m, n) in S such that $$6^m+9^n$$   is a multiple of 5 is p and the number of elements (m, n) in S such that m + n is a square of a prime number is q, then p +q is equal to ________.</p></div>",
     "options": {},
@@ -997,13 +997,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5y8",
+    "id": "0kiP4s8lKT",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "monotonicity",
     "chapter": "application-of-derivatives",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let $$f:R\\rightarrow R$$ be a twice differentiable function such that the quadratic equation $$f(x)m^{2}-2 f'(x)m+ f''(x)=0$$ in m, has two equal roots for every $$x \\epsilon R$$. If $$ f(0)=1,f'(0)=2$$, and $$(\\alpha,\\beta)$$ is the largest interval in which the function $$f(\\log_{e}{x-x})$$ is increasing, then $$\\alpha+\\beta$$ is equal to ________.</p></div>",
     "options": {},
@@ -1036,13 +1036,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5at",
+    "id": "0kiP4yER2f",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "adjoint-of-a-matrix",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>For some $$\\alpha,\\beta\\epsilon R$$, let $$A=\\begin{bmatrix}\\alpha &amp;  2 \\\\ 1 &amp;  2 \\end{bmatrix}\\text{ and }B=\\begin{bmatrix}1 &amp;  1 \\\\1 &amp;   \\beta \\end{bmatrix}$$ be such that $$A^{2}-4A+2I=B^2-3B+I=O$$. Then $$(det(adj(A^3-B^3)))^2$$ is equal to _______.</p></div>",
     "options": {},
@@ -1075,13 +1075,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6t0",
+    "id": "0kG0Wal1Np",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "newtons-laws-of-motion",
     "chapter": "laws-of-motion",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The best representing   velocity -time ($$v-t$$) graph corresponding to displacement -time ($$s-t$$ ) graph shown is</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_2Lpf5Ao.png\"/></div>",
     "options": {
@@ -1119,13 +1119,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h579",
+    "id": "0kG0W6IuQb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "dimensions-of-physical-quantities",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><img alt=\"images\" class=\"img-responsive\" data-clarity-loaded=\"w9r9yb\" data-image=\"images.png\" src=\"https://cracku.in/media/uploads/images_PM7mTdo.png\">\n<p>Find the equivalent resistance of the given electrical network across terminals A and B:</p></img></div>",
     "options": {
@@ -1163,13 +1163,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5ob",
+    "id": "0kG0X7v0ld",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "digital-circuits",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Find the value of current $$i$$ in the given circuit</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_glO0i4o.png\"/></div>",
     "options": {
@@ -1207,13 +1207,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6ux",
+    "id": "0kG0XLSH6f",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "energy",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A wave pulse is propagating on a long string along the length taken as +x axis. Shape of the string</p>\n<p> at $$t=0$$ is given by $$y=\\frac{1}{x^2+8x+19}$$ and at $$t=2\\ \\sec$$ the shape is $$y=\\frac{1}{x^2+3}$$. find the speed of wave on string</p></div>",
     "options": {
@@ -1251,13 +1251,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7lr",
+    "id": "0kG0X3BLAf",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-potential-energy-and-electric-potential",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>$$AB$$ is a quarter of a smooth circular track of radius $$R=2m$$ as shown in figure. A particle $$P$$ of mass $$m=5kg$$ moves along the track from $$A\\ to\\ B$$ under the action of a force which always directed toward point $$B$$ and has magnitude $$10\\ N$$. Find the work done by force in moving the object from $$A\\ to\\ B$$.</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_JOvEHPJ.png\"/></div>",
     "options": {
@@ -1295,13 +1295,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6hg",
+    "id": "0kiP5kxjXd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "limits-of-logarithmic-functions",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The amplitude of the vibrating particle due to superposition of two SHMs</p>\n<p> $$x_1=\\ 2\\ Sin\\left(\\omega t\\right)$$   and</p>\n<p> $$x_2=\\ 2\\ Sin\\left(\\omega t+\\ \\frac{2\\pi}{3}\\right)$$ .</p></div>",
     "options": {
@@ -1339,13 +1339,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7oa",
+    "id": "0lAndKLtBZ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "elevation-in-boiling-point",
     "chapter": "solutions",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A wooden block is floating in a liquid, $$40\\ \\%\\ $$ of its volume is inside the liquid when the vessel is stationary. Percentage of volume immersed when the vessel moves upwards with an acceleration $$a=5\\ m.s^{-2}$$  is</p></div>",
     "options": {
@@ -1383,13 +1383,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6xd",
+    "id": "0lAndbGp0L",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-and-preparation-of-alkynes",
     "chapter": "hydrocarbons",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The activity of a radioactive sample decreases to one tenth of the original activity $$A_{0\\ }$$ in a period of one year. After 9 more years its activity would be</p></div>",
     "options": {
@@ -1427,13 +1427,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7gv",
+    "id": "0lAndaarY1",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-14-elements-carbon-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The wall of a house is made of two different materials of same thickness. The temperature of the outer wall is  $$T_2$$</p>\n<p>and that of inner wall is $$T_{1\\ }&lt;\\ T_2$$ . the temperature variation inside the wall is as shown in the figure in steady state, then</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_BO8nDkV.png\"/></div>",
     "options": {
@@ -1471,13 +1471,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5p5",
+    "id": "0kG0Wa56Wn",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motional-emf-and-eddy-current",
     "chapter": "electromagnetic-induction",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Two protons move parallel to each other, keeping distance $$r$$ between them, both moving with same velocity $$v$$. Then the ratio of the electric and magnetic force of interaction between them is</p></div>",
     "options": {
@@ -1515,13 +1515,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7f9",
+    "id": "0kG0Wc6wIT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "basic-of-waves-and-progressive-waves",
     "chapter": "waves",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Two smooth spherical non conducting shells each of radius $$R$$ having uniformly distributed charge $$Q$$ &amp; $$-Q$$ on their surfaces are released on a smooth non-conducting surface when the distance between their centers is $$10R$$. The mass of A is $$m$$ and that of B is $$2m$$. The speed of A just before A and B collide is: [Neglect gravitational interaction]</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_jeikk6s.png\"/></div>",
     "options": {
@@ -1559,13 +1559,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7eh",
+    "id": "0kiP4fHaFd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "director-circle",
     "chapter": "circle",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>From a solid sphere of mass $$M$$ and radius $$R$$, a spherical portion of radius $$\\left(\\frac{R}{2}\\right)$$ is removed as shown in the figure. Taking gravitational potential $$V = 0$$ at $$r = \\infty$$, the potential at the centre of the cavity thus formed is ($$G$$ = gravitational constant)</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_dKC6o5q.png\"/></div>",
     "options": {
@@ -1603,13 +1603,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7g0",
+    "id": "0kG0X7F3JJ",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "photoelectric-effect",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A narrow parallel beam of light is incident paraxially on a solid transparent sphere of radius R . What should be the refractive index if the beam is to be focused at the surface of the sphere,</p></div>",
     "options": {
@@ -1647,13 +1647,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h79i",
+    "id": "0lAndACSjR",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hydrogen-spectrum",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The radiation force experienced by body exposed to radiation of intensity $$I$$ , assuming surface of body to be perfectly absorbing is :</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_OSgwVNh.png\"/></div>",
     "options": {
@@ -1691,13 +1691,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h51y",
+    "id": "0kG0WB2a1Z",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "displacement-current-and-properties-of-em-waves",
     "chapter": "electromagnetic-waves",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A cubical volume is bounded by the surfaces $$x = 0$$, $$x = a$$, $$y = 0$$, $$y = a$$, $$z = 0$$, $$z = a$$. The electric field in the region is given by $$\\vec{E} = E_0 x \\hat{i}$$. Where $$E_0 = 4 \\times 10^4$$ NC$$^{-1}$$ m$$^{-1}$$. If $$a = 2$$ cm, the charge contained in the cubical volume is $$Q \\times 10^{-14}$$ C. The value of $$Q$$ is ______. (Take $$\\epsilon_0 = 9 \\times 10^{-12}$$ C$$^2$$ N$$^{-1}$$m$$^{-2}$$)</p></div>",
     "options": {
@@ -1735,13 +1735,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6vl",
+    "id": "0kG0X0TXwf",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "fluid-flow-bernoullis-principle-and-viscosity",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The angle of polarization for any medium is $$60^{\\circ\\ }$$, what will be critical angle for this :</p></div>",
     "options": {
@@ -1779,13 +1779,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h600",
+    "id": "0kG0X1pafB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "rotational-motion-about-fixed-axis-of-rigid-body",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A uniform chain of length $$l\\ $$ has one of its end attached to the wall a point A, while $$\\frac{3l}{4}$$of the length of the chain is lying on table as shown in figure. Find the minimum co-efficient of friction between table and chain so that chain remains in equilibrium is.</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_OTkkgnS.png\"/></div>",
     "options": {
@@ -1823,13 +1823,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6u1",
+    "id": "0kG0X5DDXd",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "capacitors-with-dielectric",
-    "chapter": "capacitor",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "electrostatic-potential-and-capacitance",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A rod of length 5L is bent right angle keeping one side length as 2L.<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_jycgQj8.png\">\n<p>The position of the centre of mass of the system: (Consider L = 10 cm)</p></img></div>",
     "options": {
@@ -1867,13 +1867,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h77t",
+    "id": "0kG0XM8MMr",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motion-of-charged-particle-inside-magnetic-field",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A force of 49 N acts tangentially at the highest point of a sphere (solid) of mass 20 kg, kept on a rough horizontal plane. If the sphere rolls without slipping, then the acceleration of the center of the sphere is</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_20iN6i9.png\"/></div>",
     "options": {
@@ -1911,13 +1911,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h4u9",
+    "id": "0kG0Wcmtkn",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "escape-speed-and-motion-of-satellites",
     "chapter": "gravitation",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A thin circular ring of mass $$m$$ and radius $$R$$ is rotating about its axis with a constant angular velocity $$\\omega$$. Two objects each of mass $$M$$ are attached gently to the opposite ends of a diameter of the ring. The ring now rotates with an angular velocity $$\\omega' =$$</p></div>",
     "options": {
@@ -1955,13 +1955,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5pl",
+    "id": "0kG0X1pVSb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "moment-of-inertia",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>Two identical thin rods of mass M kg and length L m are connected as shown in the figure below. Moment of inertia of the combined rod system about an axis passing through point P and perpendicular to the plane of the rods is $$\\frac{x}{12}ML^{2}\\text{kg m}^{2}$$. The value of x is ____ .<br/></p>\n<img alt=\"Screenshot_6\" class=\"img-responsive\" data-image=\"Screenshot_6.png\" src=\"https://cracku.in/media/uploads/Screenshot_6_mZlkVJ4.png\"/></div>",
     "options": {},
@@ -1994,13 +1994,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5ef",
+    "id": "0kG0X2VfvN",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "zeroth-and-first-law-of-thermodynamics",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>10 mole of oxygen is heated at constant volume from $$30^{\\circ}C  \\text{to}  40^{\\circ}C$$. The change in the internal energy of the gas is ____ cal (the molecular specific heat of oxygen at constant pressure, $$C_{p}= 7 \\text{cal}/\\text{mol}.^{\\circ}C \\text{and} R = 2 \\text{cal}./\\text{mol}.^{\\circ}C).$$</p></div>",
     "options": {},
@@ -2033,13 +2033,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h4uq",
+    "id": "0kG0X6Z8SH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "lenses",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>A collimated beam of light of diameter 2 mm is propagating along x-axis. The beam is required to be expanded in a collimated beam of diameter 14 mm using a system of two convex lenses. lf first lens has focal length 40 mm, then the focal length of second lens is ____ mm.</p></div>",
     "options": {},
@@ -2072,13 +2072,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5f2",
+    "id": "0kG0W1ZCEL",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-power-and-heating-effect-of-current",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>The heat generated in 1 minute between points A and B in the given circuit, when a battery of 9 V with internal resistance of 1Ω is connected across these points is ____ J<br/></p>\n<img alt=\"Screenshot_7\" class=\"img-responsive\" data-image=\"Screenshot_7.png\" src=\"https://cracku.in/media/uploads/Screenshot_7_sPeOSli.png\"/></div>",
     "options": {},
@@ -2111,13 +2111,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h60k",
+    "id": "0kG0X6ZDer",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "optical-instruments",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>In a microscope the objective is having focal length $$f_{0}=2 \\text{cm}$$ and eye-piece is having focal length $$f_{e} = 4 \\text{cm}$$ The tube length is 32 cm. the magnification produced by this microscope for normal adjustment is _______.</p></div>",
     "options": {},
@@ -2150,13 +2150,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h4vj",
+    "id": "0lAndCEL6P",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "quantitative-measures-in-chemical-equations",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following statement is correct?</p></div>",
     "options": {
@@ -2194,13 +2194,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6a2",
+    "id": "0kG0W8KmnZ",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "alpha-particle-scattering-and-rutherford-model-of-atom",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The oxidation number of sulphur in Peroxydisulphuric acid is :</p></div>",
     "options": {
@@ -2238,13 +2238,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h61a",
+    "id": "0lAne7kyjh",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "entropy-free-energy-change-and-spontaneity",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>$$\\text{Which of the following will NOT undergo } S_\\mathrm{N}1 \\text{ or } S_\\mathrm{N}2 \\text{ reactions?}$$</p></div>",
     "options": {
@@ -2282,13 +2282,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7y1",
+    "id": "0lAne751HN",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hybridization-and-vsepr-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following is the correct IUPAC name of the given coordination compound?<br/>$$\\mathrm{(NH_4)_2[FeF_5(H_2O)]}$$</p></div>",
     "options": {
@@ -2326,13 +2326,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6ib",
+    "id": "0lAndIJyDJ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "important-compounds-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Match column-I with column-II according to their shape.<br/></p>\n<img alt=\"Screenshot 2026-09-01 3\" class=\"img-responsive\" data-image=\"Screenshot 2026-09-01 3.31.27 PM.png\" src=\"https://cracku.in/media/uploads/Screenshot%202026-09-01%203.31.27%20PM.png\"/></div>",
     "options": {
@@ -2370,13 +2370,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7n1",
+    "id": "0lAndDaLDd",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-reactions-for-aldehydes-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following f-block elements in the +3 oxidation state is colourless?</p></div>",
     "options": {
@@ -2414,13 +2414,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6cg",
+    "id": "0lAne7kqvp",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "first-law-of-thermodynamics",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following graphs is correct for a second-order reaction?</p></div>",
     "options": {
@@ -2458,13 +2458,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7hq",
+    "id": "0lAne6P3p4",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "periodic-table-and-its-features",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following statement(s) is incorrect?</p>\n<p>(i) The order of electron gain enthalpy for halogens is: Cl &gt; F &gt; Br &gt;I  </p>\n<p>(ii) The first ionization energy follows the order: C &lt; O &lt; N &lt;F  </p>\n<p>(iii) Stability of +3 oxidation state in group 15 increases in the order: $$\\mathrm{N^{+3} &gt; P^{+3} &gt; As^{+3} &gt; Sb^{+3} &gt; Bi^{+3}}$$ </p>\n<p>(iv) The order of atomic radii in group 13 is: Tl &gt; In &gt; Ga &gt; Al &gt; B</p></div>",
     "options": {
@@ -2502,13 +2502,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6aw",
+    "id": "0lAndaarY2",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-14-elements-carbon-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Equivalent conductivity of $$\\mathrm{BaCl_2}$$, $$\\mathrm{H_2SO_4}$$ and $$\\mathrm{HCl}$$ are $$x_1,\\ x_2$$ and $$x_3\\ \\mathrm{S\\,cm^{-1}\\,eq^{-1}}$$ at infinite dilution. If the conductivity of saturated $$\\mathrm{BaSO_4}$$ solution is $$x\\ \\mathrm{S\\,cm^{-1}}$$, then $$K_{sp}$$ of $$\\mathrm{BaSO_4}$$ is:</p></div>",
     "options": {
@@ -2546,13 +2546,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5r7",
+    "id": "0lAndGI5qL",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "proteins-and-enzymes",
     "chapter": "biomolecules",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Find the iso-electric point of the given amino acid:<br/></p>\n<img alt=\"Screenshot 2026-09-01 10\" class=\"img-responsive\" data-image=\"Screenshot 2026-09-01 10.31.17 PM.png\" src=\"https://cracku.in/media/uploads/Screenshot%202026-09-01%2010.31.17%20PM.png\"/></div>",
     "options": {
@@ -2590,13 +2590,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h698",
+    "id": "0kG0Wa53vV",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "magnetic-flux-faradays-and-lenzs-laws",
     "chapter": "electromagnetic-induction",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The orbital having one radial node as well one angular node is:</p></div>",
     "options": {
@@ -2634,13 +2634,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5s2",
+    "id": "0lAne8QwC1",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "isomerism",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Assertion: In case of isomeric dihalobenzenes, the p-isomers have greater boiling point than the ortho and meta-isomers. </p>\n<p>Reason: The greater symmetry of p-isomers allows them to pack more efficiently in the crystal lattice than their ortho and meta counterparts.<br/></p>\n<p>Choose the correct option.</p></div>",
     "options": {
@@ -2678,13 +2678,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6bo",
+    "id": "0lAndGy3If",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "crystal-field-theory-cft",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Statement I: $$pK_b$$ of imidazole is lower than that of aniline.<br/>Statement II: The order of basicity for ethyl substituted amine in aqueous solution is $$\\mathrm{(C_2H_5)_2NH &gt; C_2H_5NH_2 &gt; (C_2H_5)_3N &gt; NH_3}$$.</p>\n<p>Choose the correct option.</p></div>",
     "options": {
@@ -2722,13 +2722,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5ni",
+    "id": "0kiP5r39e5",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "symmetric-transitive-and-reflexive-properties",
-    "chapter": "sets-and-relations",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "sets-relations-and-functions",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><img alt=\"Screenshot 2026-09-01 5\" class=\"img-responsive\" data-image=\"Screenshot 2026-09-01 5.09.15 PM.png\" src=\"https://cracku.in/media/uploads/Screenshot%202026-09-01%205.09.15%20PM.png\">\n<p>The ratio of number of keto groups to the number of carbons in the major product is:</p></img></div>",
     "options": {
@@ -2766,13 +2766,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h5bo",
+    "id": "0kG0X2VL73",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "specific-heat-capacity-calorimetry-and-change-of-state",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A first order reaction is 50% completed in 20 minutes at 27 °C and in 5 minutes at 47 °C. The energy of activation of the reaction is:</p>\n<p>(Given: ln 4=1.386)</p></div>",
     "options": {
@@ -2810,13 +2810,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h52q",
+    "id": "0lAne96oRl",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aliphatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Benzene diazonium salt reacts with ethanol to form compound <strong>B</strong>, which on treatment with oleum gives compound <strong>C</strong>. Compound <strong>C</strong>, when treated with NaOH at 350∘C, followed by hydrolysis, forms compound <strong>D</strong>. Compound <strong>D</strong> is then treated with sodium dichromate in the presence of sulphuric acid. The final product is: <br/></p></div>",
     "options": {
@@ -2854,13 +2854,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h78p",
+    "id": "0kG0W5cuMz",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "huygens-principle-and-interference-of-light",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><img alt=\"Screenshot 2026-09-01 11\" class=\"img-responsive\" data-image=\"Screenshot 2026-09-01 11.06.15 PM.png\" src=\"https://cracku.in/media/uploads/Screenshot%202026-09-01%2011.06.15%20PM.png\">\n<p>The final product is:</p></img></div>",
     "options": {
@@ -2898,13 +2898,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7in",
+    "id": "0lAneMe7O5",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds",
-    "chapter": "practical-organic-chemistry",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "purification-and-characterisation-of-organic-compounds",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>For an isothermal free expansion of an ideal gas into vacuum, which one of the following set of values is correct?</p></div>",
     "options": {
@@ -2942,13 +2942,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7tk",
+    "id": "0lAndDaNov",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "tests-for-aldehyde-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The most stable canonical structure of given molecule is:</p>\n<img alt=\"Screenshot 2026-09-09 12\" class=\"img-responsive\" data-image=\"Screenshot 2026-09-09 12.39.44 PM.png\" src=\"https://cracku.in/media/uploads/Screenshot%202026-09-09%2012.39.44%20PM.png\"/></div>",
     "options": {
@@ -2986,13 +2986,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6we",
+    "id": "0lAne8QoO9",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "stability-of-intermediate",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Among the following, the Newmann projections of meso-2,3-butanediol are:</p>\n<img alt=\"Screenshot 2026-09-02 11\" class=\"img-responsive\" data-image=\"Screenshot 2026-09-02 11.44.27 AM.png\" src=\"https://cracku.in/media/uploads/Screenshot%202026-09-02%2011.44.27%20AM_Icni4fE.png\"/></div>",
     "options": {
@@ -3030,13 +3030,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6jr",
+    "id": "0lAne96lqT",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>Consider the following reaction sequence</p>\n<img alt=\"Screenshot_30\" class=\"img-responsive\" data-image=\"Screenshot_30.png\" src=\"https://cracku.in/media/uploads/Screenshot_30_Wn3FIPi.png\">\n<p><br/>The percentage of nitrogen in product 'T' formed is ____ %. (Nearest integer)<br/>(Given molar mass in g $$mol^{-1}$$ H : 1, C: 12, N : 14, 0: 16)</p></img></div>",
     "options": {},
@@ -3069,13 +3069,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6cv",
+    "id": "0lAne9mjIn",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "arrhenius-equation",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>Pre-exponential factors of two different reactions of same order are identical. Let activation energy of first reaction exceeds the activation energy of second reaction by 20 kJ $$mol^{-1}$$. If $$k_{1}\\text{ and }k_{2}$$ are the rate constants of first and second reaction respectively at 300 K, then In $$\\frac{k_{2}}{k_{1}}$$ will be ___. <br>(nearest integer)  $$[R=8.3JK^{-1}mol^{-1}]$$</br></p></div>",
     "options": {},
@@ -3108,13 +3108,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h61r",
+    "id": "0lAne7kyji",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "entropy-free-energy-change-and-spontaneity",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>Use the following data :</p>\n<img alt=\"Screenshot_31\" class=\"img-responsive\" data-image=\"Screenshot_31.png\" src=\"https://cracku.in/media/uploads/Screenshot_31_Vx02qfz.png\">\n<p><br>One mole each of $$A_{2}(g)$$ and $$B_{2}(g)$$ are taken in a 1 L closed flask and allowed to establish the equilibrium at 500K<br>$$A_{2}(g)+B_{2}(g)\\rightleftharpoons2AB(g)$$<br>The value of x in $$( kJ mol^{-1})$$  is ____ . (Nearest integer) <br>(Given: log K=2.2 R= 8.3 kJ  $$K^{-1} mol^{-1}$$)</br></br></br></br></p></img></div>",
     "options": {},
@@ -3147,13 +3147,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h7oq",
+    "id": "0lAndIJyDK",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "important-compounds-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>Consider the following reactions:<br>$$NaCl+K_{2}Cr_{2}O_{7}+H_{2}SO_{4}\\rightarrow A+KHSO_{4}+NaHSO_{4}+H_{2}O$$<br>$$A+NaOH\\rightarrow B+NaCl+H_{2}O$$<br>$$B+H_{2}SO_{4}+H_{2}O_{2}\\rightarrow C+Na_{2}SO_{4}+H_{2}O$$<br>In the product 'C, 'X' is the number of $$O_{2}^{2-}$$ units, 'Y' is the total number oxygen atoms present and 'Z' is the oxidation state of Cr·. The value of X + Y + Z is ______</br></br></br></br></p></div>",
     "options": {},
@@ -3186,13 +3186,13 @@
     "year": 2026
   },
   {
-    "id": "ml89h6iw",
+    "id": "0lAndIzyGv",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "conductance-and-electrolysis",
     "chapter": "electrochemistry",
-    "paperId": "jee-main-2026-online-21st-january-morning-shift",
-    "paperTitle": "JEE Main 2026 (Online) 21st January Morning Shift",
+    "paperId": "jee-main-2026-21-jan-morning",
+    "paperTitle": "JEE Main 2026 - 21 Jan Morning",
     "questionType": "integer",
     "question_text": "<div><p>The pH and conductance of a weak acid (HX) was found to be 5 and $$4\\times10^{-5}S$$. respectively. The conductance was measured under standard condition using a cell where the electrode plates having a surface area of 1 $$cm^{2}$$  were at a distance of 15 cm apart. The value of the limiting molar conductivity  is ______ S $$m^{2}mol^{-1}$$ (nearest integer) <br>(Given : degree of dissociation of the weak acid ($$\\alpha$$) &lt; &lt; 1)</br></p></div>",
     "options": {},

@@ -1,12 +1,12 @@
 [
   {
-    "id": "m9fnusfr",
+    "id": "0kiUXFdDDl",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "maxima-and-minima",
     "chapter": "application-of-derivatives",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$a &gt; 0$$. If the function $$f(x) = 6x^3 - 45ax^2 + 108a^2x + 1$$ attains its local maximum and minimum values at the points $$x_1$$ and $$x_2$$ respectively such that $$x_1 x_2 = 54$$, then $$a + x_1 + x_2$$ is equal to :</p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusyr",
+    "id": "0kiUY8S11l",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "limits-of-exponential-functions",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let f be a differentiable function on $$\\mathbf{R}$$ such that $$f(2) = 1$$, $$f'(2) = 4$$. Let $$\\lim_{x \\to 0} (f(2+x))^{3/x} = e^\\alpha$$. Then the number of times the curve $$y = 4x^3 - 4x^2 - 4(\\alpha - 7)x - \\alpha$$ meets the x-axis is :</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusnf",
+    "id": "0kiUY548XZ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "sum-upto-n-terms-and-infinite-terms-of-inverse-series",
-    "chapter": "inverse-trigonometric-functions",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "inverse-trigonometric-functions-itf",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The sum of the infinite series $$\\cot^{-1}\\left(\\frac{7}{4}\\right) + \\cot^{-1}\\left(\\frac{19}{4}\\right) + \\cot^{-1}\\left(\\frac{39}{4}\\right) + \\cot^{-1}\\left(\\frac{67}{4}\\right) + \\ldots$$ is :</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusbs",
+    "id": "0kiUYEXYw5",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "symmetric-transitive-and-reflexive-properties",
-    "chapter": "sets-and-relations",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "sets-relations-and-functions",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A = \\{-3, -2, -1, 0, 1, 2, 3\\}$$ and $$R$$ be a relation on $$A$$ defined by $$xRy$$ if and only if $$2x - y \\in \\{0, 1\\}$$. Let $$l$$ be the number of elements in $$R$$. Let $$m$$ and $$n$$ be the minimum number of elements required to be added in $$R$$ to make it reflexive and symmetric, respectively. Then $$l + m + n$$ is equal to :</p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuslc",
+    "id": "0kiUXNkyJN",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "algebra-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the product of $$\\omega_1 = (8 + i)\\sin\\theta + (7 + 4i)\\cos\\theta$$ and $$\\omega_2 = (1 + 8i)\\sin\\theta + (4 + 7i)\\cos\\theta$$ be $$\\alpha + i\\beta$$, $$i = \\sqrt{-1}$$. Let p and q be the maximum and the minimum values of $$\\alpha + \\beta$$ respectively.</p></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusxt",
+    "id": "0kiUYB9gRt",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the values of p, for which the shortest distance between the lines $$\\frac{x+1}{3} = \\frac{y}{4} = \\frac{z}{5}$$ and $$\\vec{r} = (p\\hat{i} + 2\\hat{j} + \\hat{k}) + \\lambda(2\\hat{i} + 3\\hat{j} + 4\\hat{k})$$ is $$\\frac{1}{\\sqrt{6}}$$, be a, b (a &lt; b). Then the length of the latus rectum of the ellipse $$\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$$ is :</p></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusvh",
+    "id": "0kiUY76GWH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "question-based-on-basic-definition-and-parametric-representation",
-    "chapter": "parabola",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The axis of a parabola is the line $$y = x$$ and its vertex and focus are in the first quadrant at distances $$\\sqrt{2}$$ and $$2\\sqrt{2}$$ units from the origin, respectively. If the point (1, k) lies on the parabola, then a possible value of k is :</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuscl",
+    "id": "0kiUXbHrEn",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "domain",
     "chapter": "functions",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the domains of the functions $$f(x) = \\log_4 \\log_3 \\log_7 (8 - \\log_2(x^2 + 4x + 5))$$ and $$g(x) = \\sin^{-1}\\left(\\frac{7x+10}{x-2}\\right)$$ be $$(\\alpha, \\beta)$$ and $$[\\gamma, \\delta]$$, respectively. Then $$\\alpha^2 + \\beta^2 + \\gamma^2 + \\delta^2$$ is equal to :</p></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuskg",
+    "id": "0kiUY75yJF",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-to-parabola",
-    "chapter": "parabola",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A line passing through the point A(-2, 0), touches the parabola P : $$y^2 = x - 2$$ at the point B in the first quadrant. The area of the region bounded by the line AB, parabola P and the x-axis, is :</p></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusev",
+    "id": "0kiUYFDTn7",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "question-based-on-basic-definition-and-parametric-representation",
-    "chapter": "hyperbola",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "conic-sections-hyperbola",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the sum of the focal distances of the point $$P(4, 3)$$ on the hyperbola H : $$\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$$ be $$8\\sqrt{\\frac{5}{3}}$$. If for $$H$$, the length of the latus rectum is $$l$$ and the product of the focal distances of the point P is m, then $$9l^2 + 6m$$ is equal to :</p></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusgt",
+    "id": "0kiUXLj0jp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "operations-on-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the matrix $$A = \\begin{bmatrix} 1 &amp; 0 &amp; 0 \\\\ 1 &amp; 0 &amp; 1 \\\\ 0 &amp; 1 &amp; 0 \\end{bmatrix}$$ satisfy $$A^n = A^{n-2} + A^2 - I$$ for $$n \\geq 3$$. Then the sum of all the elements of $$A^{50}$$ is :</p></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusib",
+    "id": "0kiUXExDA9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-of-series",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the sum of the first 20 terms of the series $$\\frac{4 \\cdot 1}{4 + 3 \\cdot 1^2 + 1^4} + \\frac{4 \\cdot 2}{4 + 3 \\cdot 2^2 + 2^4} + \\frac{4 \\cdot 3}{4 + 3 \\cdot 3^2 + 3^4} + \\frac{4 \\cdot 4}{4 + 3 \\cdot 4^2 + 4^4} + \\ldots$$ is $$\\frac{m}{n}$$, where m and n are coprime, then $$m + n$$ is equal to :</p></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuslx",
+    "id": "0kiUXQSVvd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$1^2 \\cdot ({^{15} C_{1}}) + 2^2 \\cdot ({^{15} C_{2}}) + 3^2 \\cdot ({^{15} C_{3}}) + \\ldots + 15^2 \\cdot ({^{15} C_{15}}) = 2^m \\cdot 3^n \\cdot 5^k$$, where $$m, n, k \\in \\mathbb{N}$$, then $$m + n + k$$ is equal to :</p></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusiy",
+    "id": "0kiUY7mBNJ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "chord-of-ellipse",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let for two distinct values of p the lines $$y = x + p$$ touch the ellipse E : $$\\frac{x^2}{4^2} + \\frac{y^2}{3^2} = 1$$ at the points A and B. Let the line $$y = x$$ intersect E at the points C and D. Then the area of the quadrilateral ABCD is equal to</p></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusx5",
+    "id": "0kiUXExKy1",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "arithmetic-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider two sets A and B, each containing three numbers in A.P. Let the sum and the product of the elements of A be 36 and p respectively and the sum and the product of the elements of B be 36 and q respectively. Let d and D be the common differences of A.P.'s in A and B respectively such that $$D = d + 3, d &gt; 0$$. If $$\\frac{p+q}{p-q} = \\frac{19}{5}$$, then $$p - q$$ is equal to</p></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnushf",
+    "id": "0kiUYATizZ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If a curve $$y = y(x)$$ passes through the point $$\\left(1, \\frac{\\pi}{2}\\right)$$ and satisfies the differential equation $$(7x^4 \\cot y - e^x \\csc y) \\frac{dx}{dy} = x^5, x \\geq 1$$, then at $$x = 2$$, the value of $$\\cos y$$ is :</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusju",
+    "id": "0kiUY7ltAH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "position-of-point-and-chord-joining-of-two-points",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The centre of a circle C is at the centre of the ellipse E : $$\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$$, $$a &gt; b$$. Let C pass through the foci $$F_1$$ and $$F_2$$ of E such that the circle C and the ellipse E intersect at four points. Let P be one of these four points. If the area of the triangle $$PF_1F_2$$ is 30 and the length of the major axis of E is 17, then the distance between the foci of E is :</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusw6",
+    "id": "0kiUY97o4v",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$f(x) + 2f\\left(\\frac{1}{x}\\right) = x^2 + 5$$ and $$2g(x) - 3g\\left(\\frac{1}{2}\\right) = x$$, $$x &gt; 0$$. If $$\\alpha = \\int_1^2 f(x)\\,dx$$, and $$\\beta = \\int_1^2 g(x)\\,dx$$, then the value of $$9\\alpha + \\beta$$ is :</p></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusmt",
+    "id": "0kiUYB9gRu",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let A be the point of intersection of the lines $$L_1 : \\frac{x-7}{1} = \\frac{y-5}{0} = \\frac{z-3}{-1}$$ and $$L_2 : \\frac{x-1}{3} = \\frac{y+3}{4} = \\frac{z+7}{5}$$. Let B and C be the points on the lines $$L_1$$ and $$L_2$$ respectively such that $$AB = AC = \\sqrt{15}$$. Then the square of the area of the triangle ABC is :</p></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusdf",
+    "id": "0kiUXJgxxh",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
     "chapter": "statistics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the mean and the standard deviation of the observation 2, 3, 3, 4, 5, 7, a, b be 4 and $$\\sqrt{2}$$ respectively. Then the mean deviation about the mode of these observations is :</p></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut0f",
+    "id": "0kiUXNkihd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "cube-roots-of-unity",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>If $$\\alpha$$ is a root of the equation $$x^2 + x + 1 = 0$$ and $$\\sum_{k=1}^{n} \\left(\\alpha^k + \\frac{1}{\\alpha^k}\\right)^2 = 20$$, then n is equal to ______.</p></div>",
     "options": {},
@@ -919,13 +919,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnusz6",
+    "id": "0kiUXcdm9R",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "integration-by-substitution",
     "chapter": "indefinite-integrals",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>If $$\\int \\frac{(\\sqrt{1+x^2}+x)^{10}}{(\\sqrt{1+x^2}-x)^9} dx = \\frac{1}{m}\\left((\\sqrt{1+x^2}+x)^n\\left(n\\sqrt{1+x^2}-x\\right)\\right) + C$$ where C is the constant of integration and $$m, n \\in \\mathbb{N}$$, then $$m + n$$ is equal to</p></div>",
     "options": {},
@@ -958,13 +958,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuszk",
+    "id": "0kiUXYaEPx",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "bayes-theorem",
     "chapter": "probability",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A card from a pack of 52 cards is lost. From the remaining 51 cards, n cards are drawn and are found to be spades. If the probability of the lost card to be a spade is $$\\frac{11}{50}$$, the n is equal to</p></div>",
     "options": {},
@@ -997,13 +997,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut0z",
+    "id": "0kiUXOQtAP",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "divisibility-of-numbers",
     "chapter": "permutations-and-combinations",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let m and n, (m &lt; n) be two 2-digit numbers. Then the total numbers of pairs (m, n), such that gcd(m, n) = 6, is ______.</p></div>",
     "options": {},
@@ -1036,13 +1036,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut02",
+    "id": "0kiUXMOqOH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "algebra-and-modulus-of-vectors",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let the three sides of a triangle ABC be given by the vectors $$2\\hat{i} - \\hat{j} + \\hat{k}$$, $$\\hat{i} - 3\\hat{j} - 5\\hat{k}$$ and $$3\\hat{i} - 4\\hat{j} - 4\\hat{k}$$. Let G be the centroid of the triangle ABC. Then $$6\\left(|\\vec{AG}|^2 + |\\vec{BG}|^2 + |\\vec{CG}|^2\\right)$$ is equal to ______.</p></div>",
     "options": {},
@@ -1075,13 +1075,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut2i",
+    "id": "0kG5yVpHI9",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "nucleus-and-radioactivity",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A radioactive material P first decays into Q and then Q decays to non-radioactive material R. Which of the following figure represents time dependent mass of P, Q and R?</p></div>",
     "options": {
@@ -1119,13 +1119,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutqs",
+    "id": "0kG5yP3e7d",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "combination-of-resistances",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>There are 'n' number of identical electric bulbs, each is designed to draw a power p independently from the mains supply. They are now joined in series across the main supply. The total power drawn by the combination is :</p></div>",
     "options": {
@@ -1163,13 +1163,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut77",
+    "id": "0kG5zQ000n",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "thermometry-and-thermal-expansion",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider a rectangular sheet of solid material of length $$l = 9$$ cm and width $$d = 4$$ cm. The coefficient of linear expansion is $$\\alpha = 3.1 \\times 10^{-5}$$ K$$^{-1}$$ at room temperature and one atmospheric pressure. The mass of sheet $$m = 0.1$$ kg and the specific heat capacity $$C_v = 900$$ J kg$$^{-1}$$K$$^{-1}$$. If the amount of heat supplied to the material is $$8.1 \\times 10^2$$ J then change in area of the rectangular sheet is :</p></div>",
     "options": {
@@ -1207,13 +1207,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutu4",
+    "id": "0kG5yVp9UH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "bohrs-model-and-hydrogen-spectrum",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements :<br/><strong>Statement (I) :</strong> The dimensions of Planck's constant and angular momentum are same.<br/><strong>Statement (II) :</strong> In Bohr's model electron revolve around the nucleus only in those orbits for which angular momentum is integral multiple of Planck's constant.<br/>In the light of the above statements, choose the <strong>most appropriate answer</strong> from the options given below :</p></div>",
     "options": {
@@ -1251,13 +1251,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut8s",
+    "id": "0kG5zNy52X",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "mechanical-properties-of-solids",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A cylindrical rod of length 1 m and radius 4 cm is mounted vertically. It is subjected to a shear force of $$10^5$$ N at the top. Considering infinitesimally small displacement in the upper edge, the angular displacement $$\\theta$$ of the rod axis from its original position would be : (shear moduli, $$G = 10^{10}$$ N/m$$^2$$)</p></div>",
     "options": {
@@ -1295,13 +1295,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutrq",
+    "id": "0kG5yP3e7e",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "combination-of-resistances",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>From the combination of resistors with resistance values $$R_1 = R_2 = R_3 = 5 \\, \\Omega$$ and $$R_4 = 10 \\, \\Omega$$, which of the following combination is the best circuit to get an equivalent resistance of $$6\\Omega$$?</p></div>",
     "options": {
@@ -1339,13 +1339,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut40",
+    "id": "0kG5zQfpfF",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-field-and-electric-field-intensity",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A metallic ring is uniformly charged as shown in figure. AC and BD are two mutually perpendicular diameters. Electric field due to arc AB to 'O' is 'E' is magnitude. What would be the magnitude of electric field at 'O' due to arc ABC?</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_4lQJwL0.png\"/></div>",
     "options": {
@@ -1383,13 +1383,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutnx",
+    "id": "0kG5zPzuoD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "kinetic-theory-of-gases-and-gas-laws",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>There are two vessels filled with an ideal gas where volume of one is double the volume of other. The large vessel contains the gas at 8 kPa at 1000 K while the smaller vessel contains the gas at 7 kPa at 500 K. If the vessels are connected to each other by a thin tube allowing the gas to flow and the temperature of both vessels is maintained at 600 K, at steady state the pressure in the vessels will be (in kPa).</p></div>",
     "options": {
@@ -1427,13 +1427,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut7x",
+    "id": "0kG5z0HJ2n",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "escape-speed-and-motion-of-satellites",
     "chapter": "gravitation",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>An object is kept at rest at a distance of 3R above the earth's surface where R is earth's radius. The minimum speed with which it must be projected so that it does not return to earth is : (Assume M = mass of earth, G = Universal gravitational constant)</p></div>",
     "options": {
@@ -1471,13 +1471,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutma",
+    "id": "0kG5zShaEL",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "combination-of-capacitors",
-    "chapter": "capacitor",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "electrostatic-potential-and-capacitance",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Three parallel plate capacitors $$C_1$$, $$C_2$$ and $$C_3$$ each of capacitance 5 $$\\mu$$F are connected as shown in figure. The effective capacitance between points A and B, when the space between the parallel plates of $$C_1$$ capacitor is filled with a dielectric medium having dielectric constant of 4, is :</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_feNCmNU.png\"/></div>",
     "options": {
@@ -1515,13 +1515,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut6f",
+    "id": "0kG5ziGvwn",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "average-velocity-and-instantaneous-velocity",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The displacement x versus time graph is shown below.<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_79Vo34O.png\">\n<p>(A) The average velocity during 0 to 3 s is 10 m/s<br/>(B) The average velocity from 3 to 5 s is 0 m/s<br/>(C) The instantaneous velocity at t = 2 s is 5 m/s<br/>(D) The average velocity during 5 to 7 s and instantaneous velocity at t = 6.5 s are equal<br/>(E) The average velocity from t = 0 to t = 9 s is zero<br/>Choose the <strong>correct</strong> answer from the options given below:</p></img></div>",
     "options": {
@@ -1559,13 +1559,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut4s",
+    "id": "0kG5yR5RI1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "uniform-circular-motion",
     "chapter": "circular-motion",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A wheel is rolling on a plane surface. The speed of a particle on the highest point of the rim is 8 m/s. The speed of the particle on the rim of the wheel at the same level as the centre of wheel, will be :</p></div>",
     "options": {
@@ -1603,13 +1603,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut9q",
+    "id": "0kG5yTnRWT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "vernier-calipers",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>For the determination of refractive index of glass slab, a travelling microscope is used whose main scale contains 300 equal divisions equals to 15 cm. The vernier scale attached to the microscope has 25 divisions equals to 24 divisions of main scale. The least count (LC) of the travelling microscope is (in cm) :</p></div>",
     "options": {
@@ -1647,13 +1647,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutn6",
+    "id": "0kG5ziwbC5",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "work",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A block of mass 25 kg is pulled along a horizontal surface by a force at an angle 45 degrees with the horizontal such that it moves steadily. The friction coefficient between the block and the surface is 0.25. The work done by force for a displacement of 5 m  of the block is : (Take g=$$9.8m/s^2$$)</p></div>",
     "options": {
@@ -1691,13 +1691,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutoo",
+    "id": "0kG5yT7OrZ",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "polarisation",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two polarisers $$P_1$$ and $$P_2$$ are placed in such a way that the intensity of the transmitted light will be zero. A third polariser $$P_3$$ is inserted in between $$P_1$$ and $$P_2$$, at the particular angle between $$P_2$$ and $$P_3$$. The transmitted intensity of the light passing through all three polarisers is maximum. The angle between the polarisers $$P_2$$ and $$P_3$$ is :</p></div>",
     "options": {
@@ -1735,13 +1735,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutt4",
+    "id": "0kG5zVPSev",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "semiconductor-and-p-n-junction-diode",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider a n-type semiconductor in which $$n_e$$ and $$n_h$$ are number of electrons and holes, respectively.<br/>(A) Holes are minority carriers<br/>(B) The dopant is a pentavalent atom<br/>(C) $$n_e n_h \\neq n_i^2$$<br/>       (where $$n_{i}$$ is number of electrons or holes in semiconductor when it is intrinsic form)<br/>(D) $$n_e n_h \\geq n_i^2$$<br/>(E) The holes are not generated due to the donors<br/>Choose the <strong>correct</strong> answer from the options given below :</p></div>",
     "options": {
@@ -1779,13 +1779,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutpp",
+    "id": "0kG5zPzn0L",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "thermodynamics-process",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match <strong>List-I</strong> with <strong>List-II</strong>.<br/></p><img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_EWPbShV.png\"><p>Choose the correct answer from the options given below : </p></img></div>",
     "options": {
@@ -1823,13 +1823,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut39",
+    "id": "0kG5yzbLaT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "basic-of-waves-and-progressive-waves",
     "chapter": "waves",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Displacement of a wave is expressed as $$x(t) = 5\\cos\\left(628t + \\frac{\\pi}{2}\\right)$$ m. The wavelength of the wave when its velocity is 300 m/s is :</p></div>",
     "options": {
@@ -1867,13 +1867,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut1r",
+    "id": "0kG5zU3fY9",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "reflection-of-light",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A finite size object is placed normal to the principal axis at a distance of 30 cm from a convex mirror of focal length 30 cm. A plane mirror is now placed in such a way that the image produced by both the mirrors coincide with each other. The distance between the two mirrors is :</p></div>",
     "options": {
@@ -1911,13 +1911,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnut5m",
+    "id": "0kG5yTnJib",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "dimensions-of-physical-quantities",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In an electromagnetic system, a quantity defined as the ratio of electric dipole moment and magnetic dipole moment has dimension of $$[M^P L^Q T^R A^S]$$. The value of P and Q are :</p></div>",
     "options": {
@@ -1955,13 +1955,13 @@
     "year": 2025
   },
   {
-    "id": "496634",
+    "id": "0lAt5XhFR3",
     "exam": "jee-main",
     "subject": "chemistry",
-    "topic": "",
-    "chapter": "",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "topic": "unknown",
+    "chapter": "structure-of-atom",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "numerical",
     "question_text": "<div><p>A particle of charge 1.6 $$\\mu$$C and mass 16 $$\\mu$$g is present in a strong magnetic field of $$6.28 T$$. The particle is then fired perpendicular to magnetic field. The time required for the particle to return to original location for the first time is ______ s. ($$\\pi = 3.14$$)</p></div>",
     "options": {},
@@ -1990,17 +1990,17 @@
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
     "updatedAt": "2026-09-13T17:54:43.000Z",
-    "isQuestionCorrect": false,
+    "isQuestionCorrect": true,
     "year": 2025
   },
   {
-    "id": "m9fnutuj",
+    "id": "0kG5zPK2YT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "angular-momentum-conservation",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A solid sphere with uniform density and radius R is rotating initially with constant angular velocity ($$\\omega_1$$) about its diameter. After some time during the rotation its starts loosing mass at a uniform rate, with no change in its shape. The angular velocity of the sphere when its radius become R/2 is $$x\\omega_1$$. The value of x is ______.</p></div>",
     "options": {},
@@ -2033,13 +2033,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutvk",
+    "id": "0kG5zjcqrR",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "magnetic-field-of-moving-charge",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>If an optical medium possesses a relative permeability of $$\\frac{10}{\\pi}$$ and relative permittivity of $$\\frac{1}{0.0885}$$, then the velocity of light is greater in vacuum than that in this medium by ______ times.<br>$$(\\mu_{\\circ}=4\\pi \\times 10^{-7} H/m, \\in_{\\circ} = 8.85 \\times 10^{-12} F/m, c = 3 \\times 10^{8} m/s)$$</br></p></div>",
     "options": {},
@@ -2072,13 +2072,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutwn",
+    "id": "0kG5yT7Jez",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "huygens-principle-and-interference-of-light",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>In a Young's double slit experiment, two slits are located 1.5 mm apart. The distance of screen from slits is 2 m and the wavelength of the source is 400 nm. If the 20 maxima of the double slit pattern are contained within the centre maximum of the single slit diffraction pattern, then the width of each slit is $$x \\times 10^{-3}$$ cm, where x-value is ______.</p></div>",
     "options": {},
@@ -2111,13 +2111,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutv2",
+    "id": "0kG5zS1hyb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "ac-circuits-and-power-in-ac-circuits",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>An inductor of self inductance 1 H connected in series with a resistor of $$100\\pi$$ ohm and an ac supply of $$100\\pi$$ volt, 50 Hz. Maximum current flowing in the circuit is ______ A.</p></div>",
     "options": {},
@@ -2150,13 +2150,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuumr",
+    "id": "0lAt6VvTHt",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "acid-and-base-strength",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct order of basicity for the following molecules is :</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_yHIfID5.png\"/></div>",
     "options": {
@@ -2194,13 +2194,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuujg",
+    "id": "0lAt6TtLJB",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ionization-energy",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The incorrect relationship in the following pairs in relation to ionisation enthalpies is :</p></div>",
     "options": {
@@ -2238,13 +2238,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuu21",
+    "id": "0lAt5b4n6v",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "tests-for-aldehyde-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which among the following compounds give yellow solid when reacted with NaOI/NaOH?</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_lrRb7ik.png\">\n<p>Choose the correct answer from the options given below :</p></img></div>",
     "options": {
@@ -2282,13 +2282,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuur4",
+    "id": "0lAt5dmV8L",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "proteins-and-enzymes",
     "chapter": "biomolecules",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A dipeptide, \"x\" on complete hydrolysis gives \"y\" and \"z\". \"y\" on treatment with aq. HNO$$_2$$ produces lactic acid. On the other hand \"z\" on heating gives a cyclic molecule.<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_coxpvtY.png\">\n<p>Based on the information given, the dipeptide X is:</p></img></div>",
     "options": {
@@ -2326,13 +2326,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuul4",
+    "id": "0lAt6VvDg9",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "stability-of-intermediate",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In which pairs, the first ion is more stable than the second?</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_k89H8zr.png\"/></div>",
     "options": {
@@ -2370,13 +2370,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuuqd",
+    "id": "0lAt5cQcoz",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "haloalkanes",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements :<br/><strong>Statement (I) :</strong> Alcohols are formed when alkyl chlorides are treated with aqueous potassium hydroxide by elimination reaction.<br/><strong>Statement (II) :</strong> In alcoholic potassium hydroxide, alkyl chlorides form alkenes by abstracting the hydrogen from the $$\\beta$$-carbon.<br/>In the light of the above statements, choose the <strong>most appropriate answer</strong>  from the option given  below : </p></div>",
     "options": {
@@ -2414,13 +2414,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuugn",
+    "id": "0lAt5hqQHR",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "depression-in-freezing-point",
     "chapter": "solutions",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements :<br/><strong>Statement (I) :</strong> Molal depression constant $$K_f$$ is given by $$\\frac{M_1 R T_f}{\\Delta S_{fus}}$$, where symbols have their usual meaning.<br/><strong>Statement (II) :</strong> $$K_f$$ for benzene is less than the $$K_f$$ for water.</p><p>In the light of the above statements, choose the most appropriate answer from the options given below :</p></div>",
     "options": {
@@ -2458,13 +2458,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuuhh",
+    "id": "0lAt6VvO5J",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "iupac-nomenclature",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The IUPAC name of the following compound is :<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_eNSm2Rx.png\"/></div>",
     "options": {
@@ -2502,13 +2502,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutzn",
+    "id": "0lAt6k8Wg5",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds",
-    "chapter": "practical-organic-chemistry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "purification-and-characterisation-of-organic-compounds",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List-I (Separation of) with List-II (Separation Technique) :<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_PbfiQJQ.png\">\n<p>Choose the correct answer from the options given below : </p></img></div>",
     "options": {
@@ -2546,13 +2546,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuukb",
+    "id": "0lAt6k8Wg6",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemistry-involved-in-the-preparation-of-organic-and-inorganic-compounds",
-    "chapter": "practical-organic-chemistry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "purification-and-characterisation-of-organic-compounds",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A toxic compound \"A\" when reacted with NaCN in aqueous acidic medium yields an edible cooking component and food preservative 'B'. \"B\" is converted to \"C\" by diborane and can be used as an additive to petrol to reduce emission. \"C\" upon reaction with oleum at $$140^{\\circ}$$ C yields an inhalable anesthetic \"D\". Identify \"A\", \"B\", \"C\" and \"D\", respectively.</p></div>",
     "options": {
@@ -2590,13 +2590,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuup3",
+    "id": "0lAt5eSSaf",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "crystal-field-theory-cft",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct order of $$[FeF_6]^{3-}$$, $$[CoF_6]^{3-}$$, $$[Ni(CO)_4]$$ and $$[Ni(CN)_4]^{2-}$$ complex species based on the number of unpaired electrons present is :</p></div>",
     "options": {
@@ -2634,13 +2634,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuunk",
+    "id": "0lAt6VFIp7",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "reactions-related-to-enthalpies-and-hesss-law",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the given data :<br/>(a) $$HCl(g) + 10H_2O(l) \\rightarrow HCl \\cdot 10H_2O$$, $$\\Delta H = -69.01$$ kJ mol$$^{-1}$$<br/>(b) $$HCl(g) + 40H_2O(l) \\rightarrow HCl \\cdot 40H_2O$$, $$\\Delta H = -72.79$$ kJ mol$$^{-1}$$<br/>Choose the <strong>correct</strong> statement :</p></div>",
     "options": {
@@ -2678,13 +2678,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuufg",
+    "id": "0lAt5Xh2Qb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "quantum-numbers-and-orbitals",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the ground state of chromium atom (Z = 24). How many electrons are with Azimuthal quantum number $$l = 1$$ and $$l = 2$$ respectively?</p></div>",
     "options": {
@@ -2722,13 +2722,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuu17",
+    "id": "0lAt5y5Gq1",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-14-elements-carbon-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements :<br/><strong>Statement (I) :</strong> The first ionisation enthalpy of group 14 elements is higher than the corresponding elements of group 13.<br/><strong>Statement (II) :</strong> Melting points and boiling points of group 13 elements are in general much higher than those the corresponding elements of group 14.<br/>In the light of the above statements, choose the most appropriate answer from the options given below :</p></div>",
     "options": {
@@ -2766,13 +2766,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutyc",
+    "id": "0lAt6XH8an",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "arrhenius-equation",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the following plots of log of rate constant k (log k) vs $$\\frac{1}{T}$$ for three different reactions. The correct order of activation energies of these reactions is :</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_NzV6qEZ.png\"/></div>",
     "options": {
@@ -2810,13 +2810,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuulz",
+    "id": "0lAt5eSSag",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "crystal-field-theory-cft",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>'X' is the number of electrons in $$t_{2g}$$ orbitals of the most stable complex ion among $$[Fe(NH_3)_6]^{3+}$$, $$[Fe(Cl)_6]^{3-}$$, $$[Fe(C_2O_4)_3]^{3-}$$ and $$[Fe(H_2O)_6]^{3+}$$. The nature of oxide of vanadium of the type $$V_2O_x$$ is:</p></div>",
     "options": {
@@ -2854,13 +2854,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuurw",
+    "id": "0lAt6TtLJC",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ionization-energy",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The elements of Group 13 with highest and lowest first ionisation enthalpies are respectively:</p></div>",
     "options": {
@@ -2898,13 +2898,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuuob",
+    "id": "0lAt5cQcp0",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "haloalkanes",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the following molecule (X). The structure of X is</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_S6LX6HI.png\"/></div>",
     "options": {
@@ -2942,13 +2942,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnutxl",
+    "id": "0lAt6UZQZN",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hybridization-and-vsepr-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements:<br/><strong>Statement (I) :</strong> for </p><img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_LQjTbew.png\"><p>, all three possible structures may be drawn.<br/></p><img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_Knqt0AZ.png\"><p><strong>Statement (II) :</strong> Structure III is most stable, as the orbitals having the lone pairs are axial, where the $$lp-bp$$ repulsion is minimum.<br/>In the light of the above statements, choose the most appropriate answer from the options given below:</p></img></img></div>",
     "options": {
@@ -2986,13 +2986,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuuib",
+    "id": "0lAt6XHGOf",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "integrated-rate-law-equations",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Half life of zero order reaction $$A \\rightarrow$$ product is 1 hour, when initial concentration of reaction is 2.0 mol L$$^{-1}$$. The time required to decrease concentration of A from 0.50 to 0.25 mol L$$^{-1}$$ is:</p></div>",
     "options": {
@@ -3030,13 +3030,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuusp",
+    "id": "0lAt5hqNg9",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "henrys-law",
     "chapter": "solutions",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Sea water, which can be considered as a 6 molar (6 M) solution of NaCl, has a density of 2 g mL$$^{-1}$$. The concentration of dissolved oxygen (O$$_2$$) in sea water is 5.8 ppm. Then the concentration of dissolved oxygen (O$$_2$$) in sea water, is $$x \\times 10^{-4}$$ m. (Nearest integer)<br/>Given: Molar mass of $$NaCl$$ is 58.5 g $$mol^{-1}$$<br/>          Molar mass of $$O_{2}$$ is 32 g $$mol^{-1}$$</p></div>",
     "options": {},
@@ -3069,13 +3069,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuuta",
+    "id": "0lAt5Zimzh",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "mole-concept",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The amount of calcium oxide produced on heating 150 kg limestone (75% pure) is ______ kg. (Nearest integer)<br/>Given : Molar mass (in g $$mol^{-1}$$) of $$Ca-40, O-16, C-12$$</p></div>",
     "options": {},
@@ -3108,13 +3108,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuuts",
+    "id": "0lAt5eSaOX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "isomerism-of-coordination-compounds",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A metal complex with a formula $$MCl_4 \\cdot 3NH_3$$ is involved in $$sp^3d^2$$ hybridisation. It upon reaction with excess of $$AgNO_3$$ solution gives 'x' moles of AgCl. Consider 'x' is equal to the number of lone pairs of electron present in central atom of $$BrF_5$$. Then the number of geometrical isomers exhibited by the complex is ______.</p></div>",
     "options": {},
@@ -3147,13 +3147,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuv67",
+    "id": "0lAt6TDYG1",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ostwalds-dilution-law-and-concept-of-acid-and-base",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The molar conductance of an infinitely dilute solution of ammonium chloride was found to be 185 S cm$$^2$$ mol$$^{-1}$$ and the ionic conductance of hydroxyl and chloride ions are 170 and 70 S cm$$^2$$ mol$$^{-1}$$, respectively. If molar conductance of 0.02 M solution of ammonium hydroxide is 85.5 S cm$$^2$$ mol$$^{-1}$$, its degree of dissociation is given by $$x \\times 10^{-1}$$. The value of x is ______. (Nearest integer)</p></div>",
     "options": {},
@@ -3186,13 +3186,13 @@
     "year": 2025
   },
   {
-    "id": "m9fnuv6s",
+    "id": "0lAt6TDNqr",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ph-buffer-and-indicators",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2025-online-4th-april-evening-shift",
-    "paperTitle": "JEE Main 2025 (Online) 4th April Evening Shift",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2025-04-apr-evening",
+    "paperTitle": "JEE Main 2025 - 04 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>x mg of $$Mg(OH)_2$$ (molar mass = 58) is required to be dissolved in 1.0 L of water to produce a pH of 10.0 at 298 K. The value of x is ____ mg. (Nearest integer)<br>(Given : $$Mg(OH)_{2}$$  is assumed to dissociate completely in $$H_{2}O$$) </br></p></div>",
     "options": {},

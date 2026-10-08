@@ -1,12 +1,12 @@
 [
   {
-    "id": "1lgyr0x6i",
+    "id": "0kGAu70pA9",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "unit-of-physical-quantities",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List I with List II<br/></p>\n<table border=\"1\" cellpadding=\"5\"><tbody><tr><th></th><th>List I</th><th></th><th>List II</th></tr><tr><td>A.</td><td>Torque</td><td>I.</td><td>$$M L^{-2} T^{-2}$$</td></tr><tr><td>B.</td><td>Stress</td><td>II.</td><td>$$M L^2 T^{-2}$$</td></tr><tr><td>C.</td><td>Pressure gradient</td><td>III.</td><td>$$M L^{-1} T^{-1}$$</td></tr><tr><td>D.</td><td>Coefficient of viscosity</td><td>IV.</td><td>$$M L^{-1} T^{-2}$$</td></tr></tbody></table>\n<p><br/>Choose the correct answer from the options given below:</p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqeux5",
+    "id": "0kGAvLUMBl",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "average-acceleration-and-instantaneous-acceleration",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements:<br/><b>Statement I:</b> Area under velocity-time graph gives the distance travelled by the body in a given time.<br/><b>Statement II:</b> Area under acceleration-time graph is equal to the change in velocity in the given time.<br/>In the light of given statements, choose the correct answer from the options given below.</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqw4iu",
+    "id": "0kGAv0VNQ1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "projectile-motion",
-    "chapter": "motion-in-a-plane",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "motion-in-plane",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The trajectory of projectile, projected from the ground is given by $$y = x - \\frac{x^2}{20}$$. Where $$x$$ and $$y$$ are measured in meter. The maximum height attained by the projectile will be.</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqdov2",
+    "id": "0kGAvMA42L",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "work",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A bullet of mass 0.1 kg moving horizontally with speed 400 m s$$^{-1}$$ hits a wooden block of mass 3.9 kg kept on a horizontal rough surface. The bullet gets embedded into the block and moves 20 m before coming to rest. The coefficient of friction between the block and the surface is</p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqs0ch",
+    "id": "0kGAudUlt3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "escape-speed-and-motion-of-satellites",
     "chapter": "gravitation",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The orbital angular momentum of a satellite is $$\\mathbf{L}$$, when it is revolving in a circular orbit at height h from earth surface. If the distance of satellite from the earth centre is increased by eight times to its initial value, then the new angular momentum will be<br/></p></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqka47",
+    "id": "0kGAudUtgv",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "acceleration-due-to-gravity-and-its-variation",
     "chapter": "gravitation",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The acceleration due to gravity at height $$h$$ above the earth if $$h \\ll R$$ (Radius of earth) is given by</p></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyq4u8n",
+    "id": "0kGAv1BQ4v",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "fluid-flow-bernoullis-principle-and-viscosity",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A hydraulic automobile lift is designed to lift vehicles of mass 5000 kg. The area of cross section of the cylinder carrying load is 250 cm$$^2$$. The maximum pressure the smaller piston would have to bear is [Assume $$g = 10$$ m s$$^{-2}$$]</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqur5l",
+    "id": "0kGAv3DQFl",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "heat-engine-second-law-of-thermodynamics-and-carnot-engine",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Work done by a Carnot engine operating between temperatures 127$$^\\circ$$C and 27$$^\\circ$$C is 2 kJ. The amount of heat transferred to the engine by the reservoir is:</p></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqtlfw",
+    "id": "0kGAv3DNeT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "kinetic-theory-of-gases-and-gas-laws",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The temperature at which the kinetic energy of oxygen molecules becomes double than its value at 27$$^\\circ$$C is</p></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqagtl",
+    "id": "0kGAv4ZDMX",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "simple-harmonic-motion",
-    "chapter": "simple-harmonic-motion",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "oscillations-simple-harmonic-motion",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>For particle $$P$$ revolving round the centre $$O$$ with radius of circular path $$r$$ and angular velocity $$\\omega$$, as shown in below figure, the projection of $$OP$$ on the $$x$$-axis at time $$t$$ is</p>\n<img alt=\"page3_img1\" class=\"img-responsive\" data-image=\"page3_img1.png\" src=\"https://cracku.in/media/uploads/page3_img1_Y5aHyh2.png\"/></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqr0ia",
+    "id": "0kGAv3tDIv",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-potential-energy-and-electric-potential",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Electric potential at a point $$P$$ due to a point charge of $$5 \\times 10^{-9}$$ C is 50 V. The distance of $$P$$ from the point charge is:<br/>(Assume, $$\\frac{1}{4\\pi\\varepsilon_0} = 9 \\times 10^9$$ N m$$^2$$ C$$^{-2}$$)</p></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqmx5w",
+    "id": "0kGAu2H6xt",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "combination-of-resistances",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The equivalent resistance between A and B as shown in figure is:<br/></p>\n<img class=\"img-responsive\" data-image=\"r13jpio5a5j4\" src=\"https://cracku.in/media/jee/jee-main-2023-apr-08-s2/q17_replace.png\"/></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqpe9z",
+    "id": "0kGAv6b38D",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "magnetic-properties-of-matter",
-    "chapter": "magnetic-properties-of-matter",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "magnetism-and-matter",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements: one is labelled as <b>Assertion A</b> and the other is labelled as <b>Reason R</b>.<br/><b>Assertion A</b>: Electromagnets are made of soft iron.<br/><b>Reason R</b>: Soft iron has high permeability and low retentivity.<br/>In the light of above statements, choose the most appropriate answer from the options given below.</p></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyq6f6x",
+    "id": "0kGAuamyf3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motional-emf-and-eddy-current",
     "chapter": "electromagnetic-induction",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>An emf of 0.08 V is induced in a metal rod of length 10 cm held normal to a uniform magnetic field of 0.4 T, when move with a velocity of:</p></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqnmnl",
+    "id": "0kGAu92evp",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "alpha-particle-scattering-and-rutherford-model-of-atom",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The waves emitted when a metal target is bombarded with high energy electrons are</p></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqx612",
+    "id": "0kGAu6KmVF",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "huygens-principle-and-interference-of-light",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The width of fringe is 2 mm on the screen in a double slit experiment for the light of wavelength of 400 nm. The width of the fringe for the light of wavelength 600 nm will be:</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqc48m",
+    "id": "0kGAv7wvRZ",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "photoelectric-effect",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In photoelectric effect<br/>A. The photocurrent is proportional to the intensity of the incident radiation.<br/>B. Maximum kinetic energy with which photoelectrons are emitted depends on the intensity of incident light.<br/>C. Max K.E. with which photoelectrons are emitted depends on the frequency of incident light.<br/>D. The emission of photoelectrons require a minimum threshold intensity of incident radiation.<br/>E. Max K.E. of the photoelectrons is independent of the frequency of the incident light.<br/>Choose the correct option from the options given below:</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqhy15",
+    "id": "0kGAu92k8P",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "nucleus-and-radioactivity",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A radio active material is reduced to $$\\frac{1}{8}$$ of its original amount in 3 days. If $$8 \\times 10^{-3}$$ kg of the material is left after 5 days the initial amount of the material is</p></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqgzcj",
+    "id": "0kGAv8d0hl",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "transistors",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>For a given transistor amplifier circuit in CE configuration $$V_{CC} = 1$$ V, $$R_C = 1$$ k$$\\Omega$$, $$R_b = 100$$ k$$\\Omega$$ and $$\\beta = 100$$. Value of base current $$I_b$$ is</p>\n<img alt=\"page5_img1\" class=\"img-responsive\" data-image=\"page5_img1.png\" src=\"https://cracku.in/media/uploads/page5_img1_gRceRHh.png\"/></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyqlpcj",
+    "id": "0kGAutjpS5",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "elements-of-communication-system-and-propagation-of-em-wave",
     "chapter": "communication-systems",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The power radiated from a linear antenna of length $$l$$ is proportional to (Given, $$\\lambda$$ = Wavelength of wave):</p></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyr7u5w",
+    "id": "0kGAvMA9Ev",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "energy",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A body of mass 5 kg is moving with a momentum of 10 kg m s$$^{-1}$$. Now a force of 2 N acts on the body in the direction of its motion for 5 s. The increase in the Kinetic energy of the body is _______ J.</p></div>",
     "options": {},
@@ -919,13 +919,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyrblmi",
+    "id": "0kGAv2XQC9",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "combined-translational-and-rotational-motion",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A hollow spherical ball of uniform density rolls up a curved surface with an initial velocity 3 m s$$^{-1}$$ (as shown in figure). Maximum height with respect to the initial position covered by it will be _______ cm.<br>(take, $$g = 10$$ m s$$^{-2}$$)</br></p>\n<img class=\"img-responsive\" data-image=\"ozg5nfjnphb2\" src=\"https://cracku.in/media/jee/jee-main-2023-apr-08-s2/q7_replace.png\"/></div>",
     "options": {},
@@ -958,13 +958,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyran38",
+    "id": "0kGAv3DSr3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "thermometry-and-thermal-expansion",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A steel rod of length 1 m and cross-sectional area $$10^{-4}$$ m$$^2$$ is heated from 0$$^\\circ$$C to 200$$^\\circ$$C without being allowed to extend or bend. The compressive tension produced in the rod is _______ $$\\times 10^4$$ N. (Given Young's modulus of steel $$= 2 \\times 10^{11}$$ N m$$^{-2}$$, coefficient of linear expansion $$= 10^{-5}$$ K$$^{-1}$$)</p></div>",
     "options": {},
@@ -997,13 +997,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyr5ir2",
+    "id": "0kGAucor21",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "superposition-and-reflection-of-waves",
     "chapter": "waves",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A guitar string of length 90 cm vibrates with a fundamental frequency of 120 Hz. The length of the string producing a fundamental of 180 Hz will be _______ cm.</p></div>",
     "options": {},
@@ -1036,13 +1036,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyredx6",
+    "id": "0kGAv5vG53",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-energy-stored-by-capacitor",
-    "chapter": "capacitor",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "electrostatic-potential-and-capacitance",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A 600 pF capacitor is charged by 200 V supply. It is then disconnected from the supply and is connected to another uncharged 600 pF capacitor. Electrostatic energy lost in the process is _______ $$\\mu$$J.</p></div>",
     "options": {},
@@ -1075,13 +1075,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyr3d00",
+    "id": "0kGAu2H9ZB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-current-current-density-and-drift-velocity",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The number density of free electrons in copper is nearly $$8 \\times 10^{28}$$ m$$^{-3}$$. A copper wire has its area of cross-section $$= 2 \\times 10^{-6}$$ m$$^2$$ and is carrying a current of 3.2 A. The drift speed of the electrons is _______ $$\\times 10^{-6}$$ m s$$^{-1}$$.</p></div>",
     "options": {},
@@ -1114,13 +1114,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyrcozl",
+    "id": "0kGAvMq9IX",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "biot-savarts-law-and-magnetic-field-due-to-current-carrying-wire",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The ratio of magnetic field at the centre of a current carrying coil of radius $$r$$ to the magnetic field at distance $$r$$ from the centre of coil on its axis is $$\\sqrt{x}$$ : 1. The value of $$x$$ is _____.</p></div>",
     "options": {},
@@ -1153,13 +1153,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyr6n5v",
+    "id": "0kGAv5FDQ9",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "quality-factor",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>A series combination of resistor of resistance 100 $$\\Omega$$, inductor of inductance 1 H and capacitor of capacitance 6.25 $$\\mu$$F is connected to an ac source. The quality factor of the circuit will be _____.</p></div>",
     "options": {},
@@ -1192,13 +1192,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyr4ix8",
+    "id": "0kGAv7H0aX",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "lenses",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Two transparent media having refractive indices 1.0 and 1.5 are separated by a spherical refracting surface of radius of curvature 30 cm. The centre of curvature of surface is towards denser medium and a point object is placed on the principal axis in rarer medium at a distance of 15 cm from the pole of the surface. The distance of image from the pole of the surface is _______ cm.</p></div>",
     "options": {},
@@ -1231,13 +1231,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyr91cu",
+    "id": "0kGAu92evq",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "alpha-particle-scattering-and-rutherford-model-of-atom",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The ratio of wavelength of spectral lines $$H_\\alpha$$ and $$H_\\beta$$ in the Balmer series is $$\\frac{x}{20}$$. The value of $$x$$ is _____.</p></div>",
     "options": {},
@@ -1270,13 +1270,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyrudyw",
+    "id": "0lAy1CwL2X",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "significant-figures",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following have same number of significant figures?<br>(A) 0.00253<br>(B) 1.0003<br>(C) 15.0<br>(D) 163<br>Choose the correct answer from the options given below</br></br></br></br></br></p></div>",
     "options": {
@@ -1314,13 +1314,13 @@
     "year": 2023
   },
   {
-    "id": "1lgys6ajd",
+    "id": "0lAy1AuQ4H",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "quantum-mechanical-model-of-atom",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Henry Moseley studied characteristic X-ray spectra of elements. The graph which represents his observation correctly is<br>Given $$\\nu$$ = Frequency of X-ray emitted, $$Z$$ = Atomic number</br></p></div>",
     "options": {
@@ -1358,13 +1358,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyt4cpt",
+    "id": "0lAy1AuaTR",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "electronic-configuration-and-nodes",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The number of atomic orbitals from the following having 5 radial nodes is<br>7s, 7p, 6s, 8p, 8d</br></p></div>",
     "options": {},
@@ -1397,13 +1397,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyslico",
+    "id": "0lAy27mtPd",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hybridization-and-vsepr-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The number of species from the following carrying a single lone pair on central atom Xenon is<br>$$XeF_5^+$$, $$XeO_3$$, $$XeO_2F_2$$, $$XeF_5^-$$, $$XeO_3F_2$$, $$XeOF_4$$, $$XeF_4$$</br></p></div>",
     "options": {},
@@ -1436,13 +1436,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyry0ih",
+    "id": "0lAy1oq2cb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "real-gas-and-van-der-walls-equation",
     "chapter": "gaseous-state",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Arrange the following gases in increasing order of van der Waals constant 'a'<br>(A) Ar<br>(B) CH$$_4$$<br>(C) H$$_2$$O<br>(D) C$$_6$$H$$_6$$<br>Choose the correct option from the following.</br></br></br></br></br></p></div>",
     "options": {
@@ -1480,13 +1480,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyt87c0",
+    "id": "0lAy1Jhnnt",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "electrochemical-series-cell-and-their-emf",
     "chapter": "electrochemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The incorrect statements from the following is:<br>A. The electrical work that a reaction can perform at constant pressure and temperature is equal to the reaction Gibbs energy.<br>B. $$E^\\circ_{cell}$$ is dependent on the pressure.<br>C. $$\\frac{dE_{cell}}{dT} = \\frac{\\Delta_r S}{nF}$$<br>D. A cell is operating reversibly if the cell potential is exactly balanced by an opposing source of potential difference.</br></br></br></br></p></div>",
     "options": {},
@@ -1519,13 +1519,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysk2xy",
+    "id": "0lAy2NLwv3",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemistry-involved-in-titrimetric-experiments",
-    "chapter": "practical-organic-chemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "purification-and-characterisation-of-organic-compounds",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements:<br><b>Statement-I:</b> Methyl orange is a weak acid.<br><b>Statement-II:</b> The benzenoid form of methyl orange is more intense/deeply coloured than the quinonoid form.<br>In the light of the above statement, choose the most appropriate answer from the options given below:</br></br></br></p></div>",
     "options": {
@@ -1563,13 +1563,13 @@
     "year": 2023
   },
   {
-    "id": "1lgys8ty2",
+    "id": "0lAy1kmCg5",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "redox-titration",
     "chapter": "redox-reactions",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements:<br><strong>Statement I:</strong> In redox titration, the indicators used are sensitive to change in pH of the solution.<br><strong>Statement II:</strong> In acid-base titration, the indicators used are sensitive to change in oxidation potential.<br>In the light of the above statements, choose the most appropriate answer from the options given below</br></br></br></p></div>",
     "options": {
@@ -1607,13 +1607,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysddu1",
+    "id": "0lAy1vbdBp",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hydrogen-peroxide",
     "chapter": "hydrogen",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following can reduce decomposition of H$$_2$$O$$_2$$ on exposure to light</p></div>",
     "options": {
@@ -1651,13 +1651,13 @@
     "year": 2023
   },
   {
-    "id": "1lgys9jsl",
+    "id": "0lAy1uFfft",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "compounds-of-alkaline-earth-metals",
     "chapter": "s-block-elements",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>For a good quality cement, the ratio of lime to the total of the oxides of Si, Al and Fe should be as close as to</p></div>",
     "options": {
@@ -1695,13 +1695,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyrlw06",
+    "id": "0lAy1uFiHB",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "physiochemical-trends-in-alkali-metals",
     "chapter": "s-block-elements",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements: One is labelled as Assertion <strong>A</strong> and the other is labelled as Reason <strong>R</strong>.<br>Assertion <strong>A</strong>: Sodium is about 30 times as abundant as potassium in the oceans.<br>Reason <strong>R</strong>: Potassium is bigger in size than sodium.<br>In the light of the above statements, choose the correct answer from the options given below</br></br></br></p></div>",
     "options": {
@@ -1739,13 +1739,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysi9xv",
+    "id": "0lAy298w89",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "acid-and-base-strength",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The descending order of acidity for the following carboxylic acid is-<br>(A) CH$$_3$$COOH<br>(B) F$$_3$$C-COOH<br>(C) ClCH$$_2$$-COOH<br>(D) FCH$$_2$$-COOH<br>(E) BrCH$$_2$$-COOH<br>Choose the correct answer from the options given below:</br></br></br></br></br></br></p></div>",
     "options": {
@@ -1783,13 +1783,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyrs4ck",
+    "id": "0lAy298qvZ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "iupac-nomenclature",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct IUPAC nomenclature for the following compound is:<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_ATylATX.png\"/></div>",
     "options": {
@@ -1827,13 +1827,13 @@
     "year": 2023
   },
   {
-    "id": "1lgys3sb4",
+    "id": "0lAy1uvXvd",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "air-pollution",
     "chapter": "environmental-chemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of these reactions is not a part of breakdown of ozone in stratosphere?</p></div>",
     "options": {
@@ -1871,13 +1871,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysc9q2",
+    "id": "0lAy2AUe2L",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "rate-laws-and-rate-constant",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct reaction profile diagram for a positive catalyst reaction.</p></div>",
     "options": {
@@ -1915,13 +1915,13 @@
     "year": 2023
   },
   {
-    "id": "1lgys4vgi",
+    "id": "0lAy1sti9x",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemicals-in-medicines",
     "chapter": "chemistry-in-everyday-life",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The statement/s which are true about antagonists from the following is/are:<br/>A. They bind to the receptor site.<br/>B. Get transferred inside the cell for their action.<br/>C. Inhibit the natural communication of the body.<br/>D. Mimic the natural messenger.<br/>Choose the correct option from the options given below:</p></div>",
     "options": {
@@ -1959,13 +1959,13 @@
     "year": 2023
   },
   {
-    "id": "1lgys775m",
+    "id": "0lAy1pW04v",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "extractions-of-metals",
     "chapter": "isolation-of-elements",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In Hall-Heroult process, the following is used for reducing Al$$_2$$O$$_3$$:-</p></div>",
     "options": {
@@ -2003,13 +2003,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyrpygh",
+    "id": "0lAy1HfvQv",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "crystal-field-theory-cft",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List-I with List-II<br/></p><table border=\"1\" cellpadding=\"5\"><tbody><tr><th></th><th>LIST-I<br/>Coordination Complex</th><th></th><th>LIST-II<br/>Number of unpaired electrons</th></tr><tr><td>A.</td><td>$$[Cr(CN)_6]^{3-}$$</td><td>I.</td><td>0</td></tr><tr><td>B.</td><td>$$[Fe(H_2O)_6]^{2+}$$</td><td>II.</td><td>3</td></tr><tr><td>C.</td><td>$$[Co(NH_3)_6]^{3+}$$</td><td>III.</td><td>2</td></tr><tr><td>D.</td><td>$$[Ni(NH_3)_6]^{2+}$$</td><td>IV.</td><td>4</td></tr></tbody></table><br/>Choose the correct answer from the options given below:</div>",
     "options": {
@@ -2047,13 +2047,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysbbxq",
+    "id": "0lAy1Fe33x",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "haloarenes",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct order of reactivity of following haloarenes towards nucleophilic substitution with aqueous NaOH is:<br/></p>\n<img class=\"img-responsive\" data-image=\"1lcfxvj24btf\" src=\"https://cracku.in/media/jee/jee-main-2023-apr-08-s2/q56_replace.png\"/></div>",
     "options": {
@@ -2091,13 +2091,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyrwlgc",
+    "id": "0lAy2NLriT",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "detection-of-extra-elements-and-functional-groups",
-    "chapter": "practical-organic-chemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "purification-and-characterisation-of-organic-compounds",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A compound 'X' when treated with phthalic anhydride in presence of concentrated H$$_2$$SO$$_4$$ yields 'Y'. 'Y' is used as an acid/base indicator. 'X' and 'Y' are respectively</p></div>",
     "options": {
@@ -2135,13 +2135,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyt32qk",
+    "id": "0lAy28Sqrx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "entropy-free-energy-change-and-spontaneity",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>For complete combustion of ethene,<br/>$$C_2H_4(g) + 3O_2(g) \\to 2CO_2(g) + 2H_2O(l)$$<br/>the amount of heat produced as measured in bomb calorimeter is 1406 kJ mol$$^{-1}$$ at 300 K. The minimum value of T$$\\Delta$$S needed to reach equilibrium is ($$-$$) kJ. (Nearest integer)<br/>Given: R = 8.3 J K$$^{-1}$$ mol$$^{-1}$$</p></div>",
     "options": {},
@@ -2174,13 +2174,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyss80y",
+    "id": "0lAy26QyUz",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "solubility-product-and-common-ion-effect",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The solubility product of BaSO$$_4$$ is $$1 \\times 10^{-10}$$ at 298 K. The solubility of BaSO$$_4$$ in 0.1 M K$$_2$$SO$$_4$$(aq) solution is _______ $$\\times 10^{-9}$$ g L$$^{-1}$$ (nearest integer).<br>Given: Molar mass of BaSO$$_4$$ is 233 g mol$$^{-1}$$</br></p></div>",
     "options": {},
@@ -2213,13 +2213,13 @@
     "year": 2023
   },
   {
-    "id": "1lgystn2c",
+    "id": "0lAy1L3lJp",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "elevation-in-boiling-point",
     "chapter": "solutions",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>If the boiling points of two solvents X and Y (having same molecular weights) are in the ratio 2:1 and their enthalpy of vaporizations are in the ratio 1:2, then the boiling point elevation constant of X is m times the boiling point elevation constant of Y. The value of m is (nearest integer).</p></div>",
     "options": {},
@@ -2252,13 +2252,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyson52",
+    "id": "0lAy1sDi6L",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "colloids",
     "chapter": "surface-chemistry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Coagulating value of the electrolytes AlCl$$_3$$ and NaCl for As$$_2$$S$$_3$$ are 0.09 and 50.04 respectively. The coagulating power of AlCl$$_3$$ is x times the coagulating power of NaCl. The value of x is _____.</p></div>",
     "options": {},
@@ -2291,13 +2291,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysktm0",
+    "id": "0lAy1bImHZ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-15-elements-nitrogen-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The ratio of sigma and $$\\pi$$ bonds present in pyrophosphoric acid is _____.</p></div>",
     "options": {},
@@ -2330,13 +2330,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysn4dn",
+    "id": "0lAy1HfvQw",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "crystal-field-theory-cft",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The observed magnetic moment of the complex $$[Mn(NCS)_6]^{x-}$$ is 6.06 BM. The numerical value of x is _____.</p></div>",
     "options": {},
@@ -2369,13 +2369,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyt55ii",
+    "id": "0lAy1kmA4n",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "oxidation-number",
     "chapter": "redox-reactions",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The sum of oxidation state of the metals in Fe(CO)$$_5$$, VO$$^{2+}$$ and WO$$_3$$ is _____.</p></div>",
     "options": {},
@@ -2408,13 +2408,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyrsyoh",
+    "id": "0lAy1Fe5fF",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "haloalkanes",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Major product 'P' formed in the following reaction is:<br/></p>\n<img class=\"img-responsive\" data-image=\"jiecfpwpm6m9\" src=\"https://cracku.in/media/jee/jee-main-2023-apr-08-s2/q58_replace.png\"/></div>",
     "options": {
@@ -2452,13 +2452,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysged2",
+    "id": "0lAy29odyj",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The product (P) formed from the following multistep reaction is:<br/></p>\n<img class=\"img-responsive\" data-image=\"nre8ghobats5\" src=\"https://cracku.in/media/jee/jee-main-2023-apr-08-s2/q59_5_replace.png\"/></div>",
     "options": {
@@ -2496,13 +2496,13 @@
     "year": 2023
   },
   {
-    "id": "1lgysfdkf",
+    "id": "0lAy1H03BB",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "vitamins-and-nucleic-acids",
     "chapter": "biomolecules",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List I with List II<br/></p>\n<table border=\"1\" cellpadding=\"5\"><tbody><tr><th></th><th>List I<br>Natural amino acid</br></th><th></th><th>List II<br>One Letter Code</br></th></tr><tr><td>(A)</td><td>Glutamic acid</td><td>(I)</td><td>Q</td></tr><tr><td>(B)</td><td>Glutamine</td><td>(II)</td><td>W</td></tr><tr><td>(C)</td><td>Tyrosine</td><td>(III)</td><td>E</td></tr><tr><td>(D)</td><td>Tryptophan</td><td>(IV)</td><td>Y</td></tr></tbody></table>\n<p><br>Choose the correct answer from the options given below:</br></p></div>",
     "options": {
@@ -2540,13 +2540,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyonh22",
+    "id": "0kiZThbljN",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "nature-of-roots",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$m$$ and $$n$$ be the numbers of real roots of the quadratic equations $$x^2 - 12x + [x] + 31 = 0$$ and $$x^2 - 5|x + 2| - 4 = 0$$ respectively, where $$[x]$$ denotes the greatest integer $$\\leq x$$. Then $$m^2 + mn + n^2$$ is equal to</p></div>",
     "options": {},
@@ -2579,13 +2579,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyl12p4",
+    "id": "0kiZT0yR9d",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "algebra-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A = \\left\\{\\theta \\in (0, 2\\pi) : \\frac{1 + 2i\\sin\\theta}{1 - i\\sin\\theta} \\text{ is purely imaginary}\\right\\}$$. Then the sum of the elements in $$A$$ is</p></div>",
     "options": {
@@ -2623,13 +2623,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylnv0d",
+    "id": "0kiZT1eGo5",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "conditional-permutations",
     "chapter": "permutations-and-combinations",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the number of words, with or without meaning, which can be made using all the letters of the word MATHEMATICS in which C and S do not come together, is $$(6!)k$$ then $$k$$ is equal to</p></div>",
     "options": {
@@ -2667,13 +2667,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyl2od3",
+    "id": "0kiZSsAg0P",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-of-series",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$a_n$$ be $$n^{th}$$ term of the series $$5 + 8 + 14 + 23 + 35 + 50 + \\ldots$$ and $$S_n = \\sum_{k=1}^{n} a_k$$. Then $$S_{30} - a_{40}$$ is equal to</p></div>",
     "options": {
@@ -2711,13 +2711,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyliytd",
+    "id": "0kiZT3g1NB",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "general-term",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The absolute difference of the coefficients of $$x^{10}$$ and $$x^7$$ in the expansion of $$\\left(2x^2 + \\frac{1}{2x}\\right)^{11}$$ is equal to</p></div>",
     "options": {
@@ -2755,13 +2755,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyl43d6",
+    "id": "0kiZT3g3yT",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "divisibility-concept-and-remainder-concept",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>$$25^{190} - 19^{190} - 8^{190} + 2^{190}$$ is divisible by</p></div>",
     "options": {
@@ -2799,13 +2799,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylyp94",
+    "id": "0kiZTixoRt",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "trigonometric-ratio-of-standard-angles",
-    "chapter": "trigonometric-ratio-and-identites",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "trigonometric-ratios-identities-and-formulas",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The value of $$36(4\\cos^2 9^\\circ - 1)(4\\cos^2 27^\\circ - 1)(4\\cos^2 81^\\circ - 1)(4\\cos^2 243^\\circ - 1)$$ is</p></div>",
     "options": {
@@ -2843,13 +2843,13 @@
     "year": 2023
   },
   {
-    "id": "1lgym0ipz",
+    "id": "0kiZTkJR9V",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-to-parabola",
-    "chapter": "parabola",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A(0, 1)$$, $$B(1, 1)$$ and $$C(1, 0)$$ be the mid-points of the sides of a triangle with incentre at the point $$D$$. If the focus of the parabola $$y^2 = 4ax$$ passing through $$D$$ is $$\\left(\\alpha + \\beta\\sqrt{2}, 0\\right)$$, where $$\\alpha$$ and $$\\beta$$ are rational numbers, then $$\\frac{\\alpha}{\\beta^2}$$ is equal to</p></div>",
     "options": {
@@ -2887,13 +2887,13 @@
     "year": 2023
   },
   {
-    "id": "1lgykzejb",
+    "id": "0kiZSfzkav",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-and-normal",
     "chapter": "circle",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$O$$ be the origin and $$OP$$ and $$OQ$$ be the tangents to the circle $$x^2 + y^2 - 6x + 4y + 8 = 0$$ at the points $$P$$ and $$Q$$ on it. If the circumcircle of the triangle $$OPQ$$ passes through the point $$\\left(\\alpha, \\frac{1}{2}\\right)$$, then a value of $$\\alpha$$ is</p></div>",
     "options": {
@@ -2931,13 +2931,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylxsd8",
+    "id": "0kiZTlfJSr",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "limits-of-trigonometric-functions",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\alpha &gt; \\beta &gt; 0$$ are the roots of the equation $$ax^2 + bx + 1 = 0$$, and<br>$$\\lim_{x \\to \\frac{1}{\\alpha}} \\left(\\frac{1 - \\cos(x^2 + bx + a)}{2(1 - \\alpha x)^2}\\right)^{\\frac{1}{2}} = \\frac{1}{k}\\left(\\frac{1}{\\beta} - \\frac{1}{\\alpha}\\right)$$, then $$k$$ is equal to</br></p></div>",
     "options": {
@@ -2975,13 +2975,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylheex",
+    "id": "0kiZTSiSfp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "logical-connectives",
     "chapter": "mathematical-reasoning",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The negation of $$(p \\wedge (-q)) \\vee (-p)$$ is equivalent to</p></div>",
     "options": {
@@ -3019,13 +3019,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylem09",
+    "id": "0kiZSwuQnx",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
     "chapter": "statistics",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the mean and variance of 12 observations be $$\\frac{9}{2}$$ and 4 respectively. Later on, it was observed that two observations were considered as 9 and 10 instead of 7 and 14 respectively. If the correct variance is $$\\frac{m}{n}$$, where $$m$$ and $$n$$ are coprime, then $$m + n$$ is equal to</p></div>",
     "options": {
@@ -3063,13 +3063,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyld2f2",
+    "id": "0kiZTrl1mL",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "symmetric-transitive-and-reflexive-properties",
-    "chapter": "sets-and-relations",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "sets-relations-and-functions",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A = \\{1, 2, 3, 4, 5, 6, 7\\}$$. Then the relation $$R = \\{(x, y) \\in A \\times A : x + y = 7\\}$$ is</p></div>",
     "options": {
@@ -3107,13 +3107,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylvto4",
+    "id": "0kiZSywONV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "inverse-of-a-matrix",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$A = \\begin{bmatrix} 1 &amp; 5 \\\\ \\lambda &amp; 10 \\end{bmatrix}$$, $$A^{-1} = \\alpha A + \\beta I$$ and $$\\alpha + \\beta = -2$$, then $$4\\alpha^2 + \\beta^2 + \\lambda^2$$ is equal to:</p></div>",
     "options": {
@@ -3151,13 +3151,13 @@
     "year": 2023
   },
   {
-    "id": "1lgym2kp0",
+    "id": "0kiZSywGZd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$S$$ be the set of all values of $$\\theta \\in [-\\pi, \\pi]$$ for which the system of linear equations<br>$$x + y + \\sqrt{3}z = 0$$<br>$$-x + (\\tan\\theta)y + \\sqrt{7}z = 0$$<br>$$x + y + (\\tan\\theta)z = 0$$<br>has non-trivial solution. Then $$\\frac{120}{\\pi}\\sum_{\\theta \\in S} \\theta$$ is equal to</br></br></br></br></p></div>",
     "options": {
@@ -3195,13 +3195,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyq24t0",
+    "id": "0kiZTEVK53",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "domain",
     "chapter": "functions",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>If domain of the function $$\\log_e\\left(\\frac{6x^2 + 5x + 1}{2x - 1}\\right) + \\cos^{-1}\\left(\\frac{2x^2 - 3x + 4}{3x - 5}\\right)$$ is $$(\\alpha, \\beta) \\cup (\\gamma, \\delta)$$, then $$18(\\alpha^2 + \\beta^2 + \\gamma^2 + \\delta^2)$$ is equal to</p></div>",
     "options": {},
@@ -3234,13 +3234,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyl5enm",
+    "id": "0kiZTFrMnZ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "standard-integral",
     "chapter": "indefinite-integrals",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The integral $$\\int\\left(\\left(\\frac{x}{2}\\right)^x + \\left(\\frac{2}{x}\\right)^x\\right) \\log_2 x \\, dx$$ is equal to</p></div>",
     "options": {
@@ -3278,13 +3278,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyl6v9x",
+    "id": "0kiZSzcLpp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "scalar-and-vector-triple-product",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the vectors $$\\vec{u}_1 = \\hat{i} + \\hat{j} + a\\hat{k}$$, $$\\vec{u}_2 = \\hat{i} + b\\hat{j} + \\hat{k}$$, and $$\\vec{u}_3 = c\\hat{i} + \\hat{j} + \\hat{k}$$ be coplanar. If the vectors $$\\vec{v}_1 = (a+b)\\hat{i} + c\\hat{j} + c\\hat{k}$$, $$\\vec{v}_2 = a\\hat{i} + (b+c)\\hat{j} + a\\hat{k}$$ and $$\\vec{v}_3 = b\\hat{i} + b\\hat{j} + (c+a)\\hat{k}$$ are also coplanar, then $$6(a + b + c)$$ is equal to</p></div>",
     "options": {
@@ -3322,13 +3322,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylmp2h",
+    "id": "0kiZToNEUj",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-and-plane",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$P$$ be the plane passing through the line $$\\frac{x-1}{1} = \\frac{y-2}{-3} = \\frac{z+5}{7}$$ and the point $$(2, 4, -3)$$. If the image of the point $$(-1, 3, 4)$$ in the plane $$P$$ is $$(\\alpha, \\beta, \\gamma)$$, then $$\\alpha + \\beta + \\gamma$$ is equal to</p></div>",
     "options": {
@@ -3366,13 +3366,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyl9ba2",
+    "id": "0kiZTBnZSL",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "probability-distribution-of-a-random-variable",
     "chapter": "probability",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the probability that the random variable $$X$$ takes values $$x$$ is given by $$P(X = x) = k(x + 1)3^{-x}$$, $$x = 0, 1, 2, 3, \\ldots$$, where $$k$$ is a constant, then $$P(X \\geq 2)$$ is equal to</p></div>",
     "options": {
@@ -3410,13 +3410,13 @@
     "year": 2023
   },
   {
-    "id": "1lgypzf6s",
+    "id": "0kiZSsAqPZ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "arithmetico-geometric-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$0 &lt; z &lt; y &lt; x$$ be three real numbers such that $$\\frac{1}{x}, \\frac{1}{y}, \\frac{1}{z}$$ are in an arithmetic progression and $$x, \\sqrt{2}y, z$$ are in a geometric progression. If $$xy + yz + zx = \\frac{3}{\\sqrt{2}}xyz$$, then $$3(x + y + z)^2$$ is equal to _____.</p></div>",
     "options": {},
@@ -3449,13 +3449,13 @@
     "year": 2023
   },
   {
-    "id": "1lgypxtlo",
+    "id": "0kiZTkJlxp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "pair-of-tangents",
-    "chapter": "parabola",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>The ordinates of the points $$P$$ and $$Q$$ on the parabola with focus $$(3, 0)$$ and directrix $$x = -3$$ are in the ratio 3 : 1. If $$R(\\alpha, \\beta)$$ is the point of intersection of the tangents to the parabola at $$P$$ and $$Q$$, then $$\\frac{\\beta^2}{\\alpha}$$ is equal to _____.</p></div>",
     "options": {},
@@ -3488,13 +3488,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyoqd24",
+    "id": "0kiZTEVMgL",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "classification-of-functions",
     "chapter": "functions",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$R = \\{a, b, c, d, e\\}$$ and $$S = \\{1, 2, 3, 4\\}$$. Total number of onto functions $$f : R \\to S$$ such that $$f(a) \\neq 1$$, is equal to _____.</p></div>",
     "options": {},
@@ -3527,13 +3527,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyorpkh",
+    "id": "0kiZTlfOfR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "differentiability",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let k and m be positive real numbers such that the function $$f(x) = \\begin{cases} 3x^2 + k\\sqrt{x + 1}, &amp; 0 &lt; x &lt; 1 \\\\ mx^2 + k^2, &amp; x \\geq 1 \\end{cases}$$ is differentiable for all $$x &gt; 0$$. Then $$\\frac{8f'(8)}{f'(\\frac{1}{8})}$$ is equal to _____.</p></div>",
     "options": {},
@@ -3566,13 +3566,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyoktep",
+    "id": "0kiZTmLGvB",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$[t]$$ denote the greatest integer function. If $$\\int_0^{2.4} [x^2] dx = \\alpha + \\beta\\sqrt{2} + \\gamma\\sqrt{3} + \\delta\\sqrt{5}$$, then $$\\alpha + \\beta + \\gamma + \\delta$$ is equal to _____.</p></div>",
     "options": {},
@@ -3605,13 +3605,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyom5cr",
+    "id": "0kiZTn1ENV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-bounded-between-the-curves",
-    "chapter": "area-under-the-curves",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "application-of-integrals-area-under-curves",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let the area enclosed by the lines $$x + y = 2$$, $$y = 0$$, $$x = 0$$ and the curve $$f(x) = \\min\\left\\{x^2 + \\frac{3}{4}, 1 + [x]\\right\\}$$ where $$[x]$$ denotes the greatest integer $$\\leq x$$, be $$A$$. Then the value of $$12A$$ is _____.</p></div>",
     "options": {},
@@ -3644,13 +3644,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyq0yd0",
+    "id": "0kiZTnhH2P",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "linear-differential-equations",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let the solution curve $$x = x(y)$$, $$0 &lt; y &lt; \\frac{\\pi}{2}$$, of the differential equation $$(\\log_e(\\cos y))^2 \\cos y \\, dx - (1 + 3x \\log_e(\\cos y)) \\sin y \\, dy = 0$$ satisfy $$x\\left(\\frac{\\pi}{3}\\right) = \\frac{1}{2\\log_e 2}$$. If $$x\\left(\\frac{\\pi}{6}\\right) = \\frac{1}{\\log_e m - \\log_e n}$$, where $$m$$ and $$n$$ are coprime, then $$mn$$ is equal to _____.</p></div>",
     "options": {},
@@ -3683,13 +3683,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylle5f",
+    "id": "0kiZSzcE1x",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The area of the quadrilateral $$ABCD$$ with vertices $$A(2, 1, 1)$$, $$B(1, 2, 5)$$, $$C(-2, -3, 5)$$ and $$D(1, -6, -7)$$ is equal to _____.</p></div>",
     "options": {
@@ -3727,13 +3727,13 @@
     "year": 2023
   },
   {
-    "id": "1lgylgam9",
+    "id": "0kiZToNEUk",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-and-plane",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>For $$a, b \\in \\mathbb{Z}$$ and $$|a - b| \\leq 10$$, let the angle between the plane $$P: ax + y - z = b$$ and the line $$L: x - 1 = a - y = z + 1$$ be $$\\cos^{-1}\\left(\\frac{1}{3}\\right)$$. If the distance of the point $$(6, -6, 4)$$ from the plane $$P$$ is $$3\\sqrt{6}$$, then $$a^4 + b^2$$ is equal to _____.</p></div>",
     "options": {
@@ -3771,13 +3771,13 @@
     "year": 2023
   },
   {
-    "id": "1lgyop0gk",
+    "id": "0kiZToNBtR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "plane-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2023-online-8th-april-evening-shift",
-    "paperTitle": "JEE Main 2023 (Online) 8th April Evening Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2023-08-apr-evening",
+    "paperTitle": "JEE Main 2023 - 08 Apr Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$P_1$$ be the plane $$3x - y - 7z = 11$$ and $$P_2$$ be the plane passing through the points $$(2, -1, 0)$$, $$(2, 0, -1)$$, and $$(5, 1, 1)$$. If the foot of the perpendicular drawn from the point $$(7, 4, -1)$$ on the line of intersection of the planes $$P_1$$ and $$P_2$$ is $$(\\alpha, \\beta, \\gamma)$$, then $$\\alpha + \\beta + \\gamma$$ is equal to _____.</p></div>",
     "options": {},

@@ -1,12 +1,12 @@
 [
   {
-    "id": "1l6jepz9i",
+    "id": "0kGTuyqg4H",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "errors-in-measurement",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A torque meter is calibrated to reference standards of mass, length and time each with $$5\\%$$ accuracy. After calibration, the measured torque with this torque meter will have net accuracy of</p></div>",
     "options": {
@@ -35,7 +35,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>We know that, torque applied on a rotating body,\n<br/><br/>$$\n\\begin{aligned}\n\\tau &=\\text { Force } \\times \\text { Perpendicular distance } \\\\\\\\\n\\Rightarrow \\quad[\\tau] &=\\left[\\mathrm{MLT}^{-2}\\right][\\mathrm{L}] \\Rightarrow[\\tau]=\\left[\\mathrm{ML}^2 \\mathrm{~T}^{-2}\\right]\n\\end{aligned}\n$$</p>\n<p>$$ \\Rightarrow {{\\Delta \\tau } \\over \\tau } = {{\\Delta M} \\over M} + 2{{\\Delta L} \\over L} + 2{{\\Delta T} \\over T}$$</p>\n<p>$$ = 5 \\times 5\\%  = 25\\% $$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -44,13 +44,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jetom7",
+    "id": "0kGTwDKAUb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "graph-based-problem",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A bullet is shot vertically downwards with an initial velocity of $$100 \\text{ m s}^{-1}$$ from a certain height. Within $$10 \\text{ s}$$, the bullet reaches the ground and instantaneously comes to rest due to the perfectly inelastic collision. The velocity-time curve for total time $$t = 20 \\text{ s}$$ will be: (Take $$g = 10 \\text{ m s}^{-2}$$)</p></div>",
     "options": {
@@ -79,7 +79,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$|{v_{10}}| = (100 + 10 \\times 10)$$ m/s</p>\n<p>$${v_{10}} =  - 200$$ m/s and $${v_0} =  - 100$$ m/s</p>\n<p>from 10s to 20s velocity remains zero</p>\n<p>$$\\Rightarrow$$ from t = 0s to 10s velocity increases in magnitude linearly.</p>\n<p>$$\\Rightarrow$$ graph given in option A fits correctly.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -88,13 +88,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jh0kik",
+    "id": "0kGTvTIxQf",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "friction-force",
     "chapter": "laws-of-motion",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A bag is gently dropped on a conveyor belt moving at a speed of $$2 \\text{ m s}^{-1}$$. The coefficient of friction between the conveyor belt and bag is $$0.4$$. Initially, the bag slips on the belt before it stops due to friction. The distance travelled by the bag on the belt during slipping motion is: [Take $$g = 10 \\text{ m s}^{-2}$$]</p></div>",
     "options": {
@@ -123,7 +123,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Speed of conveyor belt, $v=2 \\mathrm{~m} / \\mathrm{s}$\n<br/><br/>Coefficient of friction between the conveyor belt and bag, $\\mu=0.4$\n<br/><br/>Acceleration of bag due to slipping motion,\n<br/><br/>$$\na=\\mu g=0.4 \\times 10=4 \\mathrm{~m} / \\mathrm{s}^2 \\quad\\left(\\because g=10 \\mathrm{~m} / \\mathrm{s}^2\\right)\n$$\n<br/><br/>If $s$ be the distance travelled by the bag on the belt during slipping motion, then\n<br/><br/>$\n\\ v^2 \\ =u^2-2 a s $<br/><br/>$\n\\Rightarrow \\ 0=v^2-2 a s $<br/><br/>$\n\\Rightarrow  s \\ =\\frac{v^2}{2 a}=\\frac{2^2}{2 \\times 4}=0.5 \\mathrm{~m}\n$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -132,13 +132,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jevuii",
+    "id": "0kGTwE07wv",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "power",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Sand is being dropped from a stationary dropper at a rate of $$0.5 \\text{ kg s}^{-1}$$ on a conveyor belt moving with a velocity of $$5 \\text{ m s}^{-1}$$. The power needed to keep belt moving with the same velocity will be</p></div>",
     "options": {
@@ -167,7 +167,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${{dm} \\over {dt}} = 0.5$$ kg/s</p>\n<p>$$v = 5$$ m/s</p>\n<p>$$F = {{vdm} \\over {dt}} = 2.5$$ kg m/s<sup>2</sup></p>\n<p>$$P = \\overline F \\,.\\,\\overline v  = (2.5)(5)$$ W</p>\n<p>$$ = 12.5$$ W</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -176,13 +176,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jh7ku0",
+    "id": "0kGTvVKhzl",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "escape-speed-and-motion-of-satellites",
     "chapter": "gravitation",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Two satellites $$A$$ and $$B$$ having masses in the ratio $$4:3$$ are revolving in circular orbits of radii $$3r$$ and $$4r$$ respectively around the earth. The ratio of total mechanical energy of $$A$$ to $$B$$ is</p></div>",
     "options": {
@@ -211,7 +211,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$U =  - {{G{M_e}m} \\over {2r}}$$</p>\n<p>So, $${{{U_A}} \\over {{U_B}}} = {{{m_A}} \\over {{m_B}}} \\times {{{r_B}} \\over {{r_A}}}$$</p>\n<p>$$ = {4 \\over 3} \\times {4 \\over 3} = {{16} \\over 9}$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -220,13 +220,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jh308s",
+    "id": "0kGTvt1Gz3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "pressure-density-pascals-law-and-archimedes-principle",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Two cylindrical vessels of equal cross-sectional area $$16 \\text{ cm}^2$$ contain water upto heights $$100 \\text{ cm}$$ and $$150 \\text{ cm}$$ respectively. The vessels are interconnected so that the water levels in them become equal. The work done by the force of gravity during the process, is [Take density of water $$= 10^3 \\text{ kg m}^{-3}$$ and $$g = 10 \\text{ m s}^{-2}$$]</p></div>",
     "options": {
@@ -255,7 +255,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$A = 16 \\times {10^{ - 4}}$$ m<sup>2</sup></p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6xtieam/d201f0d2-be5e-46cd-9d09-4eab63f03c0c/3003afe0-1e48-11ed-9c61-4529b721806b/file-1l6xtiean.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6xtieam/d201f0d2-be5e-46cd-9d09-4eab63f03c0c/3003afe0-1e48-11ed-9c61-4529b721806b/file-1l6xtiean.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Properties of Matter Question 174 English Explanation\"></p>\n<p>$${E_{in}} = {m_1}g{{{H_1}} \\over 2} + {m_2}g{{{H_2}} \\over 2}$$</p>\n<p>$$ = \\rho g{A \\over 2}\\left( {H_1^2 + H_2^2} \\right) = \\rho g{A \\over 2}\\left( {{1^2} + {{1.5}^2}} \\right)$$</p>\n<p>$${E_{fin}} = \\rho g{A \\over 2}\\left( {2{H^2}} \\right) = \\rho g{A \\over 2}\\left( {2 \\times {{1.25}^2}} \\right)$$</p>\n<p>$$W = \\rho g{A \\over 2}\\left( {3.25 - 3.125} \\right)$$</p>\n<p>$$ = 1$$ J</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -264,13 +264,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jhb1jz",
+    "id": "0kGTvv3EYb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "heat-transfer",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>If $$K_1$$ and $$K_2$$ are the thermal conductivities, $$L_1$$ and $$L_2$$ are the lengths and $$A_1$$ and $$A_2$$ are the cross sectional areas of steel and copper rods respectively such that $$\\dfrac{K_2}{K_1} = 9$$, $$\\dfrac{A_1}{A_2} = 2$$, $$\\dfrac{L_1}{L_2} = 2$$. Then, for the arrangement as shown in the figure, the value of temperature $$T$$ of the steel-copper junction in the steady state will be<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_zSbBzc7.png\"/></div>",
     "options": {
@@ -299,7 +299,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$450 - T = {{dQ} \\over {dt}} \\times {{{l_1}} \\over {{K_1}{A_1}}}$$</p>\n<p>$$T - 0 = {{dQ} \\over {dt}} \\times {{{l_2}} \\over {{K_2}{A_2}}}$$</p>\n<p>So, $${{450 - T} \\over T} = {{{K_2}{A_2}{l_1}} \\over {{K_1}{A_1}{l_2}}} = 9 \\times {1 \\over 2} \\times 2 = 9$$</p>\n<p>$$450 - T = 9T$$</p>\n<p>$$ \\Rightarrow T = 45^\\circ C$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -308,13 +308,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jhh8jx",
+    "id": "0kGTvv3EYc",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "heat-transfer",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Read the following statements:<br/>A. When small temperature difference between a liquid and its surrounding is doubled the rate of loss of heat of the liquid becomes twice.<br/>B. Two bodies P and Q having equal surface areas are maintained at temperature $$10°C$$ and $$20°C$$. The thermal radiation emitted in a given time by P and Q are in the ratio $$1:1.15$$.<br/>C. A Carnot Engine working between $$100 \\text{ K}$$ and $$400 \\text{ K}$$ has an efficiency of $$75\\%$$.<br/>D. When small temperature difference between a liquid and its surrounding is quadrupled, the rate of loss of heat of the liquid becomes twice.<br/>Choose the correct answer from the options given below:</p></div>",
     "options": {
@@ -343,7 +343,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>From Newton's cooling law $${{dQ} \\over {dt}} =  - k(T - {T_s})$$ the statement A is correct.</p>\n<p>For B</p>\n<p>$$U = \\sigma eA{T^4}$$</p>\n<p>So, $${{{U_1}} \\over {{U_2}}} = {\\left( {{{283} \\over {293}}} \\right)^4} \\simeq {1 \\over {1.15}}$$</p>\n<p>Statement B is correct</p>\n<p>For C</p>\n<p>$$\\eta  = 1 - {{{T_1}} \\over {{T_2}}} = 1 - {{100} \\over {400}} = {3 \\over 4}$$</p>\n<p>So, efficiency is 75% C is correct</p>\n<p>For D</p>\n<p>From Newton's law of cooling $${{dQ} \\over {dt}} =  - k(T - {T_s})$$</p>\n<p>The statement is wrong.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -352,13 +352,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jhlhju",
+    "id": "0kGTvv3JlB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "kinetic-theory-of-gases-and-gas-laws",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Same gas is filled in two vessels of the same volume at the same temperature. If the ratio of the number of molecules is $$1:4$$, then<br/>A. The r.m.s. velocity of gas molecules in two vessels will be the same.<br/>B. The ratio of pressure in these vessels will be $$1:4$$.<br/>C. The ratio of pressure will be $$1:1$$.<br/>D. The r.m.s. velocity of gas molecules in two vessels will be in the ratio of $$1:4$$.</p></div>",
     "options": {
@@ -387,7 +387,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${v_{rms}} = \\sqrt {{{3RT} \\over {{M_0}}}} $$ because T is same</p>\n<p>v<sub>rms</sub> will be same so, A is correct D is incorrect</p>\n<p>$${{{P_1}} \\over {{P_2}}} = {{{n_1}R{T_1}/{V_1}} \\over {{n_2}R{T_2}/{V_2}}} = {{{n_1}} \\over {{n_2}}} = {1 \\over 4}$$</p>\n<p>B is correct</p>\n<p>C is incorrect</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -396,13 +396,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jhp4z4",
+    "id": "0kGTvvj6oL",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-charges-and-coulombs-law",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Two identical positive charges $$Q$$ each are fixed at a distance of $$2a$$ apart from each other. Another point charge $$q_0$$ with mass $$m$$ is placed at midpoint between two fixed charges. For a small displacement along the line joining the fixed charges, the charge $$q_0$$ executes SHM. The time period of oscillation of charge $$q_0$$ will be</p></div>",
     "options": {
@@ -431,7 +431,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6xteu2a/47b4cfe2-54c6-471c-9b57-3e894f8e9072/ccf56920-1e47-11ed-9c61-4529b721806b/file-1l6xteu2b.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6xteu2a/47b4cfe2-54c6-471c-9b57-3e894f8e9072/ccf56920-1e47-11ed-9c61-4529b721806b/file-1l6xteu2b.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Electrostatics Question 137 English Explanation\"></p>\n<p>(x &lt;&lt; a) ($$\\alpha$$ is acceleration)</p>\n<p>$${F_{net}} =  - \\left( {{{k{q_0}Q} \\over {{{(a - x)}^2}}} - {{kQ{q_0}} \\over {{{(a + x)}^2}}}} \\right)$$</p>\n<p>$$m\\alpha  =  - {{k{q_0}Q} \\over {{a^4}}}4ax$$</p>\n<p>$$ \\Rightarrow \\alpha  =  - {{4k{q_0}Q} \\over {m{a^3}}}x$$</p>\n<p>So, $$T = 2\\pi \\sqrt {{{4\\pi {\\varepsilon _0}m{a^3}} \\over {4{q_0}Q}}} $$</p>\n<p>or $$T = \\sqrt {{{4{\\pi ^3}{\\varepsilon _0}m{a^3}} \\over {{q_0}Q}}} $$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -440,13 +440,13 @@
     "year": 2022
   },
   {
-    "id": "1l6ji1tti",
+    "id": "0kGTuu7IgL",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-cell-or-battery",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Two sources of equal emfs are connected in series. This combination is connected to an external resistance $$R$$. The internal resistances of the two sources are $$r_1$$ and $$r_2$$ ($$r_1 &gt; r_2$$). If the potential difference across the source of internal resistance $$r_1$$ is zero then the value of $$R$$ will be</p></div>",
     "options": {
@@ -475,7 +475,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6xtgjgt/df9bb4a8-274b-4f7e-9993-5a6f469898f5/fc6433d0-1e47-11ed-9c61-4529b721806b/file-1l6xtgjgu.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6xtgjgt/df9bb4a8-274b-4f7e-9993-5a6f469898f5/fc6433d0-1e47-11ed-9c61-4529b721806b/file-1l6xtgjgu.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Current Electricity Question 157 English Explanation\"></p>\n<p>$$\\Delta V = 0 \\Rightarrow {{2\\varepsilon } \\over {{r_1} + {r_2} + R}}{r_1} = \\varepsilon $$</p>\n<p>$$ \\Rightarrow R = {r_1} - {r_2}$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -484,13 +484,13 @@
     "year": 2022
   },
   {
-    "id": "1l6ji5x05",
+    "id": "0kGTvyR4RV",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "earth-magnetism",
-    "chapter": "magnetic-properties-of-matter",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "magnetism-and-matter",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A magnet hung at $$45°$$ with magnetic meridian makes an angle of $$60°$$ with the horizontal. The actual value of the angle of dip is</p></div>",
     "options": {
@@ -519,7 +519,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\tan 60^\\circ  = {{{B_0}\\sin \\delta } \\over {{B_0}\\cos \\delta \\cos 45^\\circ }}$$</p>\n<p>$$ \\Rightarrow \\tan \\delta  = \\sqrt {{3 \\over 2}} $$</p>\n<p>$$ \\Rightarrow \\delta  = {\\tan ^{ - 1}}\\left( {\\sqrt {{3 \\over 2}} } \\right)$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -528,13 +528,13 @@
     "year": 2022
   },
   {
-    "id": "1l6ji3kv8",
+    "id": "0kGTvyR4RW",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "earth-magnetism",
-    "chapter": "magnetic-properties-of-matter",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "magnetism-and-matter",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Two bar magnets oscillate in a horizontal plane in earth's magnetic field with time periods of $$3 \\text{ s}$$ and $$4 \\text{ s}$$ respectively. If their moments of inertia are in the ratio of $$3:2$$ then the ratio of their magnetic moments will be</p></div>",
     "options": {
@@ -563,7 +563,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$T = 2\\pi \\sqrt {{I \\over {M{B_H}}}} $$</p>\n<p>$$ \\Rightarrow {{{T_1}} \\over {{T_2}}} = \\sqrt {{{{I_1}} \\over {{I_2}}}} \\sqrt {{{{M_2}} \\over {{M_1}}}} $$</p>\n<p>$$ \\Rightarrow {3 \\over 4} = \\sqrt {{3 \\over 2}} \\sqrt {{{{M_2}} \\over {{M_1}}}} $$</p>\n<p>$$ \\Rightarrow {{{M_1}} \\over {{M_2}}} = {3 \\over 2} \\times {{16} \\over 9} = {8 \\over 3}$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -572,13 +572,13 @@
     "year": 2022
   },
   {
-    "id": "1l6ji7zez",
+    "id": "0kGTvx56vZ",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "ac-circuits-and-power-in-ac-circuits",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A direct current of $$4 \\text{ A}$$ and an alternating current of peak value $$4 \\text{ A}$$ flow through resistance of $$3 \\Omega$$ and $$2 \\Omega$$ respectively. The ratio of heat produced in the two resistances in same interval of time will be:</p></div>",
     "options": {
@@ -607,7 +607,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Ratio = $${{i_1^2{R_1}} \\over {{{\\left( {{{{i_2}} \\over {\\sqrt 2 }}} \\right)}^2}{R_2}}} = {{{4^2} \\times 3} \\over {{{\\left( {{4 \\over {\\sqrt 2 }}} \\right)}^2} \\times 2}}$$</p>\n<p>$$\\Rightarrow$$ Ratio = 3 : 1</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -616,13 +616,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jibjjv",
+    "id": "0kGTv3aOGX",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "displacement-current-and-properties-of-em-waves",
     "chapter": "electromagnetic-waves",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A beam of light travelling along $$X$$-axis is described by the electric field $$E_y = 900 \\sin \\omega\\left(t - \\dfrac{x}{c}\\right)$$. The ratio of electric force to magnetic force on a charge $$q$$ moving along $$Y$$-axis with a speed of $$3 \\times 10^7 \\text{ m s}^{-1}$$ will be: [Given speed of light $$= 3 \\times 10^8 \\text{ m s}^{-1}$$]</p></div>",
     "options": {
@@ -651,7 +651,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Ratio $$ = {{|q\\overrightarrow E |} \\over {|q\\overrightarrow v  \\times \\overrightarrow B |}}$$</p>\n<p>$$ = {E \\over {vB}} = {{{v_{wave}}} \\over v}$$</p>\n<p>$$\\Rightarrow$$ Ratio $$ = {{3 \\times {{10}^8}} \\over {3 \\times {{10}^7}}} = 10$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -660,13 +660,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jie6bw",
+    "id": "0kGTvz71tp",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "optical-instruments",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A microscope was initially placed in air (refractive index 1). It is then immersed in oil (refractive index 2). For a light whose wavelength in air is $$\\lambda$$, calculate the change of microscope's resolving power due to oil</p></div>",
     "options": {
@@ -695,7 +695,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>The resolving power of a microscope is determined by the Rayleigh criterion, which states that it is inversely proportional to the wavelength of light used in the medium in which the microscopy is being performed. Mathematically, the resolving power (RP) can be represented as:</p>\n\n<p>$ RP = \\frac{1}{\\lambda_n} $</p>\n\n<p>where $\\lambda_n$ is the wavelength of light in the medium, which can be found using the formula:</p>\n\n<p>$ \\lambda_n = \\frac{\\lambda}{n} $</p>\n\n<p>Here, $\\lambda$ is the wavelength of light in vacuum (or air, for practical purposes, since their refractive indices are close enough), and $n$ is the refractive index of the medium.</p>\n\n<p>In air, the refractive index $n = 1$, so the wavelength of light in air ($\\lambda_{air}$) is equal to $\\lambda$.</p>\n\n<p>In oil, the refractive index $n = 2$, so the wavelength of light in oil ($\\lambda_{oil}$) is $\\lambda / 2$.</p>\n\n<p>Therefore, the change in resolving power when moving from air to oil can be calculated as the ratio of resolving powers in oil to air:</p>\n\n<p>$ \\frac{RP_{oil}}{RP_{air}} = \\frac{\\lambda_{air}}{\\lambda_{oil}} = \\frac{\\lambda}{\\lambda / 2} = 2 $</p>\n\n<p>This means that the resolving power in oil is twice that in air. Thus, the correct option is:</p>\n\n<p>Option B: Resolving power will be twice in the oil than it was in the air.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -704,13 +704,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jihwsz",
+    "id": "0kGTvzmzM9",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "matter-waves-davisson-and-germer-experiment",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>An electron (mass $$m$$) with an initial velocity $$\\vec{v} = v_0\\hat{i}$$ ($$v_0 &gt; 0$$) is moving in an electric field $$\\vec{E} = -E_0\\hat{i}$$ ($$E_0$$ is constant). If at $$t = 0$$, de-Broglie wavelength is $$\\lambda_0 = \\dfrac{h}{mv_0}$$, then its de-Broglie wavelength after time $$t$$ is given by</p></div>",
     "options": {
@@ -739,7 +739,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "$$\n\\text { At } t=0, \\lambda_0=\\frac{h}{m v_0}\n$$\n<br/><br/>Since $\\vec{v}=v_0 \\hat{i}$ and $\\overrightarrow{\\mathrm{E}}=\\mathrm{E}_0 \\hat{i}$\n<br/><br/>its velocity $v$ at any time $t$ is given by\n<br/><br/>$$\nv=v_o+\\frac{\\varepsilon \\mathrm{E}_{\\mathrm{o}}}{m} t\n$$\n<br/><br/>De Broglie wavelength $\\lambda$ at any time $t$ is given by\n<br/><br/>$$\n\\begin{aligned}\n\\lambda & =\\frac{h}{m v}=\\frac{h}{m\\left(v_0+\\frac{e \\mathrm{E}_0}{m} t\\right)} \\\\\\\\\n& =\\frac{h}{m v_0\\left(1+\\frac{e \\mathrm{E}_0}{m v_0} t\\right)} \\\\\\\\\n& =\\frac{\\lambda_0}{1+\\frac{e \\mathrm{E}_0}{m v_0} t}\n\\end{aligned}\n$$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -748,13 +748,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jikx3u",
+    "id": "0kGTv0sgF7",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "nucleus-and-radioactivity",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>What is the half-life period of a radioactive material if its activity drops to $$\\dfrac{1}{16^{th}}$$ of its initial value of $$30$$ years?</p></div>",
     "options": {
@@ -783,7 +783,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\because$$ $$A = {{{A_0}} \\over {{2^{{t \\over {{T_{1/2}}}}}}}}$$</p>\n<p>$$ \\Rightarrow {2^{{t \\over {{T_{1/2}}}}}} = {{{A_0}} \\over A} = 16$$</p>\n<p>$$ \\Rightarrow {t \\over {{T_{1/2}}}} = 4$$</p>\n<p>$$ \\Rightarrow {{30} \\over {{T_{1/2}}}} = 4$$</p>\n<p>$$ \\Rightarrow {T_{1/2}} = {{30} \\over 4}$$</p>\n<p>$$ = 7.5$$ years</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -792,13 +792,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jimiv8",
+    "id": "0kGTw0Sp0b",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "digital-circuits",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A logic gate circuit has two inputs $$A$$ and $$B$$ and output $$Y$$. The voltage waveforms of $$A$$, $$B$$ and $$Y$$ are shown. The logic gate circuit is<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_LifDdTo.png\"/></div>",
     "options": {
@@ -827,7 +827,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>From waveforms, it is an AND gate.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -836,13 +836,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jiocdy",
+    "id": "0kGTvlZlYn",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "elements-of-communication-system-and-propagation-of-em-wave",
     "chapter": "communication-systems",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>At a particular station, the TV transmission tower has a height of $$100 \\text{ m}$$. To triple its coverage range, height of the tower should be increased to</p></div>",
     "options": {
@@ -871,7 +871,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\therefore$$ $${r_m} = \\sqrt {2Rh} $$</p>\n<p>$$ \\Rightarrow {{{r_1}} \\over {{r_2}}} = \\sqrt {{{{h_1}} \\over {{h_2}}}} $$</p>\n<p>$$ \\Rightarrow {1 \\over 3} = \\sqrt {{{100} \\over {{h_2}}}} $$</p>\n<p>$$ \\Rightarrow {h_2} = 900$$ m</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -880,13 +880,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jk4syj",
+    "id": "0kGTvsLJWj",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "projectile-motion",
-    "chapter": "motion-in-a-plane",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "motion-in-plane",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>A ball of mass $$m$$ is thrown vertically upward. Another ball of mass $$2 \\text{ m}$$ is thrown at an angle $$\\theta$$ with the vertical. Both the balls stay in air for the same period of time. The ratio of the heights attained by the two balls respectively is $$\\dfrac{1}{x}$$. The value of $$x$$ is ______.</p></div>",
     "options": {},
@@ -910,7 +910,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6xtoci1/bb30e765-69ec-4e05-8a17-2c210e0d791d/d57bc390-1e48-11ed-9c61-4529b721806b/file-1l6xtoci2.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6xtoci1/bb30e765-69ec-4e05-8a17-2c210e0d791d/d57bc390-1e48-11ed-9c61-4529b721806b/file-1l6xtoci2.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Motion in a Plane Question 44 English Explanation\"></p>\n<p>$$\\therefore$$ $${u_1} = {u_2}\\sin \\theta $$</p>\n<p>$${{{H_1}} \\over {{H_2}}} = {{{{u_1^2} \\over {2g}}} \\over {u_2^2{{{{\\sin }^2}\\theta } \\over {2g}}}}$$</p>\n<p>$$ = {\\left( {{{{u_1}} \\over {{u_2}\\sin \\theta }}} \\right)^2} = 1$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -919,13 +919,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jk2emh",
+    "id": "0kGTvuNEUz",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "torque",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>A pulley of radius $$1.5 \\text{ m}$$ is rotated about its axis by a force $$F = (12t - 3t^2) \\text{ N}$$ applied tangentially (while $$t$$ is measured in seconds). If moment of inertia of the pulley about its axis of rotation is $$4.5 \\text{ kg m}^2$$, the number of rotations made by the pulley before its direction of motion is reversed, will be $$\\dfrac{K}{\\pi}$$. The value of $$K$$ is ______.</p></div>",
     "options": {},
@@ -949,7 +949,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6xtmozl/c04d538a-7804-40e1-afb0-fa443317884f/a782f710-1e48-11ed-9c61-4529b721806b/file-1l6xtmozm.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6xtmozl/c04d538a-7804-40e1-afb0-fa443317884f/a782f710-1e48-11ed-9c61-4529b721806b/file-1l6xtmozm.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Rotational Motion Question 102 English Explanation\"></p>\n<p>$$FR = I\\alpha $$</p>\n<p>$$\\alpha  = {{(12t - 3{t^2}) \\times 1.5} \\over {4.5}} = 4t - {t^2}$$</p>\n<p>$$w = \\int {\\alpha \\,dt = 2{t^2} - {{{t^3}} \\over 3}} $$</p>\n<p>$$w = 0$$</p>\n<p>$$ \\Rightarrow {t^2}\\left[ {2 - {t \\over 3}} \\right] = 0$$</p>\n<p>$$t = 6$$ sec</p>\n<p>$$\\left. {\\theta  = \\int\\limits_0^6 {\\left[ {2{t^2} - {{{t^3}} \\over 3}} \\right]dt = \\left[ {{{2{t^3}} \\over 3} - {{{t^4}} \\over {12}}} \\right]} } \\right|_0^6$$</p>\n<p>$$ = \\left[ {{2 \\over 3} \\times {6^3} - {{{6^4}} \\over {12}}} \\right] = 36$$</p>\n<p>$$n = {{36} \\over {2\\pi }}$$</p>\n<p>$$ = {{18} \\over \\pi }$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -958,13 +958,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jjig8p",
+    "id": "0kGTvt1Omv",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "stress-strain-curve-thermal-stress-and-elastic-pe",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>A square aluminium (shear modulus is $$25 \\times 10^9 \\text{ N m}^{-2}$$) slab of side $$60 \\text{ cm}$$ and thickness $$15 \\text{ cm}$$ is subjected to a shearing force (on its narrow face) of $$18.0 \\times 10^4 \\text{ N}$$. The lower edge is riveted to the floor. The displacement of the upper edge is ______ $$\\mu m$$.</p></div>",
     "options": {},
@@ -988,7 +988,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6xtk1od/f549401c-ab0e-4f41-9766-8136a9924459/5de300f0-1e48-11ed-9c61-4529b721806b/file-1l6xtk1of.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6xtk1od/f549401c-ab0e-4f41-9766-8136a9924459/5de300f0-1e48-11ed-9c61-4529b721806b/file-1l6xtk1of.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Properties of Matter Question 173 English Explanation\"></p>\n<p>$$Y = {{Fl} \\over {A\\Delta l}}$$</p>\n<p>$$\\Delta l = {{Fl} \\over {YA}}$$</p>\n<p>$$ = {{18 \\times {{10}^4} \\times 60 \\times {{10}^{ - 2}}} \\over {25 \\times {{10}^9} \\times 60 \\times 15 \\times {{10}^{ - 4}}}}$$</p>\n<p>$$ = 48 \\times {10^{ - 6}}$$ m</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -997,13 +997,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jjeoyt",
+    "id": "0kGTvwP4Gf",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "some-systems-of-executing-shm",
-    "chapter": "simple-harmonic-motion",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "oscillations-simple-harmonic-motion",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>A mass $$0.9 \\text{ kg}$$, attached to a horizontal spring, executes SHM with an amplitude $$A_1$$. When this mass passes through its mean position, then a smaller mass of $$124 \\text{ g}$$ is placed over it and both masses move together with amplitude $$A_2$$. If the ratio $$\\dfrac{A_1}{A_2}$$ is $$\\dfrac{\\alpha}{\\alpha - 1}$$, then the value of $$\\alpha$$ will be ______.</p></div>",
     "options": {},
@@ -1027,7 +1027,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$(0.9){A_1}\\sqrt {{K \\over {0.9}}}  = (0.9 + 0.124){A_2}\\sqrt {{K \\over {0.9 + 0.124}}} $$</p>\n<p>$${{{A_1}} \\over {{A_2}}} = \\sqrt {{{0.9 + 0.124} \\over {0.9}}} $$</p>\n<p>$$ = \\sqrt {{{1.024} \\over {0.9}}} $$</p>\n<p>$$ = {\\alpha  \\over {\\alpha  - 1}}$$</p>\n<p>$$\\alpha  = 16$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1036,13 +1036,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jj9ljr",
+    "id": "0kGTuu75ft",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-current-current-density-and-drift-velocity",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>A $$1 \\text{ m}$$ long copper wire carries a current of $$1 \\text{ A}$$. If the cross section of the wire is $$2.0 \\text{ mm}^2$$ and the resistivity of copper is $$1.7 \\times 10^{-8} \\Omega \\text{ m}$$. The force experienced by moving electron in the wire is ______ $$\\times 10^{-23} \\text{ N}$$. (Charge of electron $$= 1.6 \\times 10^{-19} \\text{ C}$$)</p></div>",
     "options": {},
@@ -1066,7 +1066,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$I = ne{v_d}A$$</p>\n<p>$$J = {E \\over \\rho }$$</p>\n<p>$$F = eE = {{1.7 \\times 1.6 \\times {{10}^{ - 19}} \\times {{10}^{ - 8}}} \\over {2 \\times {{10}^{ - 6}}}}$$</p>\n<p>$$ = 136 \\times {10^{ - 23}}$$ N</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1075,13 +1075,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jjbndy",
+    "id": "0kGTvvjEcD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-field-and-electric-field-intensity",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>A long cylindrical volume contains a uniformly distributed charge of density $$\\rho \\text{ C m}^{-3}$$. The electric field inside the cylindrical volume at a distance $$x = \\dfrac{2\\epsilon_0}{\\rho} \\text{ m}$$ from its axis is ______ $$\\text{V m}^{-1}$$.<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_Yw7mN05.png\"/></div>",
     "options": {},
@@ -1105,7 +1105,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$E = {{\\rho r} \\over {2{\\varepsilon _0}}}$$</p>\n<p>at $$r = {{2{\\varepsilon _0}} \\over \\rho }$$</p>\n<p>$$E = {\\rho  \\over {2{\\varepsilon _0}}}\\left( {{{2{\\varepsilon _0}} \\over \\rho }} \\right)$$</p>\n<p>$$ = 1$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1114,13 +1114,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jistwh",
+    "id": "0kGTuu78HB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "meter-bridge",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>In meter bridge experiment for measuring unknown resistance '$$S$$', the null point is obtained at a distance $$30 \\text{ cm}$$ from the left side as shown at point $$D$$. If $$R$$ is $$5.6 \\text{ k}\\Omega$$, then the value of unknown resistance '$$S$$' will be ______ $$\\Omega$$.<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_prkEwH5.png\"/></div>",
     "options": {},
@@ -1144,7 +1144,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${R \\over S} = {{70} \\over {30}}$$</p>\n<p>$$S = {3 \\over 7} \\times 5.6 \\times {10^3} = 2.4 \\times {10^3}\\,\\Omega $$</p>\n<p>$$ = 2400\\,\\Omega $$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1153,13 +1153,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jj63xi",
+    "id": "0kGTvx56va",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "ac-circuits-and-power-in-ac-circuits",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>To light, a $$50 \\text{ W}$$, $$100 \\text{ V}$$ lamp is connected, in series with a capacitor of capacitance $$\\dfrac{50}{\\pi\\sqrt{x}} \\mu F$$, with $$200 \\text{ V}$$, $$50 \\text{ Hz}$$ AC source. The value of $$x$$ will be ______.</p></div>",
     "options": {},
@@ -1183,7 +1183,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${X_C} = {1 \\over {wc}} = {{\\pi \\sqrt x } \\over {2\\pi  \\times 50 \\times 50}} \\times {10^6}$$</p>\n<p>$$v_R^2 + v_C^2 = {(200)^2}$$</p>\n<p>$$v_C^2 = {200^2} - {100^2}$$</p>\n<p>$${v_C} = 100\\sqrt 3 \\,V$$</p>\n<p>$${v_R} = 100\\,V$$</p>\n<p>$$P = {{{V^2}} \\over R}$$</p>\n<p>$$R = {{100 \\times 100} \\over {50}} = 200\\,\\Omega $$</p>\n<p>$${i_{rm}} = {1 \\over 2}\\,A$$</p>\n<p>$${1 \\over 2} \\times {x_C} = 100\\sqrt 3  \\Rightarrow {10^{ - 6}} \\times {{\\sqrt x } \\over {5000}} \\times {1 \\over 2} = 100\\sqrt 3 $$</p>\n<p>$${{{{10}^{ - 6}}\\sqrt x } \\over {10000 \\times 100}} = \\sqrt 3 $$</p>\n<p>$$\\sqrt x  = \\sqrt 3 $$</p>\n<p>$$x = 3$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1192,13 +1192,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jj3z03",
+    "id": "0kGTuyAibx",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "huygens-principle-and-interference-of-light",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Two beams of light having intensities $$I$$ and $$4I$$ interfere to produce a fringe pattern on a screen. The phase difference between the two beams are $$\\dfrac{\\pi}{2}$$ and $$\\dfrac{\\pi}{3}$$ at points $$A$$ and $$B$$ respectively. The difference between the resultant intensities at the two points is $$xI$$. The value of $$x$$ will be ______.</p></div>",
     "options": {},
@@ -1222,7 +1222,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${I_{{R_1}}} = {I_1} + {I_2} + 2\\sqrt {{I_1}{I_2}} \\cos \\phi $$</p>\n<p>$${I_A} = I + 4I + 2\\sqrt {I.4I} \\cos 90^\\circ $$</p>\n<p>$$ = 5I$$</p>\n<p>$${I_B} = I + 4I + 2\\sqrt {I.4I} \\cos 60^\\circ $$</p>\n<p>$$ = 7I$$</p>\n<p>$${I_B} - {I_A} = 2I$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1231,13 +1231,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jj1794",
+    "id": "0kGTuyqqTR",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "vernier-calipers",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>The one division of main scale of Vernier callipers reads $$1 \\text{ mm}$$ and $$10$$ divisions of Vernier scale is equal to the $$9$$ divisions on main scale. When the two jaws of the instrument touch each other the zero of the Vernier lies to the right of zero of the main scale and its fourth division coincides with a main scale division. When a spherical bob is tightly placed between the two jaws, the zero of the Vernier scale lies in between $$4.1 \\text{ cm}$$ and $$4.2 \\text{ cm}$$ and $$6^{th}$$ Vernier division coincides with a main scale division. The diameter of the bob will be ______ $$ 10^{-2} cm$$.</p></div>",
     "options": {},
@@ -1261,7 +1261,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>1 MSD = 1 mm</p>\n<p>10 VSD = 9 MSD</p>\n<p>LC = $${1 \\over {10}}$$ mm</p>\n<p>0 + 4$$\\left( {{1 \\over {10}}} \\right)$$ mm = 0.4 mm</p>\n<p>Reading = 41 + 6$$\\left( {{1 \\over {10}}} \\right)$$</p>\n<p>= 41 + 0.6</p>\n<p>= 41.6 mm</p>\n<p>True reading = 41.2 mm</p>\n<p>= 412 $$\\times$$ 10<sup>$$-$$2</sup> cm</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1270,13 +1270,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jk7xj0",
+    "id": "0lBH24mEXx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "concentration-terms",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>$$250 \\text{ g}$$ solution of D-glucose in water contains $$10.8\\%$$ of carbon by weight. The molality of the solution is nearest to (Given: Atomic Weights are $$H = 1u; C = 12u; O = 16u$$)</p></div>",
     "options": {
@@ -1305,7 +1305,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Weight of D-glucose in water $=250 \\mathrm{~g}$\n<br/><br/>\n$$\n\\begin{aligned}\n\\therefore \\text { Weight of carbon in D-glucose } &=\\frac{250}{180} \\times 72 \\\\\\\\\n&=100 \\mathrm{~g}\n\\end{aligned}\n$$\n<br/><br/>\n$\\%$ of carbon in the aqueous solution of glucose is $=10.8 \\%$\n<br/><br/>\n$\\therefore$ Weight of the solution is $=925.93$\n<br/><br/>\n$$\n\\begin{aligned}\n\\therefore \\text { Molality of D-glucose is } &=\\frac{\\frac{250}{180}}{(925.93-250)} \\times 1000 \\\\\\\\\n&=\\frac{250}{180 \\times 675.93} \\times 1000 \\\\\\\\\n&=2.06\n\\end{aligned}\n$$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1314,13 +1314,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jkf94j",
+    "id": "0lBH22kJZh",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "bohrs-model-for-hydrogen-atom",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p><strong>Given below are two statements. One is labelled as Assertion A and the other is labelled as Reason R.<br>Assertion A:</br></strong> Energy of $$2s$$ orbital of hydrogen atom is greater than that of $$2s$$ orbital of lithium.<br><strong>Reason R:</strong> Energies of the orbitals in the same subshell decrease with increase in the atomic number.<br>In the light of the above statements, choose the correct answer from the options given below</br></br></p></div>",
     "options": {
@@ -1349,7 +1349,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "As the atomic number increases then the potential energy of electrons present in same shell becomes more and more negative. And therefore total energy also becomes more negative.\n<br/><br/>\n$$\n\\mathrm{E}_{\\text {total }}=-13.6 \\frac{\\mathrm{z}^{2}}{\\mathrm{n}^{2}} \\mathrm{eV}\n$$\n<br/><br/>\n$\\therefore$ Energies of the orbitals in the same subshell decreases with increase in atomic number. "
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1358,13 +1358,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jkoy8d",
+    "id": "0lBH2ywkG9",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ionization-energy",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The incorrect statement is</p></div>",
     "options": {
@@ -1393,7 +1393,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "On moving down in a group ionisation energy decrease\n<br/><br/>\n$\\therefore 1^{\\text {st }}$ ionisation enthalpy order is $\\mathrm{Li}>\\mathrm{Na}>\\mathrm{K}$\n<br/><br/>\n$\\mathrm{Zn}$ has more ionisation energy as compared to Ga because of their pseudo inert gas configuration."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1402,13 +1402,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jkbg8k",
+    "id": "0lBH2zcuiv",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "covalent-and-co-ordinate-bond",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p><strong>Given below are two statements.</strong></p><p><strong>Statement I:</strong> $$O_2$$, $$Cu^{2+}$$ and $$Fe^{3+}$$ are weakly attracted by magnetic field and are magnetized in the same direction as magnetic field.<br><strong>Statement II:</strong> $$NaCl$$ and $$H_2O$$ are weakly magnetized in opposite direction to magnetic field.<br>In the light of the above statements, choose the most appropriate answer form the options given below</br></br></p></div>",
     "options": {
@@ -1437,7 +1437,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "$\\mathrm{O}_{2}, \\mathrm{Cu}^{2+}$ and $\\mathrm{Fe}^{3+}$ have 2,1 and 5 unpaired electrons respectively, so these are the paramagnetic species. Hence, they are attracted by magnetic field.\n<br/><br/>\n$\\mathrm{NaCl}$ and $\\mathrm{H}_{2} \\mathrm{O}$ are the diamagnetic species so they are repelled by the magnetic field."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1446,13 +1446,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jki5g8",
+    "id": "0lBH2T8qC9",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-16-elements-oxygen-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p><strong>Given below are two statements. One is labelled as Assertion A and the other is labelled as Reason R.<br>Assertion A:</br></strong> Activated charcoal adsorbs $$SO_2$$ more efficiently than $$CH_4$$.<br><strong>Reason R:</strong> Gases with lower critical temperatures are readily adsorbed by activated charcoal.<br>In the light of the above statements, choose the correct answer from the options given below.</br></br></p></div>",
     "options": {
@@ -1481,7 +1481,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "More polar gases easily adsorbs on activated charcoal.\n<br/><br/>\nAnd more polar gases has more (higher) critical temperature as compared to non-polar or less polar gases.\n<br/><br/>\n$\\therefore$ Gases with higher critical temperature adsorbed more."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1490,13 +1490,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jkxzf3",
+    "id": "0lBH2nRZIX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hydrogen-peroxide",
     "chapter": "hydrogen",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p><strong>Given below are two statements:</strong></p><p><strong>Statement I:</strong> Hydrogen peroxide can act as an oxidizing agent in both acidic and basic conditions.<br><strong>Statement II:</strong> Density of hydrogen peroxide at $$298 \\text{ K}$$ is lower than that of $$D_2O$$.<br>In the light of the above statements. Choose the correct answer from the options</br></br></p></div>",
     "options": {
@@ -1525,7 +1525,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Density of $\\mathrm{H}_{2} \\mathrm{O}_{2}$ is more as compared to $\\mathrm{D}_{2} \\mathrm{O}$\n<br/><br/>\n$$\n\\begin{aligned}\n&\\mathrm{d}_{\\mathrm{H}_{2} \\mathrm{O}_{2}}=1.44 \\mathrm{~g} / \\mathrm{cc} \\\\\\\\\n&\\mathrm{d}_{\\mathrm{D}_{2} \\mathrm{O}}=1.106 \\mathrm{~g} / \\mathrm{cc}\n\\end{aligned}\n$$\n<br/><br/>\nAnd hydrogen peroxide acts as an oxidising as well as reducing agent in both acidic and basic medium.\n<br/><br/>\n$\\therefore $ Statement $\\mathrm{I}$ is correct."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1534,13 +1534,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jl2zwu",
+    "id": "0lBH2T8nar",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-13-elements-boron-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p><strong>Given below are two statements<br>Statement I:</br></strong> The chlorides of Be and Al have Cl-bridged structure. Both are soluble in organic solvents and act as Lewis bases.<br><strong>Statement II:</strong> Hydroxides of Be and Al dissolve in excess alkali to give beryllate and aluminate ions.<br>In the light of the above statements. Choose the correct answer from the options</br></br></p></div>",
     "options": {
@@ -1569,7 +1569,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Chlorides of $\\mathrm{Be}$ and $\\mathrm{Al}$ are $\\mathrm{BeCl}_{2}$ and $\\mathrm{AlCl}_{3}$ and they have electron deficiency at central atom and behave as the Lewis acids.\n<br/><br/>\n$$\n\\begin{aligned}\n& \\mathrm{BeCl}_{2}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow\\left[\\underset{\\text { beryllate ion }}{\\mathrm{Be}(\\mathrm{OH})_{4}}\\right]^{2-} \\\\\\\\\n& \\mathrm{AlCl}_{3}+\\mathrm{H}_{2} \\mathrm{O} \\rightarrow\\left[\\underset{\\text { aluminate ion }}{\\mathrm{Al}(\\mathrm{OH})_{4}}\\right]^{-}\n\\end{aligned}\n$$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1578,13 +1578,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jltch1",
+    "id": "0lBH30ypdZ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aromaticity",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p><strong>Given below are two statements. One is labelled as Assertion A and the other is labelled as Reason R.<br>Assertion A:</br></strong> [6] Annulene, [8] Annulene and cis-[10] Annulene are respectively aromatic, not-aromatic and aromatic.<br/></p><img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_xAkmOTi.png\"><p><strong>Reason R:</strong> Planarity is one of the requirements of aromatic systems.<br>In the light of the above statements, choose the most appropriate answer from the options given below.</br></p></img></div>",
     "options": {
@@ -1613,7 +1613,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "[6] Annulene is aromatic because it is planar.\n<br/><br/>\n[8] Annulene and [10] Annulene are both not aromatic because they are not planar. So, Assertion (A) is not correct.\n<br/><br/>\nReason (R) is correct because planarity is one of the requirements of aromatic system."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1622,13 +1622,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jm83xp",
+    "id": "0lBH24mBwf",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "mole-concept",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>In Carius method of estimation of halogen, $$0.45 \\text{ g}$$ of an organic compound gave $$0.36 \\text{ g}$$ of $$AgBr$$. Find out the percentage of bromine in the compound. (Molar masses: $$AgBr = 188 \\text{ g mol}^{-1}; Br = 80 \\text{ g mol}^{-1}$$)</p></div>",
     "options": {
@@ -1657,7 +1657,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Mass of organic compound $=0.45 \\,\\mathrm{gm}$<br/><br/>\nMass of $\\mathrm{AgBr}$ obtained $=0.36 \\,\\mathrm{gm}$<br/><br/>\n$\\therefore$ Moles of $\\mathrm{AgBr}=\\frac{0.36}{188}$<br/><br/>\n$\\therefore$ Mass of Bromine $=\\frac{0.36}{188} \\times 80=0.1532 \\,\\mathrm{gm}$<br/><br/>\n$\\therefore \\%\\, \\mathrm{Br}$ in compound $=\\frac{0.1532}{0.45} \\times 100=34.04 \\,\\%$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1666,13 +1666,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jlzhn2",
+    "id": "0lBH2jNgkj",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "classification-preparations-and-properties-of-polymers",
     "chapter": "polymers",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Match List I with List II<br/></p><img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_ye2Zy1t.png\"><p>Choose the correct answer from the options given below</p></img></div>",
     "options": {
@@ -1701,7 +1701,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7nrr53g/eb9bc6fc-30e9-489c-957d-a6404714a6be/b1d12cc0-2c8d-11ed-a521-1f85f535c206/file-1l7nrr53h.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7nrr53g/eb9bc6fc-30e9-489c-957d-a6404714a6be/b1d12cc0-2c8d-11ed-a521-1f85f535c206/file-1l7nrr53h.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 60vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - Polymers Question 17 English Explanation 1\"><br><br>\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7nrrlg0/804cab98-3a5c-4a19-afcb-2288bdbd0522/be723500-2c8d-11ed-a521-1f85f535c206/file-1l7nrrlg1.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7nrrlg0/804cab98-3a5c-4a19-afcb-2288bdbd0522/be723500-2c8d-11ed-a521-1f85f535c206/file-1l7nrrlg1.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 50vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - Polymers Question 17 English Explanation 2\"><br><br>\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7nrrzsq/65fc7f34-80dd-4c59-8b7d-4fab3698f816/c988a5a0-2c8d-11ed-a521-1f85f535c206/file-1l7nrrzsr.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7nrrzsq/65fc7f34-80dd-4c59-8b7d-4fab3698f816/c988a5a0-2c8d-11ed-a521-1f85f535c206/file-1l7nrrzsr.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - Polymers Question 17 English Explanation 3\"><br><br>\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7nrsc48/f3e59e2a-eef4-4f49-b771-eb77aa6accc2/d30cdd80-2c8d-11ed-a521-1f85f535c206/file-1l7nrsc49.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7nrsc48/f3e59e2a-eef4-4f49-b771-eb77aa6accc2/d30cdd80-2c8d-11ed-a521-1f85f535c206/file-1l7nrsc49.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - Polymers Question 17 English Explanation 4\">"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1710,13 +1710,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jkm033",
+    "id": "0lBH2CthQX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "elevation-in-boiling-point",
     "chapter": "solutions",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Boiling point of a $$2\\%$$ aqueous solution of a nonvolatile solute A is equal to the boiling point of $$8\\%$$ aqueous solution of a non-volatile solute B. The relation between molecular weights of A and B is</p></div>",
     "options": {
@@ -1745,7 +1745,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "For $\\mathbf{A}: 100 \\,\\mathrm{gm}$ solution $\\rightarrow 2 \\,\\mathrm{gm}$ solute $\\mathrm{A}$<br/><br/> $\\therefore$ Molality $=\\frac{2 / \\mathrm{M}_{\\mathrm{A}}}{0.098}$\n<br/><br/>\nFor B : $100 \\,\\mathrm{gm}$ solution $\\rightarrow 8 \\,\\mathrm{gm}$ solute $\\mathrm{B}$<br/><br/>\n$$\n\\begin{aligned}\n&\\therefore \\text { Molality }=\\frac{8 / \\mathrm{M}_{\\mathrm{B}}}{0.092} \\\\\\\\\n&\\because\\left(\\Delta \\mathrm{T}_{\\mathrm{B}}\\right)_{\\mathrm{A}}=\\left(\\Delta \\mathrm{T}_{\\mathrm{B}}\\right)_{\\mathrm{B}}\n\\end{aligned}\n$$<br/><br/>\n$\\therefore$ Molality of $\\mathrm{A}=$ Molality of $\\mathrm{B}$<br/><br/>\n$$\n\\therefore \\frac{2}{0.098 \\mathrm{M}_{\\mathrm{A}}}=\\frac{8}{0.092 \\mathrm{M}_{\\mathrm{B}}}\n$$<br/><br/>\n$$\n\\frac{2}{98} \\times \\frac{92}{8}=\\frac{M_A}{M_B}\n$$<br/><br/>\n$$\n\\frac{1}{4.261}=\\frac{\\mathrm{M}_{\\mathrm{A}}}{\\mathrm{M}_{\\mathrm{B}}}\n$$<br/><br/>\n$$\n\\therefore \\mathrm{M}_{\\mathrm{B}}=4.261 \\times \\mathrm{M}_{\\mathrm{A}}\n$$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1754,13 +1754,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jkscmu",
+    "id": "0lBH2hLoNl",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "refining-or-purification-of-metal",
     "chapter": "isolation-of-elements",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following methods are not used to refine any metal?<br>(A) Liquation <br>(B) Calcination <br>(C) Electrolysis <br>(D) Leaching <br>(E) Distillation<br>Choose the correct answer from the options given below</br></br></br></br></br></br></p></div>",
     "options": {
@@ -1789,7 +1789,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Leaching and calcination are the processes which are involved in the extraction of the metals.\n<br/><br/>\nLiquation, Electrolytic refining, Distillation are used in the refining or purification of metal."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1798,13 +1798,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jl660a",
+    "id": "0lBH2T8iOH",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-15-elements-nitrogen-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Which oxoacid of phosphorous has the highest number of oxygen atoms present in its chemical formula?</p></div>",
     "options": {
@@ -1833,7 +1833,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Pyrophosphorus acid $\\rightarrow \\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{5}$\n<br/><br/>\nHypophosphoric acid $\\rightarrow \\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{6}$\n<br/><br/>\nPhosphoric acid $\\rightarrow \\mathrm{H}_{3} \\mathrm{PO}_{4}$\n<br/><br/>\nPyrophosphoric acid $\\rightarrow \\mathrm{H}_{4} \\mathrm{P}_{2} \\mathrm{O}_{7}$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1842,13 +1842,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jldi23",
+    "id": "0lBH2ArmSH",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "important-compounds-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p><strong>Given below are two statements:<br>Statement I:</br></strong> Iron (III) catalyst, acidified $$K_2Cr_2O_7$$ and neutral $$KMnO_4$$ have the ability to oxidise $$I^-$$ to $$I_2$$ independently.<br><strong>Statement II:</strong> Manganate ion is paramagnetic in nature and involves $$p\\pi - p\\pi$$ bonding.<br>In the light of the above statements, choose the correct answer from the options.</br></br></p></div>",
     "options": {
@@ -1877,7 +1877,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Manganate ion $\\mathrm{MnO}_{4}^{2-}$ has tetrahedral structure<br><br>\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7nratlx/0dbbea3d-da61-4881-9454-9e2899eed3a1/ebff5950-2c8b-11ed-a521-1f85f535c206/file-1l7nratly.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7nratlx/0dbbea3d-da61-4881-9454-9e2899eed3a1/ebff5950-2c8b-11ed-a521-1f85f535c206/file-1l7nratly.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - d and f Block Elements Question 114 English Explanation\">\n<br>\nhas only $\\mathrm{d} \\pi-\\mathrm{p} \\pi\\,\\, \\pi$-bonds.\n<br><br>\n$\\mathrm{Fe}^{3+}$ is not used as a catalyst in the conversion of I<sup>-</sup> to $\\mathrm{I}_{2}$ by $\\mathrm{K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7} \\cdot \\mathrm{K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$ oxidise $\\mathrm{I}^{-}$ in acidic medium easily"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1886,13 +1886,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jlflsr",
+    "id": "0lBH2ArmSI",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "important-compounds-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The total number of $$Mn = O$$ bonds in $$Mn_2O_7$$ is</p></div>",
     "options": {
@@ -1921,7 +1921,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Structure of $\\mathrm{Mn}_{2} \\mathrm{O}_{7}$ is as :<br><br>\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7nreei3/4229ec84-e0ad-46f8-b21b-c5ac84c2001a/4f908bb0-2c8c-11ed-a521-1f85f535c206/file-1l7nreei4.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7nreei3/4229ec84-e0ad-46f8-b21b-c5ac84c2001a/4f908bb0-2c8c-11ed-a521-1f85f535c206/file-1l7nreei4.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - d and f Block Elements Question 115 English Explanation\">\n<br>\n$\\therefore$ There are total $6\\, \\mathrm{M}=\\mathrm{O}$ bonds are present in $\\mathrm{Mn}_{2} \\mathrm{O}_{7}$ compound."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1930,13 +1930,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jlvcyt",
+    "id": "0lBH2ZELVB",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-preparation-and-uses-of-phenols",
     "chapter": "alcohols-phenols-and-ethers",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_MO12nk8.png\">\n<p>In the above reaction, product B is</p></img></div>",
     "options": {
@@ -1965,7 +1965,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7nrm4h4/1e2d2e44-2587-4691-8bda-7156d8ef9b1b/264aca80-2c8d-11ed-a521-1f85f535c206/file-1l7nrm4h5.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7nrm4h4/1e2d2e44-2587-4691-8bda-7156d8ef9b1b/264aca80-2c8d-11ed-a521-1f85f535c206/file-1l7nrm4h5.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - Alcohols, Phenols and Ethers Question 81 English Explanation\"></p>\n<p>Product $B$ is 4-iodomethylphenol.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -1974,13 +1974,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jmd7lc",
+    "id": "0lBH31ecgj",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aliphatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Match List-I with List-II<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_breSQqv.png\">\n<p>Choose the correct answer from the options given below</p></img></div>",
     "options": {
@@ -2009,7 +2009,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "(A) Benzene sulphonyl chloride is also known as Hinsberg reagent.\n<br/><br/>\n(B) Hoffmann bromamide reaction involves conversion of amide to amine having one $\\mathrm{C}$ atom less. This reaction involves isocyanate as intermediate.\n<br/><br/>\n(C) Carbylamine reaction is a test given by all primary amines.\n<br/><br/>\n(D) Hoffmann orientation refers to the addition of molecules to unsymmetrical alkenes according to anti Saytzeff's rule.\n<br/><br/>\nCorrect match is\n<br/><br/>\nA-III, B-IV, C-I, D-II"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2018,13 +2018,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jlo7ik",
+    "id": "0lBH2mlZEv",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "water-pollution",
     "chapter": "environmental-chemistry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Match List I with List II<br/></p><img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_Pxc9QW0.png\"><p>Choose the correct answer from the options given below</p></img></div>",
     "options": {
@@ -2053,7 +2053,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "A. Sulphate (>500 ppm) - Causes Laxative effect\nthat leads to dehydration<br/><br/>\nB. Nitrate (>50 ppm) - Causes\nMethemoglobinemia, skin appears blue<br/><br/>\nC. Lead (> 50 ppb) â It damage kidney and RBC<br/><br/>\nD. Fluoride (>2 ppm) â It Causes Brown mottling\nof teeth"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2062,13 +2062,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jm5blw",
+    "id": "0lBH2kjeGf",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemicals-in-medicines",
     "chapter": "chemistry-in-everyday-life",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Match List-I with List-II.<br><br/></br></p><img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_FYvFSHD.png\"><p>Choose the correct answer from the options given below</p></img></div>",
     "options": {
@@ -2097,7 +2097,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "A is morphine which is a narcotic analgesic.\n<br/><br/>\nB is chloroxylenol, an antiseptic.\n<br/><br/>\nC is Nardil, an antidepressant.\n<br/><br/>\nD is saccharin, which is around 550 times sweeter than cane sugar."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2106,13 +2106,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jm1e8m",
+    "id": "0lBH28pwgb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "carbohydrates",
     "chapter": "biomolecules",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>A sugar 'X' dehydrates very slowly under acidic condition to give furfural which on further reaction with resorcinol gives the coloured product after sometime. Sugar 'X' is</p></div>",
     "options": {
@@ -2141,7 +2141,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7nrvffj/14e573e5-d5d3-42e3-857a-f5c91fe88952/2909a6f0-2c8e-11ed-a521-1f85f535c206/file-1l7nrvffk.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7nrvffj/14e573e5-d5d3-42e3-857a-f5c91fe88952/2909a6f0-2c8e-11ed-a521-1f85f535c206/file-1l7nrvffk.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 60vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - Biomolecules Question 91 English Explanation\">"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2150,13 +2150,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jmv0ij",
+    "id": "0lBH2zchiT",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "molecular-orbital-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Amongst the following the number of oxide(s) which are paramagnetic in nature is ______<br>$$Na_2O, KO_2, NO_2, N_2O, ClO_2, NO, SO_2, Cl_2O$$</br></p></div>",
     "options": {},
@@ -2180,7 +2180,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Paramagnetic species: $\\mathrm{KO}_{2}, \\mathrm{NO}_{2}, \\mathrm{ClO}_{2}, \\mathrm{NO}$\n<br/><br/>\nDiamagnetic species are: $\\mathrm{Na}_{2} \\mathrm{O}, \\mathrm{N}_{2} \\mathrm{O}, \\mathrm{SO}_{2}, \\mathrm{Cl}_{2} \\mathrm{O}$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2189,13 +2189,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jn1ls9",
+    "id": "0lBH2zchiU",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "molecular-orbital-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>According to MO theory, number of species/ions from the following having identical bond order is ______<br>$$CN^-, NO^+, O_2, O_2^+, O_2^{2+}$$</br></p></div>",
     "options": {},
@@ -2219,7 +2219,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "$\\mathrm{CN}^{-}, \\mathrm{NO}^{+}$and $\\mathrm{O}_{2}^{2+}$ have bond order of 3 \n<br/><br/>\n$\\mathrm{O}_{2}$ has bond order of 2\n<br/><br/>\n$\\mathrm{O}_{2}^{+}$ has bond order of $2.5$\n<br/><br/>\n$\\therefore 3$ species have similar bond order."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2228,13 +2228,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jmyzvl",
+    "id": "0lBH30IfAn",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "first-law-of-thermodynamics",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>The molar heat capacity for an ideal gas at constant pressure is $$20.785 \\text{ J K}^{-1} \\text{ mol}^{-1}$$. The change in internal energy is $$5000 \\text{ J}$$ upon heating it from $$300 \\text{ K}$$ to $$500 \\text{ K}$$. The number of moles of the gas at constant volume is ______ (Given: $$R = 8.314 \\text{ J K}^{-1} \\text{ mol}^{-1}$$)</p></div>",
     "options": {},
@@ -2258,7 +2258,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": " $\\mathrm{C}_{\\mathrm{p}}=20.785 \\mathrm{~J} \\mathrm{~K}^{-1} \\mathrm{~mol}^{-1}$\n<br/><br/>\n$$\n\\begin{aligned}\n&\\text { and } \\Delta \\mathrm{U}=\\mathrm{nC} \\mathrm{v} \\Delta \\mathrm{T} \\\\\\\\\n&\\therefore \\quad \\mathrm{nC}_{\\mathrm{v}}=\\frac{5000}{200}=25\n\\end{aligned}\n$$\n<br/><br/>\nand we know that\n<br/><br/>\n$$\n\\begin{aligned}\n&C_{p}-C_{v}=R \\\\\\\\\n&20.785-\\frac{25}{n}=8.314 \\\\\\\\\n&n=\\frac{25}{(20.785-8.314)}=2\n\\end{aligned}\n$$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2267,13 +2267,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jnay9c",
+    "id": "0lBH2yGubh",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "solubility-product-and-common-ion-effect",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>At $$310 \\text{ K}$$, the solubility of $$CaF_2$$ in water is $$2.34 \\times 10^{-3} \\text{ g/100 mL}$$. The solubility product of $$CaF_2$$ is ______ $$\\times 10^{-8} (\\text{mol/L})^3$$ (nearest integer). (Given molar mass: $$CaF_2 = 78 \\text{ g mol}^{-1}$$)</p></div>",
     "options": {},
@@ -2297,7 +2297,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "$\\mathrm{CaF}_{2} \\stackrel{\\mathrm{s}}{\\rightleftharpoons} \\underset{ \\mathrm{s}}{\\mathrm{Ca}^{2+}}+\\underset{2 \\mathrm{~s}}{2 \\mathrm{~F}^{-}}$\n<br/><br/>\n$$\n\\begin{aligned}\n\\mathrm{K}_{\\mathrm{sp}} &=\\mathrm{s}(2 \\mathrm{~s})^{2} \\\\\\\\\n&=4 \\mathrm{~s}^{3}\n\\end{aligned}\n$$\n<br/><br/>\nSolubility $(\\mathrm{s})=2.34 \\times 10^{-3} \\mathrm{~g} / 100 \\mathrm{~mL}$<br/><br/> $=\\frac{2 \\cdot 34 \\times 10^{-3} \\times 10}{78}$ mole $/$ lit<br/><br/> $=3 \\times 10^{-4} \\mathrm{~mole} / \\mathrm{lit}$\n<br/><br/>\n$\\therefore \\mathrm{K}_{\\mathrm{sp}}=4 \\times\\left(3 \\times 10^{-4}\\right)^{3}$\n<br/><br/>\n$$\n\\begin{aligned}\n&=108 \\times 10^{-12} \\\\\\\\\n&=0.0108 \\times 10^{-8}(\\mathrm{~mole} / \\mathrm{lit})^{3}\n\\end{aligned}\n$$<br/><br/>\n$$\n\\begin{aligned}\n& \\therefore x \\approx 0\n\\end{aligned}\n$$\n<br/><br/>\n"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2306,13 +2306,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jmimfy",
+    "id": "0lBH24mEXy",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "concentration-terms",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>$$20 \\text{ mL}$$ of $$0.02M K_2Cr_2O_7$$ solution is used for the titration of $$10 \\text{ mL}$$ of $$Fe^{2+}$$ solution in the acidic medium. The molarity of $$Fe^{2+}$$ solution is ______ $$\\times 10^{-2} M$$</p></div>",
     "options": {},
@@ -2336,7 +2336,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Applying the law of equivalence, milliequivalents of $\\mathrm{Fe}^{2+}=$ milliequivalents of $\\mathrm{K}_{2} \\mathrm{Cr}_{2} \\mathrm{O}_{7}$\n<br/><br/>\n$$\n\\begin{aligned}\n&10 \\times 1 \\times M=20 \\times 6 \\times .02 \\\\\\\\\n&M=24 \\times 10^{-2} M\n\\end{aligned}\n$$\n<br/><br/>\n$\\therefore $ Answer will be 24"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2345,13 +2345,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jo6l89",
+    "id": "0lBH2ZELVC",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-preparation-and-uses-of-phenols",
     "chapter": "alcohols-phenols-and-ethers",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>In the following reaction,<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_cEzBEkk.png\">\n<p>the $$\\%$$ yield for reaction I is $$60\\%$$ and that of reaction II is $$50\\%$$. The overall yield of the complete reaction is ______ $$\\%$$.</p></img></div>",
     "options": {},
@@ -2375,7 +2375,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7ohkyul/9625ee75-c8ba-4fa7-8609-6a3843eb2d0e/b37ec1d0-2cf2-11ed-ae64-d1a5504bfed9/file-1l7ohkyum.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7ohkyul/9625ee75-c8ba-4fa7-8609-6a3843eb2d0e/b37ec1d0-2cf2-11ed-ae64-d1a5504bfed9/file-1l7ohkyum.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - Alcohols, Phenols and Ethers Question 82 English Explanation 1\"><br>\nLet initial moles of reactant taken = n<br><br>\nTotal moles obtained for benzene sulphonic acid (with % yield = 60%) = 0.6n <br><br>\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7ohlvvi/a4cf2bfb-e07b-4543-8c9a-9e4a36da60d2/cd01abe0-2cf2-11ed-ae64-d1a5504bfed9/file-1l7ohlvvj.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7ohlvvi/a4cf2bfb-e07b-4543-8c9a-9e4a36da60d2/cd01abe0-2cf2-11ed-ae64-d1a5504bfed9/file-1l7ohlvvj.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Chemistry - Alcohols, Phenols and Ethers Question 82 English Explanation 2\"><br>\nMoles of benzene sulphonic acid before reaction II = 0.6n<br><br>\nMoles obtained for phenol (with % yield = 50%) = 0.6 Ã 0.5n = 0.3n<br><br>\nSo over all % yield of complete reaction $=\\frac{0.3 \\mathrm{n}}{\\mathrm{n}} \\times 100=30$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2384,13 +2384,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jmrjx0",
+    "id": "0lBH32Khwv",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "different-methods-to-determine-order-of-reaction",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>$$2NO + 2H_2 \\rightarrow N_2 + 2H_2O$$. The above reaction has been studied at $$800°C$$.The related data are given in the table below<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_VUjjXqk.png\">\n<p> The order of the reaction with respect to NO is ______.</p></img></div>",
     "options": {},
@@ -2414,7 +2414,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Let the rate of reaction ( $r$ ) is as\n<br/><br/>\n$$\n\\mathrm{r}=\\mathrm{K}[\\mathrm{NO}]^{n}\\left[\\mathrm{H}_{2}\\right]^{\\mathrm{m}}\n$$\n<br/><br/>\nFrom $1^{\\text {st }}$ data\n<br/><br/>\n$$\n0.135=\\mathrm{K}[40]^{\\mathrm{n}} \\cdot(65.6)^{\\mathrm{m}}\\quad\\quad...(1)\n$$\n<br/><br/>\nFrom $2^{\\text {nd }}$ data\n<br/><br/>\n$$\n0.033=\\mathrm{K}(20.1)^{\\mathrm{n}} \\cdot(65.6)^{\\mathrm{m}}\\quad\\quad...(2)\n$$\n<br/><br/>\nOn dividing equation (1) by equation (2)\n<br/><br/>\n$$\n\\begin{aligned}\n&\\frac{0.135}{0.033}=\\left(\\frac{40}{20.1}\\right)^{n} \\\\\\\\\n&4=(2)^{n} \\\\\\\\\n&\\therefore n=2 \\\\\\\\\n&\\therefore \\text { Order of reaction w.r.t. NO is } 2 .\n\\end{aligned}\n$$\n"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2423,13 +2423,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jnzwgr",
+    "id": "0lBH2yGxCz",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ostwalds-dilution-law-and-concept-of-acid-and-base",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>In the titration of $$KMnO_4$$ and oxalic acid in acidic medium, the change in oxidation number of carbon at the end point is ______.</p></div>",
     "options": {},
@@ -2453,7 +2453,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "$16 \\mathrm{H}^{+}+2 \\mathrm{MnO}_{4}^{-}+5 \\mathrm{C}_{2} \\mathrm{O}_{4}^{2-} \\rightarrow 10 \\mathrm{CO}_{2}+2 \\mathrm{Mn}^{2+}+8 \\mathrm{H}_{2} \\mathrm{O}$\n<br/><br/>\nDuring titration of oxalic acid by $\\mathrm{KMnO}_{4}$, oxalic acid converts into $\\mathrm{CO}_{2}$.\n<br/><br/>\n$\\therefore$ Change in oxidation state of carbon $=1$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2462,13 +2462,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jnd2q8",
+    "id": "0lBH29W4Y5",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "coordination-number",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>The conductivity of a solution of complex with formula $$CoCl_3(NH_3)_4$$ corresponds to $$1:1$$ electrolyte, then the primary valency of central metal ion is ______.</p></div>",
     "options": {},
@@ -2492,7 +2492,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "In 1: 1 type of electrolyte the ions have $+1$ and $-1$ charge on them <br/><br/>\n$\\therefore$ Possible compound is $\\rightarrow\\left[\\mathrm{Co}\\left(\\mathrm{NH}_{3}\\right)_{4} \\mathrm{Cl}_{2}\\right]^{+} \\mathrm{Cl}^{-}$\n<br/><br/>Oxidation state of central atom represents the total number of primary valency\n<br/><br/>\n$\\therefore$ Primary valency will be 3 ."
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2501,13 +2501,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jo3nj6",
+    "id": "0lBH30ykQz",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "isomerism",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Optical activity of an enantiomeric mixture is $$+12.6°$$ and the specific rotation of $$(+)$$ isomer is $$+30°$$. The optical purity is ______ $$\\%$$.</p></div>",
     "options": {},
@@ -2531,7 +2531,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "Optical purity $=\\frac{\\text { Total rotation }}{\\text { Specific rotation }} \\times 100$\n<br/><br/>\n$$\n\\begin{aligned}\n&=\\frac{12 \\cdot 6}{30} \\times 100 \\\\\\\\\n&=42 \\%\n\\end{aligned}\n$$"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2540,13 +2540,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jb3png",
+    "id": "0kisTsoI3l",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "modulus-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let the minimum value $$v_0$$ of $$v=|z|^{2} + |z-3|^{2} + |z-6i|^{2}, z ∈ \\mathbb{C} $$ s attained at $$z=z_{0}$$. Then $$|2z_0^2- \\overline{z}_0^3+3|^{2}+v_0^2 $$ is equal to</p></div>",
     "options": {
@@ -2575,7 +2575,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Let $$z = x + iy$$</p>\n<p>$$v = {x^2} + {y^2} + {(x - 3)^2} + {y^2} + {x^2} + {(y - 6)^2}$$</p>\n<p>$$ = (3{x^2} - 6x + 9) + (3{y^2} - 12y + 36)$$</p>\n<p>$$ = 3({x^2} + {y^2} - 2x - 4y + 15)$$</p>\n<p>$$ = 3[{(x - 1)^2} + {(y - 2)^2} + 10]$$</p>\n<p>$${v_{\\min }}$$ at $$z = 1 + 2i = {z_0}$$ and $${v_0} = 30$$</p>\n<p>so $$|2{(1 + 2i)^2} - {(1 - 2i)^3} + 3{|^2} + 900$$</p>\n<p>$$ = |2( - 3 + 4i) - (1 - 8{i^3} - 6i(1 - 2i) + 3{|^2} + 900$$</p>\n<p>$$ = | - 6 + 8i - (1 + 8i - 6i - 12) + 3{|^2} + 900$$</p>\n<p>$$ = |8 + 6i{|^2} + 900$$</p>\n<p>$$ = 1000$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2584,13 +2584,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jbbycd",
+    "id": "0kisTk0juz",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "arithmetic-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Suppose $$a_1, a_2, \\ldots, a_n$$ be an arithmetic progression of natural numbers. If the ratio of the sum of the first five terms to the sum of first nine terms of the progression is $$5:12$$ and $$110 &lt; a_{15} &lt; 120$$, then the sum of the first ten terms of the progression is equal to </p></div>",
     "options": {
@@ -2619,7 +2619,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\because$$ a<sub>1</sub>, a<sub>2</sub>, .... a<sub>n</sub> be an A.P of natural numbers and</p>\n<p>$${{{S_5}} \\over {{S_9}}} = {5 \\over {17}} \\Rightarrow {{{5 \\over 2}[2{a_1} + 4d]} \\over {{9 \\over 2}[2{a_1} + 8d]}} = {5 \\over {17}}$$</p>\n<p>$$ \\Rightarrow 34{a_1} + 68d = 18{a_1} + 72d$$</p>\n<p>$$ \\Rightarrow 16{a_1} = 4d$$</p>\n<p>$$\\therefore$$ $$d = 4{a_1}$$</p>\n<p>And $$110 < {a_{15}} < 120$$</p>\n<p>$$\\therefore$$ $$110 < {a_1} + 14d < 120 \\Rightarrow 110 < 57{a_1} < 120$$</p>\n<p>$$\\therefore$$ $${a_1} = 2$$ ($$\\because$$ $${a_i}\\, \\in N$$)</p>\n<p>$$d = 8$$</p>\n<p>$$\\therefore$$ $${S_{10}} = 5[4 + 9 \\times 8] = 380$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2628,13 +2628,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jb84eh",
+    "id": "0kisTvW05B",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "divisibility-concept-and-remainder-concept",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The remainder when $$(2021)^{2022} + (2022)^{2021}$$ is divided by $$7$$ is</p></div>",
     "options": {
@@ -2663,7 +2663,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${(2021)^{2022}} + {(2022)^{2021}}$$</p>\n<p>$$ = {(7k - 2)^{2022}} + {(7{k_1} - 1)^{2021}}$$</p>\n<p>$$ = {\\left[ {{{(7k - 2)}^3}} \\right]^{674}} + {(7{k_1})^{2021}} - 2021{(7{k_1})^{2020}}\\, + \\,....\\, - 1$$</p>\n<p>$$ = {(7{k_2} - 1)^{674}} + (7m - 1)$$</p>\n<p>$$ = (7n + 1) + (7m - 1) = 7(m + n)$$ (multiple of 7)</p>\n<p>$$\\therefore$$ Remainder = 0</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2672,13 +2672,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jd47sy",
+    "id": "0kisUbTaD3",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-of-triangle-and-condition-of-collinearity",
-    "chapter": "straight-lines-and-pair-of-straight-lines",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "straight-lines",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A(1, 1)$$, $$B(-4, 3)$$, $$C(-2, -5)$$ be vertices of a triangle $$ABC$$, $$P$$ be a point on side $$BC$$, and $$\\Delta_1$$ and $$\\Delta_2$$ be the areas of triangle $$APB$$ and $$ABC$$ respectively. If $$\\Delta_1 : \\Delta_2 = 4 : 7$$, then the area enclosed by the lines $$AP$$, $$AC$$ and the $$x$$-axis is</p></div>",
     "options": {
@@ -2707,7 +2707,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${{{\\Delta _1}} \\over {{\\Delta _2}}} = {{{1 \\over 2} \\times BP \\times AH} \\over {{1 \\over 2} \\times BC \\times AH}} = {4 \\over 7}$$</p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7psetoj/75213353-b6a6-48ee-b558-8da28250e29e/d5b7d130-2da9-11ed-8542-f96181a425b5/file-1l7psetok.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7psetoj/75213353-b6a6-48ee-b558-8da28250e29e/d5b7d130-2da9-11ed-8542-f96181a425b5/file-1l7psetok.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Mathematics - Straight Lines and Pair of Straight Lines Question 72 English Explanation\"></p>\n<p>$$P\\left( {{{ - 20} \\over 7},{{ - 11} \\over 7}} \\right)$$</p>\n<p>Line $$AC:y - 1 = 2(x - 1)$$</p>\n<p>Intersection with x-axis $$ = \\left( {{1 \\over 2},0} \\right)$$</p>\n<p>Line $$AP:y - 1 = {2 \\over 3}(x - 1)$$</p>\n<p>Intersection with x-axis $$\\left( {{{ - 1} \\over 2},0} \\right)$$</p>\n<p>Vertices are $$(1,1),\\left( {{1 \\over 2},0} \\right)$$ and $$\\left( {{{ - 1} \\over 2},0} \\right)$$</p>\n<p>Area $$ = {1 \\over 2}$$ sq. unit</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2716,13 +2716,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jdc4r8",
+    "id": "0kisTXpbV3",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "intercepts-of-a-circle",
     "chapter": "circle",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>If the circle $$x^2 + y^2 - 2gx + 6y - 19c = 0$$, $$g, c \\in \\mathbb{R}$$ passes through the point $$(6, 1)$$ and its centre lies on the line $$x - 2cy = 8$$, then the length of intercept made by the circle on $$x$$-axis is</p></div>",
     "options": {
@@ -2751,7 +2751,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Circle : $${x^2} + {y^2} - 2gx + 6y - 19c = 0$$</p>\n<p>It passes through $$h(6,1)$$</p>\n<p>$$ \\Rightarrow 36 + 1 - 12g + 6 - 19c = 0$$</p>\n<p>$$ = 12g + 19c = 43$$ ..... (1)</p>\n<p>Line $$x - 2cy = 8$$ passes through centre</p>\n<p>$$ \\Rightarrow g + 6c = 8$$ ...... (2)</p>\n<p>From (1) & (2)</p>\n<p>$$g = 2,\\,c = 1$$</p>\n<p>$$C:{x^2} + {y^2} - 4x + 6y - 19 = 0$$</p>\n<p>x intercept $$= 2\\sqrt {{g^2} - C} $$</p>\n<p>$$ = 2\\sqrt {4 + 19} $$</p>\n<p>$$ = 2\\sqrt {23} $$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2760,13 +2760,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jbzo79",
+    "id": "0kisUc9NGD",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-to-parabola",
-    "chapter": "parabola",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$P(a, b)$$ be a point on the parabola $$y^2 = 8x$$ such that the tangent at $$P$$ passes through the centre of the circle $$x^2 + y^2 - 10x - 14y + 65 = 0$$. Let $$A$$ be the product of all possible values of $$a$$ and $$B$$ be the product of all possible values of $$b$$. Then the value of $$A + B$$ is equal to</p></div>",
     "options": {
@@ -2795,7 +2795,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Centre of circle $${x^2} + {y^2} - 10x - 14y + 65 = 0$$ is at (5, 7).</p>\n<p>Let the equation of tangent to $${y^2} = 8x$$ is</p>\n<p>$$yt = x + 2{t^2}$$</p>\n<p>which passes through (5, 7)</p>\n<p>$$7t = 5 + 2{t^2}$$</p>\n<p>$$ \\Rightarrow 2{t^2} - 7t + 5 = 0$$</p>\n<p>$$t = 1,{5 \\over 2}$$</p>\n<p>$$A = 2 \\times {1^2} \\times 2 \\times {\\left( {{5 \\over 2}} \\right)^2} = 25$$</p>\n<p>$$B = 2 \\times 2 \\times 1 \\times 2 \\times 2 \\times {5 \\over 2} = 40$$</p>\n<p>$$A + B = 65$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2804,13 +2804,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jbku4w",
+    "id": "0kisUeBD1t",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$f : \\mathbb{R} \\to \\mathbb{R}$$ be a function defined as $$f(x) = a \\sin\\left(\\frac{\\pi[x]}{2}\\right) + [2 - x]$$, $$a \\in \\mathbb{R}$$, where $$[t]$$ is the greatest integer less than or equal to $$t$$. If $$\\lim_{x \\to -1} f(x)$$ exists, then the value of $$\\int_0^4 f(x) \\, dx$$ is equal to</p></div>",
     "options": {
@@ -2839,7 +2839,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$f(x) = a\\sin \\left( {{{\\pi [x]} \\over 2}} \\right) + [2 - x]\\,a \\in R$$</p>\n<p>Now,</p>\n<p>$$\\because$$ $$\\mathop {\\lim }\\limits_{x \\to  - 1} f(x)$$ exist</p>\n<p>$$\\therefore$$ $$\\mathop {\\lim }\\limits_{x \\to  - {1^ - }} f(x) = \\mathop {\\lim }\\limits_{x \\to  - {1^ + }} f(x)$$</p>\n<p>$$ \\Rightarrow a\\sin \\left( {{{ - 2\\pi } \\over 2}} \\right) + 3 = a\\sin \\left( {{{ - \\pi } \\over 2}} \\right) + 2$$</p>\n<p>$$ \\Rightarrow  - a = 1 \\Rightarrow a =  - 1$$</p>\n<p>Now, $$\\int_0^4 {f(x)dx = \\int_0^4 {\\left( { - \\sin \\left( {{{\\pi [x]} \\over 2}} \\right) + [2 - x]} \\right)dx} } $$</p>\n<p>$$ = \\int_0^1 {1dx + \\int_1^2 { - 1dx + \\int_2^3 { - 1dx + \\int_3^4 {(1 - 2)dx} } } } $$</p>\n<p>$$ = 1 - 1 - 1 - 1 =  - 2$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2848,13 +2848,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jcwca3",
+    "id": "0kisUKYOmX",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "logical-connectives",
     "chapter": "mathematical-reasoning",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>$$(p \\wedge r) \\Leftrightarrow (p \\wedge (\\sim q))$$ is equivalent to $$(\\sim p)$$ when $$r$$ is</p></div>",
     "options": {
@@ -2883,7 +2883,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>The truth table</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n  <tr>\n    <th class=\"tg-c3ow\">p</th>\n    <th class=\"tg-c3ow\">q</th>\n    <th class=\"tg-c3ow\">$$ \\sim $$ p</th>\n    <th class=\"tg-c3ow\">$$ \\sim $$ q</th>\n    <th class=\"tg-c3ow\">p $$ \\wedge $$ q</th>\n    <th class=\"tg-c3ow\">p $$ \\wedge $$&nbsp;&nbsp;$$ \\sim $$ q</th>\n    <th class=\"tg-c3ow\">p $$ \\wedge $$ q $$ \\Leftrightarrow $$ p $$ \\wedge $$ $$ \\sim $$ q</th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">F</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">F</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">T</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">T</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">F</td>\n    <td class=\"tg-c3ow\">T</td>\n  </tr>\n</tbody>\n</table></p>\n<p>Clearly p $$\\wedge$$ q $$\\Leftrightarrow$$ p $$\\wedge$$ $$\\sim$$ q $$\\equiv$$ $$\\sim$$ p</p>\n<p>$$\\therefore$$ r = q</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2892,13 +2892,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jcbdiq",
+    "id": "0kisULEMEr",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "height-and-distance",
     "chapter": "height-and-distance",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let a vertical tower $$AB$$ of height $$2h$$ stands on a horizontal ground. Let from a point $$P$$ on the ground a man can see upto height $$h$$ of the tower with an angle of elevation $$2\\alpha$$. When from $$P$$, he moves a distance $$d$$ in the direction of $$\\overrightarrow{AP}$$, he can see the top of the tower with an angle of elevation $$\\alpha$$. If $$d = \\sqrt{7}h$$, then $$\\tan \\alpha$$ is equal to</p></div>",
     "options": {
@@ -2927,7 +2927,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7psamcq/756ef252-1665-43d7-bc8f-4dd4bf8b8c96/60d220a0-2da9-11ed-8542-f96181a425b5/file-1l7psamcr.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7psamcq/756ef252-1665-43d7-bc8f-4dd4bf8b8c96/60d220a0-2da9-11ed-8542-f96181a425b5/file-1l7psamcr.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Mathematics - Height and Distance Question 7 English Explanation\"></p>\n<p>$$\\Delta{APM}$$ gives</p>\n<p>$$\\tan 2\\alpha  = {h \\over x}$$ ..... (i)</p>\n<p>$$\\Delta{AQB}$$ gives</p>\n<p>$$\\tan 2\\alpha  = {{2h} \\over {x + d}} = {{2h} \\over {x + h\\sqrt 7 }}$$ ...... (ii)</p>\n<p>From (i) and (ii)</p>\n<p>$$\\tan 2\\alpha  = {{2\\,.\\,\\tan 2\\alpha } \\over {1 + \\sqrt 7 \\,.\\,\\tan 2\\alpha }}$$</p>\n<p>Let $$t = \\tan \\alpha $$</p>\n<p>$$ \\Rightarrow t = {{2{{2t} \\over {1 - {t^2}}}} \\over {1 + \\sqrt 7 \\,.\\,{{2t} \\over {1 - {t^2}}}}}$$</p>\n<p>$$ \\Rightarrow {t^2} - 2\\sqrt 7 t + 3 = 0$$</p>\n<p>$$t = \\sqrt 7  - 2$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2936,13 +2936,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jaxbfq",
+    "id": "0kisUjaxt3",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "symmetric-transitive-and-reflexive-properties",
-    "chapter": "sets-and-relations",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "sets-relations-and-functions",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$R_1$$ and $$R_2$$ be two relations defined on $$\\mathbb{R}$$ by $$a R_1 b \\Leftrightarrow ab \\geq 0$$ and $$a R_2 b \\Leftrightarrow a \\geq b$$, then</p></div>",
     "options": {
@@ -2971,7 +2971,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$a\\,{R_1}\\,b \\Leftrightarrow ab \\ge 0$$</p>\n<p>So, definitely $$(a,a) \\in {R_1}$$ as $${a^2} \\ge 0$$</p>\n<p>If $$(a,b) \\in {R_1} \\Rightarrow (b,a) \\in {R_1}$$</p>\n<p>But if $$(a,b) \\in {R_1},(b,c) \\in {R_1}$$</p>\n<p>$$\\Rightarrow$$ Then $$(a,c)$$ may or may not belong to R<sub>1</sub></p>\n<p>{Consider $$a =  - 5,b = 0,c = 5$$ so $$(a,b)$$ and $$(b,c) \\in {R_1}$$ but $$ac < 0$$}</p>\n<p>So, R<sub>1</sub> is not equivalence relation</p>\n<p>$$a\\,{R_2}\\,b \\Leftrightarrow a \\ge b$$</p>\n<p>$$(a,a) \\in {R_2} \\Rightarrow $$ so reflexive relation</p>\n<p>If $$(a,b) \\in {R_2}$$ then $$(b,a)$$ may or may not belong to R<sub>2</sub></p>\n<p>$$\\Rightarrow$$ So not symmetric</p>\n<p>Hence it is not equivalence relation</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -2980,13 +2980,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jb5z9r",
+    "id": "0kisTqmUtN",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "multiplication-of-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A = \\begin{pmatrix} 1 &amp; 2 \\\\ -2 &amp; -5 \\end{pmatrix}$$. Let $$\\alpha, \\beta \\in \\mathbb{R}$$ be such that $$\\alpha A^2 + \\beta A = 2I$$. Then $$\\alpha + \\beta$$ is equal to</p></div>",
     "options": {
@@ -3015,7 +3015,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${A^2} = \\left[ {\\matrix{\n   1 & 2  \\cr \n   { - 2} & { - 5}  \\cr \n\n } } \\right]\\left[ {\\matrix{\n   1 & 2  \\cr \n   { - 2} & { - 5}  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   { - 3} & { - 8}  \\cr \n   8 & {21}  \\cr \n\n } } \\right]$$</p>\n<p>$$\\alpha {A^2} + \\beta A = \\left[ {\\matrix{\n   { - 3\\alpha } & { - 8\\alpha }  \\cr \n   {8\\alpha } & {21\\alpha }  \\cr \n\n } } \\right] + \\left[ {\\matrix{\n   \\beta  & {2\\beta }  \\cr \n   { - 2\\beta } & { - 5\\beta }  \\cr \n\n } } \\right]$$</p>\n<p>$$ = \\left[ {\\matrix{\n   { - 3\\alpha  + \\beta } & { - 8\\alpha  + 2\\beta }  \\cr \n   {8\\alpha  - 2\\beta } & {21\\alpha  - 5\\beta }  \\cr \n\n } } \\right] = \\left[ {\\matrix{\n   2 & 0  \\cr \n   0 & 2  \\cr \n\n } } \\right]$$</p>\n<p>On Comparing</p>\n<p>$$8\\alpha  = 2\\beta ,\\, - 3\\alpha  + \\beta  = 2,\\,21\\alpha  - 5\\beta  = 2$$</p>\n<p>$$ \\Rightarrow \\alpha  = 2,\\,\\beta  = 8$$</p>\n<p>So, $$\\alpha  + \\beta  = 10$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3024,13 +3024,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jb0fby",
+    "id": "0kisU6LQav",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "composite-functions",
     "chapter": "functions",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$f, g : \\mathbb{N} - \\{1\\} \\to \\mathbb{N}$$ be functions defined by $$f(a) = \\alpha$$, where $$\\alpha$$ is the maximum of the powers of those primes $$p$$ such that $$p^\\alpha$$ divides $$a$$, and $$g(a) = a + 1$$, for all $$a \\in \\mathbb{N} - \\{1\\}$$. Then, the function $$f + g$$ is</p></div>",
     "options": {
@@ -3059,7 +3059,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$f,g:N - \\{ 1\\}  \\to N$$ defined as</p>\n<p>$$f(a) = \\alpha $$, where $$\\alpha$$ is the maximum power of those primes p such that p<sup>$$\\alpha$$</sup> divides a.</p>\n<p>$$g(a) = a + 1$$,</p>\n<p>Now,</p>\n<p>$$\\matrix{\n   {f(2) = 1,} & {g(2) = 3} &  \\Rightarrow  & {(f + g)\\,(2) = 4}  \\cr \n   {f(3) = 1,} & {g(3) = 4} &  \\Rightarrow  & {(f + g)\\,(3) = 5}  \\cr \n   {f(4) = 2,} & {g(4) = 5} &  \\Rightarrow  & {(f + g)\\,(4) = 7}  \\cr \n   {f(5) = 1,} & {g(5) = 6} &  \\Rightarrow  & {(f + g)\\,(5) = 7}  \\cr \n\n } $$</p>\n<p>$$\\because$$ $$(f + g)\\,(5) = (f + g)\\,(4)$$</p>\n<p>$$\\therefore$$ $$f + g$$ is not one-one</p>\n<p>Now, $$\\because$$ $${f_{\\min }} = 1,\\,{g_{\\min }} = 3$$</p>\n<p>So, there does not exist any $$x \\in N - \\{ 1\\} $$ such that $$(f + g)(x) = 1,2,3$$</p>\n<p>$$\\therefore$$ $$f + g$$ is not onto</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3068,13 +3068,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jdqp3s",
+    "id": "0kisUeBD1u",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let a function $$f : \\mathbb{R} \\to \\mathbb{R}$$ be defined as:</p>\n<p>$$f(x) = \\begin{cases} \\int_0^x (5 - |t - 3|) \\, dt, &amp; x &gt; 4 \\\\ x^2 + bx, &amp; x \\leq 4 \\end{cases}$$</p>\n<p>where $$b \\in \\mathbb{R}$$. If $$f$$ is continuous at $$x = 4$$, then which of the following statements is NOT true?</p></div>",
     "options": {
@@ -3103,7 +3103,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\because$$ f(x) is continuous at x = 4</p>\n<p>$$ \\Rightarrow f({4^ - }) = f({4^ + })$$</p>\n<p>$$ \\Rightarrow 16 + 4b = \\int\\limits_0^4 {(5 - |t - 3|)dt} $$</p>\n<p>$$ = \\int\\limits_0^3 {(2 + t)dt + \\int\\limits_3^4 {(8 - t)dt} } $$</p>\n<p>$$ = \\left. {2t + {{{t^2}} \\over 2}} \\right)_0^3 + \\left. {8t - {{{t^2}} \\over 3}} \\right]_3^4$$</p>\n<p>$$ = 6 + {9 \\over 2} - 0 + (32 - 8) - \\left( {24 - {9 \\over 2}} \\right)$$</p>\n<p>$$16 + 4b = 15$$</p>\n<p>$$ \\Rightarrow b = {{ - 1} \\over 4}$$</p>\n<p>$$ \\Rightarrow f(x) = \\left\\{ {\\matrix{\n   {\\int\\limits_0^x {5 - |t - 3|\\,dt} } & {x > 4}  \\cr \n   {{x^2} - {x \\over 4}} & {x \\le 4}  \\cr \n\n } } \\right.$$</p>\n<p>$$ \\Rightarrow f'(x) = \\left\\{ {\\matrix{\n   {5 - |x - 3|} & {x > 4}  \\cr \n   {2x - {1 \\over 4}} & {x \\le 4}  \\cr \n\n } } \\right.$$</p>\n<p>$$ \\Rightarrow f'(x) = \\left\\{ {\\matrix{\n   {8 - x} & {x > 4}  \\cr \n   {2x - {1 \\over 4}} & {x \\le 4}  \\cr \n\n } } \\right.$$</p>\n<p>$$f'(x) < 0 = x \\in \\left( { - \\infty ,{1 \\over 8}} \\right) \\cup (8,\\infty )$$</p>\n<p>$$f'(3) + f'(5) = 6 - {1 \\over 4} = {{35} \\over 4}$$</p>\n<p>$$f'(x) = 0 \\Rightarrow x = {1 \\over 8}$$ have local minima</p>\n<p>$$\\therefore$$ (C) is only incorrect option.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3112,13 +3112,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jbqfar",
+    "id": "0kisUeBD1v",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>$$I = \\int_{\\pi/4}^{\\pi/3} \\left(\\frac{8 \\sin x - \\sin 2x}{x}\\right) dx$$. Then</p></div>",
     "options": {
@@ -3147,7 +3147,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>I comes out around 1.536 which is not satisfied by any given options.</p>\n<p>$$\\int\\limits_{\\pi /4}^{\\pi /3} {{{8x - 2x} \\over x}dx > I > \\int\\limits_{\\pi /4}^{\\pi /3} {{{8\\sin x - 2x} \\over x}dx} } $$</p>\n<p>$${\\pi  \\over 2} > I > \\int\\limits_{\\pi /4}^{\\pi /3} {\\left( {{{8\\sin x} \\over x} - 2} \\right)dx} $$</p>\n<p>$${{\\sin x} \\over x}$$ is decreasing in $$\\left( {{\\pi  \\over 4},{\\pi  \\over 3}} \\right)$$ so it attains maximum at $$x = {\\pi  \\over 4}$$</p>\n<p>$$I > \\int\\limits_{\\pi /4}^{\\pi /3} {\\left( {{{8\\sin x/3} \\over {x/3}} - 2} \\right)dx} $$</p>\n<p>$$I > \\sqrt 3  - {\\pi  \\over 6}$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3156,13 +3156,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jbsxxf",
+    "id": "0kisUerAUD",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-bounded-between-the-curves",
-    "chapter": "area-under-the-curves",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "application-of-integrals-area-under-curves",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>The area of the smaller region enclosed by the curves $$y^2 = 8x + 4$$ and $$x^2 + y^2 + 4\\sqrt{3}x - 4 = 0$$ is equal to</p></div>",
     "options": {
@@ -3191,7 +3191,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7ps543w/90436956-c0bb-4a4d-b417-ec2e224aeb75/c7ae54c0-2da8-11ed-8542-f96181a425b5/file-1l7ps543x.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7ps543w/90436956-c0bb-4a4d-b417-ec2e224aeb75/c7ae54c0-2da8-11ed-8542-f96181a425b5/file-1l7ps543x.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Mathematics - Area Under The Curves Question 90 English Explanation\"></p>\n<p>$$\\cos \\theta  = {{2\\sqrt 3 } \\over 4} = {{\\sqrt 3 } \\over 2} \\Rightarrow \\theta  = 30^\\circ $$</p>\n<p>Area of the required region</p>\n<p>$$ = {2 \\over 3}\\left( {4 \\times {1 \\over 2}} \\right) + {4^2} \\times {\\pi  \\over 6} - {1 \\over 2} \\times 4 \\times 2\\sqrt 3 $$</p>\n<p>$$ = {4 \\over 3} + {{8\\pi } \\over 3} - 4\\sqrt 3  = {1 \\over 3}\\left\\{ {4 - 12\\sqrt 3  + 8\\pi } \\right\\}$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3200,13 +3200,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jbvr6c",
+    "id": "0kisUfXD97",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "linear-differential-equations",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$y = y_1(x)$$ and $$y = y_2(x)$$ be two distinct solutions of the differential equation $$\\frac{dy}{dx} = x + y$$, with $$y_1(0) = 0$$ and $$y_2(0) = 1$$ respectively. Then, the number of points of intersection of $$y = y_1(x)$$ and $$y = y_2(x)$$ is</p></div>",
     "options": {
@@ -3235,7 +3235,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${{dy} \\over {dx}} = x + y$$</p>\n<p>Let $$x + y = t$$</p>\n<p>$$1 + {{dy} \\over {dx}} = {{dt} \\over {dx}}$$</p>\n<p>$${{dt} \\over {dx}} - 1 = t \\Rightarrow \\int {{{dt} \\over {t + 1}} = \\int {dx} } $$</p>\n<p>$$\\ln |t + 1| = x + C'$$</p>\n<p>$$|t + 1| = C{e^x}$$</p>\n<p>$$|x + y + 1| = C{e^x}$$</p>\n<p>For $${y_1}(x),\\,{y_1}(0) = 0 \\Rightarrow C = 1$$</p>\n<p>For $${y_2}(x),\\,{y_2}(0) = 1 \\Rightarrow C = 2$$</p>\n<p>$${y_1}(x)$$ is given by $$|x + y + 1| = {e^x}$$</p>\n<p>$${y_2}(x)$$ is given by $$|x + y + 1| = 2{e^x}$$</p>\n<p>At point of intersection</p>\n<p>$${e^x} = 2{e^x}$$</p>\n<p>No solution</p>\n<p>So, there is no point of intersection of $${y_1}(x)$$ and $${y_2}(x)$$.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3244,13 +3244,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jc2mfl",
+    "id": "0kisTrSA8f",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$\\vec{a} = \\alpha \\hat{i} + \\hat{j} + \\beta \\hat{k}$$ and $$\\vec{b} = 3\\hat{i} - 5\\hat{j} + 4\\hat{k}$$ be two vectors, such that $$\\vec{a} \\times \\vec{b} = -\\hat{i} + 9\\hat{j} + 12\\hat{k}$$. Then the projection of $$\\vec{b} - 2\\vec{a}$$ on $$\\vec{b} + \\vec{a}$$ is equal to</p></div>",
     "options": {
@@ -3279,7 +3279,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\overrightarrow a  = \\alpha \\widehat i + \\widehat j + \\beta \\widehat k$$, $$\\overrightarrow b  = 3\\widehat i - 5\\widehat j + 4\\widehat k$$</p>\n<p>$$\\overrightarrow a  \\times \\overrightarrow b  =  - \\widehat i + 9\\widehat j + 12\\widehat k$$</p>\n<p>$$\\left| {\\matrix{\n   {\\widehat i} & {\\widehat j} & {\\widehat k}  \\cr \n   \\alpha  & 1 & \\beta   \\cr \n   3 & { - 5} & 4  \\cr \n\n } } \\right| =  - \\widehat i + 9\\widehat j + 12\\widehat k$$</p>\n<p>$$4 + 5\\beta  =  - 1 \\Rightarrow \\beta  =  - 1$$</p>\n<p>$$ - 5\\alpha  - 3 = 12 \\Rightarrow \\alpha  =  - 3$$</p>\n<p>$$\\overrightarrow b  - 2\\overrightarrow a  = 3\\widehat i - 5\\widehat j + 4\\widehat k - 2\\left( { - 3\\widehat i + \\widehat j - \\widehat k} \\right)$$</p>\n<p>$$\\overrightarrow b  - 2\\overrightarrow a  = 9\\widehat i - 7\\widehat j + 6\\widehat k$$</p>\n<p>$$\\overrightarrow b  + \\overrightarrow a  = \\left( {3\\widehat i - 5\\widehat j + 4\\widehat k} \\right) + \\left( { - 3\\widehat i + \\widehat j - \\widehat k} \\right)$$</p>\n<p>$$\\overrightarrow b  + \\overrightarrow a  =  - 4\\widehat j + 3\\widehat k$$</p>\n<p>Projection of $$\\overrightarrow b  - 2\\overrightarrow a $$ on $$\\overrightarrow b  + \\overrightarrow a $$ is $$ = {{\\left( {\\overrightarrow b  - 2\\overrightarrow a } \\right)\\,.\\,\\left( {\\overrightarrow b  + \\overrightarrow a } \\right)} \\over {\\left| {\\overrightarrow b  + \\overrightarrow a } \\right|}}$$</p>\n<p>$$ = {{28 + 18} \\over 5} = {{46} \\over 5}$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3288,13 +3288,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jc594i",
+    "id": "0kisTrSHwX",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "scalar-and-vector-triple-product",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$\\vec{a} = 2\\hat{i} - \\hat{j} + 5\\hat{k}$$ and $$\\vec{b} = \\alpha \\hat{i} + \\beta \\hat{j} + 2\\hat{k}$$. If $$\\left(\\left(\\vec{a} \\times \\vec{b}\\right) \\times \\hat{i}\\right) \\cdot \\hat{k} = \\frac{23}{2}$$, then $$\\left|\\vec{b} \\times 2\\hat{j}\\right|$$ is equal to</p></div>",
     "options": {
@@ -3323,7 +3323,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Given, $$\\overrightarrow a  = 2\\widehat i - \\widehat j + 5\\widehat k$$ and $$\\overrightarrow b  = \\alpha \\widehat i + \\beta \\widehat j + 2\\widehat k$$</p>\n<p>Also, $$\\left( {\\left( {\\overrightarrow a  \\times \\overrightarrow b } \\right) \\times i} \\right)\\,.\\,\\widehat k = {{23} \\over 2}$$</p>\n<p>$$ \\Rightarrow \\left( {\\left( {\\overrightarrow a \\,.\\,\\widehat i} \\right)\\overrightarrow b  - \\left( {\\overrightarrow b \\,.\\,\\widehat i} \\right)\\,.\\,\\overline a } \\right)\\,.\\,\\widehat k = {{23} \\over 2}$$</p>\n<p>$$ \\Rightarrow \\left( {2\\,.\\,\\overrightarrow b  - \\alpha \\,.\\,\\overrightarrow a } \\right)\\,.\\,\\widehat k = {{23} \\over 2}$$</p>\n<p>$$ \\Rightarrow 2\\,.\\,2 - 5\\alpha  = {{23} \\over 2} \\Rightarrow \\alpha  = {{ - 3} \\over 2}$$</p>\n<p>Now, $$\\left| {\\overrightarrow b  \\times 2j} \\right| = \\left| {\\left( {\\alpha \\widehat i + \\beta \\widehat j + 2\\widehat k} \\right) \\times 2\\widehat j} \\right|$$</p>\n<p>$$ = \\left| {2\\alpha \\widehat k + 0 - 4\\widehat i} \\right|$$</p>\n<p>$$ = \\sqrt {4{\\alpha ^2} + 16} $$</p>\n<p>$$ = \\sqrt {4{{\\left( {{{ - 3} \\over 2}} \\right)}^2} + 16}  = 5$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3332,13 +3332,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jd01uv",
+    "id": "0kisUgD809",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "plane-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>If the plane $$P$$ passes through the intersection of two mutually perpendicular planes $$2x + ky - 5z = 1$$ and $$3kx - ky + z = 5$$, $$k &lt; 3$$ and intercepts a unit length on positive $$x$$-axis, then the intercept made by the plane $$P$$ on the $$y$$-axis is</p></div>",
     "options": {
@@ -3367,7 +3367,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${P_1}:2x + ky - 5z = 1$$</p>\n<p>$${P_2}:3kx - ky + z = 5$$</p>\n<p>$$\\because$$ $${P_1}\\, \\bot \\,{P_2} \\Rightarrow 6k - {k^2} + 5 = 0$$</p>\n<p>$$ \\Rightarrow k = 1,5$$</p>\n<p>$$\\because$$ $$k < 3$$</p>\n<p>$$\\therefore$$ $$k = 1$$</p>\n<p>$${P_1}:2x + y - 5z = 1$$</p>\n<p>$${P_2}:3x - y + z = 5$$</p>\n<p>$$P:(2x + y - 5z - 1) + \\lambda (3x - y + z - 5) = 0$$</p>\n<p>Positive x-axis intercept = 1</p>\n<p>$$ \\Rightarrow {{1 + 5\\lambda } \\over {2 + 3\\lambda }} = 1$$</p>\n<p>$$ \\Rightarrow \\lambda  = {1 \\over 2}$$</p>\n<p>$$\\therefore$$ $$P:7x + y - 4z = 7$$</p>\n<p>y intercept = 7.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3376,13 +3376,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jc7ci7",
+    "id": "0kisU3dSxl",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "classical-defininition-of-probability",
     "chapter": "probability",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$S$$ be the sample space of all five digit numbers. If $$p$$ is the probability that a randomly selected number from $$S$$, is a multiple of $$7$$ but not divisible by $$5$$, then $$9p$$ is equal to</p></div>",
     "options": {
@@ -3411,7 +3411,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Among the 5 digit numbers,</p>\n<p>First number divisible by 7 is 10003 and last is 99995.</p>\n<p>$$\\Rightarrow$$ Number of numbers divisible by 7.</p>\n<p>$$ = {{99995 - 10003} \\over 7} + 1$$</p>\n<p>$$ = 12857$$</p>\n<p>First number divisible by 35 is 10010 and last is 99995.</p>\n<p>$$\\Rightarrow$$ Number of numbers divisible by 35</p>\n<p>$$ = {{99995 - 10010} \\over {35}} + 1$$</p>\n<p>$$ = 2572$$</p>\n<p>Hence number of number divisible by 7 but not by 5</p>\n<p>$$ = 12857 - 2572$$</p>\n<p>$$ = 10285$$</p>\n<p>$$9P. = {{10285} \\over {90000}} \\times 9$$</p>\n<p>$$ = 1.0285$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3420,13 +3420,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jennth",
+    "id": "0kisTsoAFt",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "conjugate-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let $$S = \\{z \\in \\mathbb{C} : \\bar{z}^2 + \\bar{z} = 0\\}$$. Then $$\\sum_{z \\in S} (\\text{Re}(z) + \\text{Im}(z))$$ is equal to______.</p></div>",
     "options": {},
@@ -3450,7 +3450,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\because$$ $${z^2} + \\overline z  = 0$$</p>\n<p>Let $$z = x + iy$$</p>\n<p>$$\\therefore$$ $${x^2} - {y^2} + 2ixy + x - iy = 0$$</p>\n<p>$$({x^2} - {y^2} + x) + i(2xy - y) = 0$$</p>\n<p>$$\\therefore$$ $${x^2} + {y^2} = 0$$ and $$(2x - 1)y = 0$$</p>\n<p>if $$x = \\, + \\,{1 \\over 2}$$ then $$y = \\, \\pm \\,{{\\sqrt 3 } \\over 2}$$</p>\n<p>And if $$y = 0$$ then $$x = 0, - 1$$</p>\n<p>$$\\therefore$$ $$z = 0 + 0i, - 1 + 0i,{1 \\over 2} + {{\\sqrt 3 } \\over 2}i,{1 \\over 2} - {{\\sqrt 3 } \\over 2}i$$</p>\n<p>$$\\therefore$$ $$\\sum {\\left( {{R_e}(z) + m(z)} \\right) = 0} $$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3459,13 +3459,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jeicx4",
+    "id": "0kisU6LLOL",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "functional-equations",
     "chapter": "functions",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let $$f(x) = 2x^2 - x - 1$$ and $$S = \\{n \\in \\mathbb{Z} : |f(n)| \\leq 800\\}$$. Then, the value of $$\\sum_{n \\in S} f(n)$$ is equal to</p></div>",
     "options": {},
@@ -3489,7 +3489,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\because$$ $$\\left| {f(n)} \\right| \\le 800$$</p>\n<p>$$ \\Rightarrow  - 800 \\le 2{n^2} - n - 1 \\le 800$$</p>\n<p>$$ \\Rightarrow 2{n^2} - n - 801 \\le 0$$</p>\n<p>$$\\therefore$$ $$n \\in \\left[ {{{ - \\sqrt {6409}  + 1} \\over 4},{{\\sqrt {6409}  + 1} \\over 4}} \\right]$$ and $$n \\in z$$</p>\n<p>$$\\therefore$$ $$n =  - 19, - 18, - 17,\\,..........,\\,19,20.$$</p>\n<p>$$\\therefore$$ $$\\sum {\\left( {2{x^2} - x - 1} \\right) = 2\\sum {{x^2} - \\sum {x - \\sum 1 } } } $$.</p>\n<p>$$ = 2\\,.\\,2\\,.\\,\\left( {{1^2} + {2^2}\\, + \\,...\\, + \\,{{19}^2}} \\right) + 2\\,.\\,{20^2} - 20 - 40$$</p>\n<p>$$ = 10620$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3498,13 +3498,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jem0yd",
+    "id": "0kisUcpV7h",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "question-based-on-basic-definition-and-parametric-representation",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>If the length of the latus rectum of the ellipse $$x^2 + 4y^2 + 2x + 8y - \\lambda = 0$$ is $$4$$, and $$l$$ is the length of its major axis, then $$\\lambda + l$$ is equal to_______.</p></div>",
     "options": {},
@@ -3528,7 +3528,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Equation of ellipse is : $${x^2} + 4{y^2} + 2x + 8y - \\lambda  = 0$$</p>\n<p>$${(x + 1)^2} + 4{(y + 1)^2} = \\lambda  + 5$$</p>\n<p>$${{{{(x + 1)}^2}} \\over {\\lambda  + 5}} + {{{{(y + 1)}^2}} \\over {\\left( {{{\\lambda  + 5} \\over 4}} \\right)}} = 1$$</p>\n<p>Length of latus rectum $$ = {{2\\,.\\,\\left( {{{\\lambda  + 5} \\over 4}} \\right)} \\over {\\sqrt {\\lambda  + 5} }} = 4$$.</p>\n<p>$$\\therefore$$ $$\\lambda  = 59$$.</p>\n<p>Length of major axis $$ = 2\\,.\\,\\sqrt {\\lambda  + 5}  = 16 = l$$</p>\n<p>$$\\therefore$$ $$\\lambda  + l = 75$$.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3537,13 +3537,13 @@
     "year": 2022
   },
   {
-    "id": "1l6je3gl6",
+    "id": "0kisUkGsk5",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "question-based-on-basic-definition-and-parametric-representation",
-    "chapter": "hyperbola",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "conic-sections-hyperbola",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>An ellipse $$E : \\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$$ passes through the vertices of the hyperbola $$H : \\frac{x^2}{49} - \\frac{y^2}{64} = -1$$. Let the major and minor axes of the ellipse $$E$$ coincide with the transverse and conjugate axes of the hyperbola $$H$$. Let the product of the eccentricities of $$E$$ and $$H$$ be $$\\frac{1}{2}$$. If $$l$$ is the length of the latus rectum of the ellipse $$E$$, then the value of $$113l$$ is equal to______.</p></div>",
     "options": {},
@@ -3567,7 +3567,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Vertices of hyperbola $$ = (0,\\, \\pm \\,8)$$</p>\n<p>As ellipse pass through it i.e.,</p>\n<p>$$0 + {{64} \\over {{b^2}}} = 1 \\Rightarrow {b^2} = 64$$ ...... (1)</p>\n<p>As major axis of ellipse coincide with transverse axis of hyperbola we have b > a i.e.</p>\n<p>$${e_E} = \\sqrt {1 - {{{a^2}} \\over {64}}}  = {{\\sqrt {64 - {a^2}} } \\over 8}$$</p>\n<p>and $${e_H} = \\sqrt {1 + {{49} \\over {64}}}  = {{\\sqrt {113} } \\over 8}$$</p>\n<p>$$\\therefore$$ $${e_E}\\,.\\,{e_H} = {1 \\over 2} = {{\\sqrt {64 - {a^2}} \\sqrt {113} } \\over {64}}$$</p>\n<p>$$ \\Rightarrow (64 - {a^2})(113) = {32^2}$$</p>\n<p>$$ \\Rightarrow {a^2} = 64 - {{1024} \\over {113}}$$</p>\n<p>L.R of ellipse $$ = {{2{a^2}} \\over b} = {2 \\over 8}\\left( {{{113 \\times 64 - 1024} \\over {113}}} \\right)$$</p>\n<p>$$ = l = {{1552} \\over {113}}$$</p>\n<p>$$\\therefore$$ $$113l = 1552$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3576,13 +3576,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jdvjzw",
+    "id": "0kisTokMuf",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
     "chapter": "statistics",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>The mean and variance of $$10$$ observations were calculated as $$15$$ and $$15$$ respectively by a student who took by mistake $$25$$ instead of $$15$$ for one observation. Then, the correct standard deviation is______.</p></div>",
     "options": {},
@@ -3606,7 +3606,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Given $${{\\sum\\limits_{i = 1}^{10} {{x_i}} } \\over {10}} = 15$$ ..... (1)</p>\n<p>$$ \\Rightarrow \\sum\\limits_{i = 1}^{10} {{x_i} = 150} $$</p>\n<p>and $${{\\sum\\limits_{i = 1}^{10} {x_i^2} } \\over {10}} - {15^2} = 15$$</p>\n<p>$$ \\Rightarrow \\sum\\limits_{i = 1}^{10} {x_i^2 = 2400} $$</p>\n<p>Replacing 25 by 15 we get</p>\n<p>$$\\sum\\limits_{i = 1}^9 {{x_i} + 25 = 150} $$</p>\n<p>$$ \\Rightarrow \\sum\\limits_{i = 1}^9 {{x_i} = 125} $$</p>\n<p>$$\\therefore$$ Correct mean $$ = {{\\sum\\limits_{i = 1}^9 {{x_i} + 15} } \\over {10}} = {{125 + 15} \\over {10}} = 14$$</p>\n<p>Similarly, $$\\sum\\limits_{i = 1}^2 {x_i^2 = 2400 - {{25}^2} = 1775} $$</p>\n<p>$$\\therefore$$ Correct variance $$ = {{\\sum\\limits_{i = 1}^9 {x_i^2 + {{15}^2}} } \\over {10}} - {14^2}$$</p>\n<p>$$ = {{1775 + 225} \\over {10}} - {14^2} = 4$$</p>\n<p>$$\\therefore$$ Correct $$S.D = \\sqrt 4  = 2$$.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3615,13 +3615,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jekbdu",
+    "id": "0kisTqma5x",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "transpose-of-a-matrix",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let $$S$$ be the set containing all $$3 \\times 3$$ matrices with entries from $$\\{-1, 0, 1\\}$$. The total number of matrices $$A \\in S$$ such that the sum of all the diagonal elements of $$A^T A$$ is $$6$$ is</p></div>",
     "options": {},
@@ -3645,7 +3645,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Sum of all diagonal elements is equal to sum of square of each element of the matrix.</p>\n<p>i.e., $$A = \\left[ {\\matrix{\n   {{a_1}} & {{a_2}} & {{a_3}}  \\cr \n   {{b_1}} & {{b_2}} & {{b_3}}  \\cr \n   {{c_1}} & {{c_2}} & {{c_3}}  \\cr \n\n } } \\right]$$</p>\n<p>then $${t_r}\\,(A\\,.\\,{A^T})$$</p>\n<p>$$ = a_1^2 + a_2^2 + a_3^2 + b_1^2 + b_2^2 + b_3^2 + c_1^2 + c_2^2 + c_3^2$$</p>\n<p>$$\\because$$ $${a_i},{b_i},{c_i} \\in \\{  - 1,0,1\\} $$ for $$i = 1,2,3$$</p>\n<p>$$\\therefore$$ Exactly three of them are zero and rest are 1 or $$-$$1.</p>\n<p>Total number of possible matrices $${}^9{C_3} \\times {2^6}$$</p>\n<p>$$ = {{9 \\times 8 \\times 7} \\over 6} \\times 64$$</p>\n<p>$$ = 5376$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3654,13 +3654,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jduff0",
+    "id": "0kisUa7a5p",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "principal-value-of-inverse-trigonometric-functions",
-    "chapter": "inverse-trigonometric-functions",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "inverse-trigonometric-functions-itf",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>For $$k \\in \\mathbb{R}$$, let the solutions of the equation $$\\cos\\left(\\sin^{-1}\\left(x \\cot\\left(\\tan^{-1}\\left(\\cos(\\sin^{-1} x)\\right)\\right)\\right)\\right) = k$$, $$0 &lt; |x| &lt; \\frac{1}{\\sqrt{2}}$$ be $$\\alpha$$ and $$\\beta$$, where the inverse trigonometric functions take only principal values. If the solutions of the equation $$x^2 - bx - 5 = 0$$ are $$\\frac{1}{\\alpha^2} + \\frac{1}{\\beta^2}$$ and $$\\frac{\\alpha}{\\beta}$$, then $$\\frac{b}{k^2}$$ is equal to</p></div>",
     "options": {},
@@ -3684,7 +3684,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$$\\cos \\left( {{{\\sin }^{ - 1}}\\left( {x\\cot \\left( {{{\\tan }^{ - 1}}\\left( {\\cos \\left( {{{\\sin }^{ - 1}}} \\right)} \\right)} \\right)} \\right)} \\right) = k$$</p>\n<p>$$ \\Rightarrow \\cos \\left( {{{\\sin }^{ - 1}}\\left( {x\\cot \\left( {{{\\tan }^{ - 1}}\\sqrt {1 - {x^2}} } \\right)} \\right)} \\right) = k$$</p>\n<p>$$ \\Rightarrow \\cos \\left( {{{\\sin }^{ - 1}}\\left( {{x \\over {\\sqrt {1 - {x^2}} }}} \\right)} \\right) = k$$</p>\n<p>$$ \\Rightarrow {{\\sqrt {1 - 2{x^2}} } \\over {\\sqrt {1 - {x^2}} }} = k$$</p>\n<p>$$ \\Rightarrow {{1 - 2{x^2}} \\over {1 - {x^2}}} = {k^2}$$</p>\n<p>$$ \\Rightarrow 1 - 2{x^2} = {k^2} - {k^2}{x^2}$$</p>\n<p>$$\\therefore$$<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l7ps10fx/454d4b24-e609-4a62-af81-65229ca491c4/559cd2d0-2da8-11ed-8542-f96181a425b5/file-1l7ps10fy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l7ps10fx/454d4b24-e609-4a62-af81-65229ca491c4/559cd2d0-2da8-11ed-8542-f96181a425b5/file-1l7ps10fy.png\" loading=\"lazy\" style=\"max-width:100%;height:auto;display:block;margin:0px auto;max-height:40vh\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Mathematics - Inverse Trigonometric Functions Question 46 English Explanation\"></p>\n<p>$${1 \\over {{\\alpha ^2}}} + {1 \\over {{\\beta ^2}}} = 2\\left( {{{{k^2} - 2} \\over {{k^2} - 1}}} \\right)$$ ...... (1)</p>\n<p>and $${\\alpha  \\over \\beta } =  - 1$$ ...... (2)</p>\n<p>$$\\therefore$$ $$2\\left( {{{{k^2} - 2} \\over {{k^2} - 1}}} \\right)( - 1) =  - 5$$</p>\n<p>$$ \\Rightarrow {k^2} = {1 \\over 3}$$</p>\n<p>and $$b = S.R = 2\\left( {{{{k^2} - 2} \\over {{k^2} - 1}}} \\right) - 1 = 4$$</p>\n<p>$$\\therefore$$ $${b \\over {{k^2}}} = {4 \\over {{1 \\over 3}}} = 12$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3693,13 +3693,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jeeqfu",
+    "id": "0kisTkgem1",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-and-normal",
     "chapter": "application-of-derivatives",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let $$M$$ and $$N$$ be the number of points on the curve $$y^5 - 9xy + 2x = 0$$, where the tangents to the curve are parallel to $$x$$-axis and $$y$$-axis, respectively. Then the value of $$M + N$$ equals</p></div>",
     "options": {},
@@ -3723,7 +3723,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Here equation of curve is</p>\n<p>$${y^5} - 9xy + 2x = 0$$ ...... (i)</p>\n<p>On differentiating : $$5{y^4}{{dy} \\over {dx}} - 9y - 9x{{dy} \\over {dx}} + 2 = 0$$</p>\n<p>$$\\therefore$$ $${{dy} \\over {dx}} = {{9y - 2} \\over {5{y^4} - 9x}}$$</p>\n<p>When tangents are parallel to x-axis then $$9y - 2 = 0$$</p>\n<p>$$\\therefore$$ $$M = 1$$.</p>\n<p>For tangent perpendicular to x-axis</p>\n<p>$$5{y^4} - 9x = 0$$ ...... (ii)</p>\n<p>From equation (i) and (ii) we get only one point.</p>\n<p>$$\\therefore$$ $$N = 1$$.</p>\n<p>$$\\therefore$$ $$M + N = 2$$.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3732,13 +3732,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jeco5d",
+    "id": "0kisUfXD98",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "linear-differential-equations",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let $$y=y(x)$$ be the solution curve of the differential equation $$\\sin(2x^2)\\log_e(\\tan x^2)\\,dy+\\left(4xy-4\\sqrt2\\,x\\sin x^2-\\frac{\\pi}{4}\\right)dx=0,$$ $$0&lt;x&lt;\\sqrt{\\frac{\\pi}{2}},$$ which passes through the point $$\\left(\\sqrt{\\frac{\\pi}{6}},1\\right).$$ Then $$y\\left(\\sqrt{\\frac{\\pi}{3}}\\right)$$ is equal to ______.</p></div>",
     "options": {},
@@ -3762,7 +3762,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>$${{dy} \\over {dx}} + y\\left( {{{4x} \\over {\\sin (2{x^2})\\ln (\\tan {x^2})}}} \\right) = {{4\\sqrt 2 x\\sin \\left( {{x^2} - {\\pi  \\over 4}} \\right)} \\over {\\sin (2{x^2})\\ln (\\tan {x^2})}}$$</p>\n<p>$$I.F = {e^{\\int {{{4x} \\over {\\sin (2{x^2})\\ln (\\tan {x^2})}}dx} }}$$</p>\n<p>$$ = {e^{\\ln |\\ln (\\tan {x^2})}} = \\ln (\\tan {x^2})$$</p>\n<p>$$\\therefore$$ $$\\int {d(y.\\ln (\\tan {x^2})) = \\int {{{4\\sqrt 2 x\\sin \\left( {{x^2} - {\\pi  \\over 4}} \\right)} \\over {\\sin (2{x^2})}}dx} } $$</p>\n<p>$$ \\Rightarrow y\\ln (\\tan {x^2}) = \\ln \\left| {{{\\sec {x^2} + \\tan {x^2}} \\over {{\\mathop{\\rm cosec}\\nolimits} \\,{x^2} - \\cot {x^2}}}} \\right| + C$$</p>\n<p>$$\\ln \\left( {{1 \\over {\\sqrt 3 }}} \\right) = \\ln \\left( {{{{3 \\over {\\sqrt 3 }}} \\over {2 - \\sqrt 3 }}} \\right) + C$$</p>\n<p>$$e = \\ln \\left( {{1 \\over {\\sqrt 3 }}} \\right) - \\ln \\left( {{{\\sqrt 3 } \\over {2 - \\sqrt 3 }}} \\right)$$</p>\n<p>For $$y\\left( {\\sqrt {{\\pi  \\over 3}} } \\right)$$</p>\n<p>$$y\\ln \\left( {\\sqrt 3 } \\right) = \\ln \\left| {{{2 + \\sqrt 3 } \\over {{2 \\over {\\sqrt 3 }} + {1 \\over {\\sqrt 3 }}}}} \\right| + \\ln \\left( {{1 \\over {\\sqrt 3 }}} \\right) - \\ln \\left( {{{\\sqrt 3 } \\over {2\\sqrt 3 }}} \\right)$$</p>\n<p>$$ = \\ln \\left( {2 + \\sqrt 3 } \\right) + \\ln \\left( {{1 \\over {\\sqrt 3 }}} \\right) + \\ln \\left( {{1 \\over {\\sqrt 3 }}} \\right) - \\ln \\left( {{{\\sqrt 3 } \\over {2 - \\sqrt 3 }}} \\right)$$</p>\n<p>$$ \\Rightarrow y\\ln \\sqrt 3  = \\ln \\left( {{1 \\over {\\sqrt 3 }}} \\right)$$</p>\n<p>$$ \\Rightarrow {y \\over 2}\\ln 3 =  - {1 \\over 2}\\ln 3$$</p>\n<p>$$ \\Rightarrow y = 1$$</p>\n<p>$$\\therefore$$ $$\\left| {y\\left( {\\sqrt {{\\pi  \\over 3}} } \\right)} \\right| = 1$$.</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
@@ -3771,13 +3771,13 @@
     "year": 2022
   },
   {
-    "id": "1l6jdxtys",
+    "id": "0kisUgDAbR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-and-plane",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2022-online-27th-july-morning-shift",
-    "paperTitle": "JEE Main 2022 (Online) 27th July Morning Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2022-27-jul-morning",
+    "paperTitle": "JEE Main 2022 - 27 Jul Morning",
     "questionType": "integer",
     "question_text": "<div><p>Let the line $$\\dfrac{x-3}{7} = \\dfrac{y-2}{-1} = \\dfrac{z-3}{-4}$$ intersect the plane containing the lines $$\\dfrac{x-4}{1} = \\dfrac{y+1}{-2} = \\dfrac{z}{1}$$ and $$4ax - y + 5z - 7a = 0 = 2x - 5y - z - 3$$, $$a \\in \\mathbb{R}$$ at the point $$P(\\alpha, \\beta, \\gamma)$$. Then the value of $$\\alpha + \\beta + \\gamma$$  equals ______.</p></div>",
     "options": {},
@@ -3801,7 +3801,7 @@
       {
         "type": "text",
         "title": "method3",
-        "content": "<p>Equation of plane containing the line $$4ax - y + 5z - 7a = 0 = 2x - 5y - z - 3$$ can be written as</p>\n<p>$$4ax - y + 5z - 7a + \\lambda (2x - 5y - z - 3) = 0$$</p>\n<p>$$(4a + 2\\lambda )x - (1 + 5\\lambda )y + (5 - \\lambda )z - (7z + 3\\lambda ) = 0$$</p>\n<p>Which is coplanar with the line</p>\n<p>$${{x - 4} \\over 1} = {{y + 1} \\over { - 2}} = {z \\over 1}$$</p>\n<p>$$4(4a + 2\\lambda ) + (1 + 5\\lambda ) - (7a + 3\\lambda ) = 0$$</p>\n<p>$$9a + 10\\lambda  + 1 = 0$$ ..... (1)</p>\n<p>$$(4a + 2\\lambda )1 + (1 + 5\\lambda )2 + 5 - \\lambda  = 0$$</p>\n<p>$$4a + 11\\lambda  + 7 = 0$$ ...... (2)</p>\n<p>$$a = 1,\\,\\lambda  =  - 1$$</p>\n<p>Equation of plane is $$x + 2y + 3z - 2 = 0$$</p>\n<p>Intersection with the line</p>\n<p>$${{x - 3} \\over 7} = {{y - 2} \\over { - 1}} = {{z - 3} \\over { - 4}}$$</p>\n<p>$$(7t + 3) + 2( - t + 2) + 3( - 4t + 3) - 2 = 0$$</p>\n<p>$$ - 7t + 14 = 0$$</p>\n<p>$$t = 2$$</p>\n<p>So, the required point is $$(17,0, - 5)$$</p>\n<p>$$\\alpha  + \\beta  + \\gamma  = 12$$</p>"
+        "content": ""
       }
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",

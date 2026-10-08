@@ -1,12 +1,12 @@
 [
   {
-    "id": "0b1VEhxv1KQTfukGKZBi0",
+    "id": "0kGKPXvi0v",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "errors-in-measurement",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The area of a square is 5.29 cm$$^2$$. The area of 7 such squares taking into account the significant figures is:</p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2019
   },
   {
-    "id": "VmhYRHaJiN9y2G0KU3fD6",
+    "id": "0kGKQmPHdp",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "variable-acceleration-motion",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The position of a particle as a function of time t, is given by $$x(t) = at + bt^2 - ct^3$$ where a, b and c are constants. When the particles zero acceleration, then its velocity will be:</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2019
   },
   {
-    "id": "DM0Ps3OxhqEIO1tJC8e0I",
+    "id": "0kGKQmPKF7",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "average-acceleration-and-instantaneous-acceleration",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The position vector of a particle changes with time according to the relation $$\\vec{r}(t) = 15t^2\\hat{i} + (4 - 20t^2)\\hat{j}$$. What is the magnitude of the acceleration at $$t = 1$$?</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2019
   },
   {
-    "id": "Xzv5EQELrubBDoHCOLTW1",
+    "id": "0kGKQSmOBt",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "impulse-momentum-theorem",
-    "chapter": "center-of-mass",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "system-of-particles-center-of-mass",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A wedge of mass $$M = 4m$$ lies on a frictionless plane. A particle of mass $$m$$ approaches the wedge with speed $$v$$. There is no friction between the particle and the plane or between the particle and the wedge. The maximum height climbed by the particle on the wedge is given by:</p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2019
   },
   {
-    "id": "RdT8iUaE0q90yW6aBNDmT",
+    "id": "0kGKQSmGO1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "collision",
-    "chapter": "center-of-mass",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "system-of-particles-center-of-mass",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A particle of mass $$m$$ is moving with speed $$2v$$ and collides with a mass $$2m$$ moving with speed $$v$$ in the same direction. After the collision, the first mass is stopped completely while the second one splits into two particles each of mass $$m$$, which move at an angle 45° with respect to the original direction. The speed of each of the moving particle will be:</p></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2019
   },
   {
-    "id": "OcTjHmAdk2nhPme9embPM",
+    "id": "0kGKQTSDqL",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "angular-momentum",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A thin smooth rod of length L and mass M is rotating freely with angular speed $$\\omega_0$$ about an axis perpendicular to the rod and passing through center. Two beads of mass m and negligible size are at the center of the rod initially.The beads of mass $$m$$ and negligible size are at the center of the rod initially. The beads are free to slide along the rod. The angular speed of the system, when the beads reach the opposite ends of the rod, will be:</p></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2019
   },
   {
-    "id": "ANiozDvSSiYK3aYNBxrC5",
+    "id": "0kGKQTSLeD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "moment-of-inertia",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Moment of inertia of a body about a given axis is 1.5 kg m$$^2$$. Initially the body is at rest. In order to produce a rotational kinetic energy of 1200 J, the angular acceleration of 20 rad/s$$^2$$ must be applied about the axis for a duration of:</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2019
   },
   {
-    "id": "nHZUU19s7VE7hQMCgSDac",
+    "id": "0kGKQ4PjwP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "escape-speed-and-motion-of-satellites",
     "chapter": "gravitation",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A test particle is moving in a circular orbit in the gravitational field produced by a mass density $$\\rho(r) = \\frac{K}{r^2}$$. Identify the current relation between the radius R of the particle's orbit and its period T:</p></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2019
   },
   {
-    "id": "KMjeyUxDxZZQMay33DVU1",
+    "id": "0kGKQS6Ivh",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "pressure-density-pascals-law-and-archimedes-principle",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A wooden block floating in a bucket of water has $$\\frac{4}{5}$$ of its volume submerged. When certain amount of an oil is poured into the bucket, it is found that the block is just under the oil surface with half of its volume under water and half in oil. The density of oil relative to that of water is:</p></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2019
   },
   {
-    "id": "5tgz85W1DXyZYJOMhGT85",
+    "id": "0kGKQU8GVF",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "heat-transfer",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two materials having coefficients of thermal conductivity 3K and K and thickness d and 3d respectively, are joined to form a slab as shown in the figure. The temperatures of the outer surfaces are $$\\theta_2$$ and $$\\theta_1$$ respectively, $$(\\theta_2 &gt; \\theta_1)$$. The temperature at the interface is:<br/></p>\n<img class=\"img-responsive\" data-image=\"2bxv5uqifskk\" src=\"https://cracku.in/media/jee/jee-main-2019-apr-09-s2/q10_replace.png\"/></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2019
   },
   {
-    "id": "9QIfFyuj1Z8TR45aMEH0d",
+    "id": "0kGKQU8TVh",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "degree-of-freedom-and-law-of-equipartition-of-energy",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The specific heats, C$$_p$$ and C$$_v$$ of a gas of diatomic molecules, A, are given (in units of J mol$$^{-1}$$ K$$^{-1}$$) by 29 and 22, respectively. Another gas of diatomic molecules, B, has the corresponding values 30 and 21. If they are treated as ideal gases, then:</p></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2019
   },
   {
-    "id": "pukagGVR02XHr15lnwERI",
+    "id": "0kGKQU8BIf",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "specific-heat-capacity-calorimetry-and-change-of-state",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A massless spring (k = 800 N/m), attached with a mass (500 g) is completely immersed in 1 kg of water. The spring is stretched by 2 cm and released so that it starts vibrating. What would be the order of magnitude of the change in the temperature of water when the vibrations stop completely? (Assume that the water container and spring receive negligible heat and specific heat of mass = 400 J/kg K, water = 4184 J/kg K)</p></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2019
   },
   {
-    "id": "l25sS5PIYF23EuyYXSlOP",
+    "id": "0kGKQ3jrgf",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "doppler-effect",
     "chapter": "waves",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two cars A and B are moving away from each other in opposite directions. Both the cars are moving with speed of 20 m s$$^{-1}$$ with respect to the ground. If an observer in car A detects a frequency 2000 Hz of the sound coming from car B, what is the natural frequency of the sound source in car B? (speed of sound in air = 340 m s$$^{-1}$$)</p></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2019
   },
   {
-    "id": "dDpBFrPerkbjbOX4uj3AN",
+    "id": "0kGKQ3jp5N",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "superposition-and-reflection-of-waves",
     "chapter": "waves",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A string 2.0 m long and fixed at its ends is driven by a 240 Hz vibrator. The string vibrates in its third harmonic mode. The speed of the wave and its fundamental frequency is:</p></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2019
   },
   {
-    "id": "YY3uk84puRG86EYnTW7te",
+    "id": "0kGKQUoGYr",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-field-and-electric-field-intensity",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Four point charges -q, +q, +q and -q are placed on y-axis at y = -2d, y = -d, and y = +2d, respectively. The magnitude of the electric field E at a point on the x-axis at x = D, with D &gt;&gt; d, will behave as:</p></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2019
   },
   {
-    "id": "Hqztj32RwUv4gdbjQCirt",
+    "id": "0kGKQWq3jF",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "capacitors-with-dielectric",
-    "chapter": "capacitor",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "electrostatic-potential-and-capacitance",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The parallel combination of two air filled parallel plate capacitors of capacitance C and nC is connected to a battery of voltage, V. When the capacitors are fully charged, the battery is removed and after that a dielectric material of dielectric constant K is placed between the two plates of the first capacitor. The new potential difference of the combined system is:</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2019
   },
   {
-    "id": "pZX3OApbxTGvUBepqcLb6",
+    "id": "0kGKPTCNEH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "resistance-and-resistivity",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A metal wire of resistance 3 $$\\Omega$$ is elongated to make a uniform wire of double its previous length. This new wire is now bent and the ends joined to make a circle. If two points on this circle make an angle 60° at the center, the equivalent resistance between these two points will be:</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2019
   },
   {
-    "id": "Zo4UwXxVxxd17xakDSp73",
+    "id": "0kGKPTCFQP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "galvanometer-voltmeter-and-ammeter",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The resistance of a galvanometer is 50 ohm and the maximum current which can be passed through it is 0.002 A. What resistance must be connected to it in order to convert it into an ammeter of range 0 - 0.5 A?</p></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2019
   },
   {
-    "id": "MNHy91FwKSD3f1uwlCAO6",
+    "id": "0kGKPTCNEI",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "resistance-and-resistivity",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In a conductor, if the number of conduction electrons per unit volume is $$8.5 \\times 10^{28}$$ m$$^{-3}$$ and mean free time is 25 fs (femto second), it's approximate resistivity is: ($$m_e = 9.1 \\times 10^{-31}$$ kg)</p></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2019
   },
   {
-    "id": "IcSQGRlXSXy4MRyzYODvD",
+    "id": "0kGKQ1hzJh",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "inductance-self-and-mutual",
     "chapter": "electromagnetic-induction",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two coils 'P' and 'Q' are separated by some distance. When a current of 3 A flows through coil 'P', a magnetic flux of $$10^{-3}$$ Wb passes through 'Q'. No current is passed through 'Q'. When no current passes through 'P' and a current of 2 A passes through 'Q', the flux through 'P' is:</p></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2019
   },
   {
-    "id": "i8pSsyXVoRGZM78gF6zAq",
+    "id": "0kGKQnl9xB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "moving-coil-galvanometer",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A moving coil galvanometer has a coil with 175 turns and area 1 cm$$^2$$. It uses a torsion band of torsion constant $$10^{-6}$$ N m/rad. The coil is placed in a magnetic field B parallel to its plane. The coil deflects by 1° for a current of 1 mA. The value of B (in tesla) is approximately:</p></div>",
     "options": {
@@ -924,13 +924,13 @@
     "year": 2019
   },
   {
-    "id": "PHlpNnPo3q6wxoYVWyUUy",
+    "id": "0kGKQ1hu77",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "magnetic-flux-faradays-and-lenzs-laws",
     "chapter": "electromagnetic-induction",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A very long solenoid of radius R is carrying current $$I(t) = kte^{-\\alpha t}$$ (k &gt; 0), as a function of time (t $$\\ge$$ 0). Counterclockwise current is taken to be positive. A circular conducting coil of radius 2R is placed in the equatorial plane of the solenoid and concentric with the solenoid. The current induced in the outer coil is correctly depicted, as a function of time, by:</p></div>",
     "options": {
@@ -968,13 +968,13 @@
     "year": 2019
   },
   {
-    "id": "H7wcIWefcCVwIWMeIqsoL",
+    "id": "0kGKPcfQDB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "displacement-current-and-properties-of-em-waves",
     "chapter": "electromagnetic-waves",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Sunlight of intensity 50 W m$$^{-2}$$ is incident normally on the surface of a solar panel. Some part of incident energy (25%) is reflected from the surface and the rest is absorbed. The force exerted on 1 m$$^2$$ surface area will be close to ($$c = 3 \\times 10^8$$ m s$$^{-1}$$):<br/></p></div>",
     "options": {
@@ -1012,13 +1012,13 @@
     "year": 2019
   },
   {
-    "id": "IEKDHT0eM8TDV5qSHppje",
+    "id": "0kGKQYBydt",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "lenses",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A convex lens of focal length 20 cm produces images of the same magnification 2 when an object is kept at two distances $$x_1$$ and $$x_2$$ ($$x_1 &gt; x_2$$) from the lens. The ratio of $$x_1$$ and $$x_2$$ is:</p></div>",
     "options": {
@@ -1056,13 +1056,13 @@
     "year": 2019
   },
   {
-    "id": "W4ZcpX60BGJC3e308a5S9",
+    "id": "0kGKQYBydu",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "lenses",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A thin convex lens L (refractive index = 1.5) is placed on a plane mirror M. When a pin is placed at A, such that OA = 18 cm, its real inverted image is formed at A itself, as shown in figure. When liquid of refractive index $$\\mu_l$$ is put between the lens and the mirror, the pin has to be moved to A', such that OA' = 27 cm, to get its inverted real image at A' itself. The value of $$\\mu_l$$ will be:<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_xRJSaBg.png\"/></div>",
     "options": {
@@ -1100,13 +1100,13 @@
     "year": 2019
   },
   {
-    "id": "sfjqKLesBT3iL5sftnuFC",
+    "id": "0kGKPXFn9t",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "diffraction-and-doppler-effect-of-light",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Diameter of the objective lens of a telescope is 250 cm. For light of wavelength 600 nm coming from a distant object, the limit of resolution of the telescope is close to:</p></div>",
     "options": {
@@ -1144,13 +1144,13 @@
     "year": 2019
   },
   {
-    "id": "asqToXkbxZF251dVWAPp3",
+    "id": "0kGKQYs1In",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "matter-waves-davisson-and-germer-experiment",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A particle 'P' is formed due to a completely inelastic collision of particles 'x' and 'y' having de-Broglie wavelengths '$$\\lambda_x$$' and '$$\\lambda_y$$' respectively. If x and y were moving in opposite directions, then the de-Broglie wavelength of 'P' is:</p></div>",
     "options": {
@@ -1188,13 +1188,13 @@
     "year": 2019
   },
   {
-    "id": "huPUPLVIjXYGZr30XjUD0",
+    "id": "0kGKPZxaNt",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "bohrs-model-and-hydrogen-spectrum",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A He$$^+$$ ion is in its first excited state. Its ionization energy is:</p></div>",
     "options": {
@@ -1232,13 +1232,13 @@
     "year": 2019
   },
   {
-    "id": "kIaHPpe7UD2cHGNnkgfiE",
+    "id": "0kGKQZXqxF",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "digital-circuits",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The logic gate equivalent to the given logic circuit is:<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_ROYglAo.png\"/></div>",
     "options": {
@@ -1276,13 +1276,13 @@
     "year": 2019
   },
   {
-    "id": "5xydr3OdDN6Ihpn7iIZCR",
+    "id": "0kGKQKenVR",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "elements-of-communication-system-and-propagation-of-em-wave",
     "chapter": "communication-systems",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The physical sizes of the transmitter and receiver antenna in a communication system are:</p></div>",
     "options": {
@@ -1320,13 +1320,13 @@
     "year": 2019
   },
   {
-    "id": "ov1PKjoChpAPDQ3efSBqx",
+    "id": "0lB7WdrGUb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "concentration-terms",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>What would be the molality of 20% (mass/mass) aqueous solution of KI? (molar mass of KI = 166 g mol$$^{-1}$$)</p></div>",
     "options": {
@@ -1364,13 +1364,13 @@
     "year": 2019
   },
   {
-    "id": "XaEFXP0Tja2lYqx59Lvx2",
+    "id": "0lB7WbpO7d",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "quantum-mechanical-model-of-atom",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which one of the following about an electron occupying the 1s orbital in a hydrogen atom is incorrect? (The Bohr radius is represented by a$$_0$$).</p></div>",
     "options": {
@@ -1408,13 +1408,13 @@
     "year": 2019
   },
   {
-    "id": "tajJ8St48Q1lcW1qdYfUS",
+    "id": "0lB7XYhjf7",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "molecular-orbital-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Among the following species, the diamagnetic molecule is:</p></div>",
     "options": {
@@ -1452,13 +1452,13 @@
     "year": 2019
   },
   {
-    "id": "O0U4zebzX3GWOMMTmksyG",
+    "id": "0lB7XFl0fx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "real-gas-and-van-der-walls-equation",
     "chapter": "gaseous-state",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>At a given temperature T, gases Ne, Ar, Xe and Kr are found to deviate from ideal gas behaviour. Their equation of state is given as $$p = \\frac{RT}{V - b}$$ at T. Here, b is the van der Waals constant. Which gas will exhibit steepest increase in the plot of Z (compression factor) vs p?</p></div>",
     "options": {
@@ -1496,13 +1496,13 @@
     "year": 2019
   },
   {
-    "id": "T4IWm6qbVm6MnVRfq3V1L",
+    "id": "0lB7XZNh7R",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "first-law-of-thermodynamics",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>During compression of a spring the work done is 10 kJ and 2 kJ escaped to the surroundings as heat. The change in internal energy, $$\\Delta U$$ (in kJ) is:</p></div>",
     "options": {
@@ -1540,13 +1540,13 @@
     "year": 2019
   },
   {
-    "id": "yp8ArAAr9kEsRc578kbmR",
+    "id": "0lB7XXLokT",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ph-buffer-and-indicators",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In an acid-base titration, 0.1 M HCl solution was added to the NaOH solution of unknown strength. Which of the following correctly shows the change of pH of the titration mixture in this experiment?</p>\n<img class=\"img-responsive\" data-image=\"t2a5gpu7c8bf\" src=\"https://cracku.in/media/jee/jee-main-2019-apr-09-s2/q37_replace.png\"/></div>",
     "options": {
@@ -1584,13 +1584,13 @@
     "year": 2019
   },
   {
-    "id": "zZZkl4l577SVoPgv0mnzQ",
+    "id": "0lB7XLAdjF",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "compounds-of-alkaline-earth-metals",
     "chapter": "s-block-elements",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The structures of beryllium chloride in the solid state and vapour phase, respectively, are:<br/></p></div>",
     "options": {
@@ -1628,13 +1628,13 @@
     "year": 2019
   },
   {
-    "id": "YNKUz0vHr32WvL7ebJTXB",
+    "id": "0lB7X2DpXV",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-13-elements-boron-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct statements among I to III regarding group 13 element oxides are,<br/>(I) Boron trioxide is acidic.<br/>(II) Oxides of aluminum and gallium are amphoteric.<br/>(III) Oxides of indium and thallium are basic.</p></div>",
     "options": {
@@ -1672,13 +1672,13 @@
     "year": 2019
   },
   {
-    "id": "fXYqgZ7CH9D9l8Wo0HuKi",
+    "id": "0lB7X2Dhjd",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-14-elements-carbon-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The amorphous form of silica is:</p></div>",
     "options": {
@@ -1716,13 +1716,13 @@
     "year": 2019
   },
   {
-    "id": "aoCftFz0i9yWjknXk36xp",
+    "id": "0lB7XLqYaH",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "environmental-pollution",
     "chapter": "environmental-chemistry",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The layer of atmosphere between 10 km to 50 km above the sea level is called as:</p></div>",
     "options": {
@@ -1760,13 +1760,13 @@
     "year": 2019
   },
   {
-    "id": "vYAPREOHuQqFPnH4gftdv",
+    "id": "0lB7WlytmL",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "abnormal-colligative-property-and-vant-hoff-factor",
     "chapter": "solutions",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Molal depression constant for a solvent is 4.0 K kg mol$$^{-1}$$. The depression in the freezing point of the solvent for 0.03 mol kg$$^{-1}$$ solution of K$$_2$$SO$$_4$$ is: (Assume complete dissociation of the electrolyte)</p></div>",
     "options": {
@@ -1804,13 +1804,13 @@
     "year": 2019
   },
   {
-    "id": "mSgr7enqEwoMXtcYZZlWu",
+    "id": "0lB7WkcoSX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "conductance-and-electrolysis",
     "chapter": "electrochemistry",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A solution of Ni(NO$$_3$$)$$_2$$ is electrolyzed between platinum electrode 0.1 Faraday electricity. How many mole of Ni will be deposited at the cathode?</p></div>",
     "options": {
@@ -1848,13 +1848,13 @@
     "year": 2019
   },
   {
-    "id": "BX0f3gu7YGoPxKiu1m8Kn",
+    "id": "0lB7XbPZUP",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "arrhenius-equation",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the given plot of enthalpy of the following reaction between A and B.<br/>A + B $$\\rightarrow$$ C + D. Identify the incorrect statement.</p>\n<img class=\"img-responsive\" data-image=\"cc0uhl3ld5q4\" src=\"https://cracku.in/media/jee/jee-main-2019-apr-09-s2/q44_replace.png\"/></div>",
     "options": {
@@ -1892,13 +1892,13 @@
     "year": 2019
   },
   {
-    "id": "MKcfd78ZBvcfhSe4eYcLR",
+    "id": "0lB7XKUb4L",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "crystal-structure-of-solids",
     "chapter": "solid-state",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>10 mL of 1 mM surfactant solution forms a monolayer covering 0.24 cm$$^2$$ on a polar substrate. If the polar head is approximated as a cube, what is its edge length?<br/></p></div>",
     "options": {
@@ -1936,13 +1936,13 @@
     "year": 2019
   },
   {
-    "id": "rf9wZRwudY6vHrcF02cFc",
+    "id": "0lB7XGR0jZ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "minerals-and-ores",
     "chapter": "isolation-of-elements",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The one that is not a carbonate ore is:</p></div>",
     "options": {
@@ -1980,13 +1980,13 @@
     "year": 2019
   },
   {
-    "id": "OyCo4tb0bZEABK8UBzOr8",
+    "id": "0lB7XGQy8H",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "extractions-of-metals",
     "chapter": "isolation-of-elements",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Assertion: For the extraction of iron, haematite ore is used.<br/>Reason: Haematite is a carbonate ore of iron.</p></div>",
     "options": {
@@ -2024,13 +2024,13 @@
     "year": 2019
   },
   {
-    "id": "C8wM97uJad4kiBxUSAxvh",
+    "id": "0lB7XYhorh",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hydrogen-bonding",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>HF has highest boiling point among hydrogen halides, because it has:</p></div>",
     "options": {
@@ -2068,13 +2068,13 @@
     "year": 2019
   },
   {
-    "id": "YZw5LxVmGvfP0XcP7o2Nb",
+    "id": "0lB7WjwtbV",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "inner-transition-elements-lanthanoids-and-actinoids",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The maximum number of possible oxidation states of actinoids are shown by:</p></div>",
     "options": {
@@ -2112,13 +2112,13 @@
     "year": 2019
   },
   {
-    "id": "czWAhovnDSC6EQ8yCEOxI",
+    "id": "0lB7Wib6Uj",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "coordination-number",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The maximum possible denticities of a ligand given below towards a common transition and inner-transition metal ion, respectively, are:<br/></p>\n<img class=\"img-responsive\" data-image=\"p6ttirtocdow\" src=\"https://cracku.in/media/jee/jee-main-2019-apr-09-s2/q49_replace.png\"/></div>",
     "options": {
@@ -2156,13 +2156,13 @@
     "year": 2019
   },
   {
-    "id": "EqgJ5MWVQbKw7AJZzYit0",
+    "id": "0lB7Wiaygr",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "warners-theory-and-valence-bond-theory",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct statements among I to III are:<br/>(I) Valence bond theory cannot explain the color exhibited by transition metal complexes.<br/>(II) Valence bond theory can predict quantitatively the magnetic properties of transition metal complexes.<br/>(III) Valence bond theory cannot distinguish ligands as weak and strong field ones.</p></div>",
     "options": {
@@ -2200,13 +2200,13 @@
     "year": 2019
   },
   {
-    "id": "itX4w5nABnhW9uESmXjTE",
+    "id": "0lB7X2tkOX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "reaction-of-alkenes",
     "chapter": "hydrocarbons",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Increasing order of reactivity of the following compounds for S$$_N$$1 substitution is:<br/></p>\n<img class=\"img-responsive\" data-image=\"rchh4ha4v2ip\" src=\"https://cracku.in/media/jee/jee-main-2019-apr-09-s2/q51_replace.png\"/></div>",
     "options": {
@@ -2244,13 +2244,13 @@
     "year": 2019
   },
   {
-    "id": "MdVelIX6HfOOQO1NDE66Q",
+    "id": "0lB7X2tsCP",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "reaction-of-alkanes",
     "chapter": "hydrocarbons",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following potential energy (P.E.) diagrams represents the S$$_N$$1 reaction?<br/></p></div>",
     "options": {
@@ -2288,13 +2288,13 @@
     "year": 2019
   },
   {
-    "id": "sjI7WU3tabLqTXuQBMbpM",
+    "id": "0lB7WfDBPF",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-reactions-for-aldehydes-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>p-Hydroxybenzophenone upon reaction with bromine in carbon tetrachloride gives:<br/></p></div>",
     "options": {
@@ -2332,13 +2332,13 @@
     "year": 2019
   },
   {
-    "id": "nloFDKC2WEfANEZUek76g",
+    "id": "0lB7WfDBPG",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-reactions-for-aldehydes-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In the following reaction:<br/>carbonyl compound + MeOH $$\\overset{\\mathrm{HCl}}{\\rightleftharpoons}$$ acetal<br/>Rate of the reaction is the highest for:</p></div>",
     "options": {
@@ -2376,13 +2376,13 @@
     "year": 2019
   },
   {
-    "id": "oWjIID3Xb9YayXDx2OlT5",
+    "id": "0lB7WfD8nx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "preparation-properties-and-uses-of-carboxylic-acids",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The major product of the following reaction is:<br/></p>\n<img class=\"img-responsive\" data-image=\"68brt3xzvz1q\" src=\"https://cracku.in/media/jee/jee-main-2019-apr-09-s2/q55_replace.png\"/></div>",
     "options": {
@@ -2420,13 +2420,13 @@
     "year": 2019
   },
   {
-    "id": "U9m1FAo2xV7Pz2qauhBfn",
+    "id": "0lB7XajedN",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aliphatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The major products A and B for the following reactions are, respectively:<br/></p>\n<img class=\"img-responsive\" data-image=\"5jd2ah8ny89f\" src=\"https://cracku.in/media/jee/jee-main-2019-apr-09-s2/q56_replace.png\"/></div>",
     "options": {
@@ -2464,13 +2464,13 @@
     "year": 2019
   },
   {
-    "id": "IraPHZmXOikPwDmCaphaf",
+    "id": "0lB7Xajc25",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Hinsberg's reagent is:</p></div>",
     "options": {
@@ -2508,13 +2508,13 @@
     "year": 2019
   },
   {
-    "id": "aNkWGXORkOhBbtm2GPJ9x",
+    "id": "0lB7XISihN",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "classification-preparations-and-properties-of-polymers",
     "chapter": "polymers",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following compounds is a constituent of the polymer<br/></p>\n<img class=\"img-responsive\" data-image=\"7b0c7hfpsz2b\" src=\"https://cracku.in/media/jee/jee-main-2019-apr-09-s2/q58_replace.png\">\n<p>?</p></img></div>",
     "options": {
@@ -2552,13 +2552,13 @@
     "year": 2019
   },
   {
-    "id": "oh2gX8P1BErrsCm7nlouY",
+    "id": "0lB7XJogDJ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemicals-in-medicines",
     "chapter": "chemistry-in-everyday-life",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Noradrenaline is a/an:</p></div>",
     "options": {
@@ -2596,13 +2596,13 @@
     "year": 2019
   },
   {
-    "id": "133K4VCn7QfsukBrIHsVK",
+    "id": "0lB7Whuw1x",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "proteins-and-enzymes",
     "chapter": "biomolecules",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The peptide that gives positive ceric ammonium nitrate and carbylamine tests is:</p></div>",
     "options": {
@@ -2640,13 +2640,13 @@
     "year": 2019
   },
   {
-    "id": "r4cRgmuaQNaqnCyfRN18hoxe66ijvwvt235",
+    "id": "0kiiz8Wjmj",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "nature-of-roots",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$m$$ is chosen in the quadratic equation $$(m^2 + 1)x^2 - 3x + (m^2 + 1)^2 = 0$$ such that the sum of its roots is greatest, then the absolute difference of the cubes of its roots is:</p></div>",
     "options": {
@@ -2684,13 +2684,13 @@
     "year": 2019
   },
   {
-    "id": "zgUc015yKq58iZfHNP18hoxe66ijvwujxie",
+    "id": "0kiiyRtPCz",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "algebra-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$z \\in C$$ be such that $$|z| \\lt  1$$. If $$\\omega = \\frac{5 + 3z}{5(1 - z)}$$, then:</p></div>",
     "options": {
@@ -2728,13 +2728,13 @@
     "year": 2019
   },
   {
-    "id": "7PpCk7Hi0qXclaNmDM18hoxe66ijvww22ey",
+    "id": "0kiiyJ5e3l",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-of-series",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The sum of the series $$1 + 2 \\times 3 + 3 \\times 5 + 4 \\times 7 + \\ldots$$ upto 11th term is:</p></div>",
     "options": {
@@ -2772,13 +2772,13 @@
     "year": 2019
   },
   {
-    "id": "QRFlNrjhUGdaY1JzcO18hoxe66ijvwq8ul6",
+    "id": "0kiiyJ5e3m",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-of-series",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Some identical balls are arranged in rows to form an equilateral triangle. The first row consists of one ball, the second row consists of two balls and so on. If 99 more identical balls are added to the total number of balls used in forming the equilateral triangle, then all these balls can be arranged in a square, whose each side contains exactly 2 balls less than the number of balls each side of the triangle contains. Then the number of balls used to form the equilateral triangle is:</p></div>",
     "options": {
@@ -2816,13 +2816,13 @@
     "year": 2019
   },
   {
-    "id": "dYLoLXwINfh5DdmFfC18hoxe66ijvwubvnl",
+    "id": "0kiiyJ5lrd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "arithmetic-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the sum and product of the first three terms in an A.P. are 33 and 1155, respectively, then a value of its 11th term is:</p></div>",
     "options": {
@@ -2860,13 +2860,13 @@
     "year": 2019
   },
   {
-    "id": "ULgVxIF8IPjhg5YNaS18hoxe66ijvwukqgc",
+    "id": "0kiiyUawpF",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If some three consecutive coefficients in the binomial expansion of $$(x + 1)^n$$ in powers of $$x$$ are in the ratio 2 : 15 : 70, then the average of these three coefficients is:</p></div>",
     "options": {
@@ -2904,13 +2904,13 @@
     "year": 2019
   },
   {
-    "id": "G4svy42K3MikqAuXaU18hoxe66ijvwuh9my",
+    "id": "0kiiz9shIf",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "transformation-formula",
-    "chapter": "trigonometric-ratio-and-identites",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "trigonometric-ratios-identities-and-formulas",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The value of $$\\sin 10° \\sin 30° \\sin 50° \\sin 70°$$ is:</p></div>",
     "options": {
@@ -2948,13 +2948,13 @@
     "year": 2019
   },
   {
-    "id": "qWfD2NN5mDxLIypv4d18hoxe66ijvwusm9u",
+    "id": "0kiizAYP9F",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "angle-between-two-lines",
-    "chapter": "straight-lines-and-pair-of-straight-lines",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "straight-lines",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the two lines $$x + (a-1)y = 1$$ and $$2x + a^2y = 1$$, $$(a \\in R - \\{0, 1\\})$$ are perpendicular, then the distance of their point of intersection from the origin is:</p></div>",
     "options": {
@@ -2992,13 +2992,13 @@
     "year": 2019
   },
   {
-    "id": "ZOFJXZMIfDQ8A2XV9I18hoxe66ijvww9skq",
+    "id": "0kiiy6uaqP",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "basic-theorems-of-a-circle",
     "chapter": "circle",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A rectangle is inscribed in a circle with a diameter lying along the line $$3y = x + 7$$. If the two adjacent vertices of the rectangle are $$(-8, 5)$$ and $$(6, 5)$$, then the area of the rectangle (in sq. units) is:</p></div>",
     "options": {
@@ -3036,13 +3036,13 @@
     "year": 2019
   },
   {
-    "id": "p8FE11vq7emHA0SgNw18hoxe66ijvwub61o",
+    "id": "0kiiy6uT2X",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "number-of-common-tangents-and-position-of-two-circle",
     "chapter": "circle",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The common tangent to the circles $$x^2 + y^2 = 4$$ and $$x^2 + y^2 + 6x + 8y - 24 = 0$$ also passes through the point:</p></div>",
     "options": {
@@ -3080,13 +3080,13 @@
     "year": 2019
   },
   {
-    "id": "R82TmCwmYj5NHZ0Vju18hoxe66ijvwvfhji",
+    "id": "0kiizBEX0j",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "normal-to-parabola",
-    "chapter": "parabola",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The area (in sq. units) of the smaller of the two circles that touch the parabola, $$y^2 = 4x$$ at the point $$(1, 2)$$ and the x-axis is:</p></div>",
     "options": {
@@ -3124,13 +3124,13 @@
     "year": 2019
   },
   {
-    "id": "1uvsN9WuUVTtVaGYvw18hoxe66ijvwq7lwv",
+    "id": "0kiizBuZfd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "common-tangent",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the tangent to the parabola $$y^2 = x$$ at a point $$(\\alpha, \\beta)$$, $$(\\beta &gt; 0)$$ is also a tangent to the ellipse, $$x^2 + 2y^2 = 1$$, then $$\\alpha$$ is equal to:</p></div>",
     "options": {
@@ -3168,13 +3168,13 @@
     "year": 2019
   },
   {
-    "id": "jhCiGFJptUGSuZbsqt18hoxe66ijvwvnf7c",
+    "id": "0kiizCaPK5",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "continuity",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$f(x) = [x] - \\left[\\frac{x}{4}\\right]$$, $$x \\in R$$, where $$[x]$$ denotes the greatest integer function, then:</p></div>",
     "options": {
@@ -3212,13 +3212,13 @@
     "year": 2019
   },
   {
-    "id": "BEuYoTmWnNTkZjURIi18hoxe66ijvwvxo14",
+    "id": "0kiiytdQjB",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "logical-connectives",
     "chapter": "mathematical-reasoning",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$p \\Rightarrow (q \\lor r)$$ is False, then the truth values of p, q, r are respectively, (where T is True and F is False)</p></div>",
     "options": {
@@ -3256,13 +3256,13 @@
     "year": 2019
   },
   {
-    "id": "GqaYQGm3JSi2zukbEp18hoxe66ijvww34j1",
+    "id": "0kiiyNpRSb",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "calculation-of-mean-median-and-mode-of-grouped-and-ungrouped-data",
     "chapter": "statistics",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The mean and the median of the following ten numbers in increasing order 10, 22, 26, 29, 34, x, 42, 67, 70, y are 42 and 35 respectively, then $$\\frac{y}{x}$$ is equal to:</p></div>",
     "options": {
@@ -3300,13 +3300,13 @@
     "year": 2019
   },
   {
-    "id": "pLTsdMGhjup9oQjoBN18hoxe66ijvwuynvi",
+    "id": "0kiiyuJOBV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "height-and-distance",
     "chapter": "height-and-distance",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two poles standing on a horizontal ground are of heights 5 m and 10 m respectively. The line joining their tops makes an angle of 15° with the ground. Then the distance (in m) between the poles, is:</p></div>",
     "options": {
@@ -3344,13 +3344,13 @@
     "year": 2019
   },
   {
-    "id": "K7MM9Pd6ljHdsVeV1i18hoxe66ijvwvdh35",
+    "id": "0kiiyPrc2b",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "transpose-of-a-matrix",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The total number of matrices $$A = \\begin{pmatrix} 0 &amp; 2y &amp; 1 \\\\ 2x &amp; y &amp; -1 \\\\ 2x &amp; -y &amp; 1 \\end{pmatrix}$$, $$(x, y \\in R, x \\neq y)$$ for which $$A^TA = 3I_3$$ is:</p></div>",
     "options": {
@@ -3388,13 +3388,13 @@
     "year": 2019
   },
   {
-    "id": "HMsP8Zu83OwHy7SXri18hoxe66ijvwu7iyt",
+    "id": "0kiiyPrEcz",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the system of equations $$2x + 3y - z = 0$$, $$x + ky - 2z = 0$$ and $$2x - y + z = 0$$ has a non-trivial solution $$(x, y, z)$$, then $$\\frac{x}{y} + \\frac{y}{z} + \\frac{z}{x} + k$$ is equal to:</p></div>",
     "options": {
@@ -3432,13 +3432,13 @@
     "year": 2019
   },
   {
-    "id": "w8Zuk7uFMhknNRsWwF18hoxe66ijvww16jt",
+    "id": "0kiiyfQI8P",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "domain",
     "chapter": "functions",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The domain of the definition of the function $$f(x) = \\frac{1}{4 - x^2} + \\log_{10}(x^3 - x)$$ is:</p></div>",
     "options": {
@@ -3476,13 +3476,13 @@
     "year": 2019
   },
   {
-    "id": "TCbtDz0RxmdD0SVTI218hoxe66ijvwvjoqb",
+    "id": "0kiizCaPK6",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "continuity",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the function $$f(x) = \\begin{cases} a|\\pi - x| + 1, &amp; x \\le 5 \\\\ b|x - \\pi| + 3, &amp; x \\gt  5 \\end{cases}$$ is continuous at $$x = 5$$, then the value of $$a - b$$ is:</p></div>",
     "options": {
@@ -3520,13 +3520,13 @@
     "year": 2019
   },
   {
-    "id": "j6dKprjfuC9iNtm3Qv18hoxe66ijvwuw2ce",
+    "id": "0kiiyJljJx",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "rate-of-change-of-quantity",
     "chapter": "application-of-derivatives",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A water tank has the shape of an inverted right circular cone, whose semi-vertical angle is $$\\tan^{-1}\\left(\\frac{1}{2}\\right)$$. Water is poured into it at a constant rate of 5 cubic m/min. Then the rate (in m/min), at which the level of water is rising at the instant when the depth of water in the tank is 10 m; is:</p></div>",
     "options": {
@@ -3564,13 +3564,13 @@
     "year": 2019
   },
   {
-    "id": "PYnBJilIrz8XFwr7gR18hoxe66ijvwvro3u",
+    "id": "0kiiygmKqv",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "standard-integral",
     "chapter": "indefinite-integrals",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\int e^{\\sec x}(\\sec x \\tan x f(x) + (\\sec x \\tan x + \\sec^2 x))dx = e^{\\sec x}f(x) + C$$, then a possible choice of $$f(x)$$ is:</p></div>",
     "options": {
@@ -3608,13 +3608,13 @@
     "year": 2019
   },
   {
-    "id": "ufHaLBHc98mkwrZOC618hoxe66ijvwufwrk",
+    "id": "0kiizDGEyX",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The value of the integral $$\\int_0^1 x\\cot^{-1}(1 - x^2 + x^4) dx$$ is:</p></div>",
     "options": {
@@ -3652,13 +3652,13 @@
     "year": 2019
   },
   {
-    "id": "7eehTp46kzo6JgEura18hoxe66ijvwu5o7l",
+    "id": "0kiizDGMmP",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "newton-lebnitz-rule-of-differentiation",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$f: R \\rightarrow R$$ is a differentiable function and $$f(2) = 6$$, then $$\\lim_{x \\to 2} \\int_6^{f(x)} \\frac{2t \\, dt}{(x - 2)}$$ is:</p></div>",
     "options": {
@@ -3696,13 +3696,13 @@
     "year": 2019
   },
   {
-    "id": "TsupCJrGClDjxoGzUl18hoxe66ijvww5mu1",
+    "id": "0kiizDwCQr",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-bounded-between-the-curves",
-    "chapter": "area-under-the-curves",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "application-of-integrals-area-under-curves",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The area (in sq. units) of the region $$A = \\left\\{(x, y) : \\frac{y^2}{2} \\le x \\le y + 4\\right\\}$$ is:</p></div>",
     "options": {
@@ -3740,13 +3740,13 @@
     "year": 2019
   },
   {
-    "id": "99dcQh1k3EskUV7L8m18hoxe66ijvwuqtuw",
+    "id": "0kiizEcF5l",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "linear-differential-equations",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\cos x \\frac{dy}{dx} - y\\sin x = 6x$$, $$(0 &lt; x &lt; \\frac{\\pi}{2})$$ and $$y\\left(\\frac{\\pi}{3}\\right) = 0$$, then $$y\\left(\\frac{\\pi}{6}\\right)$$ is equal to:</p></div>",
     "options": {
@@ -3784,13 +3784,13 @@
     "year": 2019
   },
   {
-    "id": "5UABRSZyRW07gN53tq18hoxe66ijvww95a3",
+    "id": "0kiiyQXEgb",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "scalar-or-dot-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If a unit vector $$\\vec{a}$$ makes angles $$\\frac{\\pi}{3}$$ with $$\\hat{i}$$, $$\\frac{\\pi}{4}$$ with $$\\hat{j}$$ and $$\\theta \\in (0, \\pi)$$ with $$\\hat{k}$$, then a value of $$\\theta$$ is:</p></div>",
     "options": {
@@ -3828,13 +3828,13 @@
     "year": 2019
   },
   {
-    "id": "SGw6KlnNG3CtzIgUGr18hoxe66ijvwv9w1o",
+    "id": "0kiizFI7LV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The vertices B and C of a $$\\triangle ABC$$ lie on the line, $$\\frac{x + 2}{3} = \\frac{y - 1}{0} = \\frac{z}{4}$$ such that $$BC = 5$$ units. Then the area (in sq. units) of this triangle, given the point $$A(1, -1, 2)$$, is:</p></div>",
     "options": {
@@ -3872,13 +3872,13 @@
     "year": 2019
   },
   {
-    "id": "yodXktCxgD0IJ4xePL18hoxe66ijvwvwdsy",
+    "id": "0kiizFI9wn",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "plane-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let P be the plane, which contains the line of intersection of the planes, $$x + y + z - 6 = 0$$ and $$2x + 3y + z + 5 = 0$$ and it is perpendicular to the xy-plane. Then the distance of the point (0, 0, 256) from P is equal to:</p></div>",
     "options": {
@@ -3916,13 +3916,13 @@
     "year": 2019
   },
   {
-    "id": "bm95iHHu7AMPxaoEUQ18hoxe66ijvwvu5os",
+    "id": "0kiizIg2Qz",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "venn-diagram",
-    "chapter": "sets-and-relations",
-    "paperId": "jee-main-2019-online-9th-april-evening-slot",
-    "paperTitle": "JEE Main 2019 (Online) 9th April Evening Slot",
+    "chapter": "sets-relations-and-functions",
+    "paperId": "jee-main-2019-09-apr-evening",
+    "paperTitle": "JEE Main 2019 - 09 Apr Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two newspapers A and B are published in a city. It is known that 25% of the city population reads A and 20% reads B while 8% reads both A and B. Further, 30% of those who read A but not B look into advertisements and 40% of those who read B but not A look into advertisements, while 50% of those who read both A and B look into advertisements. Then the percentage of the population who look into advertisements is:</p></div>",
     "options": {

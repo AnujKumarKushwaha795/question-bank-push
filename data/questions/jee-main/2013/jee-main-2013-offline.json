@@ -1,12 +1,12 @@
 [
   {
-    "id": "JsYfxzWCG2nBVfIp",
+    "id": "0kGExARLKD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "dimensions-of-physical-quantities",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$[\\epsilon_0]$$ denote the dimensional formula of the permittivity of vacuum. If M = mass, L = length, T = time and A = electric current, then :</p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2013
   },
   {
-    "id": "xyWMmXYRgE7jKZJV",
+    "id": "0kGEy3vwBN",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "projectile-motion",
-    "chapter": "motion-in-a-plane",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "motion-in-plane",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A projectile is given an initial velocity of $$(\\hat{i} + 2\\hat{j})$$ m s$$^{-1}$$, where $$\\hat{i}$$ is along the ground and $$\\hat{j}$$ is along the vertical upward. If $$g = 10$$ m s$$^{-2}$$, the equation of its trajectory is :</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2013
   },
   {
-    "id": "CZSy5f20vTaNvEZY",
+    "id": "0kGEy4btdh",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "pressure-density-pascals-law-and-archimedes-principle",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A uniform cylinder of length L and mass M having cross-sectional area A is suspended, with its length vertical, from a fixed point by a massless spring, such that it is half submerged in a liquid of density $$\\sigma$$ at equilibrium position. The extension $$x_0$$ of the spring when it is in equilibrium is :</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2013
   },
   {
-    "id": "ItHLBj1wfhKlo13J",
+    "id": "0kGEy5Hr61",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "collision",
-    "chapter": "center-of-mass",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "system-of-particles-center-of-mass",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>This question has <b>Statement - I</b> and <b>Statement - II</b>. Of the four choices given after the Statements, choose the one that best describes the two Statements.<br><b>Statement - I:</b> A point particle of mass $$m$$ moving with speed $$v$$ collides with stationary point particle of mass $$M$$. If the maximum energy loss possible is given as $$f\\left(\\frac{1}{2}mv^2\\right)$$ then $$f = \\left(\\frac{m}{M+m}\\right)$$.<br/><b>Statement - II:</b> Maximum energy loss occurs when the particles get stuck together as a result of the collision.</br></p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2013
   },
   {
-    "id": "pArPnFOcPLv5DIR5",
+    "id": "0kGEy5xoYL",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "angular-momentum",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A hoop of radius r and mass m rotating with an angular velocity $$\\omega_0$$ is placed on a rough horizontal surface. The initial velocity of the centre of the hoop is zero. What will be the velocity of the centre of the hoop when it ceases to slip?</p></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2013
   },
   {
-    "id": "6Ot3CDBrI7pZoxru",
+    "id": "0kGExgvKeP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "escape-speed-and-motion-of-satellites",
     "chapter": "gravitation",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>What is the minimum energy required to launch a satellite of mass m from the surface of a planet of mass M and radius R in a circular orbit at an altitude of 2R?</p></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2013
   },
   {
-    "id": "w4tsdA6ByCH4Xlro",
+    "id": "0kGEy6dm0f",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "specific-heat-capacity-calorimetry-and-change-of-state",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Assume that a drop of a liquid evaporates by a decrease in its surface energy so that its temperature remains unchanged. The minimum radius of the drop for this to be possible is. (The surface tension is T, the density of the liquid is $$\\rho$$ and L is its latent heat of vaporisation.)</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2013
   },
   {
-    "id": "KXQRaTE2ah8J9qF2",
+    "id": "0kGEy4bwEz",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "newtons-law-of-cooling",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If a piece of metal is heated to temperature $$\\theta$$ and then allowed to cool in a room which is at temperature $$\\theta_0$$, the graph between the temperature T of the metal and time t will be closest to :<br/></p></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2013
   },
   {
-    "id": "MZsQjbiI6g0HSqBL",
+    "id": "0kGEy6dobx",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "thermodynamics-process",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The below P-V diagram represents the thermodynamic cycle of an engine, operating with an ideal mono-atomic gas. The amount of heat, extracted from the source in a single cycle, is:<br/></p>\n<img class=\"img-responsive\" data-image=\"r5ix24sjqz3u\" src=\"https://cracku.in/media/jee/jee-main-2013-apr-07-offline/q9_replace.png\"/></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2013
   },
   {
-    "id": "vpssfco95NSf7bXl",
+    "id": "0kGEy7JjSz",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-charges-and-coulombs-law",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Two charges, each equal to q, are kept at $$x = -a$$ and $$x = a$$ on the x-axis. A particle of mass m and charge $$q_0 = -\\frac{q}{2}$$ is placed at the origin. If charge $$q_0$$ is given a small displacement ($$y &lt;&lt; a$$) along the y-axis, the net force acting on the particle is proportional to :</p></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2013
   },
   {
-    "id": "2bzyhJzXtz4R5ytc",
+    "id": "0kGEy7zgvJ",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "some-systems-of-executing-shm",
-    "chapter": "simple-harmonic-motion",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "oscillations-simple-harmonic-motion",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>An ideal gas enclosed in a vertical cylindrical container supports a freely moving piston of mass M. The piston and the cylinder have equal cross-sectional area A. When the piston is in equilibrium, the volume of the gas is $$V_0$$ and its pressure is $$M_0$$. The piston is slightly displaced from the equilibrium position and released. Assuming that the system is completely isolated from its surrounding, the piston executes a simple harmonic motion with frequency<br/>[Assume the system is in space.]</p></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2013
   },
   {
-    "id": "hQq5s6CvCiT8jEcd",
+    "id": "0kGExgFNC5",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "basic-of-waves-and-progressive-waves",
     "chapter": "waves",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A sonometer wire of length 1.5 m is made of steel. The tension in it produces an elastic strain of 1%. What is the fundamental frequency of steel if density and elasticity of steel are $$7.7 \\times 10^3$$ kg m$$^{-3}$$ and $$2.2 \\times 10^{11}$$ N m$$^{-2}$$ respectively?</p></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2013
   },
   {
-    "id": "MAgvQPZTOXeSyXPG",
+    "id": "0kGEy7Jm4H",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-potential-energy-and-electric-potential",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A charge Q is uniformly distributed over a long rod AB of length L as shown in the figure. The electric potential at the point O lying at a distance L from the end A is :<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_VQU5MvJ.png\"/></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2013
   },
   {
-    "id": "77IfQmGHKpIKU2PC",
+    "id": "0kGEy8feNd",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "growth-and-decay-of-current",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>In an LCR circuit shown below, both the switches are open initially. Now switch $$S_1$$ is closed, $$S_2$$ kept open. (q is charge on the capacitor and $$\\tau$$ = RC is capacitive time constant). Which of the following statement is correct?<br/></p>\n<img class=\"img-responsive\" data-image=\"2x7t3ji9jbmb\" src=\"https://cracku.in/media/jee/jee-main-2013-apr-07-offline/q14_replace.png\"/></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2013
   },
   {
-    "id": "b26FDjxWYnZBwJ5B",
+    "id": "0kGEy9Lbpx",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "combination-of-capacitors",
-    "chapter": "capacitor",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "electrostatic-potential-and-capacitance",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Two capacitors $$C_1$$ and $$C_2$$ are charged to 120 V and 200 V respectively. It is found that by connecting them together the potential on each one can be made zero. Then:</p></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2013
   },
   {
-    "id": "Zz73Qo0XAcyd5G1N",
+    "id": "0kGEx5hd7x",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-power-and-heating-effect-of-current",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The supply voltage to a room is 120 V. The resistance of the lead wires is 6 $$\\Omega$$. A 60 W bulb is already switched on. What is the decrease of voltage across the bulb, when a 240 W heater is switched on in parallel to the bulb?</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2013
   },
   {
-    "id": "EMaCvdCkcJFexPVY",
+    "id": "0kGEx5hq8P",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "galvanometer-voltmeter-and-ammeter",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>This question has <b>Statement I</b> and <b>Statement II</b>. Of the four choices given after the Statements, choose the one that best describes the two Statements.<br/><b>Statement - I :</b> Higher the range, greater is the resistance of ammeter.<br/><b>Statement - II :</b> To increase the range of ammeter, additional shunt needs to be used across it.</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2013
   },
   {
-    "id": "mhzXiXTuZGuYVtGL",
+    "id": "0kGEyA1ZIH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "bar-magnet-or-magnetic-dipole",
-    "chapter": "magnetic-properties-of-matter",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "magnetism-and-matter",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Two short bar magnets of length 1 cm each have magnetic moments 1.20 A m$$^2$$ and 1.00 A m$$^2$$ respectively. They are placed on a horizontal table parallel to each other with their N poles pointing towards the south. They have a common magnetic equator and are separated by a distance of 20.0 cm. The value of the resultant horizontal magnetic induction at the mid-point O of the line joining their centres is close to<br/>(Horizontal component of earth's magnetic induction is $$3.6 \\times 10^{-5}$$ Wb m$$^{-2}$$)</p></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2013
   },
   {
-    "id": "t51yn2trMag4Bh27",
+    "id": "0kGExeDXQP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motional-emf-and-eddy-current",
     "chapter": "electromagnetic-induction",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A metallic rod of length $$l$$ is tied to a string of length $$2l$$ and made to rotate with angular speed $$\\omega$$ on a horizontal table with one end of the string fixed. If there is a vertical magnetic field B in the region, the e.m.f. induced across the ends of the rod is:<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_cPrQz4O.png\"/></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2013
   },
   {
-    "id": "pfF8gbSS873dkLa4",
+    "id": "0kGExeDUp7",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "magnetic-flux-faradays-and-lenzs-laws",
     "chapter": "electromagnetic-induction",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A circular loop of radius 0.3 cm lies parallel to a much bigger circular loop of radius 20 cm. The centre of the small loop is on the axis of the bigger loop. The distance between their centres is 15 cm. If a current of 2.0 A flows through the smaller loop, then the flux linked with a bigger loop is:</p></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2013
   },
   {
-    "id": "VgQ1HInwgYLBv8GP",
+    "id": "0kGEy7zjWb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "forced-damped-oscillations-and-resonance",
-    "chapter": "simple-harmonic-motion",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "oscillations-simple-harmonic-motion",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The amplitude of a damped oscillator decreases to 0.9 times its original magnitude in 5s. In another 10s it will decrease to $$\\alpha$$ times its original magnitude, where $$\\alpha$$ equals :</p></div>",
     "options": {
@@ -924,13 +924,13 @@
     "year": 2013
   },
   {
-    "id": "4c5niHBpA9z8BUuz",
+    "id": "0kGExFB0vB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "displacement-current-and-properties-of-em-waves",
     "chapter": "electromagnetic-waves",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The magnetic field in a travelling electromagnetic wave has a peak value of 20 nT. The peak value of electric field strength is :</p></div>",
     "options": {
@@ -968,13 +968,13 @@
     "year": 2013
   },
   {
-    "id": "6tgODWvGvNb9i7ec",
+    "id": "0kGEyAhWkb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "refraction-tir-and-prism",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The graph between angle of deviation ($$\\delta$$) and angle of incidence ($$i$$) for a triangular prism is represented by :<br/></p></div>",
     "options": {
@@ -1012,13 +1012,13 @@
     "year": 2013
   },
   {
-    "id": "QBKQfus1LKHDHtNk",
+    "id": "0kGEyAhZLt",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "lenses",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Diameter of a plano-convex lens is 6 cm and thickness at the centre is 3 mm. If the speed of light in the material of lens is $$2 \\times 10^8$$ m s$$^{-1}$$, the focal length of the lens is:</p></div>",
     "options": {
@@ -1056,13 +1056,13 @@
     "year": 2013
   },
   {
-    "id": "opyZi55h8LkfaBuD",
+    "id": "0kGEx9lQTB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "polarisation",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A beam of unpolarised light of intensity $$I_0$$ is passed through a polaroid A and then through another polaroid B which is oriented so that its principle plane makes an angle of 45° relative to that of A. The intensity of the emergent light is:</p></div>",
     "options": {
@@ -1100,13 +1100,13 @@
     "year": 2013
   },
   {
-    "id": "Te7hFLkPxifvIK9L",
+    "id": "0kGEx9lLGb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "huygens-principle-and-interference-of-light",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Two coherent point sources $$S_1$$ and $$S_2$$ are separated by a small distance $$d$$ as shown in the figure. The fringes obtained on the screen will be<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_NTozYog.png\"/></div>",
     "options": {
@@ -1144,13 +1144,13 @@
     "year": 2013
   },
   {
-    "id": "EfuANHkP3EUeGXxQ",
+    "id": "0kGEyBNUCv",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "photoelectric-effect",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The anode voltage of a photocell is kept fixed. The wavelength $$\\lambda$$ of the light falling on the cathode is gradually changed. The plate current I of the photocell varies as follows :<br/></p></div>",
     "options": {
@@ -1188,13 +1188,13 @@
     "year": 2013
   },
   {
-    "id": "EMS4NwMsxXTATMl3",
+    "id": "0kGExCTB5t",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "bohrs-model-and-hydrogen-spectrum",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>In a hydrogen like atom electron makes transition from an energy level with quantum number n to another with quantum number (n - 1). If n &gt;&gt; 1, the frequency of radiation emitted is proportional to :</p></div>",
     "options": {
@@ -1232,13 +1232,13 @@
     "year": 2013
   },
   {
-    "id": "vUCzm5XSldohMn9P",
+    "id": "0kGEyC3RfF",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "digital-circuits",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A diode detector is used to detect an amplitude modulated wave of 60% modulation by using a condenser of capacity 250 pico farad in parallel with a load resistance of 100 kilo ohm. Find the maximum modulated frequency which could be detected by it.</p></div>",
     "options": {
@@ -1276,13 +1276,13 @@
     "year": 2013
   },
   {
-    "id": "CYp022BAkRHNXNEX",
+    "id": "0kGEyC3UGX",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "semiconductor-and-p-n-junction-diode",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The I-V characteristics of an LED is:</p></div>",
     "options": {
@@ -1320,13 +1320,13 @@
     "year": 2013
   },
   {
-    "id": "3ERrWbhv3mTCxxp8",
+    "id": "0lB24GMrCb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "concentration-terms",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The molarity of a solution obtained by mixing 750 mL of 0.5(M) HCl with 250 mL of 2(M) HCl will be</p></div>",
     "options": {
@@ -1364,13 +1364,13 @@
     "year": 2013
   },
   {
-    "id": "RKYX99CCwQPpDEDk",
+    "id": "0lB259rPST",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ph-buffer-and-indicators",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>How many litres of water must be added to 1 litre of aqueous solution of HCl with a pH of 1 to create an aqueous solution with pH of 2?</p></div>",
     "options": {
@@ -1408,13 +1408,13 @@
     "year": 2013
   },
   {
-    "id": "sEZTscq20HMkpB6y",
+    "id": "0lB24GMm01",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "quantitative-measures-in-chemical-equations",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Experimentally it was found that a metal oxide has formula $$M_{0.98}O$$. Metal M, is present as $$M^{2+}$$ and $$M^{3+}$$ in its oxide. Fraction of the metal which exists as $$M^{3+}$$ would be:</p></div>",
     "options": {
@@ -1452,13 +1452,13 @@
     "year": 2013
   },
   {
-    "id": "KAOBLLxcrPv5D22n",
+    "id": "0lB24GMm02",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "quantitative-measures-in-chemical-equations",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A gaseous hydrocarbon on combustion gives 0.72 g of water and 3.08 g $$CO_2$$. What is the empirical formula of the hydrocarbon?</p></div>",
     "options": {
@@ -1496,13 +1496,13 @@
     "year": 2013
   },
   {
-    "id": "EJfaZP3w13VOJxuS",
+    "id": "0lB24EKtd3",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hydrogen-spectrum",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Energy of an electron is given by $$E = -2.178 \\times 10^{-18}\\left(\\frac{Z^2}{n^2}\\right)$$ J. Wavelength of light required to excite an electron in a hydrogen atom from level n=1 to n=2 will be :<br/>$$(h = 6.62 \\times 10^{-34}$$ Js and $$c = 3.0 \\times 10^8$$ ms$$^{-1})$$</p></div>",
     "options": {
@@ -1540,13 +1540,13 @@
     "year": 2013
   },
   {
-    "id": "hwqnaLtz64pNGhiP",
+    "id": "0lB25AXMun",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ionization-energy",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The first ionisation potential of Na is 5.1 eV. The value of electron gain enthalpy of Na$$^+$$ will be :</p></div>",
     "options": {
@@ -1584,13 +1584,13 @@
     "year": 2013
   },
   {
-    "id": "0L67JQ4Hlh6dXi0w",
+    "id": "0lB25AXMuo",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ionization-energy",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following represents the correct order of increasing first ionization enthalpy for Ca, Ba, S, Se and Ar ?</p></div>",
     "options": {
@@ -1628,13 +1628,13 @@
     "year": 2013
   },
   {
-    "id": "71vVjiJV8KEZUIQD",
+    "id": "0lB25BDKN7",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "molecular-orbital-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Stability of the species $$Li_2$$, $$Li_2^-$$ and $$Li_2^+$$ increases in the order of</p></div>",
     "options": {
@@ -1672,13 +1672,13 @@
     "year": 2013
   },
   {
-    "id": "IVnAUloaajyf6Ciz",
+    "id": "0lB25BDKN8",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "molecular-orbital-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "mcqm",
     "question_text": "<div><p>Which one of the following molecules is expected to exhibit paramagnetic behaviour?</p></div>",
     "options": {
@@ -1716,13 +1716,13 @@
     "year": 2013
   },
   {
-    "id": "e9ZZ6hVkVRrr20He",
+    "id": "0lB25BDKN9",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "molecular-orbital-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>In which of the following pairs of molecules/ions, both the species are not likely to exist?</p></div>",
     "options": {
@@ -1760,13 +1760,13 @@
     "year": 2013
   },
   {
-    "id": "BIFrcTtTLO9Ostri",
+    "id": "0lB24sGYmf",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "maxwells-distribution-of-speed",
     "chapter": "gaseous-state",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>For gaseous state, if most probable speed is denoted by $$C^*$$, average speed by $$\\bar{C}$$ and root mean square speed by C, then for many molecules, what is the ratios of these speeds?</p></div>",
     "options": {
@@ -1804,13 +1804,13 @@
     "year": 2013
   },
   {
-    "id": "5pH25xJQ6F1NJ5Kz",
+    "id": "0lB25BtHpR",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "first-law-of-thermodynamics",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A piston filled with 0.04 mol of an ideal gas expands reversibly from 50.0 mL to 375 mL at a constant temperature of 37.0°C. The values of q and w for the process will be<br/>(R = 8.314 J/mol K) (ln7.5 = 2.01)</p></div>",
     "options": {
@@ -1848,13 +1848,13 @@
     "year": 2013
   },
   {
-    "id": "Ee9Rx5oIInUG5CDx",
+    "id": "0lB24oCvqb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "balancing-of-redox-reactions",
     "chapter": "redox-reactions",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the following reaction:<br/>$$x \\ MnO_4^- + y \\ C_2O_4^{2-} + zH^+ \\rightarrow x \\ Mn^{2+} + 2y \\ CO_2 + \\frac{z}{2} H_2O$$<br/>The values of x, y and z in the reaction are, respectively:</p></div>",
     "options": {
@@ -1892,13 +1892,13 @@
     "year": 2013
   },
   {
-    "id": "Nxs37rOCozjzfqn4",
+    "id": "0lB24J4bpJ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "haloarenes",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A solution of (-)1-chloro-1-phenylethane in toluene racemises slowly in the presence of a small amount of $$SbCl_5$$, due to the formation of :</p></div>",
     "options": {
@@ -1936,13 +1936,13 @@
     "year": 2013
   },
   {
-    "id": "A3oB08tJLCc7t8Cm",
+    "id": "0lB24koy9p",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-preparation-and-uses-of-phenols",
     "chapter": "alcohols-phenols-and-ethers",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Arrange the following compounds in order of decreasing acidity :<br/></p>\n<img class=\"img-responsive\" data-image=\"uyny9byr1qdt\" src=\"https://cracku.in/media/jee/jee-main-2013-apr-07-offline/q45_replace.jpeg\"/></div>",
     "options": {
@@ -1980,13 +1980,13 @@
     "year": 2013
   },
   {
-    "id": "PQFXROgIWKLaGWao",
+    "id": "0lB25CZFHl",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "stability-of-intermediate",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The order of stability of the following carbocations:<br/></p>\n<img class=\"img-responsive\" data-image=\"ngtwybovpub6\" src=\"https://cracku.in/media/jee/jee-main-2013-apr-07-offline/q46_replace.png\"/></div>",
     "options": {
@@ -2024,13 +2024,13 @@
     "year": 2013
   },
   {
-    "id": "vCJ0ZXKZ9SArXNQF",
+    "id": "0lB25DFCk5",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The gas leaked from a storage tank of the Union Carbide plant in Bhopal gas tragedy was :</p></div>",
     "options": {
@@ -2068,13 +2068,13 @@
     "year": 2013
   },
   {
-    "id": "Q9p2CUSccdOnmyB2",
+    "id": "0lB24x0JaD",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "type-of-solids-and-their-properties",
     "chapter": "solid-state",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following exists as covalent crystals in the solid state?</p></div>",
     "options": {
@@ -2112,13 +2112,13 @@
     "year": 2013
   },
   {
-    "id": "uw6OJOAmba4vPAyR",
+    "id": "0lB24MSRiD",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Four successive members of the first row of transition elements are listed below with atomic numbers. Which one of them is expected to have the highest $$E^\\circ_{M^{3+}/M^{2+}}$$ value?</p></div>",
     "options": {
@@ -2156,13 +2156,13 @@
     "year": 2013
   },
   {
-    "id": "hfgD93hASiXKWbBb",
+    "id": "0lB25DvACP",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "arrhenius-equation",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The rate of a reaction doubles when its temperature changes from 300K to 310K. Activation energy of such a reaction will be:<br/>$$(R = 8.314$$ JK$$^{-1}$$ mol$$^{-1}$$ and log 2 = 0.301$$)$$</p></div>",
     "options": {
@@ -2200,13 +2200,13 @@
     "year": 2013
   },
   {
-    "id": "Ql4OXRsAXcqFDiN5",
+    "id": "0lB24veGrh",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "colloids",
     "chapter": "surface-chemistry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The coagulating power of electrolytes having ions Na$$^+$$, Al$$^{3+}$$ and Ba$$^{2+}$$ for arsenic sulphide sol increases in the order,</p></div>",
     "options": {
@@ -2244,13 +2244,13 @@
     "year": 2013
   },
   {
-    "id": "bRmQADP4kl0LLP1p",
+    "id": "0lB24ejSqn",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-16-elements-oxygen-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "mcqm",
     "question_text": "<div><p>Which of the following is wrong statement?</p></div>",
     "options": {
@@ -2288,13 +2288,13 @@
     "year": 2013
   },
   {
-    "id": "ZEn7ZcaWUGRdcXzd",
+    "id": "0lB24MSRiE",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following arrangements does <b>not</b> represent the correct order of the property stated against it?</p></div>",
     "options": {
@@ -2332,13 +2332,13 @@
     "year": 2013
   },
   {
-    "id": "l3DCdJawiACbkXOv",
+    "id": "0lB24N8MZF",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "electrochemical-series-cell-and-their-emf",
     "chapter": "electrochemistry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Given:<br/>$$E^\\circ_{Cr^{3+}/Cr} = -0.74$$ V; $$E^\\circ_{MnO_4^-/Mn^{2+}} = 1.51$$ V<br/>$$E^\\circ_{Cr_2O_7^{2-}/Cr^{3+}} = 1.33$$ V; $$E^\\circ_{Cl_2/Cl^-} = 1.36$$ V<br/>Based on the data given above, strongest oxidising agent will be:</p></div>",
     "options": {
@@ -2376,13 +2376,13 @@
     "year": 2013
   },
   {
-    "id": "m3hpz4Vfwxw80D63",
+    "id": "0lB24L6c09",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "isomerism-of-coordination-compounds",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following complex species is not expected to exhibit optical isomerism?</p></div>",
     "options": {
@@ -2420,13 +2420,13 @@
     "year": 2013
   },
   {
-    "id": "OF4fQ69S9QNL7Qbo",
+    "id": "0lB24kovYX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-preparation-and-uses-of-alcohols",
     "chapter": "alcohols-phenols-and-ethers",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>An unknown alcohol is treated with the \"Lucas reagent\" to determine whether the alcohol is primary, secondary or tertiary. Which alcohol reacts fastest and by what mechanism:</p></div>",
     "options": {
@@ -2464,13 +2464,13 @@
     "year": 2013
   },
   {
-    "id": "CLEGaeUtiH0tymt4",
+    "id": "0lB24J4eQb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "haloalkanes",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Compound (A), $$C_8H_9Cl$$, gives a white precipitate when warmed with alcoholic AgNO$$_3$$. Oxidation of (A) gives an acid (B), $$C_8H_6O_4$$. (B) easily forms anhydride on heating. Identify the compound (A).</p></div>",
     "options": {
@@ -2508,13 +2508,13 @@
     "year": 2013
   },
   {
-    "id": "tVO4kJBeRqoqe0Tq",
+    "id": "0lB25DFFLN",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aliphatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>An organic compound A upon reacting with $$NH_3$$ gives B. On heating, B gives C. C in presence of KOH reacts with $$Br_2$$ to give $$CH_3CH_2NH_2$$. A is :<br/></p></div>",
     "options": {
@@ -2552,13 +2552,13 @@
     "year": 2013
   },
   {
-    "id": "GSEYOeCPTrIA1uLw",
+    "id": "0lB25DFFLO",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aliphatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A compound with molecular mass 180 is acylated with $$CH_3COCl$$ to get a compound with molecular mass 390. The number of amino groups presents per molecule of the former compound is</p></div>",
     "options": {
@@ -2596,13 +2596,13 @@
     "year": 2013
   },
   {
-    "id": "6451t5ZoWHeJvsVK",
+    "id": "0lB24KQWjx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "proteins-and-enzymes",
     "chapter": "biomolecules",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Synthesis of each molecule of glucose in photosynthesis involves</p></div>",
     "options": {
@@ -2640,13 +2640,13 @@
     "year": 2013
   },
   {
-    "id": "VNzjOW2ZEWzskMrk",
+    "id": "0kidVwHPEX",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "nature-of-roots",
     "chapter": "application-of-derivatives",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The real number $$k$$ for which the equation, $$2x^3 + 3x + k = 0$$ has two distinct real roots in $$[0, 1]$$ belongs to</p></div>",
     "options": {
@@ -2684,13 +2684,13 @@
     "year": 2013
   },
   {
-    "id": "hpSOJ5blAQVflwER",
+    "id": "0kidWl27UH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "common-roots",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If the equations $$x^2 + 2x + 3 = 0$$ and $$ax^2 + bx + c = 0$$, $$a, b, c \\in R$$, have a common root, then $$a : b : c$$ is:</p></div>",
     "options": {
@@ -2728,13 +2728,13 @@
     "year": 2013
   },
   {
-    "id": "TErZStb9eMi3WgFR",
+    "id": "0kidW4Ohhx",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "argument-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If $$z$$ is a complex number of unit modulus and argument $$\\theta$$, then $$\\arg\\left(\\frac{1+z}{1+\\bar{z}}\\right)$$ can be equal to (given $$z \\neq -1$$)</p></div>",
     "options": {
@@ -2772,13 +2772,13 @@
     "year": 2013
   },
   {
-    "id": "foj68NgT56Ij10bv",
+    "id": "0kidW54sAj",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "number-of-combinations",
     "chapter": "permutations-and-combinations",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$T_n$$ be the number of all possible triangles formed by joining vertices of an $$n$$-sided regular polygon. If $$T_{n+1} - T_n = 10$$, then the value of $$n$$ is :</p></div>",
     "options": {
@@ -2816,13 +2816,13 @@
     "year": 2013
   },
   {
-    "id": "uhYKiIhxgTCzlkLr",
+    "id": "0kidWli4wb",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-inverse-trigonometric-functions",
-    "chapter": "inverse-trigonometric-functions",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "inverse-trigonometric-functions-itf",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If $$x$$, $$y$$, $$z$$ are positive numbers in A.P. and $$\\tan^{-1}x$$, $$\\tan^{-1}y$$ and $$\\tan^{-1}z$$ are also in A.P., then which of the following is correct.</p></div>",
     "options": {
@@ -2860,13 +2860,13 @@
     "year": 2013
   },
   {
-    "id": "lh5wc3i1Vj06rYEy",
+    "id": "0kidVvbEll",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-of-series",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The sum of first 20 terms of the sequence 0.7, 0.77, 0.777, ......, is :</p></div>",
     "options": {
@@ -2904,13 +2904,13 @@
     "year": 2013
   },
   {
-    "id": "3Hpkd6AMmJo5duCX",
+    "id": "0kidW76a8X",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "general-term",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The term independent of $$x$$ in the expansion of $$\\left(\\frac{x+1}{x^{2/3} - x^{1/3} + 1} - \\frac{x-1}{x - x^{1/2}}\\right)^{10}$$ is</p></div>",
     "options": {
@@ -2948,13 +2948,13 @@
     "year": 2013
   },
   {
-    "id": "i5tjd3WubiuGMhss",
+    "id": "0kidWmO2Ov",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "fundamental-identities",
-    "chapter": "trigonometric-ratio-and-identites",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "trigonometric-ratios-identities-and-formulas",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The expression $$\\frac{\\tan A}{1 - \\cot A} + \\frac{\\cot A}{1 - \\tan A}$$ can be written as :</p></div>",
     "options": {
@@ -2992,13 +2992,13 @@
     "year": 2013
   },
   {
-    "id": "XGLyrM09lMV4Qd9v",
+    "id": "0kidWn3zrF",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "angle-between-two-lines",
-    "chapter": "straight-lines-and-pair-of-straight-lines",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "straight-lines",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A ray of light along $$x + \\sqrt{3}y = \\sqrt{3}$$ gets reflected upon reaching X-axis, the equation of the reflected ray is</p></div>",
     "options": {
@@ -3036,13 +3036,13 @@
     "year": 2013
   },
   {
-    "id": "OtQMa91jbhOp68Kd",
+    "id": "0kidWn42SX",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "centers-of-triangle",
-    "chapter": "straight-lines-and-pair-of-straight-lines",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "straight-lines",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The $$x$$-coordinate of the incentre of the triangle that has the coordinates of midpoints of its sides as (0, 1), (1, 1) and (1, 0) is</p></div>",
     "options": {
@@ -3080,13 +3080,13 @@
     "year": 2013
   },
   {
-    "id": "JSdvzTMnngQqBri2",
+    "id": "0kidVjQJMH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-and-normal",
     "chapter": "circle",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The circle passing through (1, -2) and touching the axis of $$x$$ at (3, 0) also passes through the point</p></div>",
     "options": {
@@ -3124,13 +3124,13 @@
     "year": 2013
   },
   {
-    "id": "NtIfshmqF4cgY2Iy",
+    "id": "0kidWnjxJZ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "common-tangent",
-    "chapter": "parabola",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Given : A circle, $$2x^2 + 2y^2 = 5$$ and a parabola, $$y^2 = 4\\sqrt{5}x$$.<br/><strong>Statement - I :</strong> An equation of a common tangent to these curves is $$y = x + \\sqrt{5}$$.<br/><strong>Statement - II :</strong> If the line, $$y = mx + \\frac{\\sqrt{5}}{m}$$ $$(m \\neq 0)$$ is their common tangent, then $$m$$ satisfies $$m^4 - 3m^2 + 2 = 0$$.</p></div>",
     "options": {
@@ -3168,13 +3168,13 @@
     "year": 2013
   },
   {
-    "id": "rlmIdLEuDAejugVr",
+    "id": "0kidWoPult",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "position-of-point-and-chord-joining-of-two-points",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The equation of the circle passing through the foci of the ellipse $$\\frac{x^2}{16} + \\frac{y^2}{9} = 1$$, and having centre at (0, 3) is</p></div>",
     "options": {
@@ -3212,13 +3212,13 @@
     "year": 2013
   },
   {
-    "id": "K2B3XCHyhhQxaDGa",
+    "id": "0kidWp5sED",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "limits-of-trigonometric-functions",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The value of $$\\lim_{x \\to 0} \\frac{(1 - \\cos 2x)(3 + \\cos x)}{x \\tan 4x}$$ is equal to</p></div>",
     "options": {
@@ -3256,13 +3256,13 @@
     "year": 2013
   },
   {
-    "id": "w1f5gbWwTUKeqvXF",
+    "id": "0kidWW91RB",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "logical-connectives",
     "chapter": "mathematical-reasoning",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Consider :<br/><b>Statement - I :</b> $$(p \\wedge \\sim q) \\wedge (\\sim p \\wedge q)$$ is a fallacy.<br/><b>Statement - II :</b> $$(p \\rightarrow q) \\leftrightarrow (\\sim q \\rightarrow \\sim p)$$ is a tautology.</p></div>",
     "options": {
@@ -3300,13 +3300,13 @@
     "year": 2013
   },
   {
-    "id": "yLM7mSC8LrFHWos6",
+    "id": "0kidW0KzZJ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
     "chapter": "statistics",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>All the students of a class performed poorly in Mathematics. The teacher decided to give grace marks of 10 to each of the students. Which of the following statistical measures will not change even after the grace marks were given?</p></div>",
     "options": {
@@ -3344,13 +3344,13 @@
     "year": 2013
   },
   {
-    "id": "XLrrI8GbRHPBpVqu",
+    "id": "0kidWWoytV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "height-and-distance",
     "chapter": "height-and-distance",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>$$ABCD$$ is a trapezium such that $$AB$$ and $$CD$$ are parallel and $$BC \\perp CD$$. If $$\\angle ADB = \\theta$$, $$BC = p$$ and $$CD = q$$, then $$AB$$ is equal to</p></div>",
     "options": {
@@ -3388,13 +3388,13 @@
     "year": 2013
   },
   {
-    "id": "CMaU4ZiR4nN6vcs3UI1qpqahkk8g5fe1k",
+    "id": "0kidW54sAk",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "number-of-combinations",
     "chapter": "permutations-and-combinations",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A$$ and $$B$$ be two sets containing 2 elements and 4 elements respectively. The number of subsets of $$A \\times B$$ having 3 or more elements is :</p></div>",
     "options": {
@@ -3432,13 +3432,13 @@
     "year": 2013
   },
   {
-    "id": "tQwnUOEU3VBd7zli",
+    "id": "0kidW2MuXZ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-determinants",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If $$P = \\begin{bmatrix} 1 &amp; \\alpha &amp; 3 \\\\ 1 &amp; 3 &amp; 3 \\\\ 2 &amp; 4 &amp; 4 \\end{bmatrix}$$ is the adjoint of a $$3 \\times 3$$ matrix $$A$$ and $$|A| = 4$$, then $$\\alpha$$ is equal to</p></div>",
     "options": {
@@ -3476,13 +3476,13 @@
     "year": 2013
   },
   {
-    "id": "DNXywk8s38SOeEaA",
+    "id": "0kidW2MpKz",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The number of values of $$k$$, for which the system of equations :<br/>$$(k+1)x + 8y = 4k$$<br/>$$kx + (k+3)y = 3k - 1$$<br/>has no solution, is :</p></div>",
     "options": {
@@ -3520,13 +3520,13 @@
     "year": 2013
   },
   {
-    "id": "cOntCBTD82jRclEC",
+    "id": "0kidVwxCHh",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "differentiation-of-inverse-trigonometric-function",
     "chapter": "differentiation",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If $$y = \\sec(\\tan^{-1}x)$$, then $$\\frac{dy}{dx}$$ at $$x = 1$$ is equal to</p></div>",
     "options": {
@@ -3564,13 +3564,13 @@
     "year": 2013
   },
   {
-    "id": "i0kX6KoVoB3amGZz",
+    "id": "0kidVwHHQf",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-and-normal",
     "chapter": "application-of-derivatives",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The intercepts on the $$x$$-axis made by tangents to the curve, $$y = \\int_0^x |t| \\ dt$$, $$x \\in R$$, which are parallel to the line $$y = 2x$$, are equal to</p></div>",
     "options": {
@@ -3608,13 +3608,13 @@
     "year": 2013
   },
   {
-    "id": "7Kbr9AwkQApiexVy",
+    "id": "0kidWJHnl3",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "integration-by-substitution",
     "chapter": "indefinite-integrals",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\int f(x)dx = \\psi(x)$$, then $$\\int x^5 f(x^3)dx$$, is equal to</p></div>",
     "options": {
@@ -3652,13 +3652,13 @@
     "year": 2013
   },
   {
-    "id": "ntDZ2U0Brhjp26Vh",
+    "id": "0kidWplpgX",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><b>Statement - I :</b> The value of the integral $$\\int_{\\pi/6}^{\\pi/3} \\frac{dx}{1 + \\sqrt{\\tan x}}$$ is equal to $$\\frac{\\pi}{6}$$.<br/><b>Statement - II :</b> $$\\int_a^b f(x)dx = \\int_a^b f(a + b - x)dx$$.</div>",
     "options": {
@@ -3696,13 +3696,13 @@
     "year": 2013
   },
   {
-    "id": "2vnQTfUpqrB6aQZg",
+    "id": "0kidWqRn8r",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-bounded-between-the-curves",
-    "chapter": "area-under-the-curves",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "application-of-integrals-area-under-curves",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>The area (in square units) bounded by the curves $$y = \\sqrt{x}$$, $$2y - x + 3 = 0$$, X-axis and lying in the first quadrant is</p></div>",
     "options": {
@@ -3740,13 +3740,13 @@
     "year": 2013
   },
   {
-    "id": "DbbeUvxqz32HCdYr",
+    "id": "0kidWr7kbB",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>At present, a firm is manufacturing 2000 items. It is estimated that the rate of change of production P w.r.t. additional number of workers $$x$$ is given by $$\\frac{dP}{dx} = 100 - 12\\sqrt{x}$$. If the firm employs 25 more workers, then the new level of production of items is</p></div>",
     "options": {
@@ -3784,13 +3784,13 @@
     "year": 2013
   },
   {
-    "id": "1moQH12BR5I24J9y",
+    "id": "0kidW32rzt",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "algebra-and-modulus-of-vectors",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If the vectors $$\\vec{AB} = 3\\hat{i} + 4\\hat{k}$$ and $$\\vec{AC} = 5\\hat{i} - 2\\hat{j} + 4\\hat{k}$$ are the sides of a triangle $$ABC$$, then the length of the median through $$A$$ is:</p></div>",
     "options": {
@@ -3828,13 +3828,13 @@
     "year": 2013
   },
   {
-    "id": "CXIqtyKExltEbk3B",
+    "id": "0kidWrni3V",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>If the lines $$\\frac{x-2}{1} = \\frac{y-3}{1} = \\frac{z-4}{-k}$$ and $$\\frac{x-1}{k} = \\frac{y-4}{2} = \\frac{z-5}{1}$$ are coplanar, then $$k$$ can have</p></div>",
     "options": {
@@ -3872,13 +3872,13 @@
     "year": 2013
   },
   {
-    "id": "1rZ38hZcB3hCW5WP",
+    "id": "0kidWrnken",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "plane-in-space",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>Distance between two parallel planes $$2x + y + 2z = 8$$ and $$4x + 2y + 4z + 5 = 0$$ is</p></div>",
     "options": {
@@ -3916,13 +3916,13 @@
     "year": 2013
   },
   {
-    "id": "6W0qksJnJVRp3xfN",
+    "id": "0kidWFEDQH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "binomial-distribution",
     "chapter": "probability",
-    "paperId": "jee-main-2013-offline",
-    "paperTitle": "JEE Main 2013 (Offline)",
+    "paperId": "jee-main-2013",
+    "paperTitle": "JEE Main 2013",
     "questionType": "single-select",
     "question_text": "<div><p>A multiple choice examination has 5 questions. Each question has three alternative answers out of which exactly one is correct. The probability that a student will get 4 or more correct answers just by guessing is :</p></div>",
     "options": {

@@ -1,12 +1,12 @@
 [
   {
-    "id": "3gXwrUFQAXIKxIvf1I7k9k2k5lcx8s4",
+    "id": "0kGNa1ZMhN",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "errors-in-measurement",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>For the four sets of three measured physical quantities as given below. Which of the following options is correct?<br>$$(i)$$ $$A_1 = 24.36, B_1 = 0.0724, C_1 = 256.2$$<br/>$$(ii)$$ $$A_2 = 24.44, B_2 = 16.082, C_2 = 240.2$$<br/>$$(iii)$$ $$A_3 = 25.2, B_3 = 19.2812, C_3 = 236.183$$<br/>$$(iv)$$ $$A_4 = 25, B_4 = 236.191, C_4 = 19.5$$</br></p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2020
   },
   {
-    "id": "T22xjk5EZvVaBxf9n77k9k2k5kupnnb",
+    "id": "0kGNaz7ktl",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "some-systems-of-executing-shm",
-    "chapter": "simple-harmonic-motion",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "oscillations-simple-harmonic-motion",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A spring mass system (mass $$m$$, spring constant $$k$$ and natural length $$l$$) rests in equilibrium on a horizontal disc. The free end of the spring is fixed at the centre of the disc. If the disc together with spring mass system rotates about it's axis with an angular velocity $$\\omega$$, $$(k &gt;&gt; m\\omega^2)$$ the relative change in the length of the spring is best given by the option:</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2020
   },
   {
-    "id": "ZxjUBxMWqDW8EEUc0z7k9k2k5l8xvqh",
+    "id": "0kGNav45MP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "relative-motion-in-two-dimension",
-    "chapter": "motion-in-a-plane",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "motion-in-plane",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A particle starts from the origin at $$t = 0$$ with an initial velocity of $$3.0\\hat{i}$$ m/s and moves in the $$x - y$$ plane with a constant acceleration $$(6.0\\hat{i} + 4.0\\hat{j})$$ m/s$$^2$$. The $$x-$$ coordinate of the particle at the instant when its $$y-$$ coordinate is $$32m$$ is $$D$$ meters. The value of $$D$$ is:</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2020
   },
   {
-    "id": "u9CwJJkzFTx8gwZ5IU7k9k2k5kv9tjp",
+    "id": "0kGNawQ0H3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "center-of-mass-of-continuous-mass-distribution",
-    "chapter": "center-of-mass",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "system-of-particles-center-of-mass",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A rod of length $$l$$ has non-uniform linear mass density given by $$\\rho(x) = a + b\\left(\\frac{x}{l}\\right)^2$$, where $$a$$ and $$b$$ are constants and $$0 &lt; x \\le l$$. The value of $$x$$ for the centre of mass of the rod is at:</p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2020
   },
   {
-    "id": "5rx54d66X0ne3oXiZz7k9k2k5l9guhg",
+    "id": "0kGNawPv4T",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "collision",
-    "chapter": "center-of-mass",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "system-of-particles-center-of-mass",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A particle of mass $$m$$ is projected with a speed $$u$$ from the ground at an angle $$\\theta = \\frac{\\pi}{3}$$ w.r.t. horizontal (x-axis). When it has reached its maximum height, it collides completely inelastically with another particle of the same mass and velocity $$u\\hat{i}$$. The horizontal distance covered by the combined mass before reaching the ground is:</p></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2020
   },
   {
-    "id": "oXr1x48VLDRKi13kts7k9k2k5lbu1m2",
+    "id": "0kGNax5sWn",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "angular-momentum",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A uniformly thick wheel with moment of inertia $$I$$ and radius $$R$$ is free to rotate about its centre of mass (see fig). A massless string is wrapped over its rim and two blocks of masses $$m_1$$ and $$m_2$$ $$(m_1 &gt; m_2)$$ are attached to the ends of the string. The system is released from rest. The angular speed of the wheel when $$m_1$$ descends by a distance $$h$$ is:</p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_fMD2atJ.png\"/></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2020
   },
   {
-    "id": "97LU0e1lqmdn5gpKEK7k9k2k5lc1lci",
+    "id": "0kGNaY3Ocr",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "escape-speed-and-motion-of-satellites",
     "chapter": "gravitation",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Planet $$A$$ has mass $$M$$ and radius $$R$$. Planet $$B$$ has half the mass and half the radius of Planet $$A$$. If the escape velocities from the Planets $$A$$ and $$B$$ are $$v_A$$ and $$v_B$$, respectively, then $$\\frac{v_A}{v_B} = \\frac{n}{4}$$. The value of $$n$$ is:</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2020
   },
   {
-    "id": "mUVu0LQl0pp0OSnnBE7k9k2k5lcepvz",
+    "id": "0kGNavk5Q1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "stress-strain-curve-thermal-stress-and-elastic-pe",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two steel wires having same length are suspended from a ceiling under the same load. If the ratio of their energy stored per unit volume is 1 : 4, the ratio of their diameters is:</p></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2020
   },
   {
-    "id": "ay8zb98JpEnVWbL9Jr7k9k2k5l21i38",
+    "id": "0kGNavkDDt",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "surface-tension-excess-pressure-and-capillarity",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A small spherical droplet of density $$d$$ is floating exactly half immersed in a liquid of density $$\\rho$$ and surface tension $$T$$. The radius of the droplet is (take note that the surface tension applies an upward force on the droplet):</p></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2020
   },
   {
-    "id": "ZfN9md8GtxREfOhQBK7k9k2k5l8i62w",
+    "id": "0kGNaxm0OH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "kinetic-theory-of-gases-and-gas-laws",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two gases - argon (atomic radius 0.07 nm, atomic weight 40) and xenon (atomic radius 0.1 nm, atomic weight 140) have the same number density and are at the same temperature. The ratio of their respective mean free times is closest to:</p></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2020
   },
   {
-    "id": "IZxmnnFa29NVFrr8Kw7k9k2k5kukxcz",
+    "id": "0kGNaXNTlp",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "superposition-and-reflection-of-waves",
     "chapter": "waves",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A wire of length $$L$$ and mass per unit length $$6.0 \\times 10^{-3}$$ kg m$$^{-1}$$ is put under tension of 540 N. Two consecutive frequencies that it resonates at are: 420 Hz and 490 Hz. Then $$L$$ in meters is:</p></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2020
   },
   {
-    "id": "TsixCqbp2jAzncJxD07k9k2k5l2kg1k",
+    "id": "0kGNbHOeET",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "force-and-torque-on-current-carrying-conductor",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A small circular loop of conducting wire has radius $$a$$ and carries current $$I$$. It is placed in a uniform magnetic field $$B$$ perpendicular to its plane such that when rotated slightly about its diameter and released, it starts performing simple harmonic motion of time period $$T$$. The mass of the loop is $$m$$ then:</p></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2020
   },
   {
-    "id": "PA8JFkDL20IZ471iR17k9k2k5kvsfoc",
+    "id": "0kGNbHOrEv",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motion-of-charged-particle-inside-magnetic-field",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>An electron gun is placed inside a long solenoid of radius $$R$$ on its axis. The solenoid has $$n$$ turns/length and carries a current $$I$$. The electron gun shoots an electron along the radius of the solenoid with speed $$v$$. If the electron does not hit the surface of the solenoid, maximum possible value of $$v$$ is (all symbols have their standard meaning):<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_wpvMqct.png\"/></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2020
   },
   {
-    "id": "qefVorS2uEXC7q9z647k9k2k5l5yars",
+    "id": "0kGNaznnYf",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "ac-circuits-and-power-in-ac-circuits",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In $$LC$$ circuit the inductance $$L = 40$$ mH and capacitance $$C = 100$$ $$\\mu$$F. If a voltage $$V(t) = 10\\sin(314t)$$ is applied to the circuit, the current in the circuit is given as:</p></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2020
   },
   {
-    "id": "cQ0ADQHJ7uDl3Y75RP7k9k2k5lb9962",
+    "id": "0kGNb3BYEz",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "semiconductor-and-p-n-junction-diode",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two identical capacitors $$A$$ and $$B$$, charged to the same potential $$5V$$ are connected in two different circuits as shown below at time $$t = 0$$. If the charge on capacitors $$A$$ and $$B$$ at time $$t = CR$$ is $$Q_A$$ and $$Q_B$$ respectively, then (Here $$e$$ is the base of natural logarithm)<br/></p>\n<img class=\"img-responsive\" data-image=\"at15h3zapdbj\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q15_replace.png\"/></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2020
   },
   {
-    "id": "HyCaeOcNWIDUKna9s97k9k2k5l1tg9x",
+    "id": "0kGNa6J4td",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "displacement-current-and-properties-of-em-waves",
     "chapter": "electromagnetic-waves",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A plane electromagnetic wave is propagating along the direction $$\\frac{\\hat{i}+\\hat{j}}{\\sqrt{2}}$$, with its polarization along the direction $$\\hat{k}$$. The correct form of the magnetic field of the wave would be (here $$B_0$$ is an appropriate constant):</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2020
   },
   {
-    "id": "OqaVI8B9VVOnl9Kc1w7k9k2k5l66eku",
+    "id": "0kGNb1paj3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "refraction-tir-and-prism",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>There is a small source of light at some depth below the surface of water (refractive index $$= \\frac{4}{3}$$) in a tank of large cross sectional surface area. Neglecting any reflection from the bottom and absorption by water, percentage of light that emerges out of surface is (nearly):<br/>[Use the fact that surface area of a spherical cap of height $$h$$ and radius of curvature $$r$$ is $$2\\pi rh$$]</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2020
   },
   {
-    "id": "ei2rUmc6Jy9P32f82P7k9k2k5ld8cvl",
+    "id": "0kGNb2VfzF",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "matter-waves-davisson-and-germer-experiment",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>An electron of mass $$m$$ and magnitude of charge $$e$$ at rest, gets accelerated by a constant electric field $$E$$. The rate of change of de-Broglie wavelength of this electron at time $$t$$ is (ignore relativistic effects):</p></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2020
   },
   {
-    "id": "0HchujemsojpIz4Qci7k9k2k5l9kfbd",
+    "id": "0kGNa3bF4L",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "bohrs-model-and-hydrogen-spectrum",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The energy required to ionise a hydrogen like ion in its ground state is 9 Rydbergs. What is the wavelength of the radiation emitted when the electron in this ion jumps from the second excited state to the ground state?</p></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2020
   },
   {
-    "id": "l5xdYu2f8RSot64rM47k9k2k5l1xcks",
+    "id": "0kGNb3BYF0",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "semiconductor-and-p-n-junction-diode",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The current $$i$$ in the network is:<br/></p>\n<img class=\"img-responsive\" data-image=\"vppry6m8zsrl\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q20_replace.png\"/></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2020
   },
   {
-    "id": "JFRS6Oi3mT4XfdvGVi7k9k2k5ldlbd5",
+    "id": "0kGNaxlsaP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "thermodynamics-process",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>Starting at temperature $$300K$$, one mole of an ideal diatomic gas $$(\\gamma = 1.4)$$ is first compressed adiabatically from volume $$V_1$$ to $$V_2 = \\frac{V_1}{16}$$. It is then allowed to expand isobarically to volume $$2V_2$$. If all the processes are the quasi-static then the final temperature of the gas (in $$°K$$) is (to the nearest integer) ___________.</p></div>",
     "options": {},
@@ -919,13 +919,13 @@
     "year": 2020
   },
   {
-    "id": "turqbisDNbatgaMbfE7k9k2k5le99nt",
+    "id": "0kGNayRxqb",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-flux-and-gauss-law",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>An electric field $$\\vec{E} = 4x\\hat{i} - (y^2 + 1)\\hat{j}$$ N/C passes through the box shown in figure. The flux of the electric field through surfaces ABCD and BCGF are marked as $$\\phi_I$$ and $$\\phi_{II}$$ respectively. The absolute difference between $$(\\phi_I - \\phi_{II})$$ is (in Nm$$^2$$/C) ___________.<br/></p>\n<img class=\"img-responsive\" data-image=\"ivkjtlm2lppu\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q22_replace.png\"/></div>",
     "options": {},
@@ -958,13 +958,13 @@
     "year": 2020
   },
   {
-    "id": "p4HS9GP5fPQR3tZrH77k9k2k5lduar7",
+    "id": "0kGNZwpouH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "meter-bridge",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>In a meter bridge experiment $$S$$ is a standard resistance. $$R$$ is a resistance wire. It is found that balancing length is $$l = 25$$ cm. If $$R$$ is replaced by a wire of half length and half diameter that of $$R$$ of same material, then the balancing distance $$l'$$ (in cm) will now be ___________.</p>\n<img class=\"img-responsive\" data-image=\"phyzpc7cevho\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q24_replace.png\"/></div>",
     "options": {},
@@ -997,13 +997,13 @@
     "year": 2020
   },
   {
-    "id": "rkTYmF7CCBdBSCG6uC7k9k2k5le0lhg",
+    "id": "0kGNa0tPF3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "huygens-principle-and-interference-of-light",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>In a Young's double slit experiment 15 fringes are observed on a small portion of the screen when light of wavelength 500 nm is used. Ten fringes are observed on the same section of the screen when another light source of wavelength $$\\lambda$$ is used. Then the value of $$\\lambda$$ is (in nm) ___________.<br/></p></div>",
     "options": {},
@@ -1036,13 +1036,13 @@
     "year": 2020
   },
   {
-    "id": "EUlS5c0QYGAxzEOUvb7k9k2k5ldxvy1",
+    "id": "0kGNb3BYF1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "semiconductor-and-p-n-junction-diode",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>In the circuit shown below, is working as a 8 V dc regulated voltage source. When 12 V is used as an input, the power dissipated (in mW) in each diode is (Considering both zener diodes are identical) ___________.<br/></p>\n<img class=\"img-responsive\" data-image=\"8qq197xzeail\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q25_replace.png\"/></div>",
     "options": {},
@@ -1075,13 +1075,13 @@
     "year": 2020
   },
   {
-    "id": "PNpMWKAgPnACxm6HWa7k9k2k5lfq2nr",
+    "id": "0lBAi1fQtF",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "ionization-energy",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The first and second ionisation enthalpies of a metal are 496 and 4560 kJ mol$$^{-1}$$, respectively. How many moles of HCl and H$$_2$$SO$$_4$$, respectively, will be needed to react completely with 1 mole of the metal hydroxide?</p></div>",
     "options": {
@@ -1119,13 +1119,13 @@
     "year": 2020
   },
   {
-    "id": "pdIvq5dzG9aDYQsA937k9k2k5lkx5ez",
+    "id": "0lBAhmmNRR",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "adsorption",
     "chapter": "surface-chemistry",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A mixture of gases $$O_2$$, $$H_2$$ and CO are taken in a closed vessel containing charcoal. The graph that represents the correct behaviour of pressure with time is:</p></div>",
     "options": {
@@ -1163,13 +1163,13 @@
     "year": 2020
   },
   {
-    "id": "d3f4lJ3VjKthAZZtmx7k9k2k5llm4zr",
+    "id": "0lBAi31YoL",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "second-law-of-thermodynamics",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The true statement amongst the following is:</p></div>",
     "options": {
@@ -1207,13 +1207,13 @@
     "year": 2020
   },
   {
-    "id": "UZbTpLs7LFbcmlQe4b7k9k2k5ll44t0",
+    "id": "0lBAiFCc1h",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-equilibrium-law-of-mass-action-and-equilibrium-constant",
-    "chapter": "chemical-equilibrium",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "equilibrium-chemical",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In the figure shown below reactant A (represented by square) is in equilibrium with product B (represented by circle). The equilibrium constant is (approx):<br/></p>\n<img class=\"img-responsive\" data-image=\"12nw7kmogt1a\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q29_replace.png\"/></div>",
     "options": {
@@ -1251,13 +1251,13 @@
     "year": 2020
   },
   {
-    "id": "iJn3IKg7Pnd9s0V1vS7k9k2k5lla8rp",
+    "id": "0lBAi0zbEn",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "solubility-product-and-common-ion-effect",
-    "chapter": "ionic-equilibrium",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "equilibrium-ionic",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The solubility product of $$Cr(OH)_3$$ at 298K is $$6.0 \\times 10^{-31}$$. The concentration of hydroxide ions in a saturated solution of $$Cr(OH)_3$$ will be:</p></div>",
     "options": {
@@ -1295,13 +1295,13 @@
     "year": 2020
   },
   {
-    "id": "SxP5UynwIehkRfgJOp7k9k2k5llbck3",
+    "id": "0lBAhDaT5N",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "important-compounds-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>5g of zinc is treated separately with an excess of<br>(a) dilute hydrochloric acid and<br>(b) aqueous sodium hydroxide.<br>The ratio of the volumes of $$H_2$$ evolved in these two reactions is:</br></br></br></p></div>",
     "options": {
@@ -1339,13 +1339,13 @@
     "year": 2020
   },
   {
-    "id": "l4SUsVe5rxzI6pqp4d7k9k2k5ll12c5",
+    "id": "0lBAhooL0z",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "physiochemical-trends-in-alkali-metals",
     "chapter": "s-block-elements",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Among the statements (a) - (d), the correct ones are:<br>(a) Lithium has the highest hydration enthalpy among the alkali metals.<br>(b) Lithium chloride is insoluble in pyridine.<br>(c) Lithium cannot form ethynide upon its reaction with ethyne.<br>(d) Both lithium and magnesium react slowly with $$H_2O$$.</br></br></br></br></p></div>",
     "options": {
@@ -1383,13 +1383,13 @@
     "year": 2020
   },
   {
-    "id": "eHmVE8SCvxX0Dv4LEp7k9k2k5lljc6c",
+    "id": "0lBAhVrUDx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-13-elements-boron-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The reaction of $$H_3N_3B_3Cl_3(A)$$ with $$LiBH_4$$ in tetrahydrofuran gives inorganic benzene (B). Further, the reaction of (A) with (C) leads to $$H_3N_3B_3(Me)_3$$. Compounds (B) and (C) respectively, are:</p></div>",
     "options": {
@@ -1427,13 +1427,13 @@
     "year": 2020
   },
   {
-    "id": "OO0ptTctkbylzLMdE87k9k2k5ll2evo",
+    "id": "0lBAi3hbTF",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "electron-displacement-effect",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following has the shortest C - Cl bond?</p></div>",
     "options": {
@@ -1471,13 +1471,13 @@
     "year": 2020
   },
   {
-    "id": "Ul6a8XxIG3rV1ThJDe7k9k2k5lk9cgr",
+    "id": "0lBAhACiP3",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "haloalkanes",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which of the following reactions will not produce a racemic product?</p></div>",
     "options": {
@@ -1515,13 +1515,13 @@
     "year": 2020
   },
   {
-    "id": "EH7XWeAT0VLMyVxT5e7k9k2k5llkutr",
+    "id": "0lBAi2LW9R",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hybridization-and-vsepr-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The number of $$sp^2$$ hybrid orbitals in a molecule of benzene is:</p></div>",
     "options": {
@@ -1559,13 +1559,13 @@
     "year": 2020
   },
   {
-    "id": "Q1Y6jD3B7vnXND9zEC7k9k2k5lkyppv",
+    "id": "0lBAhpUFs1",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "water-pollution",
     "chapter": "environmental-chemistry",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Biochemical Oxygen Demand (BOD) is the amount of oxygen required (in ppm):</p></div>",
     "options": {
@@ -1603,13 +1603,13 @@
     "year": 2020
   },
   {
-    "id": "PcWvMCMNeubZ4zLLhF7k9k2k5ll1ljd",
+    "id": "0lBAhqADKL",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "hard-and-soft-water",
     "chapter": "hydrogen",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Amongst the following, the form of water with the lowest ionic conductance at 298K is:</p></div>",
     "options": {
@@ -1647,13 +1647,13 @@
     "year": 2020
   },
   {
-    "id": "J670qIOJf8TCJbrQOL7k9k2k5lfxdrf",
+    "id": "0lBAhCEYAj",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "crystal-field-theory-cft",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct order of the spin-only magnetic moments of the following complexes is:<br>(I) $$[Cr(H_2O)_6]Br_2$$<br>(II) $$Na_4[Fe(CN)_6]$$<br>(III) $$Na_3[Fe(C_2O_4)_3]$$ $$(\\Delta_0 \\gt  P)$$<br>(IV) $$(Et_4N)_2[CoCl_4]$$</br></br></br></br></p></div>",
     "options": {
@@ -1691,13 +1691,13 @@
     "year": 2020
   },
   {
-    "id": "GXBsGf7nXWdtJ5R3Fp7k9k2k5llk6yl",
+    "id": "0lBAhCEfyb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "isomerism-of-coordination-compounds",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The isomer(s) of $$[Co(NH_3)_4Cl_2]$$ that has/have a Cl - Co - Cl angle of 90$$°$$, is/are:</p></div>",
     "options": {
@@ -1735,13 +1735,13 @@
     "year": 2020
   },
   {
-    "id": "vvsvyQqIrMnVGtRpc87k9k2k5lkt992",
+    "id": "0lBAh8qxtZ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "preparation-methods-for-both-aldehydes-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In the following reaction A is:<br/></p>\n<img class=\"img-responsive\" data-image=\"wfpxsj56va5y\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q41_replace.png\"/></div>",
     "options": {
@@ -1779,13 +1779,13 @@
     "year": 2020
   },
   {
-    "id": "fibeBMM1xZCM35PwXk7k9k2k5llg55d",
+    "id": "0lBAi4NGiX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the following reactions,<br/></p>\n<img class=\"img-responsive\" data-image=\"894xopp1vz08\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q42_replace.png\">\n<p><br>The compound [P] is:</br></p></img></div>",
     "options": {
@@ -1823,13 +1823,13 @@
     "year": 2020
   },
   {
-    "id": "J7XhJynYKhO6Kt8U3c7k9k2k5ll7yd1",
+    "id": "0lBAi4NOWP",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aromatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The decreasing order of basicity of the following amines is:<br/></p>\n<img class=\"img-responsive\" data-image=\"l7dbeum8lsq7\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q43_replace.png\"/></div>",
     "options": {
@@ -1867,13 +1867,13 @@
     "year": 2020
   },
   {
-    "id": "B8frC15krJkPnwFBdf7k9k2k5lkxwrs",
+    "id": "0lBAhm6NNp",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "classification-preparations-and-properties-of-polymers",
     "chapter": "polymers",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which polymer has 'chiral' monomer(s)?</p></div>",
     "options": {
@@ -1911,13 +1911,13 @@
     "year": 2020
   },
   {
-    "id": "8KDcveGMs0DDHM85kg7k9k2k5llhweq",
+    "id": "0lBAiHuUSH",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "detection-of-extra-elements-and-functional-groups",
-    "chapter": "practical-organic-chemistry",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "purification-and-characterisation-of-organic-compounds",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A, B and C are three biomolecules. The results of the tests performed on them are given below:<br/></p><table><tbody><tr><th></th><th>Molisch's test</th><th>Barfoed Test</th><th>Biuret Test</th></tr><tr><td>A</td><td>Positive</td><td>Negative</td><td>Negative</td></tr><tr><td>B</td><td>Positive</td><td>Positive</td><td>Negative</td></tr><tr><td>C</td><td>Negative</td><td>Negative</td><td>Positive</td></tr></tbody></table><br/>A, B and C are respectively:</div>",
     "options": {
@@ -1955,13 +1955,13 @@
     "year": 2020
   },
   {
-    "id": "sAa1Qc9FeH0mL5N0Ag7k9k2k5llryvo",
+    "id": "0lBAh7UvB3",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "concentration-terms",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>10.30 mg of $$O_2$$ is dissolved into a liter of sea water of density 1.03 g/mL. The concentration of $$O_2$$ in ppm is ___________.</p></div>",
     "options": {},
@@ -1994,13 +1994,13 @@
     "year": 2020
   },
   {
-    "id": "kCiU4YyoqPIX04EJvG7k9k2k5llrc1a",
+    "id": "0lBAhFcVrV",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "depression-in-freezing-point",
     "chapter": "solutions",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>A cylinder containing an ideal gas (0.1 mol of 1.0 dm$$^3$$) is in thermal equilibrium with a large volume of 0.5 molal aqueous solution of ethylene glycol at its freezing point. If the stoppers $$S_1$$ and $$S_2$$ (as shown in the figure) are suddenly withdrawn, the volume of the gas in litres after equilibrium is achieved will be ___________.<br>(Given, $$K_f$$(water) $$= 2.0$$ K kg mol$$^{-1}$$, R $$= 0.08$$ dm$$^3$$ atm K$$^{-1}$$ mol$$^{-1}$$)<br/></br></p>\n<img class=\"img-responsive\" data-image=\"48qi7k2zndjb\" src=\"https://cracku.in/media/jee/jee-main-2020-jan-09-s2/q47_replace.png\"/></div>",
     "options": {},
@@ -2033,13 +2033,13 @@
     "year": 2020
   },
   {
-    "id": "eIOYvmNDljtJn4Xrf17k9k2k5llve3e",
+    "id": "0lBAi53EAr",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "arrhenius-equation",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>A sample of milk splits after 60 min at 300K and after 40 min at 400K when the population of lactobacillus acidophilus in it doubles. The activation energy (in kJ/mol) for this process is closest to ___________.<br>(Given, $$R = 8.3$$ J mol$$^{-1}$$ K$$^{-1}$$, $$\\ln\\left(\\frac{2}{3}\\right) = 0.4$$, $$e^{-3} = 4.0$$)</br></p></div>",
     "options": {},
@@ -2072,13 +2072,13 @@
     "year": 2020
   },
   {
-    "id": "8elVg3l68FRHZgcZpe7k9k2k5llwccv",
+    "id": "0lBAhDaT5O",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "important-compounds-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>The sum of the total number of bonds between chromium and oxygen atoms in chromate and dichromate ions is ___________.</p></div>",
     "options": {},
@@ -2111,13 +2111,13 @@
     "year": 2020
   },
   {
-    "id": "K81XXVbNMQ1cTbNxu97k9k2k5llzz2d",
+    "id": "0lBAh8qq5h",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-reactions-for-aldehydes-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>Consider the following reactions: $$A \\xrightarrow[(ii)H_3O^+]{(i)CH_3MBr}B \\xrightarrow[573K]{Cu} 2-methyl-2-butene$$. The mass percentage of carbon in A is ___________.</p></div>",
     "options": {},
@@ -2150,13 +2150,13 @@
     "year": 2020
   },
   {
-    "id": "0lH3KaKfqfK9WMpOSp7k9k2k5kheoi8",
+    "id": "0kim9mJh7R",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "venn-diagram",
-    "chapter": "sets-and-relations",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "sets-relations-and-functions",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$A = \\{x \\in R : |x| &lt; 2\\}$$ and $$B = \\{x \\in R : |x - 2| \\ge 3\\}$$; then:</p></div>",
     "options": {
@@ -2194,13 +2194,13 @@
     "year": 2020
   },
   {
-    "id": "zmYqIAqG6Q4t0K97bk7k9k2k5k7hec6",
+    "id": "0kim9cABSj",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "common-roots",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$a, b \\in R, a \\ne 0$$ be such that the equation, $$ax^2 - 2bx + 5 = 0$$ has a repeated root $$\\alpha$$, which is also a root of the equation, $$x^2 - 2bx - 10 = 0$$. If $$\\beta$$ is the other root of this equation, then $$\\alpha^2 + \\beta^2$$ is equal to:</p></div>",
     "options": {
@@ -2238,13 +2238,13 @@
     "year": 2020
   },
   {
-    "id": "lOLmjWCdgMiaiJ2BWW7k9k2k5khn9k5",
+    "id": "0kim8vWygr",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "modulus-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$z$$ is a complex number satisfying $$|Re(z)| + |Im(z)| = 4$$, then $$|z|$$ cannot be:</p></div>",
     "options": {
@@ -2282,13 +2282,13 @@
     "year": 2020
   },
   {
-    "id": "94MqkDoVjiepQoAoLy7k9k2k5khy3qy",
+    "id": "0kim8mjLLV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "geometric-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$a_n$$ be the $$n^{th}$$ term of a G.P. of positive terms. If $$\\sum_{n=1}^{100} a_{2n+1} = 200$$ and $$\\sum_{n=1}^{100} a_{2n} = 100$$, then $$\\sum_{n=1}^{200} a_n$$ is equal to:</p></div>",
     "options": {
@@ -2326,13 +2326,13 @@
     "year": 2020
   },
   {
-    "id": "2IgmuZ8GACutFW67uv7k9k2k5kh6qs3",
+    "id": "0kim9dWOaP",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-series-problems",
-    "chapter": "trigonometric-ratio-and-identites",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "trigonometric-ratios-identities-and-formulas",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$x = \\sum_{n=0}^{\\infty} (-1)^n \\tan^{2n}\\theta$$ and $$y = \\sum_{n=0}^{\\infty} \\cos^{2n}\\theta$$, for $$0 &lt; \\theta &lt; \\frac{\\pi}{4}$$, then:</p></div>",
     "options": {
@@ -2370,13 +2370,13 @@
     "year": 2020
   },
   {
-    "id": "ClPz4ye6HjzLfomsWE7k9k2k5khuqun",
+    "id": "0kim8yEe6z",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "general-term",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In the expansion of $$\\left(\\frac{x}{\\cos\\theta} + \\frac{1}{x\\sin\\theta}\\right)^{16}$$, if $$l_1$$ is the least value of the term independent of $$x$$ when $$\\frac{\\pi}{8} \\le \\theta \\le \\frac{\\pi}{4}$$ and $$l_2$$ is the least value of the term independent of $$x$$ when $$\\frac{\\pi}{16} \\le \\theta \\le \\frac{\\pi}{8}$$, then the ratio $$l_2 : l_1$$ is equal to:</p></div>",
     "options": {
@@ -2414,13 +2414,13 @@
     "year": 2020
   },
   {
-    "id": "n22hr3tMIhzdm87QTs7k9k2k5khbjd9",
+    "id": "0kim9es3tJ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-to-parabola",
-    "chapter": "parabola",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If one end of a focal chord $$AB$$ of the parabola $$y^2 = 8x$$ is at $$A\\left(\\frac{1}{2}, -2\\right)$$, then the equation of the tangent to it at $$B$$ is:</p></div>",
     "options": {
@@ -2458,13 +2458,13 @@
     "year": 2020
   },
   {
-    "id": "KQHl8wH8Lo2PgjuhB27k9k2k5k6z7ik",
+    "id": "0kim9fY6YD",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-to-ellipse",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The length of the minor axis (along y-axis) of an ellipse in the standard form is $$\\frac{4}{\\sqrt{3}}$$. If this ellipse touches the line $$x + 6y = 8$$ then its eccentricity is:</p></div>",
     "options": {
@@ -2502,13 +2502,13 @@
     "year": 2020
   },
   {
-    "id": "nFlqKR4iPQURZOKVmP7k9k2k5khoedh",
+    "id": "0kim9NH5Pd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "logical-connectives",
     "chapter": "mathematical-reasoning",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$p \\to (p \\wedge \\sim q)$$ is false, then the truth values of $$p$$ and $$q$$ are respectively:</p></div>",
     "options": {
@@ -2546,13 +2546,13 @@
     "year": 2020
   },
   {
-    "id": "smoZSqPnEuRLubvtFV7k9k2k5k6n942",
+    "id": "0kim8tUtJR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solutions-of-system-of-linear-equations-in-two-or-three-variables-using-determinants-and-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The following system of linear equations<br>$$7x + 6y - 2z = 0$$<br>$$3x + 4y + 2z = 0$$<br>$$x - 2y - 6z = 0$$, has:</br></br></br></p></div>",
     "options": {
@@ -2590,13 +2590,13 @@
     "year": 2020
   },
   {
-    "id": "kmmWFv4B3ZGx0zoZFq7k9k2k5khqkpe",
+    "id": "0kim99421R",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "functional-equations",
     "chapter": "functions",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$a - 2b + c = 1$$.<br>If $$f(x) = \\begin{vmatrix} x+a &amp; x+2 &amp; x+1 \\\\ x+b &amp; x+3 &amp; x+2 \\\\ x+c &amp; x+4 &amp; x+3 \\end{vmatrix}$$, then:</br></p></div>",
     "options": {
@@ -2634,13 +2634,13 @@
     "year": 2020
   },
   {
-    "id": "605rQcjA9lhdt5uZLM7k9k2k5k6lz22",
+    "id": "0kim9gE40X",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "continuity",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$[t]$$ denote the greatest integer $$\\le t$$ and $$\\lim_{x \\to 0} x\\left[\\frac{4}{x}\\right] = A$$. Then the function, $$f(x) = [x^2]\\sin(\\pi x)$$ is discontinuous, when $$x$$ is equal to:</p></div>",
     "options": {
@@ -2678,13 +2678,13 @@
     "year": 2020
   },
   {
-    "id": "JDlJzbuL7enwokKQJU7k9k2k5k6v2n8",
+    "id": "0kim8o5YTB",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "differentiation-of-parametric-function",
     "chapter": "differentiation",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$x = 2\\sin\\theta - \\sin 2\\theta$$ and $$y = 2\\cos\\theta - \\cos 2\\theta$$, $$\\theta \\in [0, 2\\pi]$$, then $$\\frac{d^2y}{dx^2}$$ at $$\\theta = \\pi$$ is:</p></div>",
     "options": {
@@ -2722,13 +2722,13 @@
     "year": 2020
   },
   {
-    "id": "DdF7R8tTzx4Kv40prc7k9k2k5khz7tx",
+    "id": "0kim8o5IrR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "methods-of-differentiation",
     "chapter": "differentiation",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$f$$ and $$g$$ be differentiable functions on $$R$$ such that $$fog$$ is the identity function. If for some $$a, b \\in R$$, $$g'(a) = 5$$ and $$g(a) = b$$, then $$f'(b)$$ is equal to:</p></div>",
     "options": {
@@ -2766,13 +2766,13 @@
     "year": 2020
   },
   {
-    "id": "ccqUxwJrneLUb7B9yj7k9k2k5kh9wos",
+    "id": "0kim9gu1Sr",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "newton-lebnitz-rule-of-differentiation",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let a function $$f : [0, 5] \\to R$$ be continuous, $$f(1) = 3$$ and $$F$$ be defined as:<br>$$F(x) = \\int_1^x t^2 g(t) \\; dt$$, where $$g(t) = \\int_1^t f(u) \\; du$$.<br>Then for the function $$F(x)$$, the point $$x = 1$$ is:</br></br></p></div>",
     "options": {
@@ -2810,13 +2810,13 @@
     "year": 2020
   },
   {
-    "id": "7CoM1UAK7oFjOeAfUm7k9k2k5khl5cw",
+    "id": "0kim9APrjV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "integration-by-substitution",
     "chapter": "indefinite-integrals",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\int \\frac{d\\theta}{\\cos^2\\theta(\\tan 2\\theta + \\sec 2\\theta)} = \\lambda \\tan\\theta + 2\\log_e|f(\\theta)| + C$$ where $$C$$ is a constant of integration, then the ordered pair $$(\\lambda, f(\\theta))$$ is equal to:</p></div>",
     "options": {
@@ -2854,13 +2854,13 @@
     "year": 2020
   },
   {
-    "id": "P3CagPVm1jMSVgFFUg7k9k2k5kgx0xy",
+    "id": "0kim9hZr7J",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-bounded-between-the-curves",
-    "chapter": "area-under-the-curves",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "application-of-integrals-area-under-curves",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given: $$f(x) = \\begin{cases} x, &amp; 0 \\le x \\lt  \\frac{1}{2} \\\\ \\frac{1}{2}, &amp; x = \\frac{1}{2} \\\\ 1-x, &amp; \\frac{1}{2} \\lt  x \\le 1 \\end{cases}$$<br>and $$g(x) = \\left(x - \\frac{1}{2}\\right)^2, x \\in R$$. Then, the area (in sq. units) of the region bounded by the curves, $$y = f(x)$$ and $$y = g(x)$$ between the lines $$2x = 1$$ and $$2x = \\sqrt{3}$$, is:</br></p></div>",
     "options": {
@@ -2898,13 +2898,13 @@
     "year": 2020
   },
   {
-    "id": "7QEBB1pQGhFomq6Gq07k9k2k5khh7r2",
+    "id": "0kim9iFoZd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\frac{dy}{dx} = \\frac{xy}{x^2+y^2}$$; $$y(1) = 1$$; then a value of $$x$$ satisfying $$y(x) = e$$ is:</p></div>",
     "options": {
@@ -2942,13 +2942,13 @@
     "year": 2020
   },
   {
-    "id": "izhPmlaiTmaj8SvcuP7k9k2k5khcyom",
+    "id": "0kim96M6zZ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "permutation-and-combination-based-problem",
     "chapter": "probability",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If 10 different balls are to be placed in 4 distinct boxes at random, then the probability that two of these boxes contain exactly 2 and 3 balls is:</p></div>",
     "options": {
@@ -2986,13 +2986,13 @@
     "year": 2020
   },
   {
-    "id": "F1meBFGPVyGyNy1nKL7k9k2k5kh288t",
+    "id": "0kim96MCC9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "probability-distribution-of-a-random-variable",
     "chapter": "probability",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A random variable $$X$$ has the following probability distribution:<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_F8EsZXi.png\">\n<p>Then, $$P(X &gt; 2)$$ is equal to:</p></img></div>",
     "options": {
@@ -3030,13 +3030,13 @@
     "year": 2020
   },
   {
-    "id": "WbC8tVOvR5LmL8klSE7k9k2k5khzuf1",
+    "id": "0kim8mjQY5",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "arithmetic-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>The number of terms common to the two A.P.'s 3, 7, 11, ..., 407 and 2, 9, 16, ..., 709 is ___________.</p></div>",
     "options": {},
@@ -3069,13 +3069,13 @@
     "year": 2020
   },
   {
-    "id": "ktfWIoaLo6BVZrCGuO7k9k2k5ki9hvm",
+    "id": "0kim8yEbVh",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>If $$C_r \\equiv {}^{25}C_r$$ and $$C_0 + 5 \\cdot C_1 + 9 \\cdot C_2 + \\ldots + (101) \\cdot C_{25} = 2^{25} \\cdot k$$, then $$k$$ is equal to ___________.</p></div>",
     "options": {},
@@ -3108,13 +3108,13 @@
     "year": 2020
   },
   {
-    "id": "gIWxzoGle7kZLLADRm7k9k2k5kia3nk",
+    "id": "0kim8aYXjt",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "orthogonality-of-two-circles",
     "chapter": "circle",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>If the curves, $$x^2 - 6x + y^2 + 8 = 0$$ and $$x^2 - 8y + y^2 + 16 - k = 0$$, $$(k \\gt  0)$$ touch each other at a point, then the largest value of $$k$$ is ___________.</p></div>",
     "options": {},
@@ -3147,13 +3147,13 @@
     "year": 2020
   },
   {
-    "id": "uxkbzvwhQhZu358eew7k9k2k5ki4pum",
+    "id": "0kim8uAqll",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$\\vec{a}, \\vec{b}$$ and $$\\vec{c}$$ be three vectors such that $$|\\vec{a}| = \\sqrt{3}$$, $$|\\vec{b}| = 5$$, $$\\vec{b} \\cdot \\vec{c} = 10$$ and the angle between $$\\vec{b}$$ and $$\\vec{c}$$ is $$\\frac{\\pi}{3}$$. If $$\\vec{a}$$ is perpendicular to the vector $$\\vec{b} \\times \\vec{c}$$, then $$\\left|\\vec{a} \\times (\\vec{b} \\times \\vec{c})\\right|$$ is equal to ___________.</p></div>",
     "options": {},
@@ -3186,13 +3186,13 @@
     "year": 2020
   },
   {
-    "id": "X9jCkBVS5S2zXHqiFo7k9k2k5ki7wil",
+    "id": "0kim9ivrEX",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-and-plane",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2020-online-9th-january-evening-slot",
-    "paperTitle": "JEE Main 2020 (Online) 9th January Evening Slot",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2020-09-jan-evening",
+    "paperTitle": "JEE Main 2020 - 09 Jan Evening",
     "questionType": "integer",
     "question_text": "<div><p>If the distance between the plane, $$23x - 10y - 2z + 48 = 0$$ and the plane containing the lines $$\\frac{x+1}{2} = \\frac{y-3}{4} = \\frac{z+1}{3}$$ and $$\\frac{x+3}{2} = \\frac{y+2}{6} = \\frac{z-1}{\\lambda}$$ $$(\\lambda \\in R)$$ is equal to $$\\frac{k}{\\sqrt{633}}$$, then $$k$$ is equal to ___________.</p></div>",
     "options": {},

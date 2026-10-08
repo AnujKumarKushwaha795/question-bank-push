@@ -1,12 +1,12 @@
 [
   {
-    "id": "1krwalshv",
+    "id": "0kGQ3FDn1t",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "vector-arithmetic",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two vectors $$\\vec{X}$$ and $$\\vec{Y}$$ have equal magnitude. The magnitude of $$\\left(\\vec{X} - \\vec{Y}\\right)$$ is $$n$$ times the magnitude of $$\\left(\\vec{X} + \\vec{Y}\\right)$$. The angle between $$\\vec{X}$$ and $$\\vec{Y}$$ is:</p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2021
   },
   {
-    "id": "1krw9mhlm",
+    "id": "0kGQ2qB8in",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "dimensions-of-physical-quantities",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The force is given in terms of time $$t$$ and displacement $$x$$ by the equation $$F = A \\cos Bx + C \\sin Dt$$. The dimensional formula of $$\\frac{AD}{B}$$ is:</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2021
   },
   {
-    "id": "1krw6css0",
+    "id": "0kGQ44efkP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "variable-acceleration-motion",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The relation between time $$t$$ and distance $$x$$ for a moving body is given as $$t = mx^2 + nx$$, where $$m$$ and $$n$$ are constants. The retardation of the motion is: (When $$v$$ stands for velocity)</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2021
   },
   {
-    "id": "1krw8z197",
+    "id": "0kGQ44eSjx",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motion-under-gravity",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A balloon was moving upwards with a uniform velocity of 10 m s$$^{-1}$$. An object of finite mass is dropped from the balloon when it was at a height of 75 m from the ground level. The height of the balloon from the ground when object strikes the ground was around: (takes the value of g as 10 m s$$^{-2}$$)</p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2021
   },
   {
-    "id": "1krwa2r8z",
+    "id": "0kGQ44ekwz",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "average-velocity-and-instantaneous-velocity",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The instantaneous velocity of a particle moving in a straight line is given as $$v = \\alpha t + \\beta t^2$$, where $$\\alpha$$ and $$\\beta$$ are constants. The distance travelled by the particle between 1 s and 2 s is:</p></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2021
   },
   {
-    "id": "1krw6mhih",
+    "id": "0kGQ3KdFg1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "newtons-laws-of-motion",
     "chapter": "laws-of-motion",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A force $$\\vec{F} = \\left(40\\hat{i} + 10\\hat{j}\\right)$$ N acts on a body of mass 5 kg. If the body starts from rest, its position vector $$\\vec{r}$$ at time $$t = 10$$ s will be</p></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2021
   },
   {
-    "id": "1krw97dzk",
+    "id": "0kGQ3MfFqr",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "acceleration-due-to-gravity-and-its-variation",
     "chapter": "gravitation",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider a planet in some solar system that has a mass double the mass of earth and density equal to the average density of the earth. If the weight of an object on earth is $$W$$, the weight of the same object on that planet will be:</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2021
   },
   {
-    "id": "1krw6w1ni",
+    "id": "0kGQ3mNmPh",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "heat-engine-second-law-of-thermodynamics-and-carnot-engine",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A heat engine has an efficiency of $$\\frac{1}{6}$$. When the temperature of sink is reduced by 62°C, its efficiency gets doubled. The temperature of the source is:</p></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2021
   },
   {
-    "id": "1krw9i5jn",
+    "id": "0kGQ3kLwe1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "surface-tension-excess-pressure-and-capillarity",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two spherical soap bubbles of radii $$r_1$$ and $$r_2$$ in vacuum combine under isothermal conditions. The resulting bubble has a radius equal to:</p></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2021
   },
   {
-    "id": "1krw6gaab",
+    "id": "0kGQ3njZWT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "simple-harmonic-motion",
-    "chapter": "simple-harmonic-motion",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "oscillations-simple-harmonic-motion",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In a simple harmonic oscillation, what fraction of total mechanical energy is in the form of kinetic energy, when the particle is midway between mean and extreme position.</p></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2021
   },
   {
-    "id": "1krw9cz57",
+    "id": "0kGQ3n3js1",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-dipole",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two ideal electric dipoles $$A$$ and $$B$$, having their dipole moment $$p_1$$ and $$p_2$$ respectively are placed on a plane with their centres at $$O$$ as shown in the figure. At point $$C$$ on the axis of dipole $$A$$, the resultant electric field is making an angle of 37° with the axis. The ratio of the dipole moment of $$A$$ and $$B$$, $$\\frac{p_1}{p_2}$$ is: (take sin 37° = $$\\frac{3}{5}$$)<br/></p>\n<img class=\"img-responsive\" data-image=\"rn66bovescmj\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q11_replace.png\"/></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2021
   },
   {
-    "id": "1krw932h9",
+    "id": "0kGQ3p5Rpp",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "capacitors-with-dielectric",
-    "chapter": "capacitor",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "electrostatic-potential-and-capacitance",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$q_f$$ is the free charge on the capacitor plates and $$q_b$$ is the bound charge on the dielectric slab of dielectric constant $$k$$ placed between the capacitor plates, then bound charge $$q_b$$ can be expressed as:</p></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2021
   },
   {
-    "id": "1krw705e8",
+    "id": "0kGQ2lRNvF",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "potentiometer",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In the given potentiometer circuit arrangement, the balancing length AC is measured to be 250 cm. When the galvanometer connection is shifted from point (1) to point (2) in the given diagram, the balancing length becomes 400 cm. The ratio of the emf of two cells $$\\frac{\\varepsilon_1}{\\varepsilon_2}$$ is:<br/></p>\n<img class=\"img-responsive\" data-image=\"byegshhbsybw\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q13_replace.png\"/></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2021
   },
   {
-    "id": "1krw9qlan",
+    "id": "0kGQ2lRNvG",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "potentiometer",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The given potentiometer has its wire of resistance 10 $$\\Omega$$. When the sliding contact is in the middle of the potentiometer wire, the potential drop across 2 $$\\Omega$$ resistor is:<br/></p>\n<img class=\"img-responsive\" data-image=\"rt3ed0hvb4hk\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q14_replace.png\"/></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2021
   },
   {
-    "id": "1krw733z8",
+    "id": "0kGQ460af3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motion-of-charged-particle-inside-magnetic-field",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Two ions having same mass have charges in the ratio 1 : 2. They are projected normally in a uniform magnetic field with their speeds in the ratio 2 : 3. The ratio of the radii of their circular trajectories is,</p></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2021
   },
   {
-    "id": "1krw8vbh1",
+    "id": "0kGQ3oPWyn",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "ac-circuits-and-power-in-ac-circuits",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A 10 $$\\Omega$$ resistance is connected across 220 V - 50 Hz AC supply. The time taken by the current to change from its maximum value to the rms value is:</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2021
   },
   {
-    "id": "1krw6rahd",
+    "id": "0kGQ3qRK9B",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "refraction-tir-and-prism",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A prism of refractive index $$\\mu$$ and angle of prism $$A$$ is placed in the position of minimum angle of deviation. If minimum angle of deviation is also $$A$$, then in terms of refractive index,</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2021
   },
   {
-    "id": "1krwa9c98",
+    "id": "0kGQ3qRK9C",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "refraction-tir-and-prism",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A ray of light entering from air into a denser medium of refractive index $$\\frac{4}{3}$$, as shown in figure. The light ray suffers total internal reflection at the adjacent surface as shown. The maximum value of angle $$\\theta$$ should be equal to:<br/></p>\n<img class=\"img-responsive\" data-image=\"yafoxozr32x1\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q18_replace.png\"/></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2021
   },
   {
-    "id": "1krw9v9n6",
+    "id": "0kGQ3r7PPN",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "matter-waves-davisson-and-germer-experiment",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>An electron moving with speed $$v$$ and a photon moving with speed $$c$$, have the same D-Broglie wavelength. The ratio of the kinetic energy of the electron to that of a photon is:</p></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2021
   },
   {
-    "id": "1krwafg06",
+    "id": "0kGQ3r7HbV",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "photoelectric-effect",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>When radiation of wavelength $$\\lambda$$ is incident on a metallic surface, the stopping potential of ejected photoelectrons is 4.8 V. If the same surface is illuminated by radiation of double the previous wavelength, then the stopping potential becomes 1.6 V. The threshold wavelength of the metal is:</p></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2021
   },
   {
-    "id": "1krwcnrm2",
+    "id": "0kGQ45KQCH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "work",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>A force of $$F = (5y + 20)\\hat{j}$$ N acts on a particle. The work done by this force when the particle is moved from $$y = 0$$ m to $$y = 10$$ m is _________ J.</p></div>",
     "options": {},
@@ -919,13 +919,13 @@
     "year": 2021
   },
   {
-    "id": "1krwcrwzr",
+    "id": "0kGQ3lheYD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "torque",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>A solid disc of radius 20 cm and mass 10 kg is rotating with an angular velocity of 600 rpm, about an axis normal to its circular plane and passing through its centre of mass. The retarding torque required to bring the disc at rest in 10 s is _________ $$\\pi \\times 10^{-1}$$ N m</p></div>",
     "options": {},
@@ -958,13 +958,13 @@
     "year": 2021
   },
   {
-    "id": "1krwc2vcy",
+    "id": "0kGQ3mNjoP",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "kinetic-theory-of-gases-and-gas-laws",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>A system consists of two types of gas molecules $$A$$ and $$B$$ having the same number density $$2 \\times 10^{25}$$ m$$^{-3}$$. The diameter of $$A$$ and $$B$$ are 10A and 5A respectively. They suffer collisions at room temperature. The ratio of average distance covered by the molecule $$A$$ to that of $$B$$ between two successive collisions is _________ $$\\times 10^{-2}$$</p></div>",
     "options": {},
@@ -997,13 +997,13 @@
     "year": 2021
   },
   {
-    "id": "1krwcbx8s",
+    "id": "0kGQ2lRavh",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "kirchhoffs-circuit-laws",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>A 16 $$\\Omega$$ wire is bent to form a square loop. A 9 V supply having an internal resistance of 1 $$\\Omega$$ is connected across one of its sides. The potential drop across the diagonals of the square loop is _________ $$\\times 10^{-1}$$ V.</p></div>",
     "options": {},
@@ -1036,13 +1036,13 @@
     "year": 2021
   },
   {
-    "id": "1krwcgvnw",
+    "id": "0kGQ3oPWyo",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "ac-circuits-and-power-in-ac-circuits",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>Two circuits are shown in figure (a) and (b). At a frequency of _________ rad s$$^{-1}$$ the average power dissipated in one cycle will be the same in both the circuits.<br/></p>\n<img class=\"img-responsive\" data-image=\"pans4w62up47\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q25_replace.png\"/></div>",
     "options": {},
@@ -1075,13 +1075,13 @@
     "year": 2021
   },
   {
-    "id": "1krwc7got",
+    "id": "0kGQ3r7HbW",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "photoelectric-effect",
-    "chapter": "dual-nature-of-radiation",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "dual-nature-of-radiation-and-matter",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>A light beam of wavelength 500 nm is incident on a metal having work function of 1.25 eV, placed in a magnetic field of intensity $$B$$. The electrons emitted perpendicular to the magnetic field $$B$$, with maximum kinetic energy are bent into a circular arc of radius 30 cm. The value of $$B$$ is _________ $$\\times 10^{-7}$$ T.<br>Given $$hc = 20 \\times 10^{-26}$$ J m, the mass of the electron = $$9 \\times 10^{-31}$$ kg.</br></p></div>",
     "options": {},
@@ -1114,13 +1114,13 @@
     "year": 2021
   },
   {
-    "id": "1krwckqpo",
+    "id": "0kGQ2sD3h3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "nuclear-fission-and-fusion-and-binding-energy",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>From the given data, the amount of energy required to break the nucleus of aluminium $$_{13}^{27}$$Al is _________ $$x \\times 10^{-3}$$ J<br>Mass of neutron = 1.00866 u<br>Mass of proton = 1.00726 u<br>Mass of Aluminium nucleus = 27.18846 u<br>(Assume 1 u corresponds to $$x$$ J of energy)<br>(Round off to the nearest integer)</br></br></br></br></br></p></div>",
     "options": {},
@@ -1153,13 +1153,13 @@
     "year": 2021
   },
   {
-    "id": "1krwcyk48",
+    "id": "0kGQ2sD6IL",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "nucleus-and-radioactivity",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>The nuclear activity of a radioactive element becomes $$\\left(\\frac{1}{8}\\right)^{th}$$ of its initial value in 30 years. The half-life of radioactive element is _________ years.</p></div>",
     "options": {},
@@ -1192,13 +1192,13 @@
     "year": 2021
   },
   {
-    "id": "1krwcvx69",
+    "id": "0kGQ3rnHf7",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "semiconductor-and-p-n-junction-diode",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>In a semiconductor, the number density of intrinsic charge carriers at 27°C is $$1.5 \\times 10^{16}$$ m$$^{-3}$$. If the semiconductor is doped with an impurity atom, the hole density increases to $$4.5 \\times 10^{22}$$ m$$^{-3}$$. The electron density in the doped semiconductor is _________ $$\\times 10^{9}$$ m$$^{-3}$$</p></div>",
     "options": {},
@@ -1231,13 +1231,13 @@
     "year": 2021
   },
   {
-    "id": "1krwc9bvp",
+    "id": "0kGQ3cu90j",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "modulation-and-demodulation",
     "chapter": "communication-systems",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>A message signal of frequency 20 kHz and peak voltage of 20 V is used to modulate a carrier wave of frequency 1 MHz and peak voltage of 20 V. The modulation index will be:</p></div>",
     "options": {},
@@ -1270,13 +1270,13 @@
     "year": 2021
   },
   {
-    "id": "1krx64sfv",
+    "id": "0lBDA2CF6n",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The spin only magnetic moments (in BM) for free Ti$$^{3+}$$, V$$^{2+}$$ and Sc$$^{3+}$$ ions respectively are (At.No. Sc : 21, Ti : 22, V : 23)</p></div>",
     "options": {
@@ -1314,13 +1314,13 @@
     "year": 2021
   },
   {
-    "id": "1krx5jphv",
+    "id": "0lBDAqHFVx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "atomic-and-ionic-radius",
-    "chapter": "periodic-table-and-periodicity",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "classification-of-elements-and-periodicity-in-properties",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The ionic radii of F$$^-$$ and O$$^{2-}$$ respectively are 1.33 A and 1.4A, while the covalent radius of N is 0.74A. The correct statement for the ionic radius of N$$^{3-}$$ from the following is:</p></div>",
     "options": {
@@ -1358,13 +1358,13 @@
     "year": 2021
   },
   {
-    "id": "1krx4sr8p",
+    "id": "0lBDAqx7lh",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "molecular-orbital-theory",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>In the following the correct bond order sequence is:</p></div>",
     "options": {
@@ -1402,13 +1402,13 @@
     "year": 2021
   },
   {
-    "id": "1krx8h5dq",
+    "id": "0lBDAqxczB",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "resonance",
-    "chapter": "chemical-bonding-and-molecular-structure",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Identify the species having one $$\\pi$$-bond and maximum number of canonical forms from the following:</p></div>",
     "options": {
@@ -1446,13 +1446,13 @@
     "year": 2021
   },
   {
-    "id": "1krxb954p",
+    "id": "0lBDATwWEj",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "oxidation-number",
     "chapter": "redox-reactions",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Identify the process in which change in the oxidation state is five:</p></div>",
     "options": {
@@ -1490,13 +1490,13 @@
     "year": 2021
   },
   {
-    "id": "1krx8i6bf",
+    "id": "0lBDA2CCVV",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "important-compounds-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which one of the following metals forms interstitial hydride easily?</p></div>",
     "options": {
@@ -1534,13 +1534,13 @@
     "year": 2021
   },
   {
-    "id": "1krx511ei",
+    "id": "0lBDAdPwdF",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "compounds-of-alkali-metals",
     "chapter": "s-block-elements",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List I with List II:<br>List-I (Elements)   List-II (Properties)<br>(a) Li   (i) Poor water solubility of I$$^-$$ salt<br>(b) Na   (ii) Most abundant element in cell fluid<br>(c) K   (iii) Bicarbonate salt used in fire extinguisher<br>(d) Cs   (iv) Carbonate salt decomposes easily on heating<br>Choose the correct answer from the options given below:</br></br></br></br></br></br></p></div>",
     "options": {
@@ -1578,13 +1578,13 @@
     "year": 2021
   },
   {
-    "id": "1krx5neu9",
+    "id": "0lBDAsJAUD",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "isomerism",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The correct decreasing order of densities of the following compounds is:<br/></p>\n<img class=\"img-responsive\" data-image=\"frmmyrs2v3bs\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q38_replace.png\"/></div>",
     "options": {
@@ -1622,13 +1622,13 @@
     "year": 2021
   },
   {
-    "id": "1krxbaywt",
+    "id": "0lBDAsJII5",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "acid-and-base-strength",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which among the following is the strongest acid?<br/></p></div>",
     "options": {
@@ -1666,13 +1666,13 @@
     "year": 2021
   },
   {
-    "id": "1krx8sddp",
+    "id": "0lBDAe5u5Z",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "air-pollution",
     "chapter": "environmental-chemistry",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are two statements:<br>Statement I : Chlorofluoro carbons breakdown by radiation in the visible energy region and release chlorine gas in the atmosphere which then reacts with stratospheric ozone.<br>Statement II : Atmospheric ozone reacts with nitric oxide to give nitrogen and oxygen gases, which add to the atmosphere.<br>For the above statements choose the correct answer from the options given below:</br></br></br></p></div>",
     "options": {
@@ -1710,13 +1710,13 @@
     "year": 2021
   },
   {
-    "id": "1krxb2oy9",
+    "id": "0lBDAbO4GH",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "colloids",
     "chapter": "surface-chemistry",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List I with List II:<br>List-I (Example of colloids)          List-II (Classification)<br>(a) Cheese                                 (i) dispersion of liquid in liquid<br>(b) Pumice stone                      (ii) dispersion of liquid in gas<br>(c) Hair cream                           (iii) dispersion of gas in solid<br>(d) Cloud                                    (iv) dispersion of liquid in solid<br>Choose the most appropriate answer from the options given below:</br></br></br></br></br></br></p></div>",
     "options": {
@@ -1754,13 +1754,13 @@
     "year": 2021
   },
   {
-    "id": "1krx5bn0e",
+    "id": "0lBDAYgJdZ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "concentration-of-ore",
     "chapter": "isolation-of-elements",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Match List I with List II: (Both having metallurgical terms)<br>List-I                                      List-II<br>(a) Concentration of Ag ore    (i) Reverberatory furnace<br>(b) Blast furnace                   (ii) Pig iron<br>(c) Blister copper                  (iii) Leaching with dilute NaCN solution<br>(d) Froth floatation method   (iv) Sulfide ores<br>Choose the correct answer from the options given below:</br></br></br></br></br></br></p></div>",
     "options": {
@@ -1798,13 +1798,13 @@
     "year": 2021
   },
   {
-    "id": "1krx564o8",
+    "id": "0lBDA0qUbJ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "coordination-number",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which one of the following metal complexes is most stable?</p></div>",
     "options": {
@@ -1842,13 +1842,13 @@
     "year": 2021
   },
   {
-    "id": "1krxava5i",
+    "id": "0lBD9xSZVp",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-reactions-for-aldehydes-and-ketones",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><img class=\"img-responsive\" data-image=\"z3vcbnfe10sz\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q44_replace.png\">\n<p><br>Consider the above reaction sequence, Product \"A\" and Product \"B\" formed respectively are:</br></p></img></div>",
     "options": {
@@ -1886,13 +1886,13 @@
     "year": 2021
   },
   {
-    "id": "1krxb469a",
+    "id": "0lBDAsz08f",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>What is the major product \"P\" of the following reaction?<br/></p>\n<img class=\"img-responsive\" data-image=\"234483xyeb3w\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q45_5_replace.png\"/></div>",
     "options": {
@@ -1930,13 +1930,13 @@
     "year": 2021
   },
   {
-    "id": "1krx8jt2i",
+    "id": "0lBD9xSWuX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "preparation-properties-and-uses-of-carboxylic-acids",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><img class=\"img-responsive\" data-image=\"h9ngv3ex4yq3\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q46_replace.png\">\n<p><br>Maleic anhydride<br>Maleic anhydride can be prepared by:</br></br></p></img></div>",
     "options": {
@@ -1974,13 +1974,13 @@
     "year": 2021
   },
   {
-    "id": "1krx5rx9b",
+    "id": "0lBDAsz08g",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><img class=\"img-responsive\" data-image=\"mobbrtendook\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q47_replace.png\">\n<p><br>Consider the above reaction, the Product \"P\" is:</br></p></img></div>",
     "options": {
@@ -2018,13 +2018,13 @@
     "year": 2021
   },
   {
-    "id": "1krx604we",
+    "id": "0lBDAsz08h",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "diazonium-salts-and-other-nitrogen-containing-compounds",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A reaction of benzonitrile with one equivalent CH$$_3$$MgBr followed by hydrolysis produces a yellow liquid \"P\". The compound \"P\" will give positive _________ test.</p></div>",
     "options": {
@@ -2062,13 +2062,13 @@
     "year": 2021
   },
   {
-    "id": "1krx4v5by",
+    "id": "0lBDAai6nx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "classification-preparations-and-properties-of-polymers",
     "chapter": "polymers",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>A biodegradable polyamide can be made from:</p></div>",
     "options": {
@@ -2106,13 +2106,13 @@
     "year": 2021
   },
   {
-    "id": "1krx884rr",
+    "id": "0lBDA0APL7",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "vitamins-and-nucleic-acids",
     "chapter": "biomolecules",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Which one of the following is correct structure for cytosine?<br/></p></div>",
     "options": {
@@ -2150,13 +2150,13 @@
     "year": 2021
   },
   {
-    "id": "1krxc8puf",
+    "id": "0lBD9w6hCT",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "significant-figures",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>The number of significant figures in 0.00340 is _________</p></div>",
     "options": {},
@@ -2189,13 +2189,13 @@
     "year": 2021
   },
   {
-    "id": "1krxbtjgb",
+    "id": "0lBD9u4zEf",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "heisenberg-uncertainty-principle",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>An accelerated electron has a speed of $$5 \\times 10^6$$ ms$$^{-1}$$ with an uncertainty of 0.02%. The uncertainty in finding its location while in motion is $$x \\times 10^{-9}$$ m. The value of $$x$$ is _________. (Nearest integer)<br>[Use mass of electron = $$9.1 \\times 10^{-31}$$ kg, h = $$6.63 \\times 10^{-34}$$ Js, $$\\pi$$ = 3.14]</br></p></div>",
     "options": {},
@@ -2228,13 +2228,13 @@
     "year": 2021
   },
   {
-    "id": "1krxcrvsc",
+    "id": "0lBDAY0JZx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "gas-laws",
     "chapter": "gaseous-state",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>An LPG cylinder contains gas at a pressure of 300 kPa at 27°C. The cylinder can withstand the pressure of $$1.2 \\times 10^6$$ Pa. The room in which the cylinder is kept catches fire. The minimum temperature at which the bursting of cylinder will take place is _________ °C. (Nearest integer)</p></div>",
     "options": {},
@@ -2267,13 +2267,13 @@
     "year": 2021
   },
   {
-    "id": "1krxbdi4f",
+    "id": "0lBDArd5E1",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "first-law-of-thermodynamics",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>A system does 200 J of work and at the same time absorbs 150 J of heat. The magnitude of the change in internal energy is _________J. (Nearest integer)</p></div>",
     "options": {},
@@ -2306,13 +2306,13 @@
     "year": 2021
   },
   {
-    "id": "1krxcezww",
+    "id": "0lBDB3oLRp",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-equilibrium-law-of-mass-action-and-equilibrium-constant",
-    "chapter": "chemical-equilibrium",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "equilibrium-chemical",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>Assuming that Ba(OH)$$_2$$ is completely ionised in aqueous solution under the given conditions the concentration of H$$_3$$O$$^+$$ ions in 0.005M aqueous solution of Ba(OH)$$_2$$ at 298 K is _________ $$\\times 10^{-12}$$ mol L$$^{-1}$$. (Nearest integer)</p></div>",
     "options": {},
@@ -2345,13 +2345,13 @@
     "year": 2021
   },
   {
-    "id": "1krxcl7xz",
+    "id": "0lBDB6WDsP",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "detection-of-extra-elements-and-functional-groups",
-    "chapter": "practical-organic-chemistry",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "purification-and-characterisation-of-organic-compounds",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>0.8 g of an organic compound was analysed by Kjeldahl's method for the estimation of nitrogen. If the percentage of nitrogen in the compound was found to be 42%, then _________ mL of 1M H$$_2$$SO$$_4$$ would have been neutralized by the ammonia evolved during the analysis.</p></div>",
     "options": {},
@@ -2384,13 +2384,13 @@
     "year": 2021
   },
   {
-    "id": "1krxbysly",
+    "id": "0lBDAL98V7",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "reaction-of-alkenes",
     "chapter": "hydrocarbons",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><img class=\"img-responsive\" data-image=\"mgrbzkowaokk\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q57_replace.png\">\n<p><br>Consider the above chemical reaction. The total number of stereoisomers possible for Product \"P\" is _________</br></p></img></div>",
     "options": {},
@@ -2423,13 +2423,13 @@
     "year": 2021
   },
   {
-    "id": "1krxcofq2",
+    "id": "0lBDA4E7Tl",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "elevation-in-boiling-point",
     "chapter": "solutions",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>When 3.00 g of a substance X' is dissolved in 100 g of CCl$$_4$$, it raises the boiling point by 0.60 K. The molar mass of the substance 'X' is _________ g mol$$^{-1}$$. (Nearest integer).<br>[Given K$$_b$$ for CCl$$_4$$ is 5.0 K kg mol$$^{-1}$$]</br></p></div>",
     "options": {},
@@ -2462,13 +2462,13 @@
     "year": 2021
   },
   {
-    "id": "1krxc7you",
+    "id": "0lBDAtfDCj",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "rate-of-reaction",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>For a chemical reaction A $$\\rightarrow$$ B, it was found that concentration of B is increased by 0.2 mol L$$^{-1}$$ in 30 min. The average rate of the reaction is _________ $$\\times 10^{-1}$$ mol L$$^{-1}$$ h$$^{-1}$$. (in nearest integer)</p></div>",
     "options": {},
@@ -2501,13 +2501,13 @@
     "year": 2021
   },
   {
-    "id": "1krxbxmjk",
+    "id": "0lBDA2CHi5",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "inner-transition-elements-lanthanoids-and-actinoids",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>Number of electrons present in 4f orbital of Ho$$^{3+}$$ ion is _________ (Given Atomic No. of Ho = 67)</p></div>",
     "options": {},
@@ -2540,13 +2540,13 @@
     "year": 2021
   },
   {
-    "id": "1krzn03g8",
+    "id": "0kiocQmAUb",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "modulus-function",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The number of real solutions of the equation, $$x^2 - |x| - 12 = 0$$ is:</p></div>",
     "options": {
@@ -2584,13 +2584,13 @@
     "year": 2021
   },
   {
-    "id": "1krz59pdx",
+    "id": "0kiobmqNX7",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "general-term",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The sum of all those terms which are rational numbers in the expansion of $$\\left(2^{\\frac{1}{3}} + 3^{\\frac{1}{4}}\\right)^{12}$$ is:</p></div>",
     "options": {
@@ -2628,13 +2628,13 @@
     "year": 2021
   },
   {
-    "id": "1krzlrpjk",
+    "id": "0kiobmqNX8",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "general-term",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If the greatest value of the term independent of $$x$$ in the expansion of $$\\left(x \\sin \\alpha + a\\frac{\\cos \\alpha}{x}\\right)^{10}$$ is $$\\frac{10!}{(5!)^2}$$, then the value of $$a$$ is equal to:</p></div>",
     "options": {
@@ -2672,13 +2672,13 @@
     "year": 2021
   },
   {
-    "id": "1krzmg688",
+    "id": "0kiobmqVKz",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "binomial-theorem-for-any-index",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The lowest integer which is greater than $$\\left(1 + \\frac{1}{10^{100}}\\right)^{10^{100}}$$ is</p></div>",
     "options": {
@@ -2716,13 +2716,13 @@
     "year": 2021
   },
   {
-    "id": "1krzq59sa",
+    "id": "0kiobkofZJ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "number-of-combinations",
     "chapter": "permutations-and-combinations",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$^nP_r = ^nP_{r+1}$$ and $$^nC_r = ^nC_{r-1}$$, then the value of $$r$$ is equal to:</p></div>",
     "options": {
@@ -2760,13 +2760,13 @@
     "year": 2021
   },
   {
-    "id": "1krzm14od",
+    "id": "0kiocS8Abp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "trigonometric-ratio-of-standard-angles",
-    "chapter": "trigonometric-ratio-and-identites",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "trigonometric-ratios-identities-and-formulas",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The value of $$\\cot \\frac{\\pi}{24}$$ is:</p></div>",
     "options": {
@@ -2804,13 +2804,13 @@
     "year": 2021
   },
   {
-    "id": "1krzmszlz",
+    "id": "0kiobi6sLJ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "expansion-of-determinant",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The number of distinct real roots of $$\\begin{vmatrix} \\sin x &amp; \\cos x &amp; \\cos x \\\\ \\cos x &amp; \\sin x &amp; \\cos x \\\\ \\cos x &amp; \\cos x &amp; \\sin x \\end{vmatrix} = 0$$ in the interval $$-\\frac{\\pi}{4} \\leq x \\leq \\frac{\\pi}{4}$$ is:</p></div>",
     "options": {
@@ -2848,13 +2848,13 @@
     "year": 2021
   },
   {
-    "id": "1krznn46g",
+    "id": "0kiocSoFs1",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "pair-of-straight-lines",
-    "chapter": "straight-lines-and-pair-of-straight-lines",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "straight-lines",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let the equation of the pair of lines, $$y = px$$ and $$y = qx$$, can be written as $$(y - px)(y - qx) = 0$$. Then the equation of the pair of the angle bisectors of the lines $$x^2 - 4xy - 5y^2 = 0$$ is:</p></div>",
     "options": {
@@ -2892,13 +2892,13 @@
     "year": 2021
   },
   {
-    "id": "1krznj2rx",
+    "id": "0kiocU9pyL",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-to-ellipse",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If a tangent to the ellipse $$x^2 + 4y^2 = 4$$ meets the tangents at the extremities of its major axis at $$B$$ and $$C$$, then the circle with $$BC$$ as diameter passes through the point.</p></div>",
     "options": {
@@ -2936,13 +2936,13 @@
     "year": 2021
   },
   {
-    "id": "1krzlvswd",
+    "id": "0kiocBsrR3",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "logical-statement",
     "chapter": "mathematical-reasoning",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider the statement \"The match will be played only if the weather is good and ground is not wet\". Select the correct negation from the following:</p></div>",
     "options": {
@@ -2980,13 +2980,13 @@
     "year": 2021
   },
   {
-    "id": "1krz5gy7q",
+    "id": "0kiobg4mxt",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
     "chapter": "statistics",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The first of the two samples in a group has 100 items with mean 15 and standard deviation 3. If the whole group has 250 items with mean 15.6 and standard deviation $$\\sqrt{13.44}$$, then the standard deviation of the second sample is:</p></div>",
     "options": {
@@ -3024,13 +3024,13 @@
     "year": 2021
   },
   {
-    "id": "1krzn7q3c",
+    "id": "0kiobi6pk1",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "operations-on-matrices",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$P = \\begin{bmatrix} 1 &amp; 0 \\\\ \\frac{1}{2} &amp; 1 \\end{bmatrix}$$, then $$P^{50}$$ is:</p></div>",
     "options": {
@@ -3068,13 +3068,13 @@
     "year": 2021
   },
   {
-    "id": "1krzmnrse",
+    "id": "0kiocQlxU9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "greatest-integer-and-fractional-part-functions",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$[x]$$ be the greatest integer less than or equal to $$x$$, then $$\\sum_{n=8}^{100} \\left[\\frac{(-1)^n n}{2}\\right]$$ is equal to:</p></div>",
     "options": {
@@ -3112,13 +3112,13 @@
     "year": 2021
   },
   {
-    "id": "1krzn2o7b",
+    "id": "0kiobxfqe9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "composite-functions",
     "chapter": "functions",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Consider function $$f : A \\rightarrow B$$ and $$g : B \\rightarrow C$$ $$(A, B, C \\subseteq R)$$ such that $$(gof)^{-1}$$ exists, then:</p></div>",
     "options": {
@@ -3156,13 +3156,13 @@
     "year": 2021
   },
   {
-    "id": "1krzlm5le",
+    "id": "0kiocVVd57",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$f(x) = \\begin{cases} \\int_0^x (5 + |1 - t|) \\, dt, &amp; x &gt; 2 \\\\ 5x + 1, &amp; x \\leq 2 \\end{cases}$$, then</p></div>",
     "options": {
@@ -3200,13 +3200,13 @@
     "year": 2021
   },
   {
-    "id": "1krzmibsx",
+    "id": "0kiocVVd58",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>The value of the integral $$\\int_{-1}^{1} \\log\\left(x + \\sqrt{x^2 + 1}\\right) dx$$ is:</p></div>",
     "options": {
@@ -3244,13 +3244,13 @@
     "year": 2021
   },
   {
-    "id": "1krzqf052",
+    "id": "0kiocWrXzl",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$y = y(x)$$ be the solution of the differential equation $$x \\, dy = (y + x^3 \\cos x) \\, dx$$ with $$y(\\pi) = 0$$, then $$y\\left(\\frac{\\pi}{2}\\right)$$ is equal to:</p></div>",
     "options": {
@@ -3288,13 +3288,13 @@
     "year": 2021
   },
   {
-    "id": "1krzmlysr",
+    "id": "0kiobimfOT",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "algebra-and-modulus-of-vectors",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$a, b$$ and $$c$$ be distinct positive numbers. If the vectors $$a\\hat{i} + a\\hat{j} + c\\hat{k}$$, $$\\hat{i} + \\hat{k}$$ and $$c\\hat{i} + c\\hat{j} + b\\hat{k}$$ are co-planar, then $$c$$ is equal to:</p></div>",
     "options": {
@@ -3332,13 +3332,13 @@
     "year": 2021
   },
   {
-    "id": "1krzmy5aw",
+    "id": "0kiobimaBt",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "vector-or-cross-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>If $$|\\vec{a}| = 2$$, $$|\\vec{b}| = 5$$ and $$|\\vec{a} \\times \\vec{b}| = 8$$, then $$|\\vec{a} \\cdot \\vec{b}|$$ is equal to:</p></div>",
     "options": {
@@ -3376,13 +3376,13 @@
     "year": 2021
   },
   {
-    "id": "1krzncxyp",
+    "id": "0kiobuxvcH",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "probability-distribution-of-a-random-variable",
     "chapter": "probability",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$X$$ be a random variable such that the probability function of a distribution is given by $$P(X = 0) = \\frac{1}{2}$$, $$P(X = j) = \\frac{1}{3^j}$$ $$(j = 1, 2, 3, \\ldots, \\infty)$$. Then the mean of the distribution and $$P(X$$ is positive and even) respectively, are:</p></div>",
     "options": {
@@ -3420,13 +3420,13 @@
     "year": 2021
   },
   {
-    "id": "1krzrgqrk",
+    "id": "0kiocQmD5t",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "inequalities",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>If $$a + b + c = 1$$, $$ab + bc + ca = 2$$ and $$abc = 3$$, then the value of $$a^4 + b^4 + c^4$$ is equal to:</p></div>",
     "options": {},
@@ -3459,13 +3459,13 @@
     "year": 2021
   },
   {
-    "id": "1krzqy3td",
+    "id": "0kiobk8fVh",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "applications-of-complex-numbers-in-coordinate-geometry",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>The equation of a circle is $$\\text{Re}(z^2) + 2(\\text{Im}(z))^2 + 2\\text{Re}(z) = 0$$, where $$z = x + iy$$. A line which passes through the centre of the given circle and the vertex of the parabola, $$x^2 - 6x - y + 13 = 0$$, has $$y$$-intercept equal to _________.</p></div>",
     "options": {},
@@ -3498,13 +3498,13 @@
     "year": 2021
   },
   {
-    "id": "1krzqmv94",
+    "id": "0kiobmqKvp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let $$n \\in \\mathbf{N}$$ and $$[x]$$ denote the greatest integer less than or equal to $$x$$. If the sum of $$(n + 1)$$ terms of $$^nC_0, 3 \\cdot ^nC_1, 5 \\cdot ^nC_2, 7 \\cdot ^nC_3, \\ldots$$ is equal to $$2^{100} \\cdot 101$$, then $$2\\left[\\frac{n-1}{2}\\right]$$ is equal to</p></div>",
     "options": {},
@@ -3537,13 +3537,13 @@
     "year": 2021
   },
   {
-    "id": "1krzrliu5",
+    "id": "0kiobmqNX9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "general-term",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>If the co-efficient of $$x^7$$ and $$x^8$$ in the expansion of $$\\left(2 + \\frac{x}{3}\\right)^n$$ are equal, then the value of $$n$$ is equal to:</p></div>",
     "options": {},
@@ -3576,13 +3576,13 @@
     "year": 2021
   },
   {
-    "id": "1krzqujtw",
+    "id": "0kiocUpnQf",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "continuity",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>Consider the function $$f(x) = \\frac{P(x)}{\\sin(x - 2)}$$, $$x \\neq 2$$, and $$f(x) = 7$$, $$x = 2$$ where $$P(x)$$ is a polynomial such that $$P''(x)$$ is always a constant and $$P(3) = 9$$. If $$f(x)$$ is continuous at $$x = 2$$, then $$P(5)$$ is equal to _________.</p></div>",
     "options": {},
@@ -3615,13 +3615,13 @@
     "year": 2021
   },
   {
-    "id": "1krzr2ib8",
+    "id": "0kioc3lLxB",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-of-triangle",
     "chapter": "properties-of-triangle",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>If a rectangle is inscribed in an equilateral triangle of side length $$2\\sqrt{2}$$ as shown in the figure, then the square of the largest area of such a rectangle is _________.<br/></p>\n<img class=\"img-responsive\" data-image=\"3v91bg9bsv3c\" src=\"https://cracku.in/media/jee/jee-main-2021-jul-25-s2/q87_replace.png\"/></div>",
     "options": {},
@@ -3654,13 +3654,13 @@
     "year": 2021
   },
   {
-    "id": "1krzrdrnv",
+    "id": "0kiocWrfnd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "formation-of-differential-equations",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>Let a curve $$y = f(x)$$ pass through the point $$\\left(2, (\\log_e 2)^2\\right)$$ and have slope $$\\frac{2y}{x \\log_e x}$$ for all positive real values of $$x$$. Then the value of $$f(e)$$ is equal to _________.</p></div>",
     "options": {},
@@ -3693,13 +3693,13 @@
     "year": 2021
   },
   {
-    "id": "1krzrafms",
+    "id": "0kiobimcnB",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "scalar-or-dot-product-of-two-vectors-and-its-applications",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>If $$\\vec{a}$$ and $$\\vec{b}$$ are unit vectors and $$\\left(\\vec{a} + 3\\vec{b}\\right)$$ is perpendicular to $$\\left(7\\vec{a} - 5\\vec{b}\\right)$$ and $$\\left(\\vec{a} - 4\\vec{b}\\right)$$ is perpendicular to $$\\left(7\\vec{a} - 2\\vec{b}\\right)$$, then the angle between $$\\vec{a}$$ and $$\\vec{b}$$ (in degrees) is _________.</p></div>",
     "options": {},
@@ -3732,13 +3732,13 @@
     "year": 2021
   },
   {
-    "id": "1krzrobee",
+    "id": "0kiocXXaef",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-and-plane",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>If the lines $$\\frac{x - k}{1} = \\frac{y - 2}{2} = \\frac{z - 3}{3}$$ and $$\\frac{x + 1}{3} = \\frac{y + 2}{2} = \\frac{z + 3}{1}$$ are co-planar, then the value of $$k$$ is _________.</p></div>",
     "options": {},
@@ -3771,13 +3771,13 @@
     "year": 2021
   },
   {
-    "id": "1krzrj7ab",
+    "id": "0kiobuxt0z",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "classical-defininition-of-probability",
     "chapter": "probability",
-    "paperId": "jee-main-2021-online-25th-july-evening-shift",
-    "paperTitle": "JEE Main 2021 (Online) 25th July Evening Shift",
+    "paperId": "jee-main-2021-25-jul-evening",
+    "paperTitle": "JEE Main 2021 - 25 Jul Evening",
     "questionType": "integer",
     "question_text": "<div><p>A fair coin is tossed $$n-$$ times such that the probability of getting at least one head is at least 0.9. Then the minimum value of $$n$$ is _________.</p></div>",
     "options": {},

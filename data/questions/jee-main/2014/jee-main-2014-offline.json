@@ -1,12 +1,12 @@
 [
   {
-    "id": "cBnPK2H3eTAvPlhE",
+    "id": "0kGF96oT57",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "semiconductor-and-p-n-junction-diode",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The current voltage relation of diode is given by $$I = (e^{1000V/T} - 1)$$ mA, where the applied voltage V is in volts and the temperature T is in degree Kelvin. If a student makes an error measuring $$\\pm 0.01$$ V while measuring the current of 5 mA at 300 K, what will be the error in the value of current in mA?</p></div>",
     "options": {
@@ -44,13 +44,13 @@
     "year": 2014
   },
   {
-    "id": "Zf24hR1sRpoTHEVm",
+    "id": "0kGF9Jfe9x",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "motion-under-gravity",
-    "chapter": "motion-in-a-straight-line",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "motion-in-straight-line",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>From a tower of height H, a particle is thrown vertically upwards with a speed u. The time taken by the particle, to hit the ground, is n times that taken by it to reach the highest point of its path. The relation between H, u and n is:</p></div>",
     "options": {
@@ -88,13 +88,13 @@
     "year": 2014
   },
   {
-    "id": "BddVGW1uYyT66w17",
+    "id": "0kGF8ZeYtt",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "friction-force",
     "chapter": "laws-of-motion",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A block of mass $$m$$ is placed on a surface with a vertical cross section given by $$y = \\frac{x^3}{6}$$. If the coefficient of friction is 0.5, the maximum height above the ground at which the block can be placed without slipping is:</p></div>",
     "options": {
@@ -132,13 +132,13 @@
     "year": 2014
   },
   {
-    "id": "M83DLNrq3KVL75D3",
+    "id": "0kGF9KLbcH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "work",
-    "chapter": "work-power-and-energy",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "work-energy-and-power",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>When a rubber-band is stretched by a distance x, it exerts a restoring force of magnitude $$F = ax + bx^2$$ where a and b are constants. The work done in stretching the unstretched rubber-band by L is:</p></div>",
     "options": {
@@ -176,13 +176,13 @@
     "year": 2014
   },
   {
-    "id": "OsJPOD1fEuLTK5CQ",
+    "id": "0kGF90ipyD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "torque",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A mass $$m$$ is supported by a massless string wound around a uniform hollow cylinder of mass m and radius R. If the string does not slip on the cylinder, with what acceleration will the mass fall on release?<br/></p>\n<img alt=\"image\" class=\"img-responsive\" data-image=\"image.png\" src=\"https://cracku.in/media/uploads/image_uW73BvZ.png\"/></div>",
     "options": {
@@ -220,13 +220,13 @@
     "year": 2014
   },
   {
-    "id": "2KZ8qDYvVby0twN7",
+    "id": "0kGF90inMv",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "angular-momentum",
-    "chapter": "rotational-motion",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "system-of-particles-and-rotational-motion",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A bob of mass m attached to an inextensible string of length $$l$$ is suspended from a vertical support. The bob rotates in a horizontal circle with an angular speed $$\\omega$$ rad/s about the vertical. About the point of suspension:</p></div>",
     "options": {
@@ -264,13 +264,13 @@
     "year": 2014
   },
   {
-    "id": "ahlnTnaPo4XNBFY8",
+    "id": "0kGF8bgM4H",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "keplers-law-and-universal-law-of-gravitation",
     "chapter": "gravitation",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Four particles, each of mass $$M$$ and equidistant from each other, move along a circle of radius $$R$$ under the action of their mutual gravitational attraction. The speed of each particle is:</p></div>",
     "options": {
@@ -308,13 +308,13 @@
     "year": 2014
   },
   {
-    "id": "Z2L9kxnG55X4OCQb",
+    "id": "0kGF8zMsSH",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "pressure-density-pascals-law-and-archimedes-principle",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>There is a circular tube in a vertical plane. Two liquids which do not mix and of densities $$d_1$$ and $$d_2$$ are filled in the tube. Each liquid subtends 90° angle at centre. Radius joining their interface makes an angle $$\\alpha$$ with vertical. Ratio $$\\frac{d_1}{d_2}$$ is:<br/></p>\n<img class=\"img-responsive\" data-image=\"5xm4xn8105fp\" src=\"https://cracku.in/media/jee/jee-main-2014-apr-06-offline/q8_replace.png\"/></div>",
     "options": {
@@ -352,13 +352,13 @@
     "year": 2014
   },
   {
-    "id": "LhGCtS2aeU160MtE",
+    "id": "0kGF8zMxer",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "fluid-flow-bernoullis-principle-and-viscosity",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>On heating water, bubbles being formed at the bottom of the vessel detach and rise. Take the bubbles to be spheres of radius R and making a circular contact of radius r with the bottom of the vessel. If $$r \\ll R$$, and the surface tension of water is T, value of r just before bubbles detach is: (density of water is $$\\rho_w$$)<br/></p>\n<img class=\"img-responsive\" data-image=\"2p0fqb7xtrop\" src=\"https://cracku.in/media/jee/jee-main-2014-apr-06-offline/q9_replace.jpeg\"/></div>",
     "options": {
@@ -396,13 +396,13 @@
     "year": 2014
   },
   {
-    "id": "SYDzQFOHq2tXWOE9",
+    "id": "0kGF8zMsSI",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "pressure-density-pascals-law-and-archimedes-principle",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>An open glass tube is immersed in mercury in such a way that a length of 8 cm extends above the mercury level. The open end of the tube is then closed and sealed and the tube is raised vertically up by additional 46 cm. What will be length of the air column above mercury in the tube now? (Atmospheric pressure = 76 cm of Hg)</p></div>",
     "options": {
@@ -440,13 +440,13 @@
     "year": 2014
   },
   {
-    "id": "kCA7h1B83EeX5iDX",
+    "id": "0kGF8zN0G9",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "stress-strain-curve-thermal-stress-and-elastic-pe",
-    "chapter": "properties-of-matter",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "mechanical-properties-of-solids-and-fluids",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The pressure that has to be applied to the ends of a steel wire of length 10 cm to keep its length constant when its temperature is raised by 100 °C is: (For steel, Young's modulus is $$2 \\times 10^{11}$$ N m$$^{-2}$$ and coefficient of thermal expansion is $$1.1 \\times 10^{-5}$$ K$$^{-1}$$)</p></div>",
     "options": {
@@ -484,13 +484,13 @@
     "year": 2014
   },
   {
-    "id": "CZBbHg7fWexeDiVe",
+    "id": "0kGF91Oq1p",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "heat-transfer",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Three rods of Copper, Brass and Steel are welded together to form a Y-shaped structure. Area of cross-section of each rod is 4 cm$$^2$$. End of copper rod is maintained at 100 °C. Where as ends of brass and steel are kept at 0 °C. Lengths of the copper, brass and steel rods are 46, 13 and 12 cms respectively. The rods are thermally insulated from surroundings except at ends. Thermal conductivities of copper, brass and steel are 0.92, 0.26 and 0.12 CGS units respectively. Rate of heat flow through copper rod is:</p></div>",
     "options": {
@@ -528,13 +528,13 @@
     "year": 2014
   },
   {
-    "id": "qZb3efdEollnE0p1",
+    "id": "0kGF91OnQX",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "thermodynamics-process",
-    "chapter": "heat-and-thermodynamics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "thermal-properties-of-matter-and-thermodynamics",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>One mole of diatomic ideal gas undergoes a cyclic process ABC as shown in figure. The process BC is adiabatic. The temperatures at A, B and C are 400 K, 800 K and 600 K respectively. Choose the correct statement:<br/></p>\n<img class=\"img-responsive\" data-image=\"9d6r7283bhb6\" src=\"https://cracku.in/media/jee/jee-main-2014-apr-06-offline/q13_replace.jpeg\"/></div>",
     "options": {
@@ -572,13 +572,13 @@
     "year": 2014
   },
   {
-    "id": "cFCwAnr5uP5w4PPM",
+    "id": "0kGF92kkwT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "simple-harmonic-motion",
-    "chapter": "simple-harmonic-motion",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "oscillations-simple-harmonic-motion",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A particle moves with simple harmonic motion in a straight line. In first $$\\tau$$ s, after starting from rest it travels a distance a, and in next $$\\tau$$ s it travels 2a, in same direction, then:</p></div>",
     "options": {
@@ -616,13 +616,13 @@
     "year": 2014
   },
   {
-    "id": "cnyozyez95rIrvz7",
+    "id": "0kGF8b0Obx",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "superposition-and-reflection-of-waves",
     "chapter": "waves",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A pipe of length 85 cm is closed from one end. Find the number of possible natural oscillations of air column in the pipe whose frequencies lie below 1250 Hz. The velocity of sound in air is 340 m/s.</p></div>",
     "options": {
@@ -660,13 +660,13 @@
     "year": 2014
   },
   {
-    "id": "mYHueforZ9AVvImQ",
+    "id": "0kGF924ksr",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-potential-energy-and-electric-potential",
-    "chapter": "electrostatics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "electric-charges-and-fields",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Assume that an electric field $$\\vec{E} = 30x^2\\hat{i}$$ exists in space. Then the potential difference $$V_A - V_O$$, where $$V_O$$ is the potential at the origin and $$V_A$$ the potential at x = 2 m is:</p></div>",
     "options": {
@@ -704,13 +704,13 @@
     "year": 2014
   },
   {
-    "id": "wtYxiZj40C8pK7cQ",
+    "id": "0kGF946dFp",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "capacitors-with-dielectric",
-    "chapter": "capacitor",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "electrostatic-potential-and-capacitance",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A parallel plate capacitor is made of two circular plates separated by a distance of 5 mm and with a dielectric of dielectric constant 2.2 between them. When the electric field in the dielectric is $$3 \\times 10^4$$ V/m, the charge density of the positive plate will be close to:</p></div>",
     "options": {
@@ -748,13 +748,13 @@
     "year": 2014
   },
   {
-    "id": "LklwnUiSpSO9Zkmh",
+    "id": "0kGF80SbwX",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "electric-power-and-heating-effect-of-current",
     "chapter": "current-electricity",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>In a large building, there are 15 bulbs of 40 W, 5 bulbs of 100 W, 5 fans of 80 W and 1 heater of 1 kW. The voltage of the electric mains is 220 V. The minimum capacity of the main fuse of the building will be:</p></div>",
     "options": {
@@ -792,13 +792,13 @@
     "year": 2014
   },
   {
-    "id": "4A7SjeO13G5jJ1jE",
+    "id": "0kGF94mai9",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "magnetic-properties-of-matter",
-    "chapter": "magnetic-properties-of-matter",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "magnetism-and-matter",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The coercivity of a small magnet, where the ferromagnet gets demagnetised is $$3 \\times 10^3$$ A/m. The current required to be passed in a solenoid of length 10 cm and number of turns 100, so that the magnet gets demagnetised when inside the solenoid is:</p></div>",
     "options": {
@@ -836,13 +836,13 @@
     "year": 2014
   },
   {
-    "id": "4ZYUjrq0ioOu6LyS",
+    "id": "0kGF9L1Z4b",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "force-and-torque-on-current-carrying-conductor",
-    "chapter": "magnetics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "moving-charges-and-magnetism",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A conductor lies along the z-axis at $$-1.5 \\leq z &lt; 1.5$$ m and carries a fixed current of 10.0 A in $$-\\hat{a}_z$$ direction (see figure). For a field $$\\vec{B} = 3.0 \\times 10^{-4} e^{-0.2x} \\hat{a}_y$$ T, find the power required to move the conductor at constant speed to x = 2.0 m, y = 0 m in $$5 \\times 10^{-3}$$ s. Assume parallel motion along the x-axis.<br/></p>\n<img class=\"img-responsive\" data-image=\"xdkudhzujnvu\" src=\"https://cracku.in/media/jee/jee-main-2014-apr-06-offline/q20_replace.jpeg\"/></div>",
     "options": {
@@ -880,13 +880,13 @@
     "year": 2014
   },
   {
-    "id": "z6vlUAAY4ivffbsW",
+    "id": "0kGF93QdCD",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "growth-and-decay-of-current",
-    "chapter": "alternating-current",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "alternating-currents",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>In the circuit shown here, the point 'C' is kept connected to point 'A' till the current flowing through the circuit becomes constant. Afterward, suddenly, point 'C' is disconnected from point 'A' and connected to point 'B' at time $$t = 0$$. Ratio of the voltage across resistance and the inductor at $$t = \\frac{L}{R}$$ will be equal to:<br/></p>\n<img class=\"img-responsive\" data-image=\"idak8j5zwbct\" src=\"https://cracku.in/media/jee/jee-main-2014-apr-06-offline/q21_replace.jpeg\"/></div>",
     "options": {
@@ -924,13 +924,13 @@
     "year": 2014
   },
   {
-    "id": "282LzDMYWQcD2x5P",
+    "id": "0kGF89vzjl",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "displacement-current-and-properties-of-em-waves",
     "chapter": "electromagnetic-waves",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>During the propagation of electromagnetic wave in a particular medium:</p></div>",
     "options": {
@@ -968,13 +968,13 @@
     "year": 2014
   },
   {
-    "id": "a7xKiRv48F5oj9oH",
+    "id": "0kGF89w2L3",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "em-spectrum",
     "chapter": "electromagnetic-waves",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Match <strong>List - I</strong> (Electromagnetic wave type) with <strong>List - II</strong> (Its association/application) and select the correct option from the choices given below the lists:<br/><br/><strong>List - I:                                  <strong>List - II:</strong></strong><br/>(a) Infrared waves                 (i) To treat muscular strain<br/>(b) Radio waves                    (ii) For broadcasting<br/>(c) X-rays                               (iii) To detect fracture of bones<br/>(d) Ultraviolet rays                (iv) Absorbed by the ozone layer of the atmosphere</p></div>",
     "options": {
@@ -1012,13 +1012,13 @@
     "year": 2014
   },
   {
-    "id": "xNIG8WpORNYinWn2",
+    "id": "0kGF95SYAT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "lenses",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A thin convex lens made from crown glass ($$\\mu = \\frac{3}{2}$$) has focal length $$f$$. When it is measured in two different liquids having refractive indices $$\\frac{4}{3}$$ and $$\\frac{5}{3}$$, it has the focal lengths $$f_1$$ and $$f_2$$ respectively. The correct relation between the focal lengths is:</p></div>",
     "options": {
@@ -1056,13 +1056,13 @@
     "year": 2014
   },
   {
-    "id": "srWimqDukx0JqubM",
+    "id": "0kGF95SVZB",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "refraction-tir-and-prism",
-    "chapter": "geometrical-optics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "ray-optics-and-optical-instruments",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A green light is incident from the water to the air-water interface at the critical angle ($$\\theta_c$$). Select the <b>correct</b> statement.</p></div>",
     "options": {
@@ -1100,13 +1100,13 @@
     "year": 2014
   },
   {
-    "id": "cF3Og2dZYyNaQHOp",
+    "id": "0kGF84WPHl",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "polarisation",
     "chapter": "wave-optics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Two beams, A and B of plane polarized light with mutually perpendicular planes of polarization are seen through a polaroid. From the position when the beam A has maximum intensity (and beam B has zero intensity), a rotation of polaroid through 30° makes the two beams appear equally bright. If the initial intensities of the two beams are $$I_A$$ and $$I_B$$ respectively, then $$\\frac{I_A}{I_B}$$ equals:</p></div>",
     "options": {
@@ -1144,13 +1144,13 @@
     "year": 2014
   },
   {
-    "id": "GRStPOuEY8L8EZaW",
+    "id": "0kGF87E9uT",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "bohrs-model-and-hydrogen-spectrum",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The radiation corresponding to $$3 \\to 2$$ transition of hydrogen atom falls on a metal surface to produce photoelectrons. These electrons are made to enter a magnetic field of $$3 \\times 10^{-4}$$ T. If the radius of the largest circular path followed by these electrons is 10.0 mm, the work function of the metal is close to:</p></div>",
     "options": {
@@ -1188,13 +1188,13 @@
     "year": 2014
   },
   {
-    "id": "X6C549hC3b9UUpwC",
+    "id": "0kGF87E9uU",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "bohrs-model-and-hydrogen-spectrum",
     "chapter": "atoms-and-nuclei",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Hydrogen ($$_1H^1$$), Deuterium ($$_1H^2$$), singly ionised Helium ($$_2He^4$$)$$^+$$ and doubly ionised lithium ($$_3Li^6$$)$$^{++}$$ all have one electron around the nucleus. Consider an electron transition from $$n = 2$$ to $$n = 1$$. If the wave lengths of emitted radiation are $$\\lambda_1$$, $$\\lambda_2$$, $$\\lambda_3$$ and $$\\lambda_4$$ respectively then approximately which one of the following is correct?</p></div>",
     "options": {
@@ -1232,13 +1232,13 @@
     "year": 2014
   },
   {
-    "id": "4sDwOYiT5mJCGct0",
+    "id": "0kGF96oT58",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "semiconductor-and-p-n-junction-diode",
-    "chapter": "electronic-devices",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "semiconductor-electronics",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The forward biased diode connection is:<br/></p></div>",
     "options": {
@@ -1276,13 +1276,13 @@
     "year": 2014
   },
   {
-    "id": "1RspF8Uv4G4qH6Kv",
+    "id": "0kGF85CPLN",
     "exam": "jee-main",
     "subject": "physics",
     "topic": "screw-gauge",
     "chapter": "units-and-measurements",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A student measured the length of a rod and wrote it as 3.50 cm. Which instrument did he use to measure it?</p></div>",
     "options": {
@@ -1320,13 +1320,13 @@
     "year": 2014
   },
   {
-    "id": "iFOCpvHDjmR9VR1X",
+    "id": "0lB2FB7vDl",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "laws-of-chemical-combination",
     "chapter": "some-basic-concepts-of-chemistry",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The ratio of masses of oxygen and nitrogen in a particular gaseous mixture is 1 : 4. The ratio of number of their molecules is:</p></div>",
     "options": {
@@ -1364,13 +1364,13 @@
     "year": 2014
   },
   {
-    "id": "2Dl5N3E8p9oof6za",
+    "id": "0lB2F962qn",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "quantum-numbers-and-orbitals",
     "chapter": "structure-of-atom",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The correct set of four quantum numbers for the valence electrons of rubidium atom ($$Z = 37$$) is:</p></div>",
     "options": {
@@ -1408,13 +1408,13 @@
     "year": 2014
   },
   {
-    "id": "kwY9Syty88M5QITK",
+    "id": "0lB2FZUJrV",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-15-elements-nitrogen-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Which one of the following properties is <b>not</b> shown by NO?</p></div>",
     "options": {
@@ -1452,13 +1452,13 @@
     "year": 2014
   },
   {
-    "id": "492699",
+    "id": "0lB2G5yLmz",
     "exam": "jee-main",
     "subject": "chemistry",
-    "topic": "",
-    "chapter": "",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "topic": "unknown",
+    "chapter": "chemical-bonding-and-molecular-structures",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>For which of the following molecule significant $$\\mu \\neq 0$$?<br/></p>\n<img class=\"img-responsive\" data-image=\"3aq96yne5wzn\" src=\"https://cracku.in/media/jee/jee-main-2014-apr-06-offline/q34_replace.jpeg\">\n<img class=\"img-responsive\" data-image=\"ezvax7r07jnn\" src=\"https://cracku.in/media/jee/jee-main-2014-apr-06-offline/q34_2_replace.jpeg\"/></img></div>",
     "options": {
@@ -1492,17 +1492,17 @@
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
     "updatedAt": "2026-09-13T17:54:43.000Z",
-    "isQuestionCorrect": false,
+    "isQuestionCorrect": true,
     "year": 2014
   },
   {
-    "id": "ak8xAvo1s8Cjz97o",
+    "id": "0lB2Fn1aCX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "real-gas-and-van-der-walls-equation",
     "chapter": "gaseous-state",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If Z is the compressibility factor, then Van der Waal's equation at low pressure can be written as:</p></div>",
     "options": {
@@ -1540,13 +1540,13 @@
     "year": 2014
   },
   {
-    "id": "C5MHaVAVVbr2QtiD",
+    "id": "0lB2G6eJFJ",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "reactions-related-to-enthalpies-and-hesss-law",
-    "chapter": "thermodynamics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "chemical-thermodynamics",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>For complete combustion of ethanol, $$C_2H_5OH(l) + 3O_2(g) \\to 2CO_2(g) + 3H_2O(l)$$, the amount of heat produced as measured in bomb calorimeter, is 1364.47 kJ mol$$^{-1}$$ at 25°C. Assuming ideality the Enthalpy of combustion, $$\\Delta_cH$$, for the reaction will be: ($$R = 8.314$$ kJ mol$$^{-1}$$)</p></div>",
     "options": {
@@ -1584,13 +1584,13 @@
     "year": 2014
   },
   {
-    "id": "I2FfcEHEOHxjLXgs",
+    "id": "0lB2GIpWrp",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "chemical-equilibrium-law-of-mass-action-and-equilibrium-constant",
-    "chapter": "chemical-equilibrium",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "equilibrium-chemical",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>For the reaction $$SO_2(g) + \\frac{1}{2}O_2(g) \\rightleftharpoons SO_3(g)$$, if $$K_P = K_C(RT)^x$$ where the symbols have usual meaning, then the value of x is: (assuming ideality)</p></div>",
     "options": {
@@ -1628,13 +1628,13 @@
     "year": 2014
   },
   {
-    "id": "6gt8nqdfhZsoiXTH",
+    "id": "0lB2FixpSb",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "oxidation-and-reduction-reactions",
     "chapter": "redox-reactions",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>In which of the following reactions $$H_2O_2$$ acts as a reducing agent?<br/>(a) $$H_2O_2 + 2H^+ + 2e^- \\to 2H_2O$$<br/>(b) $$H_2O_2 - 2e^- \\to O_2 + 2H^+$$<br/>(c) $$H_2O_2 + 2e^- \\to 2OH^-$$<br/>(d) $$H_2O_2 + 2OH^- - 2e^- \\to O_2 + 2H_2O$$</p></div>",
     "options": {
@@ -1672,13 +1672,13 @@
     "year": 2014
   },
   {
-    "id": "o8BmFj9gQsddtygX",
+    "id": "0lB2G7KGhd",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "purification-of-organic-compounds",
-    "chapter": "basics-of-organic-chemistry",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "organic-chemistry-some-basic-principles-and-techniques",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>For the estimation of nitrogen, 1.4 g of an organic compound was digested by the Kjeldahl method and the evolved ammonia was absorbed in 60 ml of $$\\frac{M}{10}$$ sulphuric acid. The unreacted acid required 20 ml of $$\\frac{M}{10}$$ sodium hydroxide for complete neutralization. The percentage of nitrogen in the compound is:</p></div>",
     "options": {
@@ -1716,13 +1716,13 @@
     "year": 2014
   },
   {
-    "id": "OW5Yew1POHLRleED",
+    "id": "0lB2G80E9x",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aliphatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Considering the basic strength of amines in an aqueous solution, which one has the smallest pK$$_b$$ value?</p></div>",
     "options": {
@@ -1760,13 +1760,13 @@
     "year": 2014
   },
   {
-    "id": "QKjkxVH5bPaZitm7",
+    "id": "0lB2FDpfqT",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "some-important-polyhalogens-compounds",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The major organic compound formed by the reaction of 1, 1, 1 - trichloroethane with silver powder is:</p></div>",
     "options": {
@@ -1804,13 +1804,13 @@
     "year": 2014
   },
   {
-    "id": "dvTgtXlUwp2Xb8Am",
+    "id": "0lB2FrlL05",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "structure-of-ionic-compounds",
     "chapter": "solid-state",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>CsCl crystallises in body centred cubic lattice. If 'a' is its edge length then which of the following expressions is correct?</p></div>",
     "options": {
@@ -1848,13 +1848,13 @@
     "year": 2014
   },
   {
-    "id": "kaDUZp1Vne9f6oX2",
+    "id": "0lB2FJFTIv",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "abnormal-colligative-property-and-vant-hoff-factor",
     "chapter": "solutions",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Consider separate solutions of 0.500 M $$C_2H_5OH$$ (aq), 0.100 M $$Mg_3(PO_4)_2$$ (aq), 0.250 M KBr (aq) and 0.125 M $$Na_3PO_4$$ (aq) at 25 °C. Which statement is true about these solutions, assuming all salts to be strong electrolytes?</p></div>",
     "options": {
@@ -1892,13 +1892,13 @@
     "year": 2014
   },
   {
-    "id": "GENLBQdzkzTSXUCQ",
+    "id": "0lB2FHtNz7",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "conductance-and-electrolysis",
     "chapter": "electrochemistry",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Resistance of 0.2 M solution of an electrolyte is 50 $$\\Omega$$. The specific conductance of the solution is 1.4 S m$$^{-1}$$. The resistance of 0.5 M solution of the same electrolyte is 280 $$\\Omega$$. The molar conductivity of 0.5 M solution of the electrolyte in S m$$^2$$ mol$$^{-1}$$ is:</p></div>",
     "options": {
@@ -1936,13 +1936,13 @@
     "year": 2014
   },
   {
-    "id": "9B83K2rNrhZIcWdy",
+    "id": "0lB2FHtNz8",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "conductance-and-electrolysis",
     "chapter": "electrochemistry",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The equivalent conductance of NaCl at concentration C and at infinite dilution are $$\\lambda_C$$ and $$\\lambda_{\\infty}$$, respectively. The correct relationship between $$\\lambda_C$$ and $$\\lambda_{\\infty}$$ is given as: (where the constant B is positive)</p></div>",
     "options": {
@@ -1980,13 +1980,13 @@
     "year": 2014
   },
   {
-    "id": "K4eHcbFTKpsFqwfS",
+    "id": "0lB2FsRAeX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "physiochemical-trends-in-alkaline-earth-metals",
     "chapter": "s-block-elements",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The metal that cannot be obtained by the electrolysis of an aqueous solution of its salt is:</p></div>",
     "options": {
@@ -2024,13 +2024,13 @@
     "year": 2014
   },
   {
-    "id": "1xD2pQDXx8XvRJBw",
+    "id": "0lB2FHtLNp",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "electrochemical-series-cell-and-their-emf",
     "chapter": "electrochemistry",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Given below are the half-cell reactions:<br/>$$Mn^{2+} + 2e^- \\to Mn$$; $$E^\\circ = -1.18$$ V<br/>$$2(Mn^{3+} + e^- \\to Mn^{2+})$$; $$E^\\circ = +1.51$$ V<br/>The $$E^\\circ$$ for $$3Mn^{2+} \\to Mn + 2Mn^{3+}$$ will be:</p></div>",
     "options": {
@@ -2068,13 +2068,13 @@
     "year": 2014
   },
   {
-    "id": "NXeuAeEwemgjHCld",
+    "id": "0lB2G8gBcH",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "rate-laws-and-rate-constant",
-    "chapter": "chemical-kinetics-and-nuclear-chemistry",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "chemical-kinetics",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>For the non-stoichiometry reaction, $$2A + B \\to C + D$$, the following kinetic data were obtained in three separate experiments, all at 298 K.<br/>Initial Concentration   Initial Concentration  Initial rate of formation of C <br/>(A)                                   (B)                                (mol L$$^{-1}$$ S$$^{-1}$$)<br/>0.1 M                               0.1 M                          $$1.2 \\times 10^{-3}$$<br/>0.1 M                               0.2 M                          $$1.2 \\times 10^{-3}$$<br/>0.2 M                               0.1 M                          $$2.4 \\times 10^{-3}$$<br/><br/>The rate law for the formation of C is:</p></div>",
     "options": {
@@ -2112,13 +2112,13 @@
     "year": 2014
   },
   {
-    "id": "GtFJfnzqReh9jFJu",
+    "id": "0lB2FHDQWn",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-of-transition-elements",
     "chapter": "d-and-f-block-elements",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Which series of reactions correctly represents the chemical relations related to iron and its compound?</p></div>",
     "options": {
@@ -2156,13 +2156,13 @@
     "year": 2014
   },
   {
-    "id": "8SYX9IDUaXaLmFxk",
+    "id": "0lB2FZUMSn",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-17-elements-halogen-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Among the following oxoacids, the correct decreasing order of acid strength is:</p></div>",
     "options": {
@@ -2200,13 +2200,13 @@
     "year": 2014
   },
   {
-    "id": "Fl6mTAWICJ141OJv",
+    "id": "0lB2FFrg1J",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "coordination-number",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The equation which is balanced and represents the correct product(s) is:</p></div>",
     "options": {
@@ -2244,13 +2244,13 @@
     "year": 2014
   },
   {
-    "id": "GsCnYEACxA3oPy51",
+    "id": "0lB2FFrT0r",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "crystal-field-theory-cft",
     "chapter": "coordination-compounds",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The octahedral complex of a metal ion $$M^{3+}$$ with four monodentate ligands $$L_1$$, $$L_2$$, $$L_3$$ and $$L_4$$ absorb wavelengths in the region of red, green, yellow and blue, respectively. The increasing order of ligand strength of the four ligands is:</p></div>",
     "options": {
@@ -2288,13 +2288,13 @@
     "year": 2014
   },
   {
-    "id": "KY82dAZgEvXWviOs",
+    "id": "0lB2FZUMSo",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "group-17-elements-halogen-family",
     "chapter": "p-block-elements",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The correct statement for the molecule CsI$$_3$$, is:</p></div>",
     "options": {
@@ -2332,13 +2332,13 @@
     "year": 2014
   },
   {
-    "id": "LVPpCWM1PCNSfEFm",
+    "id": "0lB2FDpdFB",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "haloalkanes",
     "chapter": "haloalkanes-and-haloarenes",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>In S$$_N$$2 reactions, the correct order of reactivity for the following compounds: CH$$_3$$Cl, CH$$_3$$CH$$_2$$Cl, (CH$$_3$$)$$_2$$CHCl and (CH$$_3$$)$$_3$$CCl is:</p></div>",
     "options": {
@@ -2376,13 +2376,13 @@
     "year": 2014
   },
   {
-    "id": "jIFtaNeZrGrvSnIr",
+    "id": "0lB2FfZuN7",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "properties-preparation-and-uses-of-alcohols",
     "chapter": "alcohols-phenols-and-ethers",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The most suitable reagent for the conversion of $$R - CH_2 - OH \\to R - CHO$$ is:</p></div>",
     "options": {
@@ -2420,13 +2420,13 @@
     "year": 2014
   },
   {
-    "id": "PhzccezPKqRZCJfO",
+    "id": "0lB2FCTiKX",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "preparation-properties-and-uses-of-carboxylic-acids",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>What is the product \"C\" after following reactions:<br/></p>\n<img class=\"img-responsive\" data-image=\"eqjcy080k00b\" src=\"https://cracku.in/media/jee/jee-main-2014-apr-06-offline/q56_replace.jpeg\"/></div>",
     "options": {
@@ -2464,13 +2464,13 @@
     "year": 2014
   },
   {
-    "id": "KSljIbOdOsUXiiao",
+    "id": "0lB2FCTfjF",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "method-of-preparation-for-aldehydes",
     "chapter": "aldehydes-ketones-and-carboxylic-acids",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>In the reaction, $$CH_3COOH \\xrightarrow{LiAlH_4} A \\xrightarrow{PCl_5} B \\xrightarrow{\\text{Alc. KOH}} C$$, the product C is:<br/></p></div>",
     "options": {
@@ -2508,13 +2508,13 @@
     "year": 2014
   },
   {
-    "id": "wHLdpNBwztknpOVP",
+    "id": "0lB2G80E9y",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "aliphatic-amines",
-    "chapter": "compounds-containing-nitrogen",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "organic-compounds-containing-nitrogen",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>On heating an aliphatic primary amine with chloroform and ethanolic potassium hydroxide, the organic compound formed is:</p></div>",
     "options": {
@@ -2552,13 +2552,13 @@
     "year": 2014
   },
   {
-    "id": "TkSb5tPYSS5MarRm",
+    "id": "0lB2FpjIDx",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "classification-preparations-and-properties-of-polymers",
     "chapter": "polymers",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Which among the following is classified as a condensation polymer?</p></div>",
     "options": {
@@ -2596,13 +2596,13 @@
     "year": 2014
   },
   {
-    "id": "bCoAkDQsvbeCdFkG",
+    "id": "0lB2FFBal7",
     "exam": "jee-main",
     "subject": "chemistry",
     "topic": "vitamins-and-nucleic-acids",
     "chapter": "biomolecules",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Which one of the following bases is <b>not</b> present in DNA?</p></div>",
     "options": {
@@ -2640,13 +2640,13 @@
     "year": 2014
   },
   {
-    "id": "krncAZPJvsT4aI3N",
+    "id": "0kidhfn8u9",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "greatest-integer-and-fractional-part-functions",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$a \\in R$$ and the equation $$-3(x - [x])^2 + 2(x - [x]) + a^2 = 0$$ (where $$[x]$$ denotes the greatest integer $$\\leq x$$) has no integral solution, then all possible values of $$a$$ lie in the interval:</p></div>",
     "options": {
@@ -2684,13 +2684,13 @@
     "year": 2014
   },
   {
-    "id": "GyCCDYFP4RhqNHz9",
+    "id": "0kidhfnBVR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "relation-between-roots-and-coefficients",
-    "chapter": "quadratic-equation-and-inequalities",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "quadratic-equations-&-inequalities",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$\\alpha$$ and $$\\beta$$ be the roots of equation $$px^2 + qx + r = 0$$, $$p \\neq 0$$. If $$p$$, $$q$$, $$r$$ are in A.P. and $$\\frac{1}{\\alpha} + \\frac{1}{\\beta} = 4$$, then the value of $$|\\alpha - \\beta|$$ is:</p></div>",
     "options": {
@@ -2728,13 +2728,13 @@
     "year": 2014
   },
   {
-    "id": "4bdMzc13up82nWp5",
+    "id": "0kidgz9tWz",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "modulus-of-complex-numbers",
     "chapter": "complex-numbers",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$z$$ is a complex number such that $$|z| \\geq 2$$, then the minimum value of $$\\left|z + \\frac{1}{2}\\right|$$:</p></div>",
     "options": {
@@ -2772,13 +2772,13 @@
     "year": 2014
   },
   {
-    "id": "4PDGIePDoIDBwloQ",
+    "id": "0kidgqMDaL",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "summation-of-series",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$(10)^9 + 2(11)^1(10)^8 + 3(11)^2(10)^7 + \\ldots + 10(11)^9 = k(10)^9$$, then $$k$$ is equal to:</p></div>",
     "options": {
@@ -2816,13 +2816,13 @@
     "year": 2014
   },
   {
-    "id": "cbq6hH68znDtn5vz",
+    "id": "0kidgqMGBd",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "geometric-progression",
     "chapter": "sequences-and-series",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Three positive numbers form an increasing G.P. If the middle term in this G.P. is doubled, the new numbers are in A.P. Then the common ratio of the G.P. is:</p></div>",
     "options": {
@@ -2860,13 +2860,13 @@
     "year": 2014
   },
   {
-    "id": "YZsTRt5kvoMcWFZQ",
+    "id": "0kidh1rWLp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "problems-based-on-binomial-co-efficient-and-collection-of-binomial-co-efficient",
     "chapter": "binomial-theorem",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If the coefficients of $$x^3$$ and $$x^4$$ in the expansion of $$(1 + ax + bx^2)(1 - 2x)^{18}$$ in powers of $$x$$ are both zero, then $$(a, b)$$ is equal to:</p></div>",
     "options": {
@@ -2904,13 +2904,13 @@
     "year": 2014
   },
   {
-    "id": "T8c6mk5UF9taxkOB",
+    "id": "0kidhh91DV",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "fundamental-identities",
-    "chapter": "trigonometric-ratio-and-identites",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "trigonometric-ratios-identities-and-formulas",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$f_k(x) = \\frac{1}{k}(\\sin^k x + \\cos^k x)$$ where $$x \\in R$$ and $$k \\geq 1$$. Then $$f_4(x) - f_6(x)$$ equals:</p></div>",
     "options": {
@@ -2948,13 +2948,13 @@
     "year": 2014
   },
   {
-    "id": "RqP4GjPbQFXkv1uZ",
+    "id": "0kidhhp3sP",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "section-formula",
-    "chapter": "straight-lines-and-pair-of-straight-lines",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "straight-lines",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$PS$$ be the median of the triangle with vertices $$P(2, 2)$$, $$Q(6, -1)$$ and $$R(7, 3)$$. The equation of the line passing through $$(1, -1)$$ and parallel to $$PS$$ is:</p></div>",
     "options": {
@@ -2992,13 +2992,13 @@
     "year": 2014
   },
   {
-    "id": "jYK1HsUIIC1y5WHG",
+    "id": "0kidhhp6Th",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "various-forms-of-straight-line",
-    "chapter": "straight-lines-and-pair-of-straight-lines",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "straight-lines",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$a$$, $$b$$, $$c$$ and $$d$$ be non-zero numbers. If the point of intersection of the lines $$4ax + 2ay + c = 0$$ and $$5bx + 2by + d = 0$$ lies in the fourth quadrant and is equidistant from the two axes then:</p></div>",
     "options": {
@@ -3036,13 +3036,13 @@
     "year": 2014
   },
   {
-    "id": "Dym616D1FHZIYakE",
+    "id": "0kidgeB2Z7",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "number-of-common-tangents-and-position-of-two-circle",
     "chapter": "circle",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$C$$ be the circle with center at $$(1, 1)$$ and radius = 1. If $$T$$ is the circle centered at $$(0, y)$$, passing through the origin and touching the circle $$C$$ externally, then the radius of $$T$$ is equal to:</p></div>",
     "options": {
@@ -3080,13 +3080,13 @@
     "year": 2014
   },
   {
-    "id": "lhi1qU8ZF8dwtl0X",
+    "id": "0kidhjAwBl",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "locus",
-    "chapter": "ellipse",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "conic-sections-ellipse",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The locus of the foot of perpendicular drawn from the centre of the ellipse $$x^2 + 3y^2 = 6$$ on any tangent to it is:</p></div>",
     "options": {
@@ -3124,13 +3124,13 @@
     "year": 2014
   },
   {
-    "id": "wmvCA4BOiiEDsFrU",
+    "id": "0kidhjqr2n",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "limits-of-trigonometric-functions",
-    "chapter": "limits-continuity-and-differentiability",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "limit-continuity-and-differentiability",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>$$\\lim_{x \\to 0} \\frac{\\sin(\\pi \\cos^2 x)}{x^2}$$ is equal to:</p></div>",
     "options": {
@@ -3168,13 +3168,13 @@
     "year": 2014
   },
   {
-    "id": "eFr6UeIkqoSt0gX8",
+    "id": "0kidhQu0Fl",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "logical-connectives",
     "chapter": "mathematical-reasoning",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The statement $$\\sim(p \\leftrightarrow \\sim q)$$ is:</p></div>",
     "options": {
@@ -3212,13 +3212,13 @@
     "year": 2014
   },
   {
-    "id": "weiErB44wHyXOgoj",
+    "id": "0kidgv5yNt",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "calculation-of-standard-deviation-variance-and-mean-deviation-of-grouped-and-ungrouped-data",
     "chapter": "statistics",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The variance of the first 50 even natural numbers is:</p></div>",
     "options": {
@@ -3256,13 +3256,13 @@
     "year": 2014
   },
   {
-    "id": "c3vyLJcH7Y9uv1nY",
+    "id": "0kidhRZxi5",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "height-and-distance",
     "chapter": "height-and-distance",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>A bird is sitting on the top of a vertical pole 20 m high and its elevation from a point O on the ground is 45°. It flies off horizontally straight away from the point O. After one second, the elevation of the bird from O is reduced to 30°. Then the speed (in m/s) of the bird is:</p></div>",
     "options": {
@@ -3300,13 +3300,13 @@
     "year": 2014
   },
   {
-    "id": "492742",
+    "id": "0kidhpwU9h",
     "exam": "jee-main",
     "subject": "mathematics",
-    "topic": "",
-    "chapter": "",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "topic": "unknown",
+    "chapter": "sets-relations-and-functions",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$X = \\{4^n - 3n - 1 : n \\in N\\}$$ and $$Y = \\{9(n-1) : n \\in N\\}$$, where $$N$$ is the set of natural numbers, then $$X \\cup Y$$ is equal to:</p></div>",
     "options": {
@@ -3340,17 +3340,17 @@
     ],
     "createdAt": "2026-09-13T17:54:43.000Z",
     "updatedAt": "2026-09-13T17:54:43.000Z",
-    "isQuestionCorrect": false,
+    "isQuestionCorrect": true,
     "year": 2014
   },
   {
-    "id": "NZE3QvqIskeDsv0i",
+    "id": "0kidgx7vxR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "inverse-of-a-matrix",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$A$$ is a $$3 \\times 3$$ non-singular matrix such that $$AA' = A'A$$ and $$B = A^{-1}A'$$, then $$BB'$$ equals, where $$X'$$ denotes the transpose of the matrix $$X$$.</p></div>",
     "options": {
@@ -3388,13 +3388,13 @@
     "year": 2014
   },
   {
-    "id": "r4Fv71k1mBq9dYh2",
+    "id": "0kidgx83lJ",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "expansion-of-determinant",
     "chapter": "matrices-and-determinants",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\alpha$$, $$\\beta \\neq 0$$, $$f(n) = \\alpha^n + \\beta^n$$ and $$\\begin{vmatrix} 3 &amp; 1+f(1) &amp; 1+f(2) \\\\ 1+f(1) &amp; 1+f(2) &amp; 1+f(3) \\\\ 1+f(2) &amp; 1+f(3) &amp; 1+f(4) \\end{vmatrix} = K(1-\\alpha)^2(1-\\beta)^2(\\alpha - \\beta)^2$$, then K is equal to:</p></div>",
     "options": {
@@ -3432,13 +3432,13 @@
     "year": 2014
   },
   {
-    "id": "mgG2EkWdjrRPzc2r",
+    "id": "0kidgriLVR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "differentiation-of-composite-function",
     "chapter": "differentiation",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$g$$ is the inverse of a function $$f$$ and $$f'(x) = \\frac{1}{1+x^5}$$, then $$g'(x)$$ is equal to:</p></div>",
     "options": {
@@ -3476,13 +3476,13 @@
     "year": 2014
   },
   {
-    "id": "9i0za95SuBx6OsEG",
+    "id": "0kidgr2LRp",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "mean-value-theorem",
     "chapter": "application-of-derivatives",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$f$$ &amp; $$g$$ are differentiable functions in $$[0, 1]$$ satisfying $$f(0) = 2 = g(1)$$, $$g(0) = 0$$ &amp; $$f(1) = 6$$, then for some $$c \\in ]0, 1[$$:</p></div>",
     "options": {
@@ -3520,13 +3520,13 @@
     "year": 2014
   },
   {
-    "id": "uhpBt8tZl7jVNmvk",
+    "id": "0kidgr2Ddx",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "maxima-and-minima",
     "chapter": "application-of-derivatives",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$x = -1$$ and $$x = 2$$ are extreme points of $$f(x) = \\alpha \\log|x| + \\beta x^2 + x$$, then:</p></div>",
     "options": {
@@ -3564,13 +3564,13 @@
     "year": 2014
   },
   {
-    "id": "D3oDCkmIjGiT6by7",
+    "id": "0kidhiUyjR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "tangent-to-parabola",
-    "chapter": "parabola",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "conic-sections-parabola",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The slope of the line touching both the parabolas $$y^2 = 4x$$ and $$x^2 = -32y$$ is:</p></div>",
     "options": {
@@ -3608,13 +3608,13 @@
     "year": 2014
   },
   {
-    "id": "Uw47dOEvkjyfJj7r",
+    "id": "0kidhE2rmD",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "integration-by-parts",
     "chapter": "indefinite-integrals",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The integral $$\\int\\left(1 + x - \\frac{1}{x}\\right)e^{x+\\frac{1}{x}} dx$$ is equal to:</p></div>",
     "options": {
@@ -3652,13 +3652,13 @@
     "year": 2014
   },
   {
-    "id": "4BKFMfmAUvUVke3R",
+    "id": "0kidhkWoV7",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "properties-of-definite-integration",
-    "chapter": "definite-integration",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "definite-integrals",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The integral $$\\int_0^{\\pi} \\sqrt{1 + 4\\sin^2\\frac{x}{2} - 4\\sin\\frac{x}{2}} \\, dx$$ equals:</p></div>",
     "options": {
@@ -3696,13 +3696,13 @@
     "year": 2014
   },
   {
-    "id": "DI501ESEKnVjEWBw",
+    "id": "0kidhlClxR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "area-bounded-between-the-curves",
-    "chapter": "area-under-the-curves",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "application-of-integrals-area-under-curves",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The area (in sq. unit) of the region described by $$A = \\{(x, y) : x^2 + y^2 \\leq 1$$ and $$y^2 \\leq 1 - x\\}$$ is:</p></div>",
     "options": {
@@ -3740,13 +3740,13 @@
     "year": 2014
   },
   {
-    "id": "FCSYRKqNo2ber6iq",
+    "id": "0kidhlsjPl",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "solution-of-differential-equations-by-method-of-separation-variables-and-homogeneous",
-    "chapter": "differential-equations",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "differential-equation",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Let the population of rabbits surviving at a time $$t$$ be governed by the differential equation $$\\frac{dp(t)}{dt} = \\frac{1}{2}\\{p(t) - 400\\}$$. If $$p(0) = 100$$, then $$p(t)$$ equals:</p></div>",
     "options": {
@@ -3784,13 +3784,13 @@
     "year": 2014
   },
   {
-    "id": "fnnbNmLCR5jL4JWe",
+    "id": "0kidgxntPl",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "scalar-and-vector-triple-product",
     "chapter": "vector-algebra",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>If $$\\begin{bmatrix} \\vec{a} \\times \\vec{b} &amp; \\vec{b} \\times \\vec{c} &amp; \\vec{c} \\times \\vec{a} \\end{bmatrix} = \\lambda \\begin{bmatrix} \\vec{a} &amp; \\vec{b} &amp; \\vec{c} \\end{bmatrix}^2$$, then $$\\lambda$$ is equal to:</p></div>",
     "options": {
@@ -3828,13 +3828,13 @@
     "year": 2014
   },
   {
-    "id": "hFijuvylYi3GaK1R",
+    "id": "0kidhmYm4f",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "lines-and-plane",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The image of the line $$\\frac{x-1}{3} = \\frac{y-3}{1} = \\frac{z-4}{-5}$$ in the plane $$2x - y + z + 3 = 0$$ is the line:</p></div>",
     "options": {
@@ -3872,13 +3872,13 @@
     "year": 2014
   },
   {
-    "id": "xarDenvP2mwduBif",
+    "id": "0kidhmYofx",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "direction-cosines-and-direction-ratios-of-a-line",
-    "chapter": "3d-geometry",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "chapter": "three-dimensional-geometry",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>The angle between the lines whose direction cosines satisfy the equations $$l + m + n = 0$$ and $$l^2 = m^2 + n^2$$ is:</p></div>",
     "options": {
@@ -3916,13 +3916,13 @@
     "year": 2014
   },
   {
-    "id": "gTCUP1krIS6fyFBA",
+    "id": "0kidh9zHRR",
     "exam": "jee-main",
     "subject": "mathematics",
     "topic": "conditional-probability-and-multiplication-theorem",
     "chapter": "probability",
-    "paperId": "jee-main-2014-offline",
-    "paperTitle": "JEE Main 2014 (Offline)",
+    "paperId": "jee-main-2014",
+    "paperTitle": "JEE Main 2014",
     "questionType": "single-select",
     "question_text": "<div><p>Let $$A$$ and $$B$$ be two events such that $$P\\left(\\overline{A \\cup B}\\right) = \\frac{1}{6}$$, $$P(A \\cap B) = \\frac{1}{4}$$ and $$P(\\bar{A}) = \\frac{1}{4}$$, where $$\\bar{A}$$ stands for the complement of the event $$A$$. Then the events $$A$$ and $$B$$ are:</p></div>",
     "options": {
